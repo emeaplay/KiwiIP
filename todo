@@ -1,0 +1,424 @@
+#EXTM3U
+ 
+******* PERU
+ 
+#EXTINF:-1, SAN BORJA TV [PER]
+https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
+#EXTINF:0, PANAMERICANA TV [PER]
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:0, BH TV [PER]
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0, EXITOSA NOTICIAS [PER]
+https://cu.onliv3.com/livevd1/user2_low/index.m3u8
+#EXTINF:-1, TV PERU [PER]
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1, BEST TV [PER]
+https://live.siete.us:1991/bestcable/bestcable/chunklist_w1835583530.m3u8
+#EXTINF:-1, NACIONAL TV [PER]
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1, UCI NOTICIAS [PER]
+http://cdn.win.pe:8080/UCI/tracks-v1a1/mono.m3u8
+#EXTINF:-1, iPe - IDENTIDAD PERUANA [PER] 
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1, TV PERU NOTICIAS [PER]
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1, VISION NOTICIAS [PER]
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
+#EXTINF:-1, ODTV [PER]
+https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
+#EXTINF:-1, CULTURA 24 [PER]
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:-1, CENTRAL Chosica [PER]
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1, MONTERRICO TV / JOCKEY CLUB [PER]
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1, ONDA DIGITAL [PER]
+http://184.154.28.210:1935/ondadigital/ondadigital/chunklist_w527797834.m3u8
+#EXTINF:-1, OVACION DEPORTES TV [PER]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+ 
+#EXTINF:-1, PERUanisima TV [PER]
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, KARIBEÑA TV [PER]
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1, VISION MUSICA [PER]
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, BESTCABLE MUSIC [PER]
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, TOP LATINO [PER]
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w2031444136.m3u8
+ 
+ 
+#EXTINF:-1, UNITEL TV Huancayo [PER]
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, VIA TV Tarapoto [PER]
+https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1686830471.m3u8
+#EXTINF:-1, MEGA TV AREQUIPA [PER]
+https://cp.sradiotv.com:1936/Stream/Stream/chunklist_w2142131136.m3u8
+#EXTINF:-1, PAX TV [PER]
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
+#EXTINF:-1, TURBO MIX TV [PER]
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+#EXTINF:-1, CUMBIA TV [PER]
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/chunklist_w204522515.m3u8
+#EXTINF:-1, HATUN TV [PER]
+https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, TV COSMOS [PER]
+https://59d39900ebfb8.streamlock.net/stream15/stream15/chunklist_w1332812651.m3u8
+ 
+------ PELICULAS
+ 
+#EXTINF:-1, ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1920977042.m3u8?WebM3UCL
+#EXTINF:-1, TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1562564002.m3u8
+#EXTINF:-1, WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w176717118_b1500000_slen.m3u8
+#EXTINF:-1, FMTV Movies 2
+https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w925401691.m3u8
+#EXTINF:-1, CINE CLUB
+https://stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, FLIX TUBE
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1099998918.m3u8
+#EXTINF:-1, SOL TV Movies
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w203037004_b1013840_DVR.m3u8
+#EXTINF:-1, TV RETRO
+http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
+#EXTINF:-1, MITV RETRO
+http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+ 
+******* MEXICO
+#EXTINF:-1, Foro TV [MEX]
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_648_av-b.m3u8
+#EXTINF:-1, NRT [MEX]
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1, MULTIMEDIOS [MEX]
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1, MILENIO TV [MEX]
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1, TELEPLAY [MEX]
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/chunks.m3u8
+#EXTINF:-1, TELEFORMULA [MEX]
+ttp://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
+#EXTINF:-1, CANAL 15 [MEX]
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w259630552.m3u8
+#EXTINF:-1, NTV 8 [MEX]
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w1400538586.m3u8
+#EXTINF:-1, ADN 40 [MEX]
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+#EXTINF:-1, Canal ONCE Internacional [MEX]
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w425125536_b200000_slesp.m3u8
+ 
+********* CENTROAMERICA / EEUU
+ 
+#EXTINF:-1, TEN tv [HON]
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:0, TV MARTI [CUB]
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:0, TELERED [CRI]
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
+#EXTINF:0, REC TV Movies [HON]
+https://master.tucableip.com/reconline/live/video.m3u8?WebM3UCL
+#EXTINF:0, Tele UNO [HON]
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w850289925.m3u8
+#EXTINF:0, REPRETEL [CRI]
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
+#EXTINF:0, LIMON TV [CRI]
+https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1977422397.m3u8
+#EXTINF:0, MEGA TV [PRI]
+https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/chunklist_w1547603775_b8667136.m3u8
+#EXTINF:0, TELEMUNDO 1 [PRI]
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8
+#EXTINF:0, TELEMUNDO 2 [PRI]
+https://wkaqlive-lh.akamaihd.net/i/WKAQ_LIVE1@311877/index_3000_av-p.m3u8
+ 
+ 
+******** COLOMBIA
+ 
+#EXTINF:-1,TELE ISLAS [COL]
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1045131864.m3u8
+#EXTINF:-1,TELECARIBE [COL]
+https://5f2eaf2aa4061.streamlock.net/live/smil:Televitrola.smil/chunklist_w383535535_b1048000_slES.m3u8
+ 
+********** CHILE
+ 
+#EXTINF:-1, CAMPUS TV [CHI]
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1, TV SALUD [CHI]
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
+#EXTINF:-1, VALLE TV  [CHI]
+http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
+#EXTINF:-1, PURA TV  [CHI]
+https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8?PlaylistM3UCL 
+#EXTINF:-1, INFINITA
+https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/chunklist_w853448020.m3u8
+ 
+----------------------  Ecuador
+ 
+#EXTINF:-1, AC Vision
+https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/chunklist_w1552568905.m3u8
+ 
+********* ESPAÑA
+#EXTINF:-1, RT EN ESPAÑOL
+https://rt-esp-gd.secure2.footprint.net/1102_800Kb.m3u8
+#EXTINF:-1, DW LATINO
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1, CANAL SUR Andalucia [ESP]
+https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8
+#EXTINF:-1, CMM - Castilla  [ESP]
+http://klive.kaltura.com/s/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/jOJi3mTXc69QscOUx1aqew/index-s32.m3u8
+#EXTINF:-1, EL TORO - INTERECONOMIA [ESP]
+https://live-edge-lon-2.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
+#EXTINF:0, TVE 24H [ESP]
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+https://cdn039.fractalmedia.es/hls/caz_es_med.m3u8
+#EXTINF:-1, DISCOVERY MAX [ESP]
+http://91.126.141.12:1935/live/discoverymax/chunklist_w53590177.m3u8
+#EXTINF:-1, DKISS [ESP]
+http://91.126.141.201:1935/live/kiss/chunklist_w1732452966.m3u8
+#EXTINF:-1,FRANCE TV [ESP]
+http://f24hls-i.akamaihd.net/hls/live/520844-b/F24_ES_LO_HLS/master_900.m3u8
+#EXTINF:0, TVE LA 1 [ESP]
+http://hlsliveamdgl7-lh.akamaihd.net:80/i/hlsdvrlive_1@583042/index_1500_av-p.m3u8 
+#EXTINF:-1, COSMOPOLITAN [ESP]
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8 
+#EXTINF:-1, DIVINITY [ESP]
+http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8 
+#EXTINF:-1, FACTORIA DE FICCION [ESP]
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+#EXTINF:-1, TEN 10 [ESP]
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8 
+#EXTINF:-1, GALICIA TV [ESP]
+http://america-crtvg.flumotion.com/playlist.m3u8 
+#EXTINF:-1, EUSKA TV [ESP]
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8 
+#EXTINF:-1, TENERIFE 4  [ESP]
+https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8 
+#EXTINF:-1, RTV CE [ESP]
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1, LANCELOT [ESP]
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1, TELEMADRID [ESP]
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+ 
+ 
+******* PARAGUAY
+#EXTINF:-1, UNICANAL [PAR]
+http://45.55.127.106/live/unicanal_mid.m3u8
+ 
+******** VENEZUELA
+ 
+#EXTINF:-1,TELESUR [VEN]
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1, TV FAMILIA [VEN]
+https://cdn01.yowi.tv/KPFPGJU8A6/live-2500.m3u8
+#EXTINF:-1, VENEZOLANA TV [VEN]
+https://livestream.streamingconnect.com/hls/vtvweb.m3u8
+ 
+ 
+****** ARGENTINA
+#EXTINF:-1, NET TV [ARG]
+https://srv4.zcast.com.br/erickzambra/erickzambra/chunklist_w2131603225.m3u8?WebM3UCL
+#EXTINF:-1, TELPIN TV 2 [ARG]
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/chunklist_w402356780_b1344100_sleng.m3u8
+#EXTINF:-1, TELEMAX HD [ARG]
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:-1,Canal 26 [ARG]
+http://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w1526017555_b414000_sleng.m3u8
+#EXTINF:-1,NEUQUEN TV [ARG]
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1,TELE 13 [ARG]
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w1386497964.m3u8
+#EXTINF:-1,MULTIVISION [ARG]
+http://panel.dattalive.com:1935/8250/8250/chunklist_w331166309.m3u8
+#EXTINF:-1, TIERRA MIA [ARG]
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
+ 
+ 
+:::::: MUSICA ::::::::
+ 
+#EXTINF:-1, LATINOS UP!
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1128295852.m3u8?WebM3UCL
+#EXTINF:-1,PORTAL FOXMIX
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w748795965.m3u8
+#EXTINF:-1,88 Stereo 
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1, LA MEGA MUNDIAL
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1, REWIND TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Radio M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1, MOLA TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:0, ROUGE TV FRANCE
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/chunklist_w1417010506.m3u8
+#EXTINF:-1, MIX 24/ 7 [PER]
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+#EXTINF:-1, RETRO PLUS [PER]
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, RETRO PLUS 2 [PER]
+https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+ 
+-------- DEPORTES
+#EXTINF:-1, REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1,BETIS TV
+https://cdnlive.shooowit.net/rbetislive/television.smil/chunklist_b1500000.m3u8
+#EXTINF:-1, CDO Play
+https://tls.cdnz.cl/cdoplus/smil:cdn.smil/chunklist_w2067637580_b800000_slesp.m3u8?WebM3UCL
+ 
+ 
+********** INFANTILES 
+#EXTINF:0, BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_1.m3u8
+#EXTINF:0, PEQUE TV
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:0, CACHIPUM +
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:0, LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?WebM3UCL
+#EXTINF:-1, Animax Tv
+https://5790d294af2dc.streamlock.net/8232/8232/playlist.m3u8 
+#EXTINF:-1, El Chavo Tv
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1362549602.m3u8?WebM3UCL
+ 
+*************************** INTERNATIONAL
+#EXTINF:0,VOA Noticias EEUU
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0,FRANCE 24H INTERNACIONAL
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0,PoP CHANNEL
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_1200.m3u8
+#EXTINF:0,Arts TELEVISION
+https://classicarts.global.ssl.fastly.net/live/cas/master_550k.m3u8
+#EXTINF:-1,TRAVEL BULGARIA
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,THE WEATHER CHANNEL [EEUU]
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,HD FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,BLOOMBERG [EEUU]
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,SKY News [EEUU]
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+ 
+#EXTINF:-1,VISIT X
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1,JASMIN.TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+ 
+ 
+>>>>>>>>>>>>>>>>>>>>>>>> RADIOS
+ 
+#EXTINF:-1,Radio magica
+http://14533.live.streamtheworld.com/MAG_AAC.aac
+#EXTINF:-1,Felicidad
+https://14533.live.streamtheworld.com/RADIO_FELICIDAD.mp3?DIST=RPPplayer&TGT=RPPplayer&maxServers=2&ua=RadioTime&ttag=RadioTime
+#EXTINF:-1,RPP Noticias
+https://18213.live.streamtheworld.com/RADIO_RPP.mp3?DIST=RPPplayer&TGT=RPPplayer&maxServers=2&ua=RadioTime&ttag=RadioTime
+#EXTINF:-1,La Zona
+https://15363.live.streamtheworld.com/RADIO_LAZONA.mp3?DIST=RPPplayer&TGT=RPPplayer&maxServers=2&ua=RadioTime&ttag=RadioTime
+#EXTINF:-1,Radio Disney
+http://173.192.105.252:8000/;
+#EXTINF:-1,PeruCumbia
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:8144/listen.pls?sid=1&t=.m3u
+#EXTINF:-1,Studio 92
+https://15383.live.streamtheworld.com/RADIO_STUDIO92.mp3?DIST=RPPplayer&TGT=RPPplayer&maxServers=2&ua=RadioTime&ttag=RadioTime
+#EXTINF:-1,La Inolvidable
+http://18723.live.streamtheworld.com/CRP_LI_SC
+#EXTINF:-1,Corazon FM
+https://18763.live.streamtheworld.com/RADIO_CORAZON.mp3?DIST=RPPplayer&TGT=RPPplayer&maxServers=2&ua=RadioTime&ttag=RadioTime
+#EXTINF:-1,La Karibeña
+http://167.114.118.120:7442/
+#EXTINF:-1,Exitosa FM
+http://167.114.118.120:7444/
+#EXTINF:-1,La Kalle
+http://167.114.118.120:7448/
+#EXTINF:-1,Capital FM
+https://18623.live.streamtheworld.com/RADIO_CAPITAL.mp3?DIST=RPPplayer&TGT=RPPplayer&maxServers=2&ua=RadioTime&ttag=RadioTime
+#EXTINF:-1,Oasis
+https://14223.live.streamtheworld.com/CRP_OASAAC.aac
+#EXTINF:-1,Panamericana
+http://192.99.148.184:6710/;*.nsv
+#EXTINF:-1,Oxigeno
+https://18313.live.streamtheworld.com/RADIO_OXIGENO.mp3?DIST=RPPplayer&TGT=RPPplayer&maxServers=2&ua=RadioTime&ttag=RadioTime
+#EXTINF:-1,Filarmonia
+rtmp://fms003.mediastream.com.pe/av_filarmonia/audio01
+#EXTINF:-1,Nacional
+http://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
+#EXTINF:-1,Radio La Crónica
+http://104.167.3.57:8077/stream/t1/cronica
+#EXTINF:-1,Viva FM
+http://streamingargentino4.com.ar:5310/;stream.mp3
+#EXTINF:-1,RBC Radio
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+#EXTINF:-1,Radiomar
+http://18493.live.streamtheworld.com/CRP_MAR_SC
+#EXTINF:-1,Planeta
+http://18803.live.streamtheworld.com/CRP_PLA_SC
+ 
+ 
+ADULTOS
+#EXTINF:-1 tvg-id="90644" tvg-name="Miami TV" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="90645" tvg-name="Miami TV Jenny Live" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="93552" tvg-name="Jasmin TV" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89227" tvg-name="Pornstar" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89096" tvg-name="Milf" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Milf
+http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89576" tvg-name="Teen" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Teen
+http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89556" tvg-name="Big Ass" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Big Ass
+http://cdn.adultiptv.net/bigass.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89553" tvg-name="Big Tits" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89552" tvg-name="Big Dick" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89573" tvg-name="Latina" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Latina
+http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89560" tvg-name="Russian" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Russian
+http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89581" tvg-name="Blonde" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Blonde
+http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89582" tvg-name="Brunette" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Brunette
+http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89572" tvg-name="Interracial" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Interracial
+http://cdn.adultiptv.net/interracial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89574" tvg-name="POV" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", POV
+http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89575" tvg-name="Blowjob" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89578" tvg-name="Threesome" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Threesome
+http://cdn.adultiptv.net/threesome.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89557" tvg-name="Hardcore" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89558" tvg-name="Anal" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Anal
+http://cdn.adultiptv.net/anal.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89585" tvg-name="Rough" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Rough
+http://cdn.adultiptv.net/rough.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89583" tvg-name="Gangbang" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89580" tvg-name="Live Cams" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Live Cams
+http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89559" tvg-name="Compilation" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Compilation
+http://cdn.adultiptv.net/compilation.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89554" tvg-name="Fetish" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Fetish
+http://cdn.adultiptv.net/fetish.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89577" tvg-name="Cuckold" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89579" tvg-name="Lesbian" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="89584" tvg-name="Gay" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Gay
+http://cdn.adultiptv.net/gay.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="90640" tvg-name="Babestation24" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Babestation24
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="90656" tvg-name="Visit-X TV" tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8?PlaylistM3UCL
