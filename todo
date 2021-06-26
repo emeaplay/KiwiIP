@@ -12,8 +12,6 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 https://cu.onliv3.com/livevd1/user2_low/index.m3u8
 #EXTINF:-1, TV PERU [PER]
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1, JNE - Jurado Nacional de Elecciones [PER]
-https://dc1.webstream.eu/v1/jnetvhdstreaming/rt7676a1/webstr_video_sd.mp4/index-v1-a1.m3u8
 #EXTINF:-1, BEST TV [PER]
 https://live.siete.us:19360/bestcable/bestcable.m3u8
 #EXTINF:-1, NACIONAL TV [PER]
