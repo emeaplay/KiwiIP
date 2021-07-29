@@ -11,7 +11,7 @@ https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFiav7bWwxzDMmZ0veR
 #EXTINF:0, BH TV [PER]
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:0, EXITOSA NOTICIAS [PER]
-https://cu.onliv3.com/livevd1/user2_low/index.m3u8
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 #EXTINF:-1, TV PERU [PER]
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1, BEST TV [PER]
@@ -44,32 +44,33 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1, PERUanisima TV [PER]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, KARIBEÑA TV [PER]
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1, VISION MUSICA [PER]
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, BESTCABLE MUSIC [PER]
-https://live.siete.us:19360/bestcablemusic/bestcablemusic.m3u8
+https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TOP LATINO [PER]
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w2031444136.m3u8
- 
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w382350287.m3u8 
  
 #EXTINF:-1, UNITEL TV Huancayo [PER]
 https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, VIA TV Tarapoto [PER]
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1686830471.m3u8
 #EXTINF:-1, MEGA TV AREQUIPA [PER]
-https://cp.sradiotv.com:1936/Stream/Stream/chunklist_w2142131136.m3u8
+https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PAX TV [PER]
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
 #EXTINF:-1, TURBO MIX TV [PER]
-http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1, CUMBIA TV [PER]
-https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/chunklist_w204522515.m3u8
+https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HATUN TV [PER]
-https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TV COSMOS [PER]
-https://59d39900ebfb8.streamlock.net/stream15/stream15/chunklist_w1332812651.m3u8
- 
+https://59d39900ebfb8.streamlock.net/str15live/str15live/chunklist_w1437049572.m3u8
+#EXTINF:-1, TV COSMOS HD [PER]
+https://edge1o.live.opencaster.com/caster/tpHaqFjazqvD.m3u8
+
 ------ PELICULAS
  
 #EXTINF:-1, ORBIT TV
