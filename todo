@@ -5,7 +5,7 @@
 #EXTINF:-1, SAN BORJA TV [PER]
 https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
 #EXTINF:-1, LATINA TV [PER]
-https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:0, PANAMERICANA TV [PER]
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:0, PANAMERICANA TV Op2[PER]
@@ -29,7 +29,7 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1, VISION NOTICIAS [PER]
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
 #EXTINF:-1, LATINA TV Opcion 2 [PER]
-https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
 #EXTINF:-1, JURADO NAC DE ELECCIONES [PER]
 https://dc1.webstream.eu/v1/jnetvhdstreaming/rt1642a1/webstr_video.mp4/index-v1-a1.m3u8
 #EXTINF:-1, ODTV [PER]
