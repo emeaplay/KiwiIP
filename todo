@@ -4,9 +4,11 @@
  
 #EXTINF:-1, SAN BORJA TV [PER]
 https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
+#EXTINF:-1, LATINA TV [PER]
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
 #EXTINF:0, PANAMERICANA TV [PER]
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:0, PANAMERICANA TV 2[PER]
+#EXTINF:0, PANAMERICANA TV Op2[PER]
 https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFiav7bWwxzDMmZ0veRSpf4w)/dm/3/x774s7s/s/live-3.m3u8
 #EXTINF:0, BH TV [PER]
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -26,6 +28,8 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1, VISION NOTICIAS [PER]
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
+#EXTINF:-1, LATINA TV Opcion 2 [PER]
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1, JURADO NAC DE ELECCIONES [PER]
 https://dc1.webstream.eu/v1/jnetvhdstreaming/rt1642a1/webstr_video.mp4/index-v1-a1.m3u8
 #EXTINF:-1, ODTV [PER]
@@ -50,10 +54,24 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?Pla
 #EXTINF:-1, BESTCABLE MUSIC [PER]
 https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TOP LATINO [PER]
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w382350287.m3u8 
- 
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w382350287.m3u8
+#EXTINF:-1, Tropical Tarapoto [PER]
+https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
+
+#EXTINF:-1, TELESUR Ilo [PER]
+https://qlobbidev.s.llnwi.net/telesur3/hls/ilo.m3u8
+#EXTINF:-1, URANIO TV Yurimaguas[PER]
+https://live.siete.us/uraniotv/uraniotv/index.m3u8
+#EXTINF:-1, Primavera TV Moquegua [PER]
+https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
+#EXTINF:-1, ANTARES TV [PER]
+https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1, UNITEL TV Huancayo [PER]
 https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, GACETA UCAYALI [PER]
+https://tvsource.gacetaucayalina.com/hls/prueba.m3u8
+#EXTINF:-1, CAJAMARCA TV [PER]
+https://live.siete.us/cajamarcatv/cajamarcatv/index.m3u8
 #EXTINF:-1, VIA TV Tarapoto [PER]
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1686830471.m3u8
 #EXTINF:-1, MEGA TV AREQUIPA [PER]
@@ -62,6 +80,11 @@ https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
 #EXTINF:-1, TURBO MIX TV [PER]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1, RTV Yurimaguas [PER]
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+
+#EXTINF:-1, GALACTICA TV [PER]
+https://envivo.galacticatv.com:3913/stream/play.m3u8
 #EXTINF:-1, CUMBIA TV [PER]
 https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HATUN TV [PER]
@@ -70,6 +93,8 @@ https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u
 https://59d39900ebfb8.streamlock.net/str15live/str15live/chunklist_w1437049572.m3u8
 #EXTINF:-1, TV COSMOS HD [PER]
 https://edge1o.live.opencaster.com/caster/tpHaqFjazqvD.m3u8
+#EXTINF:-1, BE XTREME HD [PER]
+https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
 
 ------ PELICULAS
  
