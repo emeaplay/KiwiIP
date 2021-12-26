@@ -178,11 +178,13 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1,TELEVEN [VEN]
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 #EXTINF:-1,TELESUR [VEN]
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1, TV FAMILIA [VEN]
-https://cdn01.yowi.tv/KPFPGJU8A6/live-2500.m3u8
-#EXTINF:-1, VENEZOLANA TV [VEN]
-https://livestream.streamingconnect.com/hls/vtvweb.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1, TVES [VEN]
+https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
+#EXTINF:-1, TODA LA TV [VEN]
+https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w2040499582.m3u8
+#EXTINF:-1, CANAL I [VEN]
+https://vcp.myplaytv.com/canali/canali/chunklist_w447641521.m3u8
  
  
 ****** ARGENTINA
