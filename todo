@@ -6,6 +6,8 @@ https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
 #EXTINF:0, 3. BH TV [PER]
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1, VISION NOTICIAS [PER]
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
 #EXTINF:0, 5. PANAMERICANA TV [PER]
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:0, 6. EXITOSA NOTICIAS [PER]
@@ -25,8 +27,7 @@ https://mediastreamm.com:3449/live/mlecaroslive.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1, TV PERU NOTICIAS [PER]
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1, VISION NOTICIAS [PER]
-https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
+
 #EXTINF:-1, ATV+ NOTICIAS [PER]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 #EXTINF:-1, ODTV [PER]
