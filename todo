@@ -1,5 +1,6 @@
 #EXTM3U
-******* PERU
+
+>>>>>>>>> PERU
 #EXTINF:-1, SAN BORJA TV [PER]
 https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
 #EXTINF:-1, LATINA TV [PER]
@@ -19,10 +20,9 @@ https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ATV [PER]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
 #EXTINF:-1, TVPERU INTERNACIONAL [PER]
-http://cdnh4.iblups.com/hls/irtp.m3u8
+https://cdnh8.iblups.com/hls/irtp.m3u8
 #EXTINF:-1, UCI NOTICIAS [PER]
 https://mediastreamm.com:3449/live/mlecaroslive.m3u8
-
 #EXTINF:-1, iPe - IDENTIDAD PERUANA [PER] 
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1, TV PERU NOTICIAS [PER]
