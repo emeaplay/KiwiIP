@@ -278,10 +278,9 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1,SKY News [EEUU]
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
  
-#EXTINF:-1,VISIT X
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1,JASMIN.TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+>>>>>>> PLUTO TV
+
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.m3u8
  
  
 >>>>>>>>>>>>>>>>>>>>>>>> RADIOS
