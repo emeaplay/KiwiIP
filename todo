@@ -84,6 +84,10 @@ https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w215001628.m3u8
 #EXTINF:-1, ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w280801424.m3u8
+#EXTINF:-1, EVASTREAM
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w33165640.m3u8
+#EXTINF:-1, TVMAS
+https://593b04c4c5670.streamlock.net/8008/8008/chunklist_w602230253.m3u8
 #EXTINF:-1, WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w176717118_b1500000_slen.m3u8
 #EXTINF:-1, FLIX TUBE
@@ -92,6 +96,12 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1099998918.m3
 http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
 #EXTINF:-1, ACS NETWORKS
 https://servers.amelbasoluciones.co:19360/caslmlive/caslmlive.m3u8
+#EXTINF:-1, MI TV CLASSICS
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u
+#EXTINF:-1, ZP TV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w710333145.m3u8
+
+
  
 ******* MEXICO
 #EXTINF:-1, Foro TV [MEX]
@@ -132,9 +142,14 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3
 
 
 ********** CHILE
- 
+#EXTINF:-1, CANAL 13 Series [CHI] 
+https://stmv1.srvif.com/laredtv/laredtv/chunklist_w178770601.m3u8?WebM3UCL
+#EXTINF:-1, CANAL 13 Prime [CHI] 
+https://stmv1.srvif.com/canal9/canal9/chunklist_w2139535447.m3u8 
 #EXTINF:-1, LA RED [CHI]
 https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
+#EXTINF:-1, HISPANTV [CHI]
+https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w454849143.m3u8
 #EXTINF:-1, TV SALUD [CHI]
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
 #EXTINF:-1, VALLE TV  [CHI]
@@ -162,7 +177,6 @@ https://live.mitele.es/hls/live/2004102/cuatro/01.m3u8
 https://live.mitele.es/hls/live/2004101/telecinco/01.m3u8
 #EXTINF:0, TVE LA 1 [ESP]
 https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
-
 #EXTINF:-1, FACTORIA DE FICCION [ESP]
 https://live.mitele.es/hls/live/2005336/fdf/01.m3u8
 #EXTINF:-1, ENERGY [ESP]
@@ -175,6 +189,10 @@ https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_dvr_1080.m3u8
 ******* PARAGUAY
 #EXTINF:-1, UNICANAL [PAR]
 http://45.55.127.106/live/unicanal_mid.m3u8
+
+>>>>>>  URUGUAY
+#EXTINF:-1, LA RED [URU]
+https://stmv1.srvif.com/laredtv/laredtv/chunklist_w1299261034.m3u
  
 ******** VENEZUELA
 #EXTINF:-1,TELEVEN [VEN]
