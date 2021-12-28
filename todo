@@ -620,7 +620,7 @@ https://stmv1.srvif.com/laredtv/laredtv/chunklist_w1299261034.m3u
 
 #EXTINF:-1,TELESUR [VEN]
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1, TODA LA TV [VEN]
+#EXTINF:-1, TLT - TODA LA TV [VEN]
 https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w2040499582.m3u8
 #EXTINF:-1, CANAL I [VEN]
 https://vcp.myplaytv.com/canali/canali/chunklist_w447641521.m3u8
@@ -653,16 +653,12 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 #EXTINF:-1,MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1, REWIND TV
-https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Radio M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1, MOLA TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:0, ROUGE TV FRANCE
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/chunklist_w1417010506.m3u8
-#EXTINF:-1, MIX 24/ 7 [PER]
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
 #EXTINF:-1, RETRO PLUS [PER]
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, RETRO PLUS 2 [PER]
@@ -684,9 +680,13 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8?WebM3UCL
 
 #EXTINF:-1,TRAVEL BULGARIA
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,THE WEATHER CHANNEL [EEUU]
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+>>> RELIGIOSO
+#EXTINF:-1, ENLACE
+https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
+#EXTINF:-1, ORBE 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
