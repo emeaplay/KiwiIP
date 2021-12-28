@@ -71,8 +71,8 @@ https://tvsource.gacetaucayalina.com/hls/prueba.m3u8
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1686830471.m3u8
 #EXTINF:-1, MEGA TV AREQUIPA [PER]
 https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PAX TV [PER]
-http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
+#EXTINF:-1, HECHICERA [PER]
+https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w275466573.m3u8
 #EXTINF:-1, TURBO MIX TV [PER]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1, CUMBIA TV [PER]
@@ -85,8 +85,9 @@ https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w215001628.m3u8
 #EXTINF:-1, ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w280801424.m3u8
-#EXTINF:-1, EVASTREAM
-https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w33165640.m3u8
+#EXTINF:-1, EVASTREAM - CINECLUB
+https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w995112258.m3u8
+
 #EXTINF:-1, TVMAS
 https://593b04c4c5670.streamlock.net/8008/8008/chunklist_w602230253.m3u8
 #EXTINF:-1, WOW TV
@@ -645,6 +646,8 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b18
  
 #EXTINF:-1, LATINOS UP!
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1128295852.m3u8?WebM3UCL
+#EXTINF:-1, LATINOS RADIO
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w33165640.m3u8
 #EXTINF:-1,PORTAL FOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w748795965.m3u8
 #EXTINF:-1,88 Stereo 
@@ -690,3 +693,12 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
 #EXTINF:-1, ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
+#EXTINF:-1, PAX TV [PER]
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
+#EXTINF:-1, EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
+#EXTINF:-1, EL SEMBRADOR - ESNE
+https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-b.m3u8?F38b1dF4=61cb8fcc6b0cdd000185128d&6pLKMQ3y=Sqi3Ng90&video_id=5f978263e036f600019f66c2&sd=10&dw=10800&rebase=on
+
+
+
