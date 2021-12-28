@@ -75,14 +75,12 @@ https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
 #EXTINF:-1, TURBO MIX TV [PER]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
 #EXTINF:-1, CUMBIA TV [PER]
 https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HATUN TV [PER]
 https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
 
 ------ PELICULAS
-
 #EXTINF:-1, FM TV
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w215001628.m3u8
 #EXTINF:-1, ORBIT TV
@@ -104,113 +102,6 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u
 #EXTINF:-1, ZP TV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w710333145.m3u8
 
->>>>>> NOTICIAS
-
-#EXTINF:0, VOA Noticias EEUU
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1, FORO TV [MEX]
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
-#EXTINF:-1, RT EN ESPAÑOL
-https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1, DW LATINO
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
- 
-******* MEXICO
-
-#EXTINF:-1, NRT [MEX]
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1, MULTIMEDIOS [MEX]
-http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1, TELEPLAY [MEX]
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/chunks.m3u8
-#EXTINF:-1, TELEFORMULA [MEX]
-https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqjA6FaBeQIvHb-d2q8zREHc)/dm/3/x7u0spq/d/live-2.m3u8
-#EXTINF:-1, CANAL 15 [MEX]
-https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w259630552.m3u8
- 
-********* CENTROAMERICA / EEUU
- 
-#EXTINF:-1, TEN tv [HON]
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:0, TV MARTI [CUB]
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1, TELESISTEMA [CRI]
-http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1562564002.m3u8
-#EXTINF:0, TELERED [CRI]
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
-#EXTINF:0, Tele UNO [HON]
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w850289925.m3u8
- 
-******** COLOMBIA
- 
-#EXTINF:-1, TELE ISLAS [COL]
-https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1045131864.m3u8
-#EXTINF:-1, ZOOM TV [COL]
-https://15306896-8b0c-4319-a479-c29bef5aecbd.iaia.stream/15306896-8b0c-4319-a479-c29bef5aecbd/bcf7b3b2c575/chunklist.m3u8
-#EXTINF:-1, CALI TV [COL]
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3u8
-
-
-********** CHILE
-#EXTINF:-1, CANAL 13 Series [CHI] 
-https://stmv1.srvif.com/laredtv/laredtv/chunklist_w178770601.m3u8?WebM3UCL
-#EXTINF:-1, CANAL 13 Prime [CHI] 
-https://stmv1.srvif.com/canal9/canal9/chunklist_w2139535447.m3u8 
-#EXTINF:-1, LA RED [CHI]
-https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
-#EXTINF:-1, HISPANTV [CHI]
-https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w454849143.m3u8
-#EXTINF:-1, TV SALUD [CHI]
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
-#EXTINF:-1, VALLE TV  [CHI]
-http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
-#EXTINF:-1, EL PINGUINO TV  [CHI]
-https://streaming.elpinguino.com:5391/live/EP.smil/chunklist_w1750945290_b1396000_slspa.m3u8
- 
-----------------------  Ecuador
-
-#EXTINF:-1, TELEAMAZONAS ECU
-https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
- 
-********* ESPAÑA
-#EXTINF:0, TVE 24H [ESP]
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
-#EXTINF:0, TVE LA 1 [ESP]
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
-
-******* PARAGUAY
-#EXTINF:-1, UNICANAL [PAR]
-http://45.55.127.106/live/unicanal_mid.m3u8
-
->>>>>>  URUGUAY
-#EXTINF:-1, LA RED [URU]
-https://stmv1.srvif.com/laredtv/laredtv/chunklist_w1299261034.m3u
- 
-******** VENEZUELA
-
-#EXTINF:-1,TELESUR [VEN]
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1, TODA LA TV [VEN]
-https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w2040499582.m3u8
-#EXTINF:-1, CANAL I [VEN]
-https://vcp.myplaytv.com/canali/canali/chunklist_w447641521.m3u8
- 
- 
-****** ARGENTINA
-
-#EXTINF:-1, TELPIN TV 2 [ARG]
-https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/chunklist_w402356780_b1344100_sleng.m3u8
-#EXTINF:-1, TELEMAX HD [ARG]
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-#EXTINF:-1,Canal 26 [ARG]
-http://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w1526017555_b414000_sleng.m3u8
-#EXTINF:-1,NEUQUEN TV [ARG]
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-1,MULTIVISION [ARG]
-http://panel.dattalive.com:1935/8250/8250/chunklist_w331166309.m3u8
-#EXTINF:-1, TIERRA MIA [ARG]
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
- 
 >>>>>>> PLUTO TV MEXICO
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
@@ -645,6 +536,109 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6181404ef48321000797bc
 #EXTINF:-1 tvg-id="618b9fe41add6600071b2541" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/618b9fe41add6600071b2541/colorLogoPNG.png" group-title="Nuevo en Pluto TV",Maradona, sin cortes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/618b9fe41add6600071b2541/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+>>>>>> NOTICIAS
+
+#EXTINF:0, VOA Noticias EEUU
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1, FORO TV [MEX]
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
+#EXTINF:-1, RT EN ESPAÑOL
+https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1, DW LATINO
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+ 
+******* MEXICO
+
+#EXTINF:-1, NRT [MEX]
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1, MULTIMEDIOS [MEX]
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1, TELEPLAY [MEX]
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/chunks.m3u8
+#EXTINF:-1, TELEFORMULA [MEX]
+https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqjA6FaBeQIvHb-d2q8zREHc)/dm/3/x7u0spq/d/live-2.m3u8
+#EXTINF:-1, CANAL 15 [MEX]
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w259630552.m3u8
+ 
+********* CENTROAMERICA / EEUU
+ 
+#EXTINF:-1, TEN tv [HON]
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:0, TV MARTI [CUB]
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1, TELESISTEMA [CRI]
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1562564002.m3u8
+#EXTINF:0, TELERED [CRI]
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
+#EXTINF:0, Tele UNO [HON]
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w850289925.m3u8
+ 
+******** COLOMBIA 
+#EXTINF:-1, TELE ISLAS [COL]
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1045131864.m3u8
+#EXTINF:-1, ZOOM TV [COL]
+https://15306896-8b0c-4319-a479-c29bef5aecbd.iaia.stream/15306896-8b0c-4319-a479-c29bef5aecbd/bcf7b3b2c575/chunklist.m3u8
+#EXTINF:-1, CALI TV [COL]
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3u8
+
+********** CHILE
+#EXTINF:-1, CANAL 13 Series [CHI] 
+https://stmv1.srvif.com/laredtv/laredtv/chunklist_w178770601.m3u8?WebM3UCL
+#EXTINF:-1, CANAL 13 Prime [CHI] 
+https://stmv1.srvif.com/canal9/canal9/chunklist_w2139535447.m3u8 
+#EXTINF:-1, LA RED [CHI]
+https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
+#EXTINF:-1, HISPANTV [CHI]
+https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w454849143.m3u8
+#EXTINF:-1, TV SALUD [CHI]
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
+#EXTINF:-1, VALLE TV  [CHI]
+http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
+#EXTINF:-1, EL PINGUINO TV  [CHI]
+https://streaming.elpinguino.com:5391/live/EP.smil/chunklist_w1750945290_b1396000_slspa.m3u8
+
+>>>>>>>>>> ECUADOR
+#EXTINF:-1, TELEAMAZONAS ECU
+https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
+ 
+********* ESPAÑA
+#EXTINF:0, TVE 24H [ESP]
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
+#EXTINF:0, TVE LA 1 [ESP]
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+
+******* PARAGUAY
+#EXTINF:-1, UNICANAL [PAR]
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+>>>>>>  URUGUAY
+#EXTINF:-1, LA RED [URU]
+https://stmv1.srvif.com/laredtv/laredtv/chunklist_w1299261034.m3u
+ 
+******** VENEZUELA
+
+#EXTINF:-1,TELESUR [VEN]
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1, TODA LA TV [VEN]
+https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w2040499582.m3u8
+#EXTINF:-1, CANAL I [VEN]
+https://vcp.myplaytv.com/canali/canali/chunklist_w447641521.m3u8
+ 
+ 
+****** ARGENTINA
+
+#EXTINF:-1, TELPIN TV 2 [ARG]
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/chunklist_w402356780_b1344100_sleng.m3u8
+#EXTINF:-1, TELEMAX HD [ARG]
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:-1,Canal 26 [ARG]
+http://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w1526017555_b414000_sleng.m3u8
+#EXTINF:-1,NEUQUEN TV [ARG]
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1,MULTIVISION [ARG]
+http://panel.dattalive.com:1935/8250/8250/chunklist_w331166309.m3u8
+#EXTINF:-1, TIERRA MIA [ARG]
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
 
 :::::: MUSICA ::::::::
  
