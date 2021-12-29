@@ -46,7 +46,7 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1, WILLAX (Test) [PER]
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmutZPPi5F4lgfMukx8VED_E)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1, BEST CABLE SPORTS [PER]
-https://vdo1.streamgato.us:3776/stream/play.m3u8?WebM3UCL
+https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PERUanisima TV [PER]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, KARIBEÑA TV [PER]
@@ -641,7 +641,7 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w331166309.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
 
 :::::: MUSICA ::::::::
- 
+
 #EXTINF:-1, LATINOS UP!
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1128295852.m3u8?WebM3UCL
 #EXTINF:-1, LATINOS RADIO
@@ -658,6 +658,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1, MOLA TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1, DMJ RADIO
+https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 #EXTINF:0, ROUGE TV FRANCE
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/chunklist_w1417010506.m3u8
 #EXTINF:-1, RETRO PLUS [PER]
