@@ -100,6 +100,8 @@ https://servers.amelbasoluciones.co:19360/caslmlive/caslmlive.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u
 #EXTINF:-1, ZP TV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w710333145.m3u8
+#EXTINF:-1, EL CHAVO 24 HORAS
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1064538754.m3u8
 
 >>>>>>> PLUTO TV MEXICO
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
