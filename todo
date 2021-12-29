@@ -40,11 +40,12 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1, MONTERRICO TV / JOCKEY CLUB [PER]
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1, ONDA DIGITAL [PER]
-http://184.154.28.210:1935/ondadigital/ondadigital/chunklist_w527797834.m3u8
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
 #EXTINF:-1, OVACION DEPORTES TV [PER]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1, WILLAX (Test) [PER]
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmutZPPi5F4lgfMukx8VED_E)/dm/3/x7x4dgx/s/live-1.m3u8
+
 #EXTINF:-1, PERUanisima TV [PER]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, KARIBEÑA TV [PER]
@@ -55,17 +56,15 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?Pla
 https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TOP LATINO [PER]
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w382350287.m3u8
-#EXTINF:-1, Tropical Tarapoto [PER]
-https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 #EXTINF:-1, SAN BORJA TV [PER]
 https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
 
 #EXTINF:-1, ANTARES TV [PER]
 https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1, UNITEL TV Huancayo [PER]
-https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, GACETA UCAYALI [PER]
 https://tvsource.gacetaucayalina.com/hls/prueba.m3u8
+#EXTINF:-1, TV TROPICAL [PER]
+https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 
 #EXTINF:-1, VIA TV Tarapoto [PER]
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1686830471.m3u8
@@ -695,6 +694,8 @@ https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
 #EXTINF:-1, PAX TV [PER]
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
+#EXTINF:-1, JN19 TV [PER]
+https://mediastreamm.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1, EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:-1, EL SEMBRADOR - ESNE
