@@ -35,7 +35,7 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 #EXTINF:-1, CULTURA 24 [PER]
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:-1, CENTRAL Chosica [PER]
+#EXTINF:-1, CENTRALTV Chosica [PER]
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1, MONTERRICO TV / JOCKEY CLUB [PER]
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
@@ -45,7 +45,8 @@ https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1, WILLAX (Test) [PER]
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmutZPPi5F4lgfMukx8VED_E)/dm/3/x7x4dgx/s/live-1.m3u8
-
+#EXTINF:-1, BEST CABLE SPORTS [PER]
+https://vdo1.streamgato.us:3776/stream/play.m3u8?WebM3UCL
 #EXTINF:-1, PERUanisima TV [PER]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, KARIBEÑA TV [PER]
@@ -91,8 +92,6 @@ https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w995112258.m3u8
 https://593b04c4c5670.streamlock.net/8008/8008/chunklist_w602230253.m3u8
 #EXTINF:-1, WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w176717118_b1500000_slen.m3u8
-#EXTINF:-1, FLIX TUBE
-https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1099998918.m3u8
 #EXTINF:-1, TV RETRO
 http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
 #EXTINF:-1, ACS NETWORKS
