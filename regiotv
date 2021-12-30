@@ -11,7 +11,10 @@ https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1,REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-
+#EXTINF:-1,MX FAMILY
+http://190.108.83.142:8000/play/a002/index.m3u8
+#EXTINF:-1,MX CLASSIC
+http://190.108.83.142:8000/play/a004/index.m3u8
 
 #EXTINF:-1,TELE 13
 http://45.181.122.17:8000/play/a019
@@ -38,6 +41,8 @@ http://45.181.122.17:8000/play/a02b
 http://45.181.122.17:8000/play/a02a
 #EXTINF:-1,ANIMAL PLANET
 http://45.181.122.17:8000/play/a00l
+#EXTINF:-1,NAT GEO WILD
+http://190.108.83.142:8000/play/a00w/index.m3u8
 
 #EXTINF:-1,DISCOVERY KIDS
 http://45.181.122.17:8000/play/a013
@@ -133,6 +138,8 @@ http://45.181.122.17:8000/play/a00n
 http://45.181.122.17:8000/play/a00y
 #EXTINF:-1,ZONA LATINA
 http://45.181.122.17:8000/play/a02g
+#EXTINF:-1,PALMERAS TV
+http://190.108.83.142:8000/play/a00a/index.m3u8
 
 #EXTINF:-1,ENLACE
 http://45.181.122.17:8000/play/a036
