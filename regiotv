@@ -60,8 +60,6 @@ http://45.181.122.17:8000/play/a019
 http://45.181.122.17:8000/play/a018
 #EXTINF:-1,TVN CHILE
 http://45.181.122.17:8000/play/a016
-#EXTINF:-1,NTV
-http://45.181.122.17:8000/play/a01n
 #EXTINF:-1,RCN NOVELAS
 http://45.181.122.17:8000/play/a033
 #EXTINF:-1,TLC
@@ -140,6 +138,8 @@ http://45.181.122.17:8000/play/a00e
 http://45.181.122.17:8000/play/a028
 #EXTINF:-1,PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
+#EXTINF:-1,NTV
+http://45.181.122.17:8000/play/a01n
 
 #EXTINF:-1,ESPN
 http://45.181.122.17:8000/play/a00q
