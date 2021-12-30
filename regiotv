@@ -1,143 +1,143 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_3
+#EXTINF:-1,ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
-#EXTINF:-1,iptvtools_4
+#EXTINF:-1,EL CHAVO TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1,iptvtools_5
+#EXTINF:-1,DREIKO TV
 http://regioplay.xyz/php/SR_REGIO_411112_/dreiko.php?f=.m3u8
-#EXTINF:-1,iptvtools_8
+#EXTINF:-1,MULTIMEDIOS 6
 http://regioplay.xyz/php/SR_REGIO_411112_/multimedios.php?f=.m3u8
-#EXTINF:-1,iptvtools_13
+#EXTINF:-1,RT España
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1,iptvtools_14
+#EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,iptvtools_18
+#EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1,iptvtools_19
+#EXTINF:-1,CANAL 2 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1,iptvtools_20
 https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
-#EXTINF:-1,iptvtools_22
+#EXTINF:-1,TELEMETRIKA
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1,iptvtools_23
+#EXTINF:-1,PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1,iptvtools_25
+#EXTINF:-1,REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1,iptvtools_27
+#EXTINF:-1,DW 24 HORAS
 http://45.181.122.17:8000/play/a01l
-#EXTINF:-1,iptvtools_28
+#EXTINF:-1,A&E MUNDO
 http://45.181.122.17:8000/play/a00u
-#EXTINF:-1,iptvtools_29
+#EXTINF:-1,AXN USA
 http://45.181.122.17:8000/play/a00b
-#EXTINF:-1,iptvtools_30
+#EXTINF:-1,ANIMAL PLANET
 http://45.181.122.17:8000/play/a00l
-#EXTINF:-1,iptvtools_31
+#EXTINF:-1,TELE 13
 http://45.181.122.17:8000/play/a019
-#EXTINF:-1,iptvtools_32
+#EXTINF:-1,CHILEVISION
 http://45.181.122.17:8000/play/a018
-#EXTINF:-1,iptvtools_34
+#EXTINF:-1,CNN EN ESPAÑOL
 http://45.181.122.17:8000/play/a014
-#EXTINF:-1,iptvtools_35
+#EXTINF:-1,LAS ESTRELLAS
 http://45.181.122.17:8000/play/a00y
-#EXTINF:-1,iptvtools_38
+#EXTINF:-1,CINEMAX
 http://45.181.122.17:8000/play/a009
-#EXTINF:-1,iptvtools_39
+#EXTINF:-1,DISCOVERY
 http://45.181.122.17:8000/play/a00k
-#EXTINF:-1,iptvtools_40
+#EXTINF:-1,INVESTIGACION ID
 http://45.181.122.17:8000/play/a01p
-#EXTINF:-1,iptvtools_41
+#EXTINF:-1,DISCOVERY KIDS
 http://45.181.122.17:8000/play/a013
-#EXTINF:-1,iptvtools_42
+#EXTINF:-1,DISCOVERY TURBO
 http://45.181.122.17:8000/play/a00f
-#EXTINF:-1,iptvtools_43
+#EXTINF:-1,DISNEY CHANNEL
 http://45.181.122.17:8000/play/a00j
-#EXTINF:-1,iptvtools_44
+#EXTINF:-1,DISNEY JUNIOR
 http://45.181.122.17:8000/play/a01k
-#EXTINF:-1,iptvtools_45
+#EXTINF:-1,DISNEY XD
 http://45.181.122.17:8000/play/a029
-#EXTINF:-1,iptvtools_46
+#EXTINF:-1,E! LATINO
 http://45.181.122.17:8000/play/a00n
-#EXTINF:-1,iptvtools_47
+#EXTINF:-1,ESPN
 http://45.181.122.17:8000/play/a00q
-#EXTINF:-1,iptvtools_49
+#EXTINF:-1,ESPN 2
 http://45.181.122.17:8000/play/a00p
-#EXTINF:-1,iptvtools_50
+#EXTINF:-1,ESPN 3
 http://45.181.122.17:8000/play/a00h
-#EXTINF:-1,iptvtools_51
+#EXTINF:-1,ENLACE
 http://45.181.122.17:8000/play/a036
-#EXTINF:-1,iptvtools_52
+#EXTINF:-1,ESNE
 http://45.181.122.17:8000/play/a00g
-#EXTINF:-1,iptvtools_53
+#EXTINF:-1,FX
 http://45.181.122.17:8000/play/a00d
-#EXTINF:-1,iptvtools_54
+#EXTINF:-1,FX MOVIES
 http://45.181.122.17:8000/play/a01a
-#EXTINF:-1,iptvtools_55
+#EXTINF:-1,ESPN 4
 http://45.181.122.17:8000/play/a00o
-#EXTINF:-1,iptvtools_58
+#EXTINF:-1,FOX SPORTS 3
 http://45.181.122.17:8000/play/a010
-#EXTINF:-1,iptvtools_60
+#EXTINF:-1,GOL TV
 http://45.181.122.17:8000/play/a031
-#EXTINF:-1,iptvtools_61
+#EXTINF:-1,HBO
 http://45.181.122.17:8000/play/a008
-#EXTINF:-1,iptvtools_66
+#EXTINF:-1,HISTORY
 http://45.181.122.17:8000/play/a02b
-#EXTINF:-1,iptvtools_67
+#EXTINF:-1,DISCOVERY
 http://45.181.122.17:8000/play/a01t
-#EXTINF:-1,iptvtools_68
+#EXTINF:-1,I SAT
 http://45.181.122.17:8000/play/a02e
-#EXTINF:-1,iptvtools_69
+#EXTINF:-1,LA RED
 http://45.181.122.17:8000/play/a015
-#EXTINF:-1,iptvtools_70
+#EXTINF:-1,MTV
 http://45.181.122.17:8000/play/a02f
-#EXTINF:-1,iptvtools_71
+#EXTINF:-1,MEGAVISION
 http://45.181.122.17:8000/play/a017
-#EXTINF:-1,iptvtools_72
+#EXTINF:-1,NTV
 http://45.181.122.17:8000/play/a01n
-#EXTINF:-1,iptvtools_73
+#EXTINF:-1,NAT GEO
 http://45.181.122.17:8000/play/a02a
-#EXTINF:-1,iptvtools_74
+#EXTINF:-1,NAT GEO KIDS
 http://45.181.122.17:8000/play/a02l
-#EXTINF:-1,iptvtools_75
+#EXTINF:-1,NICK JUNIOR
 http://45.181.122.17:8000/play/a00e
-#EXTINF:-1,iptvtools_76
+#EXTINF:-1,NICK
 http://45.181.122.17:8000/play/a028
-#EXTINF:-1,iptvtools_77
+#EXTINF:-1,RCN NOVELAS
 http://45.181.122.17:8000/play/a033
-#EXTINF:-1,iptvtools_79
+#EXTINF:-1,STAR CHANNEL
 http://45.181.122.17:8000/play/a02j
-#EXTINF:-1,iptvtools_81
+#EXTINF:-STAR LIFE
 http://45.181.122.17:8000/play/a02h
-#EXTINF:-1,iptvtools_83
+#EXTINF:-1,SONY
 http://45.181.122.17:8000/play/a00a
-#EXTINF:-1,iptvtools_84
+#EXTINF:-1,SPACE
 http://45.181.122.17:8000/play/a00c
-#EXTINF:-1,iptvtools_85
+#EXTINF:-1,TBS
 http://45.181.122.17:8000/play/a01r
-#EXTINF:-1,iptvtools_86
+#EXTINF:-1,TCM
 http://45.181.122.17:8000/play/a02k
-#EXTINF:-1,iptvtools_87
+#EXTINF:-1,TLC
 http://45.181.122.17:8000/play/a00w
-#EXTINF:-1,iptvtools_88
+#EXTINF:-1,TNT
 http://45.181.122.17:8000/play/a02n
-#EXTINF:-1,iptvtools_90
+#EXTINF:-1,TNT SPORTS 3
 http://45.181.122.17:8000/play/a00t
-#EXTINF:-1,iptvtools_91
+#EXTINF:-1,TVE
 http://45.181.122.17:8000/play/a02q
-#EXTINF:-1,iptvtools_92
+#EXTINF:-1,TVN CHILE
 http://45.181.122.17:8000/play/a016
-#EXTINF:-1,iptvtools_93
+#EXTINF:-1,TELEMUNDO
 http://45.181.122.17:8000/play/a011
-#EXTINF:-1,iptvtools_94
+#EXTINF:-1,TYC SPORTS
 http://45.181.122.17:8000/play/a032
-#EXTINF:-1,iptvtools_95
+#EXTINF:-1,UNIVERSAL CHANNEL
 http://45.181.122.17:8000/play/a02d
-#EXTINF:-1,iptvtools_98
+#EXTINF:-1,WARNER
 http://45.181.122.17:8000/play/a00m
-#EXTINF:-1,iptvtools_99
+#EXTINF:-1,ZONA LATINA
 http://45.181.122.17:8000/play/a02g
-#EXTINF:-1,iptvtools_104
+#EXTINF:-1,NAT GEO
 http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=rr_99rrr&f=.m3u8
-#EXTINF:-1,iptvtools_115
+#EXTINF:-1,A PLUS
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=amas&k=SrRegio&f=.m3u8
 #EXTINF:-1,AZTECA UNO
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=aztecauno&k=SrRegio&f=.m3u8
@@ -197,51 +197,51 @@ http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=comedy&k=SrRegio&f=.m3u
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=e&k=SrRegio&f=.m3u8
 #EXTINF:-1,STAR CHANNEL
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=starch&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_145
+#EXTINF:-1,STARLIFE
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=starlife&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_146
+#EXTINF:-1,FX
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=fx&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_147
+#EXTINF:-1,ID
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=id&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_148
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=pasiones&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_149
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=univtln&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_150
+#EXTINF:-1,SONY
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=sony&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_151
+#EXTINF:-1,TLNOVELAS
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tlnovelas&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_152
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=univtln&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_153
+#EXTINF:-1,TBS
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tbs&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_154
+#EXTINF:-1,TNT SERIES
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tntseries&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_155
+#EXTINF:-1,TRUTV
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=trutv&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_156
+#EXTINF:-1,UNIVERSAL
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=universal&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_157
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=warner&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_158
+#EXTINF:-1,AZ CINEMA
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=azcinema&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_159
+#EXTINF:-1,AMC
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=amc&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_160
+#EXTINF:-1,CINECANAL
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=cinecanal&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_161
+#EXTINF:-1,CINEMAX
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=cinemax&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_162
+#EXTINF:-1,D
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=d&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_163
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=d&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_164
+#EXTINF:-1,DHE
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dhe&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_165
+#EXTINF:-1,EUROCHANNEL
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=eur&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_166
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=filmarts&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_167
+#EXTINF:-1,FX MOVIES
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=fxm&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_168
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=isat&k=SrRegio&f=.m3u8
@@ -249,29 +249,29 @@ http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=isat&k=SrRegio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=mc&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_170
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_171
+#EXTINF:-1,MORBIDO
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=morbido&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_172
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=paramount&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_173
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_174
+#EXTINF:-1,STUDIO UNIVERSAL
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=studiouniversal&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_175
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=syfy&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_176
+#EXTINF:-1,TCM
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tcm&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_177
+#EXTINF:-1,TNT
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tnt&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_178
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=azmundo&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_179
+#EXTINF:-1,ANIMAL PLANET
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=anima&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_180
+#EXTINF:-1,DISCOVERY
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=discoverych&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_181
+#EXTINF:-1,DISCOVERY SCIENCE
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dciencia&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_182
+#EXTINF:-1,DISCOVERY CIVILIZACION
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dcivil&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_183
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=dtheater&k=SrRegio&f=.m3u8
@@ -455,17 +455,17 @@ http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=gourmet&k=SrRegio&f=.m3
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=lifetime&k=SrRegio&f=.m3u8
 #EXTINF:-1,iptvtools_276
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=history&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_277
+#EXTINF:-1,HISTORY 2
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=h2&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_278
+#EXTINF:-1,HOME & HEALTH
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=hh&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_279
+#EXTINF:-1,HOLA TV
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=holatv&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_280
+#EXTINF:-1,MAS CHIC
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=maschic&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_281
+#EXTINF:-1,NATGEO
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=natgeo&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_282
+#EXTINF:-1,NATGEO WILD
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=natgeowild&k=SrRegio&f=.m3u8
-#EXTINF:-1,iptvtools_283
+#EXTINF:-1,TLC
 http://regioplay.xyz/php/SR_REGIO_411112_/regio22d.php?c=tlc&k=SrRegio&f=.m3u8
