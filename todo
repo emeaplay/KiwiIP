@@ -546,6 +546,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/618b9fe41add6600071b25
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1, FORO TV [MEX]
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
+#EXTINF:-1, ADN40 [MEX]
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1, RT EN ESPAÑOL
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1, DW LATINO
@@ -633,6 +635,8 @@ https://vcp.myplaytv.com/canali/canali/chunklist_w447641521.m3u8
 
 #EXTINF:-1, TELPIN TV 2 [ARG]
 https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/chunklist_w402356780_b1344100_sleng.m3u8
+#EXTINF:-1, NET TV HD [ARG]
+http://regioplay.xyz/php/SR_REGIO_411112_/nettv.php?f=.m3u8
 #EXTINF:-1, TELEMAX HD [ARG]
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
 #EXTINF:-1,Canal 26 [ARG]
@@ -682,6 +686,8 @@ https://tls.cdnz.cl/cdoplus/smil:cdn.smil/chunklist_w2067637580_b800000_slesp.m3
 ********** INFANTILES 
 #EXTINF:0, LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8?WebM3UCL
+#EXTINF:0, ENERGEEK
+https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
  
 *************************** INTERNATIONAL
 
@@ -694,7 +700,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 >>> RELIGIOSO
 #EXTINF:-1, ENLACE
-https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
+http://45.181.122.17:8000/play/a036
 #EXTINF:-1, ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
 #EXTINF:-1, PAX TV [PER]
