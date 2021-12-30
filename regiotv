@@ -74,6 +74,8 @@ http://45.181.122.17:8000/play/a00o
 http://45.181.122.17:8000/play/a010
 #EXTINF:-1,GOL TV
 http://45.181.122.17:8000/play/a031
+#EXTINF:-1,TNT SPORTS
+http://45.4.0.46:8000/play/cdfhd
 #EXTINF:-1,TNT SPORTS 3
 http://45.181.122.17:8000/play/a00t
 #EXTINF:-1,TYC SPORTS
@@ -99,6 +101,12 @@ http://45.181.122.17:8000/play/a01a
 http://45.181.122.17:8000/play/a02h
 #EXTINF:-1,HBO
 http://45.181.122.17:8000/play/a008
+#EXTINF:-1,HBO FAMILY
+http://201.35.250.178:8001/play/a01n
+#EXTINF:-1,HBO MUNDI
+http://45.148.147.13:8009/play/a04s
+#EXTINF:-1,HBO POP BR
+http://45.148.147.13:8009/play/a04w
 #EXTINF:-1,CINEMAX
 http://45.181.122.17:8000/play/a009
 #EXTINF:-1,I SAT
@@ -111,7 +119,14 @@ http://45.181.122.17:8000/play/a01r
 http://45.181.122.17:8000/play/a02k
 #EXTINF:-1,A&E MUNDO
 http://45.181.122.17:8000/play/a00u
-
+#EXTINF:-1,STAR FUN
+http://45.4.0.46:8000/play/foxfamilyhd
+#EXTINF:-1,STAR ACTION
+http://45.4.0.46:8000/play/a0bg
+#EXTINF:-1,STAR HITS
+http://45.148.147.13:8002/play/a07l/index.m3u8
+#EXTINF:-1,TNT SERIES
+http://45.4.0.46:8000/play/a0bf
 
 
 #EXTINF:-1,LA RED
@@ -136,6 +151,8 @@ http://45.181.122.17:8000/play/a011
 http://45.181.122.17:8000/play/a00n
 #EXTINF:-1,LAS ESTRELLAS
 http://45.181.122.17:8000/play/a00y
+#EXTINF:-1,HOLA TV
+http://190.107.20.94:8000/play/a036
 #EXTINF:-1,ZONA LATINA
 http://45.181.122.17:8000/play/a02g
 #EXTINF:-1,PALMERAS TV
