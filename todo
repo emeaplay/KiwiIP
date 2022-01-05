@@ -695,6 +695,8 @@ https://tls.cdnz.cl/cdoplus/smil:cdn.smil/chunklist_w2067637580_b800000_slesp.m3
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8?WebM3UCL
 #EXTINF:0, ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
+#EXTINF:0, CARTOONS
+http://190.108.93.62:8000/play/a008
  
 *************************** INTERNATIONAL
 
