@@ -71,10 +71,16 @@ http://45.181.122.17:8000/play/a02q
 
 #EXTINF:-1,TELEMUNDO
 http://45.181.122.17:8000/play/a011
+#EXTINF:-1,TELEMUNDO USA
+http://71.187.29.220:8000/playlist.m3u8
 #EXTINF:-1,E! LATINO
 http://45.181.122.17:8000/play/a00n
 #EXTINF:-1,LAS ESTRELLAS
 http://45.181.122.17:8000/play/a00y
+#EXTINF:-1,UNIMAS
+http://71.187.29.220:8000/play/a08b/index.m3u8
+#EXTINF:-1,UNIVISION 41
+http://71.187.29.220:8000/play/a07t/index.m3u8
 #EXTINF:-1,HOLA TV
 http://190.107.20.94:8000/play/a036
 #EXTINF:-1,ZONA LATINA
@@ -168,6 +174,8 @@ http://45.181.122.17:8000/play/a032
 http://45.181.122.17:8000/play/a036
 #EXTINF:-1,ESNE
 http://45.181.122.17:8000/play/a00g
+#EXTINF:-1,ALIENTO
+http://71.187.29.220:8000/play/a06d/index.m3u8
 
 CANALES HD
 #EXTINF:-1,CHV HD
@@ -252,6 +260,14 @@ http://45.4.0.46:8000/play/a0bf
 http://45.4.0.46:8000/play/a0ap
 #EXTINF:-1,Warner Channel HD
 http://45.4.0.46:8000/play/a06e
+#EXTINF:-1,Star Action HD
+http://201.131.201.126:8000/play/a00e
+#EXTINF:-1,Star Cinema HD
+http://201.131.201.126:8000/play/a00g
+#EXTINF:-1,Star Series HD
+http://201.131.201.126:8000/play/a00i
+#EXTINF:-1,Star Hits HD
+http://201.131.201.126:8000/play/a00j
 #EXTINF:-1,Comedy Central HD
 http://45.4.0.46:8000/play/a0f5
 #EXTINF:-1, Comedy Central HD
