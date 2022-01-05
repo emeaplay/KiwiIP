@@ -111,6 +111,8 @@ http://45.181.122.17:8000/play/a02a
 http://45.181.122.17:8000/play/a00l
 #EXTINF:-1,NAT GEO WILD
 http://190.108.83.142:8000/play/a00w/index.m3u8
+#EXTINF:-1,TLC
+http://45.181.122.17:8000/play/a00w
 
 #EXTINF:-1,DISCOVERY KIDS
 http://45.181.122.17:8000/play/a013
@@ -176,7 +178,7 @@ http://45.4.0.46:8000/play/a0ap
 #EXTINF:-1,Studio Universal HD
 http://45.4.0.46:8000/play/studiouniversalhd
 #EXTINF:-1,FX HD
-http://45.4.0.46:8000/play/a0aw
+http://190.108.93.62:8000/play/a00x
 #EXTINF:-1,FX Movies HD
 http://45.4.0.46:8000/play/a05l
 #EXTINF:-1,Space HD
@@ -239,9 +241,7 @@ http://45.4.0.46:8000/play/a0aj
 #EXTINF:-1, ,Discovery H&H HD
 http://45.4.0.46:8000/play/a0al
 #EXTINF:-1, El Gourmet HD
-http://45.4.0.46:8000/play/a074
-#EXTINF:-1,TLC
-http://45.181.122.17:8000/play/a00w
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Food Network HD
 http://45.4.0.46:8000/play/foodnetworkhd
 #EXTINF:-1, ID HD
@@ -254,7 +254,6 @@ http://45.4.0.46:8000/play/foxlifehd
 http://45.4.0.46:8000/play/a0f5
 #EXTINF:-1, TRUTV HD
 http://45.4.0.46:8000/play/a073
-
 #EXTINF:-1,ESPN HD
 http://45.4.0.46:8000/play/a06j
 #EXTINF:-1, ESPN 2 HD
