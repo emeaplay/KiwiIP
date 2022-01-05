@@ -613,6 +613,8 @@ https://streaming.elpinguino.com:5391/live/EP.smil/chunklist_w1750945290_b139600
 >>>>>>>>>> ECUADOR
 #EXTINF:-1, TELEAMAZONAS ECU
 https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
+#EXTINF:-1, ECUAVISA -  ECU
+http://200.24.159.179:8500/play/a02g
  
 ********* ESPAÑA
 #EXTINF:0, TVE 24H [ESP]
