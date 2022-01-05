@@ -57,6 +57,8 @@ http://45.181.122.17:8000/play/a011
 http://71.187.29.220:8000/playlist.m3u8
 #EXTINF:-1,E! LATINO
 http://45.181.122.17:8000/play/a00n
+#EXTINF:-1,HOME & HEALTH
+http://200.24.159.179:8500/play/a01w
 #EXTINF:-1,LAS ESTRELLAS
 http://45.181.122.17:8000/play/a00y
 #EXTINF:-1,UNIMAS
@@ -298,6 +300,8 @@ http://45.4.0.46:8000/play/a057
 http://45.4.0.46:8000/play/a058
 #EXTINF:-1,TVN HD
 http://45.4.0.46:8000/play/a06r
+#EXTINF:-1,CNN EN ESPAÑOL
+http://200.24.159.179:8500/play/a00n
 #EXTINF:-1, CNN Chile HD
 http://45.4.0.46:8000/play/cnnchilehd
 #EXTINF:-1, Canal 24 Horas HD
