@@ -567,6 +567,8 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/chunks.m3u8
 https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqjA6FaBeQIvHb-d2q8zREHc)/dm/3/x7u0spq/d/live-2.m3u8
 #EXTINF:-1, CANAL 15 [MEX]
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w259630552.m3u8
+#EXTINF:-1, MILENIO [MEX]
+http://201.131.201.126:8000/play/a00n
  
 ********* CENTROAMERICA / EEUU
  
