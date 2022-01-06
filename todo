@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
+#EXTM3U 
+x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz
+https://i.mjh.nz/PlutoTV/es.xml.gz
 
 >>>>>>>>> PERU
 
