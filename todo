@@ -665,33 +665,16 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1, DMJ RADIO
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
-#EXTINF:0, ROUGE TV FRANCE
-https://rougetv.vedge.infomaniak.com/livecast/rougetv/chunklist_w1417010506.m3u8
 #EXTINF:-1, RETRO PLUS [PER]
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, RETRO PLUS 2 [PER]
-https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
- 
--------- DEPORTES
-#EXTINF:-1, REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:-1,BETIS TV
-https://cdnlive.shooowit.net/rbetislive/television.smil/chunklist_b1500000.m3u8
-#EXTINF:-1, CDO Play
-https://tls.cdnz.cl/cdoplus/smil:cdn.smil/chunklist_w2067637580_b800000_slesp.m3u8?WebM3UCL
   
 ********** INFANTILES 
-#EXTINF:0, LOCOMOTION
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8?WebM3UCL
 #EXTINF:0, ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
 #EXTINF:0, CARTOONS
 http://190.108.93.62:8000/play/a008
  
 *************************** INTERNATIONAL
-
-#EXTINF:-1,TRAVEL BULGARIA
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1,HD FASHION
