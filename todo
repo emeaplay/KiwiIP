@@ -36,8 +36,6 @@ http://190.108.93.62:8000/play/a004
 https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NACIONAL TV [PER]
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-#EXTINF:-1, NUESTRA TV [PER]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
 
 #EXTINF:-1, OnDaTV [PER]
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
