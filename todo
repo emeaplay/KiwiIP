@@ -56,8 +56,6 @@ https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1, VAMISA TV [PER]
 https://vps1.lnx.pe/vamisa/envivo/tracks-v1a1/mono.m3u8
-#EXTINF:-1, BeXtreme [PER]
-https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
 
 #EXTINF:-1, PERUANISIMA [PER]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
@@ -73,8 +71,6 @@ https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w
 https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HATUN TV [PER]
 https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, XM Musica [PER]
-https://video1.getstreamhosting.com:1936/8160/8160/chunklist_w665930304.m3u8
 
 #EXTINF:-1, ANTARES TV [PER]
 https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
@@ -117,6 +113,8 @@ https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w710333145.m3u
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1064538754.m3u8
 #EXTINF:-1, DRAIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1451105741.m3u8
+#EXTINF:-1, XM Musica [PER]
+https://video1.getstreamhosting.com:1936/8160/8160/chunklist_w665930304.m3u8
 
 >>>>>>> PLUTO TV MEXICO
 
