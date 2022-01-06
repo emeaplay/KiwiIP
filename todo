@@ -568,8 +568,6 @@ http://162.241.190.126:1935/live/canal4/playlist.m3u8
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1, TELEPLAY [MEX]
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/chunks.m3u8
-#EXTINF:-1, TELEFORMULA [MEX]
-https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqjA6FaBeQIvHb-d2q8zREHc)/dm/3/x7u0spq/d/live-2.m3u8
 #EXTINF:-1, CANAL 15 [MEX]
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w259630552.m3u8
 #EXTINF:-1, MILENIO [MEX]
@@ -591,16 +589,10 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w850289925.m3u8
 ******** COLOMBIA 
 #EXTINF:-1, TELE ISLAS [COL]
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1045131864.m3u8
-#EXTINF:-1, ZOOM TV [COL]
-https://15306896-8b0c-4319-a479-c29bef5aecbd.iaia.stream/15306896-8b0c-4319-a479-c29bef5aecbd/bcf7b3b2c575/chunklist.m3u8
 #EXTINF:-1, CALI TV [COL]
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3u8
 
 ********** CHILE
-#EXTINF:-1, CANAL 13 Series [CHI] 
-https://stmv1.srvif.com/laredtv/laredtv/chunklist_w178770601.m3u8?WebM3UCL
-#EXTINF:-1, CANAL 13 Prime [CHI] 
-https://stmv1.srvif.com/canal9/canal9/chunklist_w2139535447.m3u8 
 #EXTINF:-1, LA RED [CHI]
 https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
 #EXTINF:-1, HISPANTV [CHI]
@@ -613,24 +605,20 @@ http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 https://streaming.elpinguino.com:5391/live/EP.smil/chunklist_w1750945290_b1396000_slspa.m3u8
 
 >>>>>>>>>> ECUADOR
-#EXTINF:-1, TELEAMAZONAS ECU
-https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
 #EXTINF:-1, ECUAVISA -  ECU
 http://200.24.159.179:8500/play/a02g
  
 ********* ESPAÑA
 #EXTINF:0, TVE 24H [ESP]
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
-#EXTINF:0, TVE LA 1 [ESP]
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 
 ******* PARAGUAY
 #EXTINF:-1, UNICANAL [PAR]
 http://45.55.127.106/live/unicanal_mid.m3u8
 
 >>>>>>  URUGUAY
-#EXTINF:-1, LA RED [URU]
-https://stmv1.srvif.com/laredtv/laredtv/chunklist_w1299261034.m3u
+#EXTINF:-1, La Red [URU] 
+https://stmv1.srvif.com/laredtv/laredtv/chunklist_w178770601.m3u8?WebM3UCL
  
 ******** VENEZUELA
 
@@ -646,8 +634,6 @@ https://vcp.myplaytv.com/canali/canali/chunklist_w447641521.m3u8
 
 #EXTINF:-1, TELPIN TV 2 [ARG]
 https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/chunklist_w402356780_b1344100_sleng.m3u8
-#EXTINF:-1, NET TV HD [ARG]
-http://regioplay.xyz/php/SR_REGIO_411112_/nettv.php?f=.m3u8
 #EXTINF:-1, TELEMAX HD [ARG]
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
 #EXTINF:-1,Canal 26 [ARG]
