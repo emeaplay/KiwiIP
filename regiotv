@@ -8,7 +8,7 @@ http://45.181.122.17:8000/play/a00a
 http://45.181.122.17:8000/play/a00m
 #EXTINF:-1,STAR CHANNEL
 http://45.181.122.17:8000/play/a02j
-#EXTINF:-1,AXN USA
+#EXTINF:-1,AXN
 http://45.181.122.17:8000/play/a00b
 #EXTINF:-1,UNIVERSAL CHANNEL
 http://45.181.122.17:8000/play/a02d
@@ -18,16 +18,10 @@ http://45.4.0.46:8000/play/studiouniversalhd
 http://45.181.122.17:8000/play/a00d
 #EXTINF:-1,FX MOVIES
 http://45.181.122.17:8000/play/a01a
-#EXTINF:-STAR LIFE
+#EXTINF:-1,STAR LIFE
 http://45.181.122.17:8000/play/a02h
 #EXTINF:-1,HBO
 http://45.181.122.17:8000/play/a008
-#EXTINF:-1,HBO FAMILY
-http://201.35.250.178:8001/play/a01n
-#EXTINF:-1,HBO MUNDI
-http://45.148.147.13:8009/play/a04s
-#EXTINF:-1,HBO POP BR
-http://45.148.147.13:8009/play/a04w
 #EXTINF:-1,CINEMAX
 http://45.181.122.17:8000/play/a009
 #EXTINF:-1,I SAT
@@ -44,8 +38,6 @@ http://45.181.122.17:8000/play/a00u
 http://45.4.0.46:8000/play/foxfamilyhd
 #EXTINF:-1,STAR ACTION
 http://45.4.0.46:8000/play/a0bg
-#EXTINF:-1,STAR HITS
-http://45.148.147.13:8002/play/a07l/index.m3u8
 #EXTINF:-1,STAR COMEDY
 http://45.4.0.46:8000/play/a07g
 #EXTINF:-1,TNT SERIES
@@ -53,8 +45,6 @@ http://45.4.0.46:8000/play/a0bf
 
 #EXTINF:-1,TELEMUNDO
 http://45.181.122.17:8000/play/a011
-#EXTINF:-1,TELEMUNDO USA
-http://71.187.29.220:8000/playlist.m3u8
 #EXTINF:-1,E! LATINO
 http://45.181.122.17:8000/play/a00n
 #EXTINF:-1,HOME & HEALTH
@@ -63,10 +53,8 @@ http://200.24.159.179:8500/play/a01w
 http://45.181.122.17:8000/play/a00y
 #EXTINF:-1,UNIMAS
 http://71.187.29.220:8000/play/a08b/index.m3u8
-#EXTINF:-1,UNIVISION 41
+#EXTINF:-1,UNIVISION
 http://71.187.29.220:8000/play/a07t/index.m3u8
-#EXTINF:-1,HOLA TV
-http://190.107.20.94:8000/play/a036
 #EXTINF:-1,ZONA LATINA
 http://45.181.122.17:8000/play/a02g
 #EXTINF:-1,PALMERAS TV
