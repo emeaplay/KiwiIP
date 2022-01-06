@@ -61,20 +61,14 @@ http://45.181.122.17:8000/play/a02g
 http://190.108.83.142:8000/play/a00a/index.m3u8
 #EXTINF:-1,ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
-#EXTINF:-1,MULTIMEDIOS
-http://regioplay.xyz/php/SR_REGIO_411112_/multimedios.php?f=.m3u8
 #EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,LATINOS TV
-https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
-#EXTINF:-1,TELEMETRIKA
+#EXTINF:-1,TELEMETRIKA 26
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1,REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1,MTV HITS
 http://45.181.122.17:8000/play/a02f
-#EXTINF:-1,MX FAMILY
-http://190.108.83.142:8000/play/a002/index.m3u8
 #EXTINF:-1,MX CLASSIC
 http://190.108.83.142:8000/play/a004/index.m3u8
 
@@ -87,7 +81,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1,DISCOVERY
 http://45.181.122.17:8000/play/a00k
-#EXTINF:-1,DISCOVERY 2
+#EXTINF:-1,HOME & HEALTH
 http://45.181.122.17:8000/play/a01t
 #EXTINF:-1,INVESTIGACION ID
 http://45.181.122.17:8000/play/a01p
@@ -118,8 +112,6 @@ http://45.181.122.17:8000/play/a02l
 http://45.181.122.17:8000/play/a00e
 #EXTINF:-1,NICK
 http://45.181.122.17:8000/play/a028
-#EXTINF:-1,PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 #EXTINF:-1,NTV
 http://45.181.122.17:8000/play/a01n
 
