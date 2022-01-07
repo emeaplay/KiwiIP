@@ -40,8 +40,6 @@ https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
 #EXTINF:-1, CENTRAL TV [PER]
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1, RETROPLUS 3 [PER]
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1, CULTURA 24 HORAS [PER]
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 
@@ -53,34 +51,38 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PERU Channel [PER]
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1, VAMISA TV [PER]
-https://vps1.lnx.pe/vamisa/envivo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, PERUANISIMA [PER]
-http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, KARIBEÑA TV [PER]
-https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1, VISION MUSICA [PER]
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, BESTCABLE MUSIC [PER]
 https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SAN BORJA RADIO TV [PER]
-https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
-#EXTINF:-1, MAS CUMBIA+ [PER]
+#EXTINF:-1, TPTO CHANNEL [PER]
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
+#EXTINF:-1,MAS CUMBIA+ [PER]
 https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
-#EXTINF:-1, STEREO TV [PER]
+#EXTINF:-1,STEREO TV [PER]
 https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
-#EXTINF:-1, HATUN TV [PER]
-https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, XTV [PER]
-https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
-#EXTINF:-1, ANTARES TV [PER]
-https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1, GACETA Ucayali [PER]
-https://tvsource.gacetaucayalina.com/hls/prueba.m3u8
 #EXTINF:-1,TROPICAL TV [PER]
 https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
+#EXTINF:-1,KARIBEÑA TV [PER]
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+#EXTINF:-1,PERUANISIMA [PER]
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,SAN BORJA RADIO TV [PER]
+https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
+#EXTINF:-1,HATUN TV [PER]
+https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, COSMOS TV Trujillo [PER]
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1, XTV Amazonas [PER]
+https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
+#EXTINF:-1, GACETA Ucayali [PER]
+https://tvsource.gacetaucayalina.com/hls/prueba.m3u8
+#EXTINF:-1, VIA Altomayo [PER]
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1, ANTARES TV Moyobamba [PER]
+https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1, VIA TV Tarapoto [PER]
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1686830471.m3u8
 #EXTINF:-1, MEGA TV Arequipa [PER]
@@ -89,8 +91,8 @@ https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w275466573.m3u8
 #EXTINF:-1, TURBO MIX Cajamarca [PER]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1, TV NORTE [PER]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
+#EXTINF:-1, VAMISA TV [PER]
+https://vps1.lnx.pe/vamisa/envivo/tracks-v1a1/mono.m3u8
 
 ------ PELICULAS
 #EXTINF:-1, TVMAS+ CL
@@ -99,6 +101,8 @@ https://593b04c4c5670.streamlock.net/8008/8008/chunklist_w602230253.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w280801424.m3u8
 #EXTINF:-1, EVASTREAM
 https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w995112258.m3u8
+#EXTINF:-1, RETROPLUS 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1, WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w176717118_b1500000_slen.m3u8
 #EXTINF:-1, TV RETRO
@@ -419,7 +423,6 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 https://stmv1.srvif.com/laredtv/laredtv/chunklist_w178770601.m3u8?WebM3UCL
  
 ******** VENEZUELA
-
 #EXTINF:-1,TELESUR [VEN]
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1, TLT - TODA LA TV [VEN]
@@ -429,7 +432,6 @@ https://vcp.myplaytv.com/canali/canali/chunklist_w447641521.m3u8
  
  
 ****** ARGENTINA
-
 #EXTINF:-1, TELPIN TV 2 [ARG]
 https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/chunklist_w402356780_b1344100_sleng.m3u8
 #EXTINF:-1, TELEMAX HD [ARG]
@@ -463,8 +465,10 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1, DMJ RADIO
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, RETRO PLUS [PER]
+#EXTINF:-1, RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, RETRO PLUS 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1453280398.m3u8
   
 ********** INFANTILES 
 #EXTINF:0, ENERGEEK
