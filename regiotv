@@ -30,6 +30,8 @@ http://45.181.122.17:8000/play/a00c
 http://45.181.122.17:8000/play/a01r
 #EXTINF:-1,TCM
 http://45.181.122.17:8000/play/a02k
+#EXTINF:-1,RETRO
+http://190.108.93.62:8000/play/a001
 #EXTINF:-1,A&E MUNDO
 http://45.181.122.17:8000/play/a00u
 
@@ -39,12 +41,16 @@ http://45.181.122.17:8000/play/a011
 http://45.181.122.17:8000/play/a00n
 #EXTINF:-1,HOME & HEALTH
 http://200.24.159.179:8500/play/a01w
+#EXTINF:-1,FOOD NETWORK
+http://190.108.93.62:8000/play/a01a
 #EXTINF:-1,LAS ESTRELLAS
 http://45.181.122.17:8000/play/a00y
 #EXTINF:-1,UNIMAS
 http://71.187.29.220:8000/play/a08b/index.m3u8
 #EXTINF:-1,UNIVISION
 http://71.187.29.220:8000/play/a07t/index.m3u8
+#EXTINF:-1,TL NOVELAS
+http://190.108.93.62:8000/play/a00e
 #EXTINF:-1,ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
 #EXTINF:-1,ESTRELLA TV
@@ -55,6 +61,8 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1,MX CLASSIC
 http://190.108.83.142:8000/play/a004/index.m3u8
+#EXTINF:-1,ZEE MUNDO
+http://190.108.93.62:8000/play/a01c
 
 #EXTINF:-1,CNN EN ESPAÑOL
 http://45.181.122.17:8000/play/a014
