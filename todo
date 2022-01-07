@@ -40,6 +40,8 @@ https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
 #EXTINF:-1, CENTRAL TV [PER]
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1, RETROPLUS 3 [PER]
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1, CULTURA 24 HORAS [PER]
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 
@@ -66,6 +68,8 @@ https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
 https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
 #EXTINF:-1, MAS CUMBIA+ [PER]
 https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
+#EXTINF:-1, STEREO TV [PER]
+https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
 #EXTINF:-1, HATUN TV [PER]
 https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
 
@@ -84,6 +88,8 @@ https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w275466573.m3u8
 #EXTINF:-1, TURBO MIX Cajamarca [PER]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1, TV NORTE [PER]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
 
 ------ PELICULAS
 
