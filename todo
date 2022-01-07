@@ -104,6 +104,8 @@ https://593b04c4c5670.streamlock.net/8008/8008/chunklist_w602230253.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w280801424.m3u8
 #EXTINF:-1, EVASTREAM
 https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w995112258.m3u8
+#EXTINF:-1, ITV
+http://190.108.93.62:8000/play/a003
 #EXTINF:-1, RETROPLUS 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1, WOW TV
