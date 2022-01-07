@@ -64,8 +64,8 @@ https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
 https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 #EXTINF:-1,KARIBEÑA TV [PER]
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
-#EXTINF:-1,PERUANISIMA [PER]
-http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,PALMERAS TV
+http://190.108.83.142:8000/play/a00a/index.m3u8
 #EXTINF:-1,SAN BORJA RADIO TV [PER]
 https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
 #EXTINF:-1,HATUN TV [PER]
