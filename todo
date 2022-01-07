@@ -56,8 +56,6 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, BESTCABLE MUSIC [PER]
 https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1, TPTO CHANNEL [PER]
-https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:-1,MAS CUMBIA+ [PER]
 https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STEREO TV [PER]
@@ -85,6 +83,10 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1, VIA TV Tarapoto [PER]
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1686830471.m3u8
+#EXTINF:-1, TPTO CHANNEL Tarapoto [PER]
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
+#EXTINF:-1, Tarapoto TV [PER]
+https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
 #EXTINF:-1, MEGA TV Arequipa [PER]
 https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HECHICERA Tumbes[PER]
