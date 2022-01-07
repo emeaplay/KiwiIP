@@ -12,8 +12,6 @@ http://45.181.122.17:8000/play/a02j
 http://45.181.122.17:8000/play/a00b
 #EXTINF:-1,UNIVERSAL CHANNEL
 http://45.181.122.17:8000/play/a02d
-#EXTINF:-1,Studio Universal HD
-http://45.4.0.46:8000/play/studiouniversalhd
 #EXTINF:-1,FX
 http://45.181.122.17:8000/play/a00d
 #EXTINF:-1,FX MOVIES
@@ -47,8 +45,6 @@ http://45.181.122.17:8000/play/a00y
 http://71.187.29.220:8000/play/a08b/index.m3u8
 #EXTINF:-1,UNIVISION
 http://71.187.29.220:8000/play/a07t/index.m3u8
-#EXTINF:-1,ZONA LATINA
-http://45.181.122.17:8000/play/a02g
 #EXTINF:-1,ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
 #EXTINF:-1,ESTRELLA TV
