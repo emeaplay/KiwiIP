@@ -1,73 +1,71 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz
 
 >>>>>>>>> PERU
-#EXTINF:-1, WILLAX [PER]
+#EXTINF:-1, WILLAX
 http://190.108.93.62:8000/play/a004
-#EXTINF:-1, LATINA TV [PER]
+#EXTINF:-1, LATINA
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
-#EXTINF:0, BH TV [PER]
+#EXTINF:0, BH
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:0, EXITOSA NOTICIAS [PER]
+#EXTINF:0, EXITOSA NOTICIAS
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
-#EXTINF:0, PANAMERICANA TV [PER]
+#EXTINF:0, PANAMERICANA
 http://190.108.93.62:8000/play/a012
-#EXTINF:-1, VISION NOTICIAS [PER]
+#EXTINF:-1, VISION NOTICIAS
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
 #EXTINF:-1, TV PERU [PER]
 https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1, ATV+ NOTICIAS [PER]
+#EXTINF:-1, ATV+ NOTICIAS
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
-#EXTINF:-1, ATV [PER]
+#EXTINF:-1, ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
-#EXTINF:-1, UCI NOTICIAS [PER]
+#EXTINF:-1, UCI NOTICIAS
 https://mediastreamm.com:3449/live/mlecaroslive.m3u8
-#EXTINF:-1, iPe - IDENTIDAD PERUANA [PER] 
+#EXTINF:-1, iPe - IDENTIDAD PERUANA
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1, TV PERU NOTICIAS [PER]
+#EXTINF:-1, TV PERU NOTICIAS
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1, BEST CABLE TV [PER]
+#EXTINF:-1, BESTCABLE
 https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
-#EXTINF:-1, NACIONAL TV [PER]
+#EXTINF:-1, NACIONAL TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 
-#EXTINF:-1, OnDaTV [PER]
+#EXTINF:-1, OnDaTV
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
-#EXTINF:-1, ONDA DIGITAL [PER]
+#EXTINF:-1, ONDA DIGITAL
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
-#EXTINF:-1, CENTRAL TV [PER]
+#EXTINF:-1, CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1, CULTURA 24 HORAS [PER]
+#EXTINF:-1, CULTURA 24 HORAS
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1, TOP LATINO [PER]
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w382350287.m3u8
-#EXTINF:-1, MONTERRICO TV / JOCKEY CLUB [PER]
+#EXTINF:-1, MONTERRICO TV / JOCKEY CLUB
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1, OVACION 620 TV [PER]
+#EXTINF:-1, OVACION 620
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1, BEST CABLE SPORTS [PER]
+#EXTINF:-1, BESTCABLE SPORTS
 https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PERU Channel [PER]
+#EXTINF:-1, PERU Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
-#EXTINF:-1, VISION MUSICA [PER]
+#EXTINF:-1, VISION MUSICA
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, BESTCABLE MUSIC [PER]
+#EXTINF:-1, BESTCABLE MUSIC
 https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MAS CUMBIA+ [PER]
 https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STEREO TV [PER]
+#EXTINF:-1,STEREO TV
 https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
-#EXTINF:-1,TROPICAL TV [PER]
-https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
-#EXTINF:-1,KUMBIA MIX [PER]
+#EXTINF:-1,KUMBIA MIX
 http://190.108.93.62:8000/play/a007
-#EXTINF:-1,KARIBEÑA TV [PER]
+#EXTINF:-1,KARIBEÑA
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
-#EXTINF:-1,PALMERAS TV
+#EXTINF:-1,PALMERAS
 http://190.108.83.142:8000/play/a00a/index.m3u8
-#EXTINF:-1,SAN BORJA RADIO TV [PER]
+#EXTINF:-1,SAN BORJA RADIO
 https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
-#EXTINF:-1,HATUN TV [PER]
+#EXTINF:-1,HATUN TV
 https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, COSMOS TV Trujillo [PER]
@@ -82,8 +80,6 @@ https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1686830471.m3u8
 #EXTINF:-1, TPTO CHANNEL Tarapoto [PER]
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
-#EXTINF:-1, Tarapoto TV [PER]
-https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
 #EXTINF:-1, HECHICERA Tumbes[PER]
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w275466573.m3u8
 #EXTINF:-1, TURBO MIX Cajamarca [PER]
@@ -170,6 +166,16 @@ http://45.181.122.17:8000/play/a014
 http://45.181.122.17:8000/play/a01l
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0, VOA Noticias EEUU
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1, FORO TV [MEX]
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
+#EXTINF:-1, RT EN ESPAÑOL
+https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1, DW LATINO
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1, TV SALUD [CHI]
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
 
 #EXTINF:-1,DISCOVERY
 http://45.181.122.17:8000/play/a00k
@@ -474,19 +480,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1d
 #EXTINF:-1 tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="157" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png",MTV Classic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-::::: NOTICIAS
-#EXTINF:0, VOA Noticias EEUU
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1, FORO TV [MEX]
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
-#EXTINF:-1, ADN40 [MEX]
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1, RT EN ESPAÑOL
-https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1, DW LATINO
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1, TV SALUD [CHI]
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
  
 ******* MEXICO
 #EXTINF:-1, NRT [MEX]
@@ -591,8 +584,6 @@ https://mediastreamm.com:3149/live/jn19tvlive.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:-1, 3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1, EL SEMBRADOR - ESNE
-https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-b.m3u8?F38b1dF4=61cb8fcc6b0cdd000185128d&6pLKMQ3y=Sqi3Ng90&video_id=5f978263e036f600019f66c2&sd=10&dw=10800&rebase=on
 #EXTINF:-1,ESNE
 http://45.181.122.17:8000/play/a00g
 #EXTINF:-1,ALIENTO
