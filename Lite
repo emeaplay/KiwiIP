@@ -159,6 +159,8 @@ http://190.108.93.62:8000/play/a01a
 http://45.225.93.154:8000/play/a03c
 #EXTINF:-1,LAS ESTRELLAS
 http://45.181.122.17:8000/play/a00y
+#EXTINF:-1,RCN Novelas
+http://45.181.122.17:8000/play/a033
 #EXTINF:-1,UNIMAS
 http://71.187.29.220:8000/play/a08b/index.m3u8
 #EXTINF:-1,UNIVISION
