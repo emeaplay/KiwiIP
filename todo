@@ -590,8 +590,6 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b18
 :::::: MUSICA ::::::::
 #EXTINF:-1, VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1, LATINOS UP!
-https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1128295852.m3u8?WebM3UCL
 #EXTINF:-1, LATINOS RADIO
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w33165640.m3u8
 #EXTINF:-1,PORTAL FOXMIX
@@ -613,9 +611,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1, RETRO PLUS 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1453280398.m3u8
   
-********** INFANTILES 
-#EXTINF:0, ENERGEEK
-https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
+********** INFANTILES
 #EXTINF:0, CARTOONS
 http://190.108.93.62:8000/play/a008
 #EXTINF:0, XKIDS
