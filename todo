@@ -551,6 +551,8 @@ https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1045131864.m3u8
 #EXTINF:-1, CALI TV [COL]
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3u8
+#EXTINF:-1, CARACOL [COL]
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 ********** CHILE
 #EXTINF:-1,TV+ HD [CHI]
