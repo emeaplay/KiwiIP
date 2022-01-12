@@ -590,8 +590,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 ********** INFANTILES
  
 >>> RELIGIOSO
-#EXTINF:-1, ENLACE
+#EXTINF:-1,ENLACE
 http://45.181.122.17:8000/play/a036
+#EXTINF:-1,BETHEL
+http://190.108.83.142:8000/play/a00m/index.m3u8
 #EXTINF:-1, ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
 #EXTINF:-1, PAX TV [PER]
@@ -600,7 +602,7 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m
 https://mediastreamm.com:3149/live/jn19tvlive.m3u8
 #EXTINF:-1, EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
-#EXTINF:-1, 3ABN
+#EXTINF:-1,3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1,ESNE
 http://45.181.122.17:8000/play/a00g
