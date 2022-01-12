@@ -379,8 +379,18 @@ http://45.181.122.17:8000/play/a00d
 http://45.181.122.17:8000/play/a01a
 #EXTINF:-1,STAR LIFE
 http://45.181.122.17:8000/play/a02h
+#EXTINF:-1,CineCANAL
+http://200.24.159.179:8500/play/a005
 #EXTINF:-1,HBO
 http://45.181.122.17:8000/play/a008
+#EXTINF:-1,HBO 2
+http://200.24.159.179:8500/play/a00z
+#EXTINF:-1,HBO Family
+http://200.24.159.179:8500/play/a012
+#EXTINF:-1,HBO Plus
+http://200.24.159.179:8500/play/a010
+#EXTINF:-1,HBO XTREME SD
+http://200.24.159.179:8500/play/a011
 #EXTINF:-1,CINEMAX
 http://45.181.122.17:8000/play/a009
 #EXTINF:-1,I SAT
@@ -489,12 +499,7 @@ http://45.181.122.17:8000/play/a00t
 #EXTINF:-1,TYC SPORTS
 http://45.181.122.17:8000/play/a032
 
-#EXTINF:-1,ENLACE
-http://45.181.122.17:8000/play/a036
-#EXTINF:-1,ESNE
-http://45.181.122.17:8000/play/a00g
-#EXTINF:-1,ALIENTO
-http://71.187.29.220:8000/play/a06d/index.m3u8
+
 
 >>>>>> NOTICIAS
 #EXTINF:0, VOA Noticias EEUU
@@ -507,6 +512,10 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1, DW LATINO
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1, TIERRA MIA [ARG]
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
+#EXTINF:-1, TV SALUD [CHI]
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
  
 ******* MEXICO
 
@@ -533,7 +542,10 @@ http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1562564002.m3u8
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
 #EXTINF:0, Tele UNO [HON]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w850289925.m3u8
- 
+
+#EXTINF:0, ATB [BOL]
+https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
+
 ******** COLOMBIA 
 #EXTINF:-1, TELE ISLAS [COL]
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1045131864.m3u8
@@ -541,20 +553,28 @@ https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklis
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3u8
 
 ********** CHILE
+#EXTINF:-1,TV+ HD [CHI]
+http://200.24.159.179:8500/play/a03h
 #EXTINF:-1, LA RED [CHI]
 https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
 #EXTINF:-1, HISPANTV [CHI]
 https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w454849143.m3u8
-#EXTINF:-1, TV SALUD [CHI]
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
 #EXTINF:-1, VALLE TV  [CHI]
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 #EXTINF:-1, EL PINGUINO TV  [CHI]
 https://streaming.elpinguino.com:5391/live/EP.smil/chunklist_w1750945290_b1396000_slspa.m3u8
 
 >>>>>>>>>> ECUADOR
-#EXTINF:-1, ECUAVISA -  ECU
+#EXTINF:-1,RTS [ECU]
+http://200.24.159.179:8500/play/a034
+#EXTINF:-1,Ecuador TV [ECU]
+http://200.24.159.179:8500/play/a026
+#EXTINF:-1, ECUAVISA [ECU]
 http://200.24.159.179:8500/play/a02g
+#EXTINF:-1,TC Television
+http://200.24.159.179:8500/play/a02d
+#EXTINF:-1,Teleamazonas
+http://200.24.159.179:8500/play/a02h
  
 ********* ESPAÑA
 #EXTINF:0, TVE 24H [ESP]
@@ -588,12 +608,12 @@ http://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w1526017555_b414000
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1,MULTIVISION [ARG]
 http://panel.dattalive.com:1935/8250/8250/chunklist_w331166309.m3u8
-#EXTINF:-1, TIERRA MIA [ARG]
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
 
 :::::: MUSICA ::::::::
 #EXTINF:-1, VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1, VEVO Reggaeton
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 #EXTINF:-1, LATINOS RADIO
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w33165640.m3u8
 #EXTINF:-1,PORTAL FOXMIX
@@ -606,6 +626,8 @@ http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1,KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1,CAROLINA RADIO
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 #EXTINF:-1, Radio M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1, MOLA TV
@@ -646,6 +668,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1, EL SEMBRADOR - ESNE
 https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-b.m3u8?F38b1dF4=61cb8fcc6b0cdd000185128d&6pLKMQ3y=Sqi3Ng90&video_id=5f978263e036f600019f66c2&sd=10&dw=10800&rebase=on
-
+#EXTINF:-1,ESNE
+http://45.181.122.17:8000/play/a00g
+#EXTINF:-1,ALIENTO
+http://71.187.29.220:8000/play/a06d/index.m3u8
 
 
