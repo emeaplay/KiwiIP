@@ -1,37 +1,37 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz
 
 >>>>>>>>> PERU
-#EXTINF:-1, TOP LATINO [PER]
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w382350287.m3u8
-#EXTINF:-1, LATINA TV [PER]
-https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
-#EXTINF:0, BH TV [PER]
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1, VISION NOTICIAS [PER]
-https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
-#EXTINF:0, PANAMERICANA TV [PER]
-http://190.108.93.62:8000/play/a012
-#EXTINF:0, EXITOSA NOTICIAS [PER]
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
-#EXTINF:-1, TV PERU [PER]
-https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1, ATV+ NOTICIAS [PER]
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
-#EXTINF:-1, ATV [PER]
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
-#EXTINF:-1, UCI NOTICIAS [PER]
-https://mediastreamm.com:3449/live/mlecaroslive.m3u8
-#EXTINF:-1, TVPERU INTERNACIONAL [PER]
-https://cdnh8.iblups.com/hls/irtp.m3u8
-#EXTINF:-1, iPe - IDENTIDAD PERUANA [PER] 
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1, TV PERU NOTICIAS [PER]
-https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1, WILLAX [PER]
+#EXTINF:-1, WILLAX
 http://190.108.93.62:8000/play/a004
-#EXTINF:-1, BEST CABLE TV [PER]
+#EXTINF:-1, LATINA
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
+#EXTINF:0, BH
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0, EXITOSA NOTICIAS
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+#EXTINF:0, PANAMERICANA
+http://190.108.93.62:8000/play/a012
+#EXTINF:-1, VISION NOTICIAS
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
+#EXTINF:-1, TV PERU
+http://190.108.83.142:8000/play/a00i/index.m3u8
+#EXTINF:-1, ATV+ NOTICIAS
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
+#EXTINF:-1, ATV
+http://190.108.83.142:8000/play/a00t/index.m3u8
+#EXTINF:-1, UCI NOTICIAS
+https://mediastreamm.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1, iPe - IDENTIDAD PERUANA
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1, TV PERU NOTICIAS
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1, GLOBAL
+http://190.108.93.62:8000/play/a013
+#EXTINF:-1, BESTCABLE
 https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
-#EXTINF:-1, NACIONAL TV [PER]
+#EXTINF:-1, JUSTICIA TV
+http://190.108.83.142:8000/play/a00h/index.m3u8
+#EXTINF:-1, NACIONAL TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 
 #EXTINF:-1, OnDaTV [PER]
