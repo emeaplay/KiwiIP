@@ -25,9 +25,7 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1, TV PERU NOTICIAS
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1, GLOBAL
-http://190.108.93.62:8000/play/a013
-#EXTINF:-1, JUSTICIA TV
-http://190.108.83.142:8000/play/a00h/index.m3u8
+http://190.108.93.62:8000/play/a013411
 #EXTINF:-1, NACIONAL TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 
@@ -130,6 +128,8 @@ http://45.181.122.17:8000/play/a02k
 http://190.108.93.62:8000/play/a001
 #EXTINF:-1,A&E MUNDO
 http://45.181.122.17:8000/play/a00u
+#EXTINF:-1,OLD City
+http://190.108.93.62:8000/play/a00i
 
 #EXTINF:-1,TELEMUNDO
 http://45.181.122.17:8000/play/a011
