@@ -7,12 +7,12 @@ http://190.108.93.62:8000/play/a004
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
 #EXTINF:0, BH
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:0, EXITOSA NOTICIAS
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
-#EXTINF:0, PANAMERICANA
-http://190.108.93.62:8000/play/a012
 #EXTINF:-1, VISION NOTICIAS
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
+#EXTINF:0, PANAMERICANA
+http://190.108.93.62:8000/play/a012
+#EXTINF:-1, BESTCABLE
+https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TV PERU
 http://190.108.83.142:8000/play/a00i/index.m3u8
 #EXTINF:-1, ATV+ NOTICIAS
@@ -27,13 +27,13 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1, GLOBAL
 http://190.108.93.62:8000/play/a013
-#EXTINF:-1, BESTCABLE
-https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1, JUSTICIA TV
 http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:-1, NACIONAL TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 
+#EXTINF:-1, FUEGO
+http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1, OnDaTV
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 #EXTINF:-1, ONDA DIGITAL
@@ -42,59 +42,56 @@ https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1, CULTURA 24 HORAS
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:-1, TOP LATINO
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w382350287.m3u8
+#EXTINF:-1, PERU Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+
 #EXTINF:-1, MONTERRICO TV / JOCKEY CLUB
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1, OVACION 620
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1, BESTCABLE SPORTS
 https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PERU Channel
-https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1, FUEGO
-http://190.108.83.142:8000/play/a003/index.m3u8
 
+#EXTINF:-1, TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w382350287.m3u8
 #EXTINF:-1, VISION MUSICA
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, BESTCABLE MUSIC
 https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MAS CUMBIA+
 https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STEREO TV
-https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
 #EXTINF:-1,KUMBIA MIX
 http://190.108.93.62:8000/play/a007
 #EXTINF:-1,KARIBEÑA
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
-#EXTINF:-1,PALMERAS
-http://190.108.83.142:8000/play/a00a/index.m3u8
 #EXTINF:-1,SAN BORJA RADIO
-https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w1957738094.m3u8
 #EXTINF:-1,HATUN TV
 https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,PALMERAS Piura
+http://190.108.83.142:8000/play/a00a/index.m3u8
 #EXTINF:-1, PIURA TV
 http://190.108.83.142:8000/play/a00d/index.m3u8
-#EXTINF:-1, COSMOS TV Trujillo [PER]
+#EXTINF:-1, COSMOS TV Trujillo
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1, ANTARES Moyobamba
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w524828890.m3u8
 #EXTINF:-1, CTC Cusco
 http://190.108.83.142:8000/play/a007/index.m3u8
-#EXTINF:-1, XTV Amazonas [PER]
+#EXTINF:-1, XTV Amazonas
 https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
-#EXTINF:-1, VIA Altomayo [PER]
+#EXTINF:-1, VIA Altomayo
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
-#EXTINF:-1, ANTARES TV Moyobamba [PER]
-https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1, VIA TV Tarapoto [PER]
+#EXTINF:-1, VIA TV Tarapoto
 https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1686830471.m3u8
-#EXTINF:-1, TPTO CHANNEL Tarapoto [PER]
+#EXTINF:-1, TPTO CHANNEL Tarapoto 
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:-1, HECHICERA Tumbes[PER]
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w275466573.m3u8
-#EXTINF:-1, TURBO MIX Cajamarca [PER]
+#EXTINF:-1, TURBO MIX Cajamarca
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1, VAMISA TV [PER]
+#EXTINF:-1, VAMISA TV
 https://vps1.lnx.pe/vamisa/envivo/tracks-v1a1/mono.m3u8
 
 ::::::: TV CABLE
