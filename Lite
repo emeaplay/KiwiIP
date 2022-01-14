@@ -141,12 +141,16 @@ http://190.122.96.187:8888/http/006
 http://200.24.159.179:8500/play/a01w
 #EXTINF:-1,FOOD NETWORK
 http://190.108.93.62:8000/play/a01a
+#EXTINF:-1,El Gourmet
+http://45.4.0.46:8000/play/a074
 #EXTINF:-1,Claro CINEMA
 http://45.225.93.154:8000/play/a03c
 #EXTINF:-1,LAS ESTRELLAS
 http://45.181.122.17:8000/play/a00y
 #EXTINF:-1,RCN Novelas
 http://45.181.122.17:8000/play/a033
+#EXTINF:-1,Pasiones
+http://45.4.0.46:8000/play/pasioneshd
 #EXTINF:-1,UNIMAS
 http://71.187.29.220:8000/play/a08b/index.m3u8
 #EXTINF:-1,UNIVISION
@@ -154,11 +158,9 @@ http://71.187.29.220:8000/play/a07t/index.m3u8
 #EXTINF:-1,TL NOVELAS
 http://190.108.93.62:8000/play/a00e
 #EXTINF:-1,TRUTV
-http://190.108.93.62:8000/play/a01c
+http://45.4.0.46:8000/play/a073
 #EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,TELEMETRIKA 26
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1,REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1,MX CLASSIC
@@ -170,6 +172,8 @@ http://190.108.93.62:8000/play/a00z
 http://45.181.122.17:8000/play/a008
 #EXTINF:-1,HBO 2
 http://200.24.159.179:8500/play/a00z
+#EXTINF:-1,HBO Pop
+http://45.4.0.46:8000/play/a0g8
 #EXTINF:-1,HBO Family
 http://200.24.159.179:8500/play/a012
 #EXTINF:-1,HBO Plus
@@ -179,7 +183,9 @@ http://200.24.159.179:8500/play/a011
 
 #EXTINF:-1,CNN EN ESPAÑOL
 http://45.181.122.17:8000/play/a014
-#EXTINF:-1,DW 24 HORAS
+#EXTINF:-1,CNN CHILE
+http://45.4.0.46:8000/play/cnnchilehd
+#EXTINF:-1,Canal 24 HORAS
 http://45.181.122.17:8000/play/a01l
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
