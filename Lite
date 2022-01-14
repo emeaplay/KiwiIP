@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz
 
->>>>>>>>> PERU
 #EXTINF:-1, WILLAX
 http://190.108.93.62:8000/play/a004
 #EXTINF:-1, LATINA
@@ -189,7 +188,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1, DW LATINO
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1, TV SALUD [CHI]
+#EXTINF:-1, TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
 
 #EXTINF:-1,DISCOVERY
@@ -234,7 +233,6 @@ https://video1.getstreamhosting.com:1936/8162/8162/chunklist_w1272955439.m3u8
 #EXTINF:0, BOB ESPONJA ES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
 
-
 #EXTINF:-1,ESPN
 http://45.181.122.17:8000/play/a00q
 #EXTINF:-1,ESPN 2
@@ -258,7 +256,114 @@ http://45.181.122.17:8000/play/a00t
 #EXTINF:-1,TYC SPORTS
 http://45.181.122.17:8000/play/a032
 
->>>>>>> PLUTO TV MEXICO
+******* MEXICO
+#EXTINF:-1, NRT [MEX]
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1, MULTIMEDIOS [MEX]
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1, TELEPLAY [MEX]
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/chunks.m3u8
+
+********* CENTROAMERICA / EEUU
+#EXTINF:-1, WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w176717118_b1500000_slen.m3u8 
+#EXTINF:-1, TELESISTEMA [CRI]
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1562564002.m3u8
+#EXTINF:0, TELERED [CRI]
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
+
+#EXTINF:0, ATB [BOL]
+https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
+
+******** COLOMBIA 
+#EXTINF:-1, TELE ISLAS [COL]
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1045131864.m3u8
+#EXTINF:-1, CALI TV [COL]
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3u8
+
+********** CHILE
+#EXTINF:-1,TV+ HD [CHI]
+http://200.24.159.179:8500/play/a03h
+#EXTINF:-1, LA RED [CHI]
+https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
+
+>>>>>>>>>> ECUADOR
+#EXTINF:-1, ECUAVISA [ECU]
+http://200.24.159.179:8500/play/a02g
+#EXTINF:-1,TC Television
+http://200.24.159.179:8500/play/a02d
+ 
+********* ESPAÑA
+#EXTINF:0, TVE 24H [ESP]
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
+
+******* PARAGUAY
+#EXTINF:-1, UNICANAL [PAR]
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+>>>>>>  URUGUAY
+#EXTINF:-1, La Red [URU] 
+https://stmv1.srvif.com/laredtv/laredtv/chunklist_w178770601.m3u8?WebM3UCL
+ 
+******** VENEZUELA
+#EXTINF:-1,TELESUR [VEN]
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1, TLT - TODA LA TV [VEN]
+https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w2040499582.m3u8
+#EXTINF:-1, CANAL I [VEN]
+https://vcp.myplaytv.com/canali/canali/chunklist_w447641521.m3u8
+  
+****** ARGENTINA
+#EXTINF:-1, TELEMAX HD [ARG]
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:-1,Canal 26 [ARG]
+http://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w1526017555_b414000_sleng.m3u8
+#EXTINF:-1,MULTIVISION [ARG]
+http://panel.dattalive.com:1935/8250/8250/chunklist_w331166309.m3u8
+
+:::::: MUSICA ::::::::
+#EXTINF:-1, VEVO Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1, VEVO Reggaeton
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
+#EXTINF:-1, LATINOS RADIO
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w33165640.m3u8
+#EXTINF:-1,PORTAL FOXMIX
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w748795965.m3u8
+#EXTINF:-1,88 Stereo 
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1,KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1,CAROLINA RADIO
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
+#EXTINF:-1, DMJ RADIO
+https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, RETRO PLUS 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1453280398.m3u8
+
+>>> RELIGIOSO
+#EXTINF:-1,ENLACE
+http://45.181.122.17:8000/play/a036
+#EXTINF:-1,BETHEL
+http://190.108.83.142:8000/play/a00m/index.m3u8
+#EXTINF:-1, ORBE 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
+#EXTINF:-1, PAX TV [PER]
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
+#EXTINF:-1, JN19 TV [PER]
+https://mediastreamm.com:3149/live/jn19tvlive.m3u8
+#EXTINF:-1, EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
+#EXTINF:-1,3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1,ESNE
+http://45.181.122.17:8000/play/a00g
+#EXTINF:-1,ALIENTO
+http://71.187.29.220:8000/play/a06d/index.m3u8
+
+******* PLUTO TV MEXICO
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png",Guía de canales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -343,8 +448,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c
 #EXTINF:-1 tvg-id="609059dc63be6e0007b4eca6" tvg-chno="85" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png",Pluto TV Cine Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png",Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-chno="706" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png",Nick Jr. Club
@@ -381,8 +484,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc38adbc38100073511
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60142258a54aeb0007751c15" tvg-chno="109" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png",Pluto TV Retro Dibujos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
 
 #EXTINF:-1 tvg-id="5de91cf02fc07c0009910465" tvg-chno="149" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Hits
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -496,114 +597,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="157" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png",MTV Classic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
- 
-******* MEXICO
-#EXTINF:-1, NRT [MEX]
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1, MULTIMEDIOS [MEX]
-http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1, TELEPLAY [MEX]
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/chunks.m3u8
-
-********* CENTROAMERICA / EEUU
-#EXTINF:-1, WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w176717118_b1500000_slen.m3u8 
-#EXTINF:-1, TELESISTEMA [CRI]
-http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1562564002.m3u8
-#EXTINF:0, TELERED [CRI]
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
-
-#EXTINF:0, ATB [BOL]
-https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
-
-******** COLOMBIA 
-#EXTINF:-1, TELE ISLAS [COL]
-https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1045131864.m3u8
-#EXTINF:-1, CALI TV [COL]
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3u8
-
-********** CHILE
-#EXTINF:-1,TV+ HD [CHI]
-http://200.24.159.179:8500/play/a03h
-#EXTINF:-1, LA RED [CHI]
-https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
-
->>>>>>>>>> ECUADOR
-#EXTINF:-1, ECUAVISA [ECU]
-http://200.24.159.179:8500/play/a02g
-#EXTINF:-1,TC Television
-http://200.24.159.179:8500/play/a02d
- 
-********* ESPAÑA
-#EXTINF:0, TVE 24H [ESP]
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
-
-******* PARAGUAY
-#EXTINF:-1, UNICANAL [PAR]
-http://45.55.127.106/live/unicanal_mid.m3u8
-
->>>>>>  URUGUAY
-#EXTINF:-1, La Red [URU] 
-https://stmv1.srvif.com/laredtv/laredtv/chunklist_w178770601.m3u8?WebM3UCL
- 
-******** VENEZUELA
-#EXTINF:-1,TELESUR [VEN]
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1, TLT - TODA LA TV [VEN]
-https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w2040499582.m3u8
-#EXTINF:-1, CANAL I [VEN]
-https://vcp.myplaytv.com/canali/canali/chunklist_w447641521.m3u8
- 
- 
-****** ARGENTINA
-#EXTINF:-1, TELEMAX HD [ARG]
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-#EXTINF:-1,Canal 26 [ARG]
-http://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w1526017555_b414000_sleng.m3u8
-#EXTINF:-1,MULTIVISION [ARG]
-http://panel.dattalive.com:1935/8250/8250/chunklist_w331166309.m3u8
-
-:::::: MUSICA ::::::::
-#EXTINF:-1, VEVO Latino
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1, VEVO Reggaeton
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-#EXTINF:-1, LATINOS RADIO
-https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w33165640.m3u8
-#EXTINF:-1,PORTAL FOXMIX
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w748795965.m3u8
-#EXTINF:-1,88 Stereo 
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1,KPOP TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1,CAROLINA RADIO
-https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
-#EXTINF:-1, DMJ RADIO
-https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, RETRO PLUS
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, RETRO PLUS 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1453280398.m3u8
-  
-********** INFANTILES
- 
->>> RELIGIOSO
-#EXTINF:-1,ENLACE
-http://45.181.122.17:8000/play/a036
-#EXTINF:-1,BETHEL
-http://190.108.83.142:8000/play/a00m/index.m3u8
-#EXTINF:-1, ORBE 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
-#EXTINF:-1, PAX TV [PER]
-http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
-#EXTINF:-1, JN19 TV [PER]
-https://mediastreamm.com:3149/live/jn19tvlive.m3u8
-#EXTINF:-1, EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
-#EXTINF:-1,3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1,ESNE
-http://45.181.122.17:8000/play/a00g
-#EXTINF:-1,ALIENTO
-http://71.187.29.220:8000/play/a06d/index.m3u8
