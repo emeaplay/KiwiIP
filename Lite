@@ -116,6 +116,8 @@ http://45.181.122.17:8000/play/a02h
 http://200.24.159.179:8500/play/a005
 #EXTINF:-1,DHE
 http://190.108.93.62:8000/play/a00h
+#EXTINF:-1,Golden Plus
+http://45.4.0.46:8000/play/goldenhd
 #EXTINF:-1,CINEMAX
 http://45.181.122.17:8000/play/a009
 #EXTINF:-1,I SAT
