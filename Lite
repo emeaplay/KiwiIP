@@ -167,8 +167,6 @@ http://190.108.93.62:8000/play/a00e
 http://45.4.0.46:8000/play/a073
 #EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,REWIND TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1,MX CLASSIC
 http://190.108.83.142:8000/play/a004/index.m3u8
 
@@ -323,8 +321,6 @@ https://stmv1.srvif.com/laredtv/laredtv/chunklist_w178770601.m3u8?WebM3UCL
 ******** VENEZUELA
 #EXTINF:-1,TELESUR [VEN]
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1, TLT - TODA LA TV [VEN]
-https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w2040499582.m3u8
 #EXTINF:-1, CANAL I [VEN]
 https://vcp.myplaytv.com/canali/canali/chunklist_w447641521.m3u8
   
@@ -357,6 +353,8 @@ https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, RETRO PLUS 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1453280398.m3u8
+#EXTINF:-1,REWIND TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 >>> RELIGIOSO
 #EXTINF:-1,ENLACE
