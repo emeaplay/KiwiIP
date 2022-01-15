@@ -183,21 +183,21 @@ http://45.4.0.46:8000/play/cnnchilehd
 http://45.181.122.17:8000/play/a01l
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1, VOA Noticias EEUU
+#EXTINF:-1,VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1, FORO TV [MEX]
+#EXTINF:-1,FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
-#EXTINF:-1, RT EN ESPAÑOL
+#EXTINF:-1,RT EN ESPAÑOL
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1, DW
+#EXTINF:-1,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1, TV SALUD
+#EXTINF:-1,TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
 #EXTINF:-1,DISCOVERY
 http://45.181.122.17:8000/play/a00k
 #EXTINF:-1,HOME & HEALTH
 http://45.181.122.17:8000/play/a01t
-#EXTINF:-1,ID
+#EXTINF:-1,tvg-id="ID" tvg-name="ID",ID
 http://45.181.122.17:8000/play/a01p
 #EXTINF:-1,DISCOVERY TURBO
 http://45.181.122.17:8000/play/a00f
