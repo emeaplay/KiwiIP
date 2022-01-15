@@ -125,7 +125,7 @@ http://45.181.122.17:8000/play/a01r
 http://45.181.122.17:8000/play/a02k
 #EXTINF:-1,RETRO
 http://190.108.93.62:8000/play/a001
-#EXTINF:-1,A&E MUNDO
+#EXTINF:-1,tvg-id="A&E" tvg-name="A&E",A&E
 http://45.181.122.17:8000/play/a00u
 #EXTINF:-1,OLD City
 http://190.108.93.62:8000/play/a00i
