@@ -103,7 +103,7 @@ http://45.4.0.46:8000/play/studiouniversalhd
 http://45.181.122.17:8000/play/a00d
 #EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES",FX MOVIES
 http://45.181.122.17:8000/play/a01a
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="STAR LIFE",STAR LIFE
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE",STAR LIFE
 http://45.181.122.17:8000/play/a02h
 #EXTINF:-1 tvg-id="CineCANAL" tvg-name="CineCANAL",CineCANAL
 http://200.24.159.179:8500/play/a005
