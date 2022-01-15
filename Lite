@@ -91,7 +91,7 @@ http://45.181.122.17:8000/play/a02n
 http://45.181.122.17:8000/play/a00a
 #EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",WARNER
 http://45.181.122.17:8000/play/a00m
-#EXTINF:-1 tvg-id="FOX CHANNEL" tvg-name="FOX CHANNEL",STAR CHANNEL
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",STAR CHANNEL
 http://45.181.122.17:8000/play/a02j
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN",AXN
 http://45.181.122.17:8000/play/a00b
@@ -197,7 +197,7 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?Web
 http://45.181.122.17:8000/play/a00k
 #EXTINF:-1,HOME & HEALTH
 http://45.181.122.17:8000/play/a01t
-#EXTINF:-1 tvg-id="ID" tvg-name="ID",ID
+#EXTINF:-1 tvg-id="ID" tvg-name="ID",ID DISCOVERY
 http://45.181.122.17:8000/play/a01p
 #EXTINF:-1,DISCOVERY TURBO
 http://45.181.122.17:8000/play/a00f
