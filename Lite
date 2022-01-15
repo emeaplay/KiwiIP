@@ -197,7 +197,7 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?Web
 http://45.181.122.17:8000/play/a00k
 #EXTINF:-1,HOME & HEALTH
 http://45.181.122.17:8000/play/a01t
-#EXTINF:-1,tvg-id="ID" tvg-name="ID",ID
+#EXTINF:-1 tvg-id="ID" tvg-name="ID",ID
 http://45.181.122.17:8000/play/a01p
 #EXTINF:-1,DISCOVERY TURBO
 http://45.181.122.17:8000/play/a00f
@@ -227,7 +227,7 @@ http://45.181.122.17:8000/play/a00e
 http://45.181.122.17:8000/play/a028
 #EXTINF:-1,NTV
 http://45.181.122.17:8000/play/a01n
-#EXTINF:-1, CARTOONS
+#EXTINF:-1,TOONCAST
 http://190.108.93.62:8000/play/a008
 #EXTINF:-1, XKIDS
 https://video1.getstreamhosting.com:1936/8162/8162/chunklist_w1272955439.m3u8
