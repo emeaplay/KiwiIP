@@ -5,7 +5,7 @@ http://190.108.93.62:8000/play/a004
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
 #EXTINF:-1 tvg-id=" BH TV" tvg-name=" BH TV", BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="VNP" tvg-name="VNP", VISION NOTICIAS
+#EXTINF:-1 tvg-id="VNP" tvg-name="VNP", VNP - VISION NOTICIAS
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
 #EXTINF:-1 tvg-id=" PANAMERICANA" tvg-name=" PANAMERICANA", PANAMERICANA
 http://190.108.93.62:8000/play/a012
@@ -103,7 +103,7 @@ http://45.4.0.46:8000/play/studiouniversalhd
 http://45.181.122.17:8000/play/a00d
 #EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES",FX MOVIES
 http://45.181.122.17:8000/play/a01a
-#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE",STAR LIFE
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="STAR LIFE",STAR LIFE
 http://45.181.122.17:8000/play/a02h
 #EXTINF:-1 tvg-id="CineCANAL" tvg-name="CineCANAL",CineCANAL
 http://200.24.159.179:8500/play/a005
