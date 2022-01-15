@@ -189,7 +189,7 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 #EXTINF:-1, RT EN ESPAÑOL
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1, DW LATINO
+#EXTINF:-1, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1, TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
@@ -231,7 +231,7 @@ http://45.181.122.17:8000/play/a01n
 http://190.108.93.62:8000/play/a008
 #EXTINF:-1, XKIDS
 https://video1.getstreamhosting.com:1936/8162/8162/chunklist_w1272955439.m3u8
-#EXTINF:-1, BOB ESPONJA ES
+#EXTINF:-1, BOB ESPONJA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
 #EXTINF:-1,FOX SPORTS 1
 http://45.225.93.154:8000/play/a01p
