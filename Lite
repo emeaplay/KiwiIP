@@ -41,23 +41,23 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b5
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1, MONTERRICO TV / JOCKEY CLUB DEL PERU
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1, OVACION 620
+#EXTINF:-1,OVACION 620
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1, BESTCABLE SPORTS
+#EXTINF:-1,BESTCABLE SPORTS
 https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
-#EXTINF:-1, TOP LATINO
+#EXTINF:-1,Top Latino
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w382350287.m3u8
-#EXTINF:-1, VISION MUSICA
+#EXTINF:-1,Vision Musica
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, BESTCABLE MUSIC
+#EXTINF:-1,BESTCABLE Music
 https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MAS CUMBIA+
+#EXTINF:-1,Mas Cumbia+
 https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KUMBIA MIX
+#EXTINF:-1,Kumbia Mix
 http://190.108.93.62:8000/play/a007
-#EXTINF:-1,KARIBEÑA
+#EXTINF:-1,Karibeña
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
-#EXTINF:-1,SAN BORJA RADIO
+#EXTINF:-1,San Borja Radio
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w1957738094.m3u8
 #EXTINF:-1,HATUN TV
 https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/tracks-v1a1/mono.m3u8
@@ -83,8 +83,7 @@ https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w275466573.m3u8
 #EXTINF:-1, TURBOMIX Cajamarca
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1, Vamisa Radio Tv
-https://vps1.lnx.pe/vamisa/envivo/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://45.181.122.17:8000/play/a02n
 #EXTINF:-1 tvg-id="SONY" tvg-name="SONY",SONY
@@ -175,7 +174,7 @@ http://200.24.159.179:8500/play/a012
 http://200.24.159.179:8500/play/a010
 #EXTINF:-1,HBO XTREME SD
 http://200.24.159.179:8500/play/a011
-#EXTINF:-1,CNN EN ESPAÑOL
+#EXTINF:-1,CNN en español
 http://45.181.122.17:8000/play/a014
 #EXTINF:-1,CNN CHILE
 http://45.4.0.46:8000/play/cnnchilehd
