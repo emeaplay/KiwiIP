@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WILLAX" tvg-name="WILLAX", WILLAX
+#EXTINF:-1 tvg-id="WILLAX" tvg-name="WILLAX",Willax
 http://190.108.93.62:8000/play/a004
-#EXTINF:-1 tvg-id=" LATINA" tvg-name=" LATINA" tvg-logo="https://4.bp.blogspot.com/-KDEl04IijX0/VedzVBDiUtI/AAAAAAAApek/mpYHFN99wYA/s1600/latina-tv.jpg", LATINA
+#EXTINF:-1 tvg-id=" LATINA" tvg-name=" LATINA" tvg-logo="https://4.bp.blogspot.com/-KDEl04IijX0/VedzVBDiUtI/AAAAAAAApek/mpYHFN99wYA/s1600/latina-tv.jpg",Latina
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
-#EXTINF:-1 tvg-id=" BHTV" tvg-name=" BHTV", BH TV
+#EXTINF:-1 tvg-id=" BHTV" tvg-name=" BHTV",BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="VNP" tvg-name="VNP", VNP - VISION NOTICIAS
+#EXTINF:-1 tvg-id="VNP" tvg-name="VNP",Vision Noticias
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
-#EXTINF:-1 tvg-id="PANTEL" tvg-name="PANTEL",PANTEL
+#EXTINF:-1 tvg-id="PANTEL" tvg-name="PANTEL",Panamericana
 http://190.108.93.62:8000/play/a012
 #EXTINF:-1 tvg-id="BESTCABLE" tvg-name="BESTCABLE",BESTCABLE
 https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",TV PERU
+#EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",Tv Peru
 http://190.108.83.142:8000/play/a00i/index.m3u8
-#EXTINF:-1, ATV+ NOTICIAS
+#EXTINF:-1, ATV+ Noticias
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 tvg-id=" ATV" tvg-name=" ATV",ATV - Andina Television
+#EXTINF:-1 tvg-id=" ATV" tvg-name=" ATV",ATV
 http://190.108.83.142:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="UCI" tvg-name="UCI", UCI NOTICIAS
 https://mediastreamm.com:3449/live/mlecaroslive.m3u8
@@ -23,23 +23,23 @@ https://mediastreamm.com:3449/live/mlecaroslive.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1, TV PERU NOTICIAS
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-id="RED GLOBAL" tvg-name="RED GLOBAL", GLOBAL
+#EXTINF:-1 tvg-id="RED GLOBAL" tvg-name="RED GLOBAL",Global Television
 http://190.108.93.62:8000/play/a013
-#EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",NACIONAL TV
+#EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",Nacional TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="FUEGO" tvg-name="FUEGO",FUEGO
 http://190.108.83.142:8000/play/a003/index.m3u8
-#EXTINF:-1, OnDaTV
+#EXTINF:-1, Onda Digital
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
-#EXTINF:-1 tvg-id="ONDA DIGITAL" tvg-name="ONDA DIGITAL",ONDA DIGITAL
+#EXTINF:-1 tvg-id="ONDA DIGITAL" tvg-name="ONDA DIGITAL",ONDA DIGITAL Peru
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
-#EXTINF:-1, CENTRAL TV
+#EXTINF:-1, Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CULTURA 24 HORAS" tvg-name="CULTURA 24 HORAS",CULTURA 24 HORAS
+#EXTINF:-1 tvg-id="CULTURA 24 HORAS" tvg-name="CULTURA 24 HORAS",TV Cultura 24 HORAS
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1 tvg-id="Peru Channel" tvg-name="Peru Channel",Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1, MONTERRICO TV / JOCKEY CLUB
+#EXTINF:-1, MONTERRICO TV / JOCKEY CLUB DEL PERU
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1, OVACION 620
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -81,17 +81,17 @@ https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/chunklist_w1686830471.m
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:-1, HECHICERA Tumbes[PER]
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w275466573.m3u8
-#EXTINF:-1, TURBO MIX Cajamarca
+#EXTINF:-1, TURBOMIX Cajamarca
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1, VAMISA TV
+#EXTINF:-1, Vamisa Radio Tv
 https://vps1.lnx.pe/vamisa/envivo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://45.181.122.17:8000/play/a02n
 #EXTINF:-1 tvg-id="SONY" tvg-name="SONY",SONY
 http://45.181.122.17:8000/play/a00a
-#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",WARNER
+#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",Warner Channel
 http://45.181.122.17:8000/play/a00m
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",STAR CHANNEL
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",Star Channel
 http://45.181.122.17:8000/play/a02j
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN",AXN
 http://45.181.122.17:8000/play/a00b
@@ -101,62 +101,62 @@ http://45.181.122.17:8000/play/a02d
 http://45.4.0.46:8000/play/studiouniversalhd
 #EXTINF:-1 tvg-id="FX" tvg-name="FX",FX
 http://45.181.122.17:8000/play/a00d
-#EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES",FX MOVIES
+#EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES",FXM Movies
 http://45.181.122.17:8000/play/a01a
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE",STAR LIFE
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E",A&E
+http://45.181.122.17:8000/play/a00u
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE",Star Life
 http://45.181.122.17:8000/play/a02h
 #EXTINF:-1 tvg-id="CineCANAL" tvg-name="CineCANAL",CineCANAL
 http://200.24.159.179:8500/play/a005
-#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount",Paramount
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount",Paramount Channel
 http://45.4.0.46:8000/play/a05j
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE",DHE
 http://190.108.93.62:8000/play/a00h
 #EXTINF:-1,Golden Plus
 http://45.4.0.46:8000/play/goldenhd
-#EXTINF:-1,CINEMAX
+#EXTINF:-1,Cinemax
 http://45.181.122.17:8000/play/a009
-#EXTINF:-1,I SAT
+#EXTINF:-1,I-SAT
 http://45.181.122.17:8000/play/a02e
-#EXTINF:-1,SPACE
+#EXTINF:-1,Space
 http://45.181.122.17:8000/play/a00c
 #EXTINF:-1,TBS
 http://45.181.122.17:8000/play/a01r
 #EXTINF:-1,TCM
 http://45.181.122.17:8000/play/a02k
-#EXTINF:-1,RETRO
+#EXTINF:-1,Retro
 http://190.108.93.62:8000/play/a001
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E",A&E
-http://45.181.122.17:8000/play/a00u
+#EXTINF:-1,TRUTV
+http://45.4.0.46:8000/play/a073
 #EXTINF:-1,OLD City
 http://190.108.93.62:8000/play/a00i
 #EXTINF:-1,TELEMUNDO
 http://45.181.122.17:8000/play/a011
-#EXTINF:-1,E! LATINO
+#EXTINF:-1,E! Latino
 http://45.181.122.17:8000/play/a00n
 #EXTINF:-1,Ve Plus
 http://190.122.96.187:8888/http/006
 #EXTINF:-1,HOME & HEALTH
 http://200.24.159.179:8500/play/a01w
-#EXTINF:-1,FOOD NETWORK
+#EXTINF:-1,Food Network
 http://190.108.93.62:8000/play/a01a
 #EXTINF:-1,El Gourmet
 http://45.4.0.46:8000/play/a074
 #EXTINF:-1,Claro CINEMA
 http://45.225.93.154:8000/play/a03c
-#EXTINF:-1,LAS ESTRELLAS
+#EXTINF:-1,Canal de las Estrellas
 http://45.181.122.17:8000/play/a00y
+#EXTINF:-1,TL Novelas
+http://190.108.93.62:8000/play/a00e
 #EXTINF:-1,RCN Novelas
 http://45.181.122.17:8000/play/a033
 #EXTINF:-1,Pasiones
 http://45.4.0.46:8000/play/pasioneshd
-#EXTINF:-1,UNIMAS
+#EXTINF:-1,Unimas
 http://71.187.29.220:8000/play/a08b/index.m3u8
-#EXTINF:-1,UNIVISION
+#EXTINF:-1,Univision
 http://71.187.29.220:8000/play/a07t/index.m3u8
-#EXTINF:-1,TL NOVELAS
-http://190.108.93.62:8000/play/a00e
-#EXTINF:-1,TRUTV
-http://45.4.0.46:8000/play/a073
 #EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,MX CLASSIC
@@ -193,15 +193,15 @@ https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
-#EXTINF:-1,DISCOVERY
+#EXTINF:-1,Discovery Channel
 http://45.181.122.17:8000/play/a00k
 #EXTINF:-1,HOME & HEALTH
 http://45.181.122.17:8000/play/a01t
 #EXTINF:-1 tvg-id="ID" tvg-name="ID",ID DISCOVERY
 http://45.181.122.17:8000/play/a01p
-#EXTINF:-1,DISCOVERY TURBO
+#EXTINF:-1,Discovery Turbo
 http://45.181.122.17:8000/play/a00f
-#EXTINF:-1,HISTORY
+#EXTINF:-1,History Channel
 http://45.181.122.17:8000/play/a02b
 #EXTINF:-1,NAT GEO
 http://45.181.122.17:8000/play/a02a
@@ -231,8 +231,6 @@ http://45.181.122.17:8000/play/a01n
 http://190.108.93.62:8000/play/a008
 #EXTINF:-1, XKIDS
 https://video1.getstreamhosting.com:1936/8162/8162/chunklist_w1272955439.m3u8
-#EXTINF:-1, BOB ESPONJA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
 #EXTINF:-1,FOX SPORTS 1
 http://45.225.93.154:8000/play/a01p
 #EXTINF:-1,FOX SPORTS 2
@@ -257,8 +255,6 @@ http://45.4.0.46:8000/play/cdfhd
 http://45.181.122.17:8000/play/a00t
 #EXTINF:-1, NRT [MEX]
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1, MULTIMEDIOS [MEX]
-http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1, TELEPLAY [MEX]
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/chunks.m3u8
 #EXTINF:-1, WOW TV
@@ -267,36 +263,11 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w17671711
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1562564002.m3u8
 #EXTINF:-1, TELERED [CRI]
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
-#EXTINF:-1, ATB [BOL]
-https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
-#EXTINF:-1, TELE ISLAS [COL]
-https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w1045131864.m3u8
-#EXTINF:-1, CALI TV [COL]
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3u8
-#EXTINF:-1,TV+ HD [CHI]
-http://200.24.159.179:8500/play/a03h
-#EXTINF:-1, LA RED [CHI]
-https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
 #EXTINF:-1, ECUAVISA [ECU]
 http://200.24.159.179:8500/play/a02g
 #EXTINF:-1,TC Television
 http://200.24.159.179:8500/play/a02d
-#EXTINF:-1, TVE 24H [ESP]
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
-#EXTINF:-1, UNICANAL [PAR]
-http://45.55.127.106/live/unicanal_mid.m3u8
-#EXTINF:-1, La Red [URU] 
-https://stmv1.srvif.com/laredtv/laredtv/chunklist_w178770601.m3u8?WebM3UCL
-#EXTINF:-1,TELESUR [VEN]
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:-1, CANAL I [VEN]
-https://vcp.myplaytv.com/canali/canali/chunklist_w447641521.m3u8
-#EXTINF:-1, TELEMAX HD [ARG]
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-#EXTINF:-1,Canal 26 [ARG]
-http://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w1526017555_b414000_sleng.m3u8
-#EXTINF:-1,MULTIVISION [ARG]
-http://panel.dattalive.com:1935/8250/8250/chunklist_w331166309.m3u8
+
 #EXTINF:-1, VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1, VEVO Reggaeton
@@ -378,15 +349,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-chno="721" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png",Pluto TV Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-chno="283" tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png",Pluto TV Velocidad?
+#EXTINF:-1 tvg-chno="283" tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png",Pluto TV Velocidad
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-chno="87" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png",Pluto TV Cine Familia?
+#EXTINF:-1 tvg-chno="87" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png",Pluto TV Cine Familia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-chno="179" tvg-id="5dd6de52b9914200091f047a" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png",Pluto TV Teen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-chno="95" tvg-id="5dd6ed41526c77000941411c" tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG.png",Pluto TV Cine Navidad
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ed41526c77000941411c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-chno="66" tvg-id="5dd7ea2aeab5230009986735" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png",Pluto TV Cine Romance?
+#EXTINF:-1 tvg-chno="66" tvg-id="5dd7ea2aeab5230009986735" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png",Pluto TV Cine Romance
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-chno="273" tvg-id="5dd834c66fe2ca0009303b8d" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",Pluto TV Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
