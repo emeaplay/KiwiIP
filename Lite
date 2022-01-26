@@ -18,7 +18,7 @@ http://190.108.83.142:8000/play/a00i/index.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-id=" ATV" tvg-name=" ATV",ATV
 http://190.108.83.142:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="UCI" tvg-name="UCI", UCI Noticias
+#EXTINF:-1 tvg-id="UCI" tvg-name="UCI", Nativa TV - UCI
 https://mediastreamm.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="iPe - IDENTIDAD PERUANA" tvg-name="iPe - IDENTIDAD PERUANA",Canal IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -38,6 +38,9 @@ https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CULTURA 24 HORAS" tvg-name="CULTURA 24 HORAS",TV Cultura 24 HORAS
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:-1,Canal 20 - Eventos KiwiTV
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+
 #EXTINF:-1 tvg-id="Peru Channel" tvg-name="Peru Channel",Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1, MONTERRICO TV / JOCKEY CLUB DEL PERU
@@ -56,8 +59,7 @@ https://tv.siete.us:19360/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
 https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Kumbia Mix
 http://190.108.93.62:8000/play/a007
-#EXTINF:-1,Karibeña
-https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+
 #EXTINF:-1,San Borja Radio
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w1957738094.m3u8
 #EXTINF:-1,HATUN TV
