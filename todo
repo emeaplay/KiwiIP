@@ -504,6 +504,163 @@ http://45.181.122.17:8000/play/a032
 #EXTINF:-1,DIRECTV SPORTS
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
+CANALES HD ::::::::::::::::::::::::::::::::::::::::::::::
+
+#EXTINF:-1,TNT HD
+http://45.4.0.46:8000/play/a06w
+#EXTINF:-1,Sony HD
+http://45.4.0.46:8000/play/a06d
+#EXTINF:-1,Warner Channel HD
+http://45.4.0.46:8000/play/a06e
+#EXTINF:-1,STAR CHANNEL HD
+http://45.4.0.46:8000/play/a0ao
+#EXTINF:-1,AXN HD
+http://45.4.0.46:8000/play/a06f
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://45.4.0.46:8000/play/a0ap
+#EXTINF:-1,Studio Universal HD
+http://45.4.0.46:8000/play/studiouniversalhd
+#EXTINF:-1,FX HD
+http://190.108.93.62:8000/play/a00x
+#EXTINF:-1,FX Movies HD
+http://45.4.0.46:8000/play/a05l
+#EXTINF:-1,Space HD
+http://45.4.0.46:8000/play/a06g
+#EXTINF:-1,A&E HD
+http://45.4.0.46:8000/play/aehd
+#EXTINF:-1,AMC HD
+http://45.4.0.46:8000/play/a056
+#EXTINF:-1,Cinecanal HD
+http://45.4.0.46:8000/play/a05c
+#EXTINF:-1,Cinemax HD
+http://45.4.0.46:8000/play/cinemaxhd
+#EXTINF:-1,TNT Series HD
+http://45.4.0.46:8000/play/a0bf
+#EXTINF:-1,Golden HD
+http://45.4.0.46:8000/play/goldenhd
+#EXTINF:-1,HBO HD
+http://45.4.0.46:8000/play/a08o
+#EXTINF:-1,Paramount HD
+http://45.4.0.46:8000/play/a05j
+#EXTINF:-1, ,DHE HD
+http://45.4.0.46:8000/play/a0dz
+#EXTINF:-1, HBO POP HD
+http://45.4.0.46:8000/play/a0g8
+
+#EXTINF:-1,Star Series HD
+http://45.4.0.46:8000/play/a0au
+#EXTINF:-1,STAR Action HD
+http://45.4.0.46:8000/play/a0bg
+#EXTINF:-1,Star Fun HD
+http://45.4.0.46:8000/play/foxfamilyhd
+#EXTINF:-1,Star Cinema HD
+http://201.131.201.126:8000/play/a00g
+#EXTINF:-1, Star Comedy HD
+http://45.4.0.46:8000/play/a07g
+#EXTINF:-1,Star Series 2 HD
+http://201.131.201.126:8000/play/a00i
+#EXTINF:-1,Star Hits HD
+http://201.131.201.126:8000/play/a00j
+#EXTINF:-1,Star Action 2 HD
+http://201.131.201.126:8000/play/a00e
+
+#EXTINF:-1,Discovery HD
+http://45.4.0.46:8000/play/a0e1
+#EXTINF:-1,Discovery Theater HD
+http://45.4.0.46:8000/play/a0am
+#EXTINF:-1,Discovery World HD
+http://45.4.0.46:8000/play/a05b
+#EXTINF:-1,History Channel HD
+http://45.4.0.46:8000/play/a06b
+#EXTINF:-1,History 2 HD
+http://45.4.0.46:8000/play/a0e4
+#EXTINF:-1,Nat Geo HD
+http://45.4.0.46:8000/play/a05a
+#EXTINF:-1,Nat Geo Wild HD
+http://45.4.0.46:8000/play/a0an
+
+#EXTINF:-1,Sun Channel HD
+http://45.4.0.46:8000/play/a0aj
+#EXTINF:-1, ,Discovery H&H HD
+http://45.4.0.46:8000/play/a0al
+#EXTINF:-1, El Gourmet HD
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Food Network HD
+http://45.4.0.46:8000/play/foodnetworkhd
+#EXTINF:-1, ID HD
+http://45.4.0.46:8000/play/idhd
+#EXTINF:-1, Pasiones HD
+http://45.4.0.46:8000/play/pasioneshd
+#EXTINF:-1, Star Life HD
+http://45.4.0.46:8000/play/foxlifehd
+#EXTINF:-1,Comedy Central HD
+http://45.4.0.46:8000/play/a0f5
+#EXTINF:-1, TRUTV HD
+http://45.4.0.46:8000/play/a073
+#EXTINF:-1,ESPN HD
+http://45.4.0.46:8000/play/a06j
+#EXTINF:-1, ESPN 2 HD
+http://45.4.0.46:8000/play/a0ax
+#EXTINF:-1, ESPN 3 HD
+http://45.4.0.46:8000/play/espn3hd
+#EXTINF:-1, ESPN 4 HD
+http://45.4.0.46:8000/play/a07k
+#EXTINF:-1, ESPN EXTRA HD
+http://45.4.0.46:8000/play/a05e
+#EXTINF:-1, FOX Sports 2 HD
+http://45.4.0.46:8000/play/a0at
+#EXTINF:-1, Fox Sports 3 HD
+http://45.4.0.46:8000/play/foxsports3hd
+#EXTINF:-1, TNT SPORTS HD
+http://45.4.0.46:8000/play/cdfhd
+
+#EXTINF:-1,Cartoon Network HD
+http://45.4.0.46:8000/play/a05i
+#EXTINF:-1,Discovery Kids HD
+http://45.4.0.46:8000/play/a0ak
+#EXTINF:-1,Disney HD
+http://45.4.0.46:8000/play/disneyhd
+#EXTINF:-1,Nat Geo Kids HD
+http://45.4.0.46:8000/play/natgeokidshd
+#EXTINF:-1,Animal Planet HD
+http://45.4.0.46:8000/play/animalplanethd
+
+#EXTINF:-1, NTV
+http://45.4.0.46:8000/play/a0gu
+#EXTINF:-1,CHV HD
+http://45.4.0.46:8000/play/a08n
+#EXTINF:-1,Canal 13 HD
+http://45.4.0.46:8000/play/a07a
+#EXTINF:-1,La Red HD
+http://45.4.0.46:8000/play/laredhd
+#EXTINF:-1,MEGA HD
+http://45.4.0.46:8000/play/a08g
+#EXTINF:-1,TV! Educa Chile
+http://45.4.0.46:8000/play/a057
+#EXTINF:-1,TV+ HD
+http://45.4.0.46:8000/play/a058
+#EXTINF:-1,TVN HD
+http://45.4.0.46:8000/play/a06r
+#EXTINF:-1,CNN EN ESPAÑOL
+http://200.24.159.179:8500/play/a00n
+#EXTINF:-1, CNN Chile HD
+http://45.4.0.46:8000/play/cnnchilehd
+#EXTINF:-1, Canal 24 Horas HD
+http://45.4.0.46:8000/play/a07d
+#EXTINF:-1,LA RED
+http://45.181.122.17:8000/play/a015
+#EXTINF:-1,MEGAVISION
+http://45.181.122.17:8000/play/a017
+#EXTINF:-1,TELE 13
+http://45.181.122.17:8000/play/a019
+#EXTINF:-1,CHILEVISION
+http://45.181.122.17:8000/play/a018
+#EXTINF:-1,TVN CHILE
+http://45.181.122.17:8000/play/a016
+#EXTINF:-1,RCN NOVELAS
+http://45.181.122.17:8000/play/a033
+#EXTINF:-1,TVE
+http://45.181.122.17:8000/play/a02q
 
 >>>>>> NOTICIAS
 #EXTINF:0, VOA Noticias EEUU
