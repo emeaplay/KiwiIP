@@ -87,6 +87,10 @@ http://190.4.0.200:8000/play/a00v/index.m3u8
 http://190.4.0.200:8000/play/a028/index.m3u8
 #EXTINF:-1,Telemundo Internacional
 http://200.24.159.179:8500/play/a01p
+#EXTINF:-1,Inti
+http://s846397078.mialojamiento.es/7402/inti.php/chunklist_w1912341452.m3u8
+#EXTINF:-1,TV SALUD
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
 #EXTINF:-1,Home Garden Latino
 http://190.4.0.200:8000/play/a00h/index.m3u8
 #EXTINF:-1,LIFE TIME
@@ -155,8 +159,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1,TV SALUD
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
 #EXTINF:-1,Discovery Channel
 http://45.181.122.17:8000/play/a00k
 #EXTINF:-1,HOME & HEALTH
