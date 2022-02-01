@@ -13,7 +13,7 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="BESTCABLE" tvg-name="BESTCABLE",BESTCABLE
 https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",Tv Peru
-http://190.108.83.142:8000/play/a00i/index.m3u8
+http://190.108.83.142:8000/play/a00s/index.m3u8
 #EXTINF:-1, ATV+ Noticias
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-id=" ATV" tvg-name=" ATV",ATV
@@ -62,7 +62,7 @@ http://200.24.159.179:8500/play/a00t
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E",A&E
 http://200.24.159.179:8500/play/a01i
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE",Star Life
-http://45.181.122.17:8000/play/a02h
+http://190.108.83.142:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="CineCANAL" tvg-name="CineCANAL",CineCANAL
 http://200.24.159.179:8500/play/a005
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount",Paramount Channel
