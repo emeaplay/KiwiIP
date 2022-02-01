@@ -42,13 +42,13 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b5
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
-http://45.181.122.17:8000/play/a02n
+http://200.24.159.179:8500/play/a00g
 #EXTINF:-1 tvg-id="SONY" tvg-name="SONY",SONY
 http://45.181.122.17:8000/play/a00a
 #EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",Warner Channel
-http://45.181.122.17:8000/play/a00m
+http://200.24.159.179:8500/play/a01a
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",Star Channel
-http://45.181.122.17:8000/play/a02j
+http://200.24.159.179:8500/play/a00c
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN",AXN
 http://45.181.122.17:8000/play/a00b
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="Universal Channel",Universal Channel
