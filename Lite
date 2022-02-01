@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
-#EXTINF:-1 tvg-id="MX PRIME",MX PRIME
-http://190.108.83.142:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="FUEGO" tvg-name="FUEGO",FUEGO
+http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id=" LATINA" tvg-name=" LATINA" tvg-logo="https://4.bp.blogspot.com/-KDEl04IijX0/VedzVBDiUtI/AAAAAAAApek/mpYHFN99wYA/s1600/latina-tv.jpg",Latina
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
 #EXTINF:-1 tvg-id=" BHTV" tvg-name=" BHTV",BH TV
@@ -30,8 +30,6 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",Nacional TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="FUEGO" tvg-name="FUEGO",FUEGO
-http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1, Onda Digital
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 #EXTINF:-1 tvg-id="ONDA DIGITAL" tvg-name="ONDA DIGITAL",ONDA DIGITAL Peru
@@ -87,8 +85,6 @@ http://45.181.122.17:8000/play/a02k
 http://190.108.93.62:8000/play/a001
 #EXTINF:-1,TRUTV
 http://45.4.0.46:8000/play/a073
-#EXTINF:-1,OLD City
-http://190.108.93.62:8000/play/a00i
 #EXTINF:-1,Film & Arts
 http://190.4.0.200:8000/play/a00v/index.m3u8
 #EXTINF:-1,EURO Channel
@@ -133,6 +129,10 @@ http://71.187.29.220:8000/play/a07t/index.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,MX CLASSIC
 http://190.108.83.142:8000/play/a004/index.m3u8
+#EXTINF:-1,MX FAMILY
+http://190.108.83.142:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="MX PRIME",MX PRIME
+http://190.108.83.142:8000/play/a005/index.m3u8
 #EXTINF:-1,Multipremier
 http://190.4.0.200:8000/play/a03o/index.m3u8
 #EXTINF:-1,CINE PREMIUM
