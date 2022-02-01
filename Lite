@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
-#EXTINF:-1 tvg-id="WILLAX" tvg-name="WILLAX",Willax
-http://190.108.93.62:8000/play/a004
+#EXTINF:-1 tvg-id="MX PRIME",MX PRIME
+http://190.108.83.142:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id=" LATINA" tvg-name=" LATINA" tvg-logo="https://4.bp.blogspot.com/-KDEl04IijX0/VedzVBDiUtI/AAAAAAAApek/mpYHFN99wYA/s1600/latina-tv.jpg",Latina
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
 #EXTINF:-1 tvg-id=" BHTV" tvg-name=" BHTV",BH TV
@@ -9,7 +9,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="VNP" tvg-name="VNP",Vision Noticias
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
 #EXTINF:-1 tvg-id="PANTEL" tvg-name="PANTEL",Panamericana
-http://190.108.93.62:8000/play/a012
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="BESTCABLE" tvg-name="BESTCABLE",BESTCABLE
 https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",Tv Peru
@@ -24,8 +24,10 @@ https://mediastreamm.com:3449/live/mlecaroslive.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1, Tv Peru Noticias
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-id="RED GLOBAL" tvg-name="RED GLOBAL",Global Television
-http://190.108.93.62:8000/play/a013
+#EXTINF:-1,Global TV
+http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1,Justicia TV
+http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",Nacional TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="FUEGO" tvg-name="FUEGO",FUEGO
