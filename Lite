@@ -175,46 +175,41 @@ http://45.181.122.17:8000/play/a02a
 http://45.181.122.17:8000/play/a00l
 #EXTINF:-1,NAT GEO WILD
 http://190.108.83.142:8000/play/a00w/index.m3u8
-#EXTINF:-1,TLC
-http://45.181.122.17:8000/play/a00w
-#EXTINF:-1,DISCOVERY KIDS
-http://45.181.122.17:8000/play/a013
-#EXTINF:-1,DISNEY CHANNEL
-http://45.181.122.17:8000/play/a00j
-#EXTINF:-1,DISNEY JUNIOR
-http://45.181.122.17:8000/play/a01k
-#EXTINF:-1,DISNEY XD
-http://45.181.122.17:8000/play/a029
-#EXTINF:-1,NAT GEO KIDS
-http://45.181.122.17:8000/play/a02l
-#EXTINF:-1,NICK JUNIOR
-http://45.181.122.17:8000/play/a00e
-#EXTINF:-1,NICK
-http://45.181.122.17:8000/play/a028
-#EXTINF:-1,NTV
-http://45.181.122.17:8000/play/a01n
-#EXTINF:-1,TOONCAST
-http://190.108.93.62:8000/play/a008
+#EXTINF:-1,Disney Channel
+http://200.24.159.179:8500/play/a017
+#EXTINF:-1,Disney Jr
+http://200.24.159.179:8500/play/a013
+#EXTINF:-1,Disney XD
+http://200.24.159.179:8500/play/a002
+#EXTINF:-1,Cartoon Network
+http://200.24.159.179:8500/play/a00f
+#EXTINF:-1,Discovery Kids
+http://200.24.159.179:8500/play/a00m
+#EXTINF:-1,NatGeo Kids
+http://200.24.159.179:8500/play/a00e
+#EXTINF:-1,Nick Jr
+http://200.24.159.179:8500/play/a038
+#EXTINF:-1,Nickelodeon
+http://200.24.159.179:8500/play/a001
 #EXTINF:-1, XKIDS
 https://video1.getstreamhosting.com:1936/8162/8162/chunklist_w1272955439.m3u8
-#EXTINF:-1,FOX SPORTS 1
-http://45.225.93.154:8000/play/a01p
-#EXTINF:-1,FOX SPORTS 2
-http://190.108.93.62:8000/play/a00f
-#EXTINF:-1,FOX SPORTS 3
-http://45.181.122.17:8000/play/a010
+#EXTINF:-1,Fox Sports 1
+http://200.24.159.179:8500/play/a021
+#EXTINF:-1,Fox Sports 2
+http://200.24.159.179:8500/play/a01n
+#EXTINF:-1,Fox Sports 3
+http://200.24.159.179:8500/play/a01o
 #EXTINF:-1,TYC SPORTS
 http://45.181.122.17:8000/play/a032
 #EXTINF:-1,GOL TV
-http://45.181.122.17:8000/play/a031
+http://200.24.159.179:8500/play/a03b
+#EXTINF:-1,ECDF SD
+http://200.24.159.179:8500/play/a006
 #EXTINF:-1,ESPN
-http://45.181.122.17:8000/play/a00q
+http://200.24.159.179:8500/play/a01e
 #EXTINF:-1,ESPN 2
-http://45.181.122.17:8000/play/a00p
-#EXTINF:-1,ESPN 3
-http://45.181.122.17:8000/play/a00h
-#EXTINF:-1,ESPN 4
-http://45.181.122.17:8000/play/a00o
+http://200.24.159.179:8500/play/a015
+
 #EXTINF:-1,TNT SPORTS
 http://45.4.0.46:8000/play/cdfhd
 #EXTINF:-1,TNT SPORTS 3
