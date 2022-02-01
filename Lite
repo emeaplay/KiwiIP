@@ -149,6 +149,8 @@ http://200.24.159.179:8500/play/a00n
 http://45.4.0.46:8000/play/cnnchilehd
 #EXTINF:-1,Canal 24 HORAS
 http://45.181.122.17:8000/play/a01l
+#EXTINF:-1,Estrella News
+ttps://dai.google.com/linear/hls/pa/event/y1Zjs_6rS3-ltPqmaNLQDQ/stream/76a83dc8-52e4-4650-8fd8-48f468ed9071:MRN2/variant/c071dd2ffee1ad4702ded2e5f5c8adf7/bandwidth/5253600.m3u8
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,VOA
