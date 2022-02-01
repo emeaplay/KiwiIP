@@ -90,7 +90,7 @@ http://190.4.0.200:8000/play/a00v/index.m3u8
 #EXTINF:-1,EURO Channel
 http://190.4.0.200:8000/play/a028/index.m3u8
 #EXTINF:-1,TELEMUNDO
-http://45.181.122.17:8000/play/a011
+http://200.24.159.179:8500/play/a01p
 #EXTINF:-1,Hola!TV
 http://190.4.0.200:8000/play/a00j/index.m3u8
 #EXTINF:-1,Home Garden Latino
@@ -107,18 +107,14 @@ http://190.4.0.200:8000/play/a001/index.m3u8
 http://190.122.96.187:8888/http/006
 #EXTINF:-1,HOME & HEALTH
 http://200.24.159.179:8500/play/a01w
-#EXTINF:-1,Food Network
-http://190.108.93.62:8000/play/a01a
 #EXTINF:-1,El Gourmet
 http://45.4.0.46:8000/play/a074
 #EXTINF:-1,Claro CINEMA
 http://45.225.93.154:8000/play/a03c
 #EXTINF:-1,Canal de las Estrellas
-http://45.181.122.17:8000/play/a00y
-#EXTINF:-1,TL Novelas
-http://190.108.93.62:8000/play/a00e
+http://200.24.159.179:8500/play/a01m
 #EXTINF:-1,RCN Novelas
-http://45.181.122.17:8000/play/a033
+http://200.24.159.179:8500/play/a03k
 #EXTINF:-1,Pasiones
 http://45.4.0.46:8000/play/pasioneshd
 #EXTINF:-1,Unimas
@@ -135,8 +131,6 @@ http://190.108.83.142:8000/play/a002/index.m3u8
 http://190.108.83.142:8000/play/a005/index.m3u8
 #EXTINF:-1,Multipremier
 http://190.4.0.200:8000/play/a03o/index.m3u8
-#EXTINF:-1,CINE PREMIUM
-http://190.108.93.62:8000/play/a00z
 #EXTINF:-1,HBO
 http://45.181.122.17:8000/play/a008
 #EXTINF:-1,HBO 2
@@ -150,7 +144,7 @@ http://200.24.159.179:8500/play/a010
 #EXTINF:-1,HBO XTREME SD
 http://200.24.159.179:8500/play/a011
 #EXTINF:-1,CNN en español
-http://45.181.122.17:8000/play/a014
+http://200.24.159.179:8500/play/a00n
 #EXTINF:-1,CNN CHILE
 http://45.4.0.46:8000/play/cnnchilehd
 #EXTINF:-1,Canal 24 HORAS
