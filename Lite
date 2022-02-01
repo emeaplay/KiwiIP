@@ -67,8 +67,6 @@ http://45.181.122.17:8000/play/a02h
 http://200.24.159.179:8500/play/a005
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount",Paramount Channel
 http://45.4.0.46:8000/play/a05j
-#EXTINF:-1 tvg-id="DHE" tvg-name="DHE",DHE
-http://190.108.93.62:8000/play/a00h
 #EXTINF:-1,Golden Plus
 http://45.4.0.46:8000/play/goldenhd
 #EXTINF:-1,Cinemax
@@ -81,8 +79,6 @@ http://45.181.122.17:8000/play/a00c
 http://45.181.122.17:8000/play/a01r
 #EXTINF:-1,TCM
 http://45.181.122.17:8000/play/a02k
-#EXTINF:-1,Retro
-http://190.108.93.62:8000/play/a001
 #EXTINF:-1,TRUTV
 http://45.4.0.46:8000/play/a073
 #EXTINF:-1,Film & Arts
