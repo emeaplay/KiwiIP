@@ -85,10 +85,8 @@ http://45.4.0.46:8000/play/a073
 http://190.4.0.200:8000/play/a00v/index.m3u8
 #EXTINF:-1,EURO Channel
 http://190.4.0.200:8000/play/a028/index.m3u8
-#EXTINF:-1,TELEMUNDO
+#EXTINF:-1,Telemundo Internacional
 http://200.24.159.179:8500/play/a01p
-#EXTINF:-1,Hola!TV
-http://190.4.0.200:8000/play/a00j/index.m3u8
 #EXTINF:-1,Home Garden Latino
 http://190.4.0.200:8000/play/a00h/index.m3u8
 #EXTINF:-1,LIFE TIME
