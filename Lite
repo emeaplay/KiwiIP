@@ -56,11 +56,11 @@ http://45.181.122.17:8000/play/a02d
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal",Studio Universal HD
 http://45.4.0.46:8000/play/studiouniversalhd
 #EXTINF:-1 tvg-id="FX" tvg-name="FX",FX
-http://45.181.122.17:8000/play/a00d
+http://200.24.159.179:8500/play/a030
 #EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES",FXM Movies
-http://45.181.122.17:8000/play/a01a
+http://200.24.159.179:8500/play/a00t
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E",A&E
-http://45.181.122.17:8000/play/a00u
+http://200.24.159.179:8500/play/a01i
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE",Star Life
 http://45.181.122.17:8000/play/a02h
 #EXTINF:-1 tvg-id="CineCANAL" tvg-name="CineCANAL",CineCANAL
