@@ -11,7 +11,7 @@ https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w19
 #EXTINF:-1 tvg-id="PANTEL" tvg-name="PANTEL",Panamericana
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="BESTCABLE" tvg-name="BESTCABLE",BESTCABLE
-https://tv.siete.us:19360/bestcable/bestcable/tracks-v1a1/mono.m3u8
+https://live.siete.us/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",Tv Peru
 http://190.108.83.142:8000/play/a00s/index.m3u8
 #EXTINF:-1, ATV+ Noticias
