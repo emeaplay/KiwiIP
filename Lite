@@ -70,13 +70,13 @@ http://45.4.0.46:8000/play/a05j
 #EXTINF:-1,Golden Plus
 http://45.4.0.46:8000/play/goldenhd
 #EXTINF:-1,Cinemax
-http://45.181.122.17:8000/play/a009
+http://200.24.159.179:8500/play/a02w
 #EXTINF:-1,I-SAT
 http://45.181.122.17:8000/play/a02e
 #EXTINF:-1,Space
-http://45.181.122.17:8000/play/a00c
+http://200.24.159.179:8500/play/a02z
 #EXTINF:-1,TBS
-http://45.181.122.17:8000/play/a01r
+http://200.24.159.179:8500/play/a03m
 #EXTINF:-1,TCM
 http://45.181.122.17:8000/play/a02k
 #EXTINF:-1,TRUTV
