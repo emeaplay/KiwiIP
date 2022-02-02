@@ -10,8 +10,8 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
 #EXTINF:-1 tvg-id="PANTEL" tvg-name="PANTEL",Panamericana
 https://cdnh71.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-id="BESTCABLE" tvg-name="BESTCABLE",BESTCABLE
-https://live.siete.us/bestcable/bestcable/index.m3u8
+#EXTINF:-1,SAN BORJA RADIO TV [PER]
+https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
 #EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",Tv Peru
 http://190.108.83.142:8000/play/a00i/index.m3u8
 #EXTINF:-1, ATV+ Noticias
@@ -216,6 +216,9 @@ http://45.4.0.46:8000/play/cdfhd
 http://45.181.122.17:8000/play/a00t
 #EXTINF:-1,DIRECTV SPORTS
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-id="BESTCABLE" tvg-name="BESTCABLE",BESTCABLE
+https://live.siete.us/bestcable/bestcable/index.m3u8
 
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png",Guía de canales PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
