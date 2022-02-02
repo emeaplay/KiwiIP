@@ -8,10 +8,10 @@ https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/33
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="VNP" tvg-name="VNP",Vision Noticias
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
-#EXTINF:-1 tvg-id="PANTEL" tvg-name="PANTEL",Panamericana
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1,SMART PELICULAS
+http://190.108.83.142:8000/play/a009/index.m3u8
 #EXTINF:-1,SAN BORJA RADIO TV [PER]
-https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w958393836.m3u8
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
 #EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",Tv Peru
 http://190.108.83.142:8000/play/a00i/index.m3u8
 #EXTINF:-1, ATV+ Noticias
