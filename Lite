@@ -10,7 +10,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
 #EXTINF:0, Pantel
 https://cdnh71.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-id="ONDA DIGITAL" tvg-name="ONDA DIGITAL",ONDA DIGITAL Peru
+#EXTINF:-1 tvg-id="ONDA DIGITAL" tvg-name="ONDA DIGITAL",Onda Digital
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
 #EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",tv peru
 http://190.108.83.142:8000/play/a00i/index.m3u8
@@ -32,7 +32,7 @@ http://190.108.83.142:8000/play/a009/index.m3u8
 http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",Nacional TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-#EXTINF:-1,Onda Digital
+#EXTINF:-1,OD TV
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 #EXTINF:-1,San Borja RadioTV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
