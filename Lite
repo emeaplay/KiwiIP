@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
-#EXTINF:-1 tvg-id="FUEGO" tvg-name="FUEGO",FUEGO
+#EXTINF:-1 tvg-id="FUEGO" tvg-name="FUEGO",FuegoTV
 http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id=" LATINA" tvg-name=" LATINA" tvg-logo="https://4.bp.blogspot.com/-KDEl04IijX0/VedzVBDiUtI/AAAAAAAApek/mpYHFN99wYA/s1600/latina-tv.jpg",Latina
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8
@@ -8,11 +8,11 @@ https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/33
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="VNP" tvg-name="VNP",Vision Noticias
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
-#EXTINF:-1,SMART PELICULAS
+#EXTINF:-1,Smart Peliculas
 http://190.108.83.142:8000/play/a009/index.m3u8
-#EXTINF:-1,SAN BORJA RADIO TV [PER]
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
-#EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",Tv Peru
+#EXTINF:-1 tvg-id="ONDA DIGITAL" tvg-name="ONDA DIGITAL",ONDA DIGITAL Peru
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
+#EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",tv peru
 http://190.108.83.142:8000/play/a00i/index.m3u8
 #EXTINF:-1, ATV+ Noticias
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
@@ -30,16 +30,14 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",Nacional TV
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-#EXTINF:-1, Onda Digital
+#EXTINF:-1,Onda Digital
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
-#EXTINF:-1 tvg-id="ONDA DIGITAL" tvg-name="ONDA DIGITAL",ONDA DIGITAL Peru
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
-#EXTINF:-1, Central TV
+#EXTINF:-1,San Borja RadioTV
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
+#EXTINF:-1,Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CULTURA 24 HORAS" tvg-name="CULTURA 24 HORAS",TV Cultura 24 HORAS
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:-1,Canal 20 - Eventos KiwiTV
-https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://200.24.159.179:8500/play/a00g
