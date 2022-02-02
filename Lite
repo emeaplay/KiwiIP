@@ -8,8 +8,8 @@ https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/33
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="VNP" tvg-name="VNP",Vision Noticias
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
-#EXTINF:-1,Smart Peliculas
-http://190.108.83.142:8000/play/a009/index.m3u8
+#EXTINF:0, Pantel
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="ONDA DIGITAL" tvg-name="ONDA DIGITAL",ONDA DIGITAL Peru
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
 #EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",tv peru
@@ -26,6 +26,8 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,Global TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1,Smart Peliculas
+http://190.108.83.142:8000/play/a009/index.m3u8
 #EXTINF:-1,Justicia TV
 http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",Nacional TV
@@ -38,6 +40,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CULTURA 24 HORAS" tvg-name="CULTURA 24 HORAS",TV Cultura 24 HORAS
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:-1, PERU Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://200.24.159.179:8500/play/a00g
@@ -460,6 +464,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60a286daf888610007669801" tvg-chno="850" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png",Solo para Reir
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, EL CHAVO 24/7
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1064538754.m3u8
 #EXTINF:-1,HOLA TV España
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
 #EXTINF:-1,Antena 3 Cine
