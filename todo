@@ -19,7 +19,7 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3
 #EXTINF:-1 tvg-id=" ATV" tvg-name=" ATV",ATV
 http://190.108.83.142:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="UCI" tvg-name="UCI", Nativa TV - UCI
-https://mediastreamm.com:3449/live/mlecaroslive.m3u8
+http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="iPe - IDENTIDAD PERUANA" tvg-name="iPe - IDENTIDAD PERUANA",Canal IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",Nacional TV
