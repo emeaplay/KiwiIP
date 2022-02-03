@@ -22,7 +22,7 @@ http://190.108.83.142:8000/play/a00t/index.m3u8
 https://mediastreamm.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-id="iPe - IDENTIDAD PERUANA" tvg-name="iPe - IDENTIDAD PERUANA",Canal IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",Nacional TV
+#EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",NTV - Nacional
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1,Global TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
@@ -42,6 +42,8 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1, PERU Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+#EXTINF:-1, TVPeru Internacional
+https://cdnh74.iblups.com/hls/irtp.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://200.24.159.179:8500/play/a00g
