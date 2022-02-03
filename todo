@@ -532,8 +532,9 @@ http://45.181.122.17:8000/play/a00g
 #EXTINF:-1,ALIENTO
 http://71.187.29.220:8000/play/a06d/index.m3u8
 
-
-#EXTINF:0, EXITOSA NOTICIAS
+#EXTINF:0,BestCable TV
+https://ca.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
+#EXTINF:0, Exitosa Noticias
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 #EXTINF:-1, MONTERRICO TV / JOCKEY CLUB [PER]
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
