@@ -119,12 +119,8 @@ http://200.24.159.179:8500/play/a011
 http://200.24.159.179:8500/play/a00n
 #EXTINF:-1,TVE
 http://45.179.140.242:8000/play/a0jr
-#EXTINF:-1,Estrella News
-https://dai.google.com/linear/hls/pa/event/y1Zjs_6rS3-ltPqmaNLQDQ/stream/76a83dc8-52e4-4650-8fd8-48f468ed9071:MRN2/variant/c071dd2ffee1ad4702ded2e5f5c8adf7/bandwidth/5253600.m3u8
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1,VOA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1,FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 #EXTINF:-1,RT EN ESPAÑOL
@@ -140,7 +136,7 @@ http://190.108.83.142:8000/play/a00z/index.m3u8
 #EXTINF:-1,Home & Health
 http://200.24.159.179:8500/play/a01w
 #EXTINF:-1 tvg-id="ID" tvg-name="ID",ID DISCOVERY
-http://45.181.122.17:8000/play/a01p
+http://45.179.140.242:8000/play/a0jg
 #EXTINF:-1,Discovery Turbo
 http://200.24.159.179:8500/play/a039
 #EXTINF:-1,History Channel
