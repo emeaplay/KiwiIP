@@ -13,7 +13,7 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="ONDA DIGITAL" tvg-name="ONDA DIGITAL",Onda Digital
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
 #EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",TV Peru
-https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+http://190.108.83.142:8000/play/a00i/index.m3u8
 #EXTINF:-1, ATV+ Noticias
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-id=" ATV" tvg-name=" ATV",ATV
@@ -56,8 +56,7 @@ http://200.24.159.179:8500/play/a00c
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN",AXN
 http://200.24.159.179:8500/play/a02y
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="Universal Channel",Universal Channel
-http://45.160.73.129:8888/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal",Studio Universal HD
+http://45.179.140.242:8000/play/a0jw
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX",FX
 http://200.24.159.179:8500/play/a030
@@ -69,10 +68,7 @@ http://200.24.159.179:8500/play/a01i
 http://190.108.83.142:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="CineCANAL" tvg-name="CineCANAL",CineCANAL
 http://200.24.159.179:8500/play/a005
-#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount",Paramount Channel
-http://45.4.0.46:8000/play/a05j
-#EXTINF:-1,Golden Plus
-http://45.4.0.46:8000/play/goldenhd
+
 #EXTINF:-1,Cinemax
 http://200.24.159.179:8500/play/a02w
 #EXTINF:-1,I-SAT
@@ -82,17 +78,15 @@ http://200.24.159.179:8500/play/a02z
 #EXTINF:-1,TBS
 http://200.24.159.179:8500/play/a03m
 #EXTINF:-1,TCM
-http://45.181.122.17:8000/play/a02k
-#EXTINF:-1,TRUTV
-http://45.4.0.46:8000/play/a073
+http://45.179.140.242:8000/play/a0ii
+
 #EXTINF:-1,Film & Arts
 http://190.4.0.200:8000/play/a00v/index.m3u8
 #EXTINF:-1,EURO Channel
 http://190.4.0.200:8000/play/a028/index.m3u8
 #EXTINF:-1,Telemundo Internacional
 http://200.24.159.179:8500/play/a01p
-#EXTINF:-1,Inti
-http://s846397078.mialojamiento.es/7402/inti.php/chunklist_w1912341452.m3u8
+
 #EXTINF:-1,TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
 #EXTINF:-1,Home Garden Latino
