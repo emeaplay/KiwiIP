@@ -65,7 +65,7 @@ http://200.24.159.179:8500/play/a030
 #EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES",FXM Movies
 http://200.24.159.179:8500/play/a00t
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E",A&E
-http://200.24.159.179:8500/play/a01i
+http://45.179.140.242:8000/play/a0ig
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE",Star Life
 http://190.108.83.142:8000/play/a00s/index.m3u8
 #EXTINF:-1,Cinecanal
