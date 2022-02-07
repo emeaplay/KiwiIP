@@ -78,13 +78,7 @@ http://45.181.122.17:8000/play/a02e
 http://200.24.159.179:8500/play/a02z
 #EXTINF:-1,TBS
 http://200.24.159.179:8500/play/a03m
-#EXTINF:-1,TCM
-http://45.179.140.242:8000/play/a0ii
 
-#EXTINF:-1,Film & Arts
-http://190.4.0.200:8000/play/a00v/index.m3u8
-#EXTINF:-1,EURO Channel
-http://190.4.0.200:8000/play/a028/index.m3u8
 #EXTINF:-1,Telemundo Internacional
 http://200.24.159.179:8500/play/a01p
 #EXTINF:-1,GamaTV
@@ -149,7 +143,7 @@ http://200.24.159.179:8500/play/a039
 http://200.24.159.179:8500/play/a004
 #EXTINF:-1,Nat Geo
 http://200.24.159.179:8500/play/a003
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1,Animal Planet
 http://45.181.122.17:8000/play/a00l
 #EXTINF:-1,NAT GEO WILD
 http://190.108.83.142:8000/play/a00w/index.m3u8
@@ -177,7 +171,7 @@ http://200.24.159.179:8500/play/a01n
 #EXTINF:-1,Fox Sports 3
 http://200.24.159.179:8500/play/a01o
 #EXTINF:-1,TYC SPORTS
-http://45.181.122.17:8000/play/a032
+http://45.179.140.242:8000/play/a0k7
 #EXTINF:-1,GOLTV
 http://200.24.159.179:8500/play/a03b
 #EXTINF:-1,El Canal del Futbol
