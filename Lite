@@ -134,8 +134,7 @@ http://200.24.159.179:8500/play/a018
 http://190.108.83.142:8000/play/a00z/index.m3u8
 #EXTINF:-1,Home & Health
 http://200.24.159.179:8500/play/a01w
-#EXTINF:-1 tvg-id="ID" tvg-name="ID",ID DISCOVERY
-http://45.179.140.242:8000/play/a0jg
+
 #EXTINF:-1,Discovery Turbo
 http://200.24.159.179:8500/play/a039
 #EXTINF:-1,History Channel
