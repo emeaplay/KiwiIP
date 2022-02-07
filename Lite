@@ -49,8 +49,8 @@ http://190.108.83.142:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://200.24.159.179:8500/play/a00g
-#EXTINF:-1 tvg-id="SONY" tvg-name="SONY",SONY
-http://45.181.122.17:8000/play/a00a
+#EXTINF:-1,Sony
+http://45.179.140.242:8000/play/a0j8
 #EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",Warner Channel
 http://200.24.159.179:8500/play/a01a
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",Star Channel
@@ -78,7 +78,8 @@ http://45.179.140.242:8000/play/a0jx
 http://200.24.159.179:8500/play/a02z
 #EXTINF:-1,TBS
 http://200.24.159.179:8500/play/a03m
-
+#EXTINF:-1,Zona Latina
+http://45.179.140.242:8000/play/a0jz
 #EXTINF:-1,Telemundo Internacional
 http://200.24.159.179:8500/play/a01p
 #EXTINF:-1,GamaTV
@@ -116,7 +117,8 @@ http://200.24.159.179:8500/play/a011
 
 #EXTINF:-1,CNN Espanol
 http://200.24.159.179:8500/play/a00n
-
+#EXTINF:-1,TVE
+http://45.179.140.242:8000/play/a0jr
 #EXTINF:-1,Estrella News
 https://dai.google.com/linear/hls/pa/event/y1Zjs_6rS3-ltPqmaNLQDQ/stream/76a83dc8-52e4-4650-8fd8-48f468ed9071:MRN2/variant/c071dd2ffee1ad4702ded2e5f5c8adf7/bandwidth/5253600.m3u8
 #EXTINF:-1,ADN 40
@@ -129,6 +131,8 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1,France 24
+http://45.179.140.242:8000/play/a0jh
 #EXTINF:-1,Discovery Channel
 http://200.24.159.179:8500/play/a018
 #EXTINF:-1,FIT TV
@@ -456,7 +460,8 @@ http://200.24.159.179:8500/play/a02d
 #EXTINF:-1,Ecuador TV
 http://200.24.159.179:8500/play/a026
 
-
+#EXTINF:-1,MTV
+http://200.24.159.179:8500/play/a008
 #EXTINF:-1, VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1, VEVO Reggaeton
@@ -473,6 +478,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 #EXTINF:-1, DMJ RADIO
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,80s Hits
+http://45.179.140.242:8000/play/a0gb
 #EXTINF:-1, RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, RETRO PLUS 2
