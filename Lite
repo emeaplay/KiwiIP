@@ -44,6 +44,8 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b5
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1, TVPeru Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
+#EXTINF:-1,TV Paz
+http://190.108.83.142:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://200.24.159.179:8500/play/a00g
@@ -66,9 +68,8 @@ http://200.24.159.179:8500/play/a00t
 http://200.24.159.179:8500/play/a01i
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE",Star Life
 http://190.108.83.142:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="CineCANAL" tvg-name="CineCANAL",CineCANAL
+#EXTINF:-1,Cinecanal
 http://200.24.159.179:8500/play/a005
-
 #EXTINF:-1,Cinemax
 http://200.24.159.179:8500/play/a02w
 #EXTINF:-1,I-SAT
@@ -86,15 +87,12 @@ http://190.4.0.200:8000/play/a00v/index.m3u8
 http://190.4.0.200:8000/play/a028/index.m3u8
 #EXTINF:-1,Telemundo Internacional
 http://200.24.159.179:8500/play/a01p
+#EXTINF:-1,GamaTV
+http://200.24.159.179:8500/play/a027
 
 #EXTINF:-1,TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
-#EXTINF:-1,Home Garden Latino
-http://190.4.0.200:8000/play/a00h/index.m3u8
-#EXTINF:-1,LIFE TIME
-http://190.4.0.200:8000/play/a01o/index.m3u8
-#EXTINF:-1,E! Latino
-http://45.181.122.17:8000/play/a00n
+
 #EXTINF:-1,Mas Chic
 http://190.4.0.200:8000/play/a00f/index.m3u8
 #EXTINF:-1,Mastv
@@ -105,8 +103,8 @@ http://190.122.96.187:8888/http/006
 http://200.24.159.179:8500/play/a01w
 #EXTINF:-1,El Gourmet
 http://45.4.0.46:8000/play/a074
-#EXTINF:-1,Claro CINEMA
-http://45.225.93.154:8000/play/a03c
+#EXTINF:-1,Claro Cinema
+http://200.24.159.179:8500/play/a03r
 #EXTINF:-1,Canal de las Estrellas
 http://200.24.159.179:8500/play/a01m
 #EXTINF:-1,RCN Novelas
@@ -125,21 +123,18 @@ http://190.108.83.142:8000/play/a004/index.m3u8
 http://190.108.83.142:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="MX PRIME",MX PRIME
 http://190.108.83.142:8000/play/a005/index.m3u8
-#EXTINF:-1,Multipremier
-http://190.4.0.200:8000/play/a03o/index.m3u8
 #EXTINF:-1,HBO
-http://45.181.122.17:8000/play/a008
+http://200.24.159.179:8500/play/a02v
 #EXTINF:-1,HBO 2
 http://200.24.159.179:8500/play/a00z
-#EXTINF:-1,HBO Pop
-http://45.4.0.46:8000/play/a0g8
 #EXTINF:-1,HBO Family
 http://200.24.159.179:8500/play/a012
 #EXTINF:-1,HBO Plus
 http://200.24.159.179:8500/play/a010
 #EXTINF:-1,HBO XTREME SD
 http://200.24.159.179:8500/play/a011
-#EXTINF:-1,CNN en español
+
+#EXTINF:-1,CNN Espanol
 http://200.24.159.179:8500/play/a00n
 #EXTINF:-1,CNN CHILE
 http://45.4.0.46:8000/play/cnnchilehd
@@ -158,17 +153,19 @@ https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,Discovery Channel
-http://45.181.122.17:8000/play/a00k
-#EXTINF:-1,HOME & HEALTH
+http://200.24.159.179:8500/play/a018
+#EXTINF:-1,FIT TV
+http://190.108.83.142:8000/play/a00z/index.m3u8
+#EXTINF:-1,Home & Health
 http://200.24.159.179:8500/play/a01w
 #EXTINF:-1 tvg-id="ID" tvg-name="ID",ID DISCOVERY
 http://45.181.122.17:8000/play/a01p
 #EXTINF:-1,Discovery Turbo
-http://45.181.122.17:8000/play/a00f
+http://200.24.159.179:8500/play/a039
 #EXTINF:-1,History Channel
-http://45.181.122.17:8000/play/a02b
-#EXTINF:-1,NAT GEO
-http://45.181.122.17:8000/play/a02a
+http://200.24.159.179:8500/play/a004
+#EXTINF:-1,Nat Geo
+http://200.24.159.179:8500/play/a003
 #EXTINF:-1,ANIMAL PLANET
 http://45.181.122.17:8000/play/a00l
 #EXTINF:-1,NAT GEO WILD
@@ -481,6 +478,8 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
 http://200.24.159.179:8500/play/a02g
 #EXTINF:-1,TC Television [ECU]
 http://200.24.159.179:8500/play/a02d
+#EXTINF:-1,Ecuador TV
+http://200.24.159.179:8500/play/a026
 
 
 #EXTINF:-1, VEVO Latino
