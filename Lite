@@ -38,11 +38,11 @@ https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
 #EXTINF:-1,Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CULTURA 24 HORAS" tvg-name="CULTURA 24 HORAS",TV Cultura 24 HORAS
+#EXTINF:-1 tvg-id="CULTURA 24" tvg-name="CULTURA 24",TV Cultura 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:-1, PERU Channel
+#EXTINF:-1,PERU Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1, TVPeru Internacional
+#EXTINF:-1,TVPeru Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
 #EXTINF:-1,TV Paz
 http://190.108.83.142:8000/play/a00b/index.m3u8
