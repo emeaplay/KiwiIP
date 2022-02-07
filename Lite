@@ -89,32 +89,18 @@ http://190.4.0.200:8000/play/a028/index.m3u8
 http://200.24.159.179:8500/play/a01p
 #EXTINF:-1,GamaTV
 http://200.24.159.179:8500/play/a027
-
 #EXTINF:-1,TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
-
-#EXTINF:-1,Mas Chic
-http://190.4.0.200:8000/play/a00f/index.m3u8
-#EXTINF:-1,Mastv
-http://190.4.0.200:8000/play/a001/index.m3u8
-#EXTINF:-1,Ve Plus
-http://190.122.96.187:8888/http/006
 #EXTINF:-1,HOME & HEALTH
 http://200.24.159.179:8500/play/a01w
-#EXTINF:-1,El Gourmet
-http://45.4.0.46:8000/play/a074
+
 #EXTINF:-1,Claro Cinema
 http://200.24.159.179:8500/play/a03r
 #EXTINF:-1,Canal de las Estrellas
 http://200.24.159.179:8500/play/a01m
 #EXTINF:-1,RCN Novelas
 http://200.24.159.179:8500/play/a03k
-#EXTINF:-1,Pasiones
-http://45.4.0.46:8000/play/pasioneshd
-#EXTINF:-1,Unimas
-http://71.187.29.220:8000/play/a08b/index.m3u8
-#EXTINF:-1,Univision
-http://71.187.29.220:8000/play/a07t/index.m3u8
+
 #EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,MX CLASSIC
@@ -136,10 +122,7 @@ http://200.24.159.179:8500/play/a011
 
 #EXTINF:-1,CNN Espanol
 http://200.24.159.179:8500/play/a00n
-#EXTINF:-1,CNN CHILE
-http://45.4.0.46:8000/play/cnnchilehd
-#EXTINF:-1,Canal 24 HORAS
-http://45.181.122.17:8000/play/a01l
+
 #EXTINF:-1,Estrella News
 https://dai.google.com/linear/hls/pa/event/y1Zjs_6rS3-ltPqmaNLQDQ/stream/76a83dc8-52e4-4650-8fd8-48f468ed9071:MRN2/variant/c071dd2ffee1ad4702ded2e5f5c8adf7/bandwidth/5253600.m3u8
 #EXTINF:-1,ADN 40
@@ -209,8 +192,6 @@ http://200.24.159.179:8500/play/a021
 http://45.4.0.46:8000/play/cdfhd
 #EXTINF:-1,TNT SPORTS 3
 http://45.181.122.17:8000/play/a00t
-#EXTINF:-1,DIRECTV SPORTS
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png",Guía de canales PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
