@@ -1,3 +1,4 @@
+PAQUETE LITE
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
 #EXTINF:-1 tvg-id="FUEGO" tvg-name="FUEGO",FuegoTV
@@ -13,7 +14,7 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="ONDA DIGITAL" tvg-name="ONDA DIGITAL",Onda Digital
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
 #EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",TV Peru
-https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+http://190.108.83.142:8000/play/a00i/index.m3u8
 #EXTINF:-1, ATV+ Noticias
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-id=" ATV" tvg-name=" ATV",ATV
@@ -22,11 +23,11 @@ http://190.108.83.142:8000/play/a00t/index.m3u8
 http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="iPe - IDENTIDAD PERUANA" tvg-name="iPe - IDENTIDAD PERUANA",Canal IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",Nacional TV
+#EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",NTV - Nacional
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1,Global TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
-#EXTINF:-1, Tv Peru Noticias
+#EXTINF:-1, TV Peru Noticias
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,Smart Peliculas
 http://190.108.83.142:8000/play/a009/index.m3u8
@@ -38,91 +39,64 @@ https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
 #EXTINF:-1,Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CULTURA 24 HORAS" tvg-name="CULTURA 24 HORAS",TV Cultura 24 HORAS
+#EXTINF:-1 tvg-id="CULTURA 24" tvg-name="CULTURA 24",TV Cultura 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:-1, PERU Channel [PER]
+#EXTINF:-1,PERU Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1, TVPeru Internacional
+#EXTINF:-1,TVPeru Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
+#EXTINF:-1,TV Paz
+http://190.108.83.142:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://200.24.159.179:8500/play/a00g
-#EXTINF:-1 tvg-id="SONY" tvg-name="SONY",SONY
-http://45.181.122.17:8000/play/a00a
+#EXTINF:-1,Sony
+http://45.179.140.242:8000/play/a0j8
 #EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",Warner Channel
 http://200.24.159.179:8500/play/a01a
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",Star Channel
 http://200.24.159.179:8500/play/a00c
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN",AXN
-http://45.181.122.17:8000/play/a00b
+http://200.24.159.179:8500/play/a02y
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="Universal Channel",Universal Channel
-http://45.181.122.17:8000/play/a02d
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal",Studio Universal HD
-http://45.4.0.46:8000/play/studiouniversalhd
+http://45.179.140.242:8000/play/a0jw
+
 #EXTINF:-1 tvg-id="FX" tvg-name="FX",FX
 http://200.24.159.179:8500/play/a030
 #EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES",FXM Movies
 http://200.24.159.179:8500/play/a00t
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E",A&E
-http://200.24.159.179:8500/play/a01i
+http://45.179.140.242:8000/play/a0ig
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE",Star Life
 http://190.108.83.142:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="CineCANAL" tvg-name="CineCANAL",CineCANAL
+#EXTINF:-1,Cinecanal
 http://200.24.159.179:8500/play/a005
-#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount",Paramount Channel
-http://45.4.0.46:8000/play/a05j
-#EXTINF:-1,Golden Plus
-http://45.4.0.46:8000/play/goldenhd
 #EXTINF:-1,Cinemax
 http://200.24.159.179:8500/play/a02w
 #EXTINF:-1,I-SAT
-http://45.181.122.17:8000/play/a02e
+http://45.179.140.242:8000/play/a0jx
 #EXTINF:-1,Space
 http://200.24.159.179:8500/play/a02z
 #EXTINF:-1,TBS
 http://200.24.159.179:8500/play/a03m
-#EXTINF:-1,TCM
-http://45.181.122.17:8000/play/a02k
-#EXTINF:-1,TRUTV
-http://45.4.0.46:8000/play/a073
-#EXTINF:-1,Film & Arts
-http://190.4.0.200:8000/play/a00v/index.m3u8
-#EXTINF:-1,EURO Channel
-http://190.4.0.200:8000/play/a028/index.m3u8
+#EXTINF:-1,Zona Latina
+http://45.179.140.242:8000/play/a0jz
 #EXTINF:-1,Telemundo Internacional
 http://200.24.159.179:8500/play/a01p
-#EXTINF:-1,Inti
-http://s846397078.mialojamiento.es/7402/inti.php/chunklist_w1912341452.m3u8
+#EXTINF:-1,GamaTV
+http://200.24.159.179:8500/play/a027
 #EXTINF:-1,TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
-#EXTINF:-1,Home Garden Latino
-http://190.4.0.200:8000/play/a00h/index.m3u8
-#EXTINF:-1,LIFE TIME
-http://190.4.0.200:8000/play/a01o/index.m3u8
-#EXTINF:-1,E! Latino
-http://45.181.122.17:8000/play/a00n
-#EXTINF:-1,Mas Chic
-http://190.4.0.200:8000/play/a00f/index.m3u8
-#EXTINF:-1,Mastv
-http://190.4.0.200:8000/play/a001/index.m3u8
-#EXTINF:-1,Ve Plus
-http://190.122.96.187:8888/http/006
 #EXTINF:-1,HOME & HEALTH
 http://200.24.159.179:8500/play/a01w
-#EXTINF:-1,El Gourmet
-http://45.4.0.46:8000/play/a074
-#EXTINF:-1,Claro CINEMA
-http://45.225.93.154:8000/play/a03c
+
+#EXTINF:-1,Claro Cinema
+http://200.24.159.179:8500/play/a03r
 #EXTINF:-1,Canal de las Estrellas
 http://200.24.159.179:8500/play/a01m
 #EXTINF:-1,RCN Novelas
 http://200.24.159.179:8500/play/a03k
-#EXTINF:-1,Pasiones
-http://45.4.0.46:8000/play/pasioneshd
-#EXTINF:-1,Unimas
-http://71.187.29.220:8000/play/a08b/index.m3u8
-#EXTINF:-1,Univision
-http://71.187.29.220:8000/play/a07t/index.m3u8
+
 #EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,MX CLASSIC
@@ -131,52 +105,49 @@ http://190.108.83.142:8000/play/a004/index.m3u8
 http://190.108.83.142:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="MX PRIME",MX PRIME
 http://190.108.83.142:8000/play/a005/index.m3u8
-#EXTINF:-1,Multipremier
-http://190.4.0.200:8000/play/a03o/index.m3u8
 #EXTINF:-1,HBO
-http://45.181.122.17:8000/play/a008
+http://200.24.159.179:8500/play/a02v
 #EXTINF:-1,HBO 2
 http://200.24.159.179:8500/play/a00z
-#EXTINF:-1,HBO Pop
-http://45.4.0.46:8000/play/a0g8
 #EXTINF:-1,HBO Family
 http://200.24.159.179:8500/play/a012
 #EXTINF:-1,HBO Plus
 http://200.24.159.179:8500/play/a010
 #EXTINF:-1,HBO XTREME SD
 http://200.24.159.179:8500/play/a011
-#EXTINF:-1,CNN en español
+
+#EXTINF:-1,CNN Espanol
 http://200.24.159.179:8500/play/a00n
-#EXTINF:-1,CNN CHILE
-http://45.4.0.46:8000/play/cnnchilehd
-#EXTINF:-1,Canal 24 HORAS
-http://45.181.122.17:8000/play/a01l
-#EXTINF:-1,Estrella News
-https://dai.google.com/linear/hls/pa/event/y1Zjs_6rS3-ltPqmaNLQDQ/stream/76a83dc8-52e4-4650-8fd8-48f468ed9071:MRN2/variant/c071dd2ffee1ad4702ded2e5f5c8adf7/bandwidth/5253600.m3u8
+#EXTINF:-1,TVE
+http://45.179.140.242:8000/play/a0jr
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1,VOA
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1,FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
+#EXTINF:-1,Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/HasBahCa.m3u8
 #EXTINF:-1,RT EN ESPAÑOL
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1,France 24
+http://45.179.140.242:8000/play/a0jh
+
 #EXTINF:-1,Discovery Channel
-http://45.181.122.17:8000/play/a00k
-#EXTINF:-1,HOME & HEALTH
+http://200.24.159.179:8500/play/a018
+#EXTINF:-1,FIT TV
+http://190.108.83.142:8000/play/a00z/index.m3u8
+#EXTINF:-1,Home & Health
 http://200.24.159.179:8500/play/a01w
-#EXTINF:-1 tvg-id="ID" tvg-name="ID",ID DISCOVERY
-http://45.181.122.17:8000/play/a01p
+
 #EXTINF:-1,Discovery Turbo
-http://45.181.122.17:8000/play/a00f
+http://200.24.159.179:8500/play/a039
 #EXTINF:-1,History Channel
-http://45.181.122.17:8000/play/a02b
-#EXTINF:-1,NAT GEO
-http://45.181.122.17:8000/play/a02a
-#EXTINF:-1,ANIMAL PLANET
-http://45.181.122.17:8000/play/a00l
+http://200.24.159.179:8500/play/a004
+#EXTINF:-1,Nat Geo
+http://200.24.159.179:8500/play/a003
+#EXTINF:-1,Animal Planet
+http://45.179.140.242:8000/play/a0i9
 #EXTINF:-1,NAT GEO WILD
 http://190.108.83.142:8000/play/a00w/index.m3u8
 #EXTINF:-1,Disney Channel
@@ -203,7 +174,7 @@ http://200.24.159.179:8500/play/a01n
 #EXTINF:-1,Fox Sports 3
 http://200.24.159.179:8500/play/a01o
 #EXTINF:-1,TYC SPORTS
-http://45.181.122.17:8000/play/a032
+http://45.179.140.242:8000/play/a0k7
 #EXTINF:-1,GOLTV
 http://200.24.159.179:8500/play/a03b
 #EXTINF:-1,El Canal del Futbol
@@ -214,12 +185,6 @@ http://200.24.159.179:8500/play/a01e
 http://200.24.159.179:8500/play/a015
 #EXTINF:-1,ESPN 4
 http://200.24.159.179:8500/play/a021
-#EXTINF:-1,TNT SPORTS
-http://45.4.0.46:8000/play/cdfhd
-#EXTINF:-1,TNT SPORTS 3
-http://45.181.122.17:8000/play/a00t
-#EXTINF:-1,DIRECTV SPORTS
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png",Guía de canales PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -466,8 +431,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60a286daf888610007669801" tvg-chno="850" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png",Solo para Reir
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, MyTime Movies España
+https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1, Sony Comedia
+https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1, Sony Competencia
+https://spt-competencias-1-us.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1, Sony Novelas
+https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
 #EXTINF:-1, EL CHAVO 24/7
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1064538754.m3u8
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1,HOLA TV España
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
 #EXTINF:-1,Antena 3 Cine
@@ -487,8 +460,11 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
 http://200.24.159.179:8500/play/a02g
 #EXTINF:-1,TC Television [ECU]
 http://200.24.159.179:8500/play/a02d
+#EXTINF:-1,Ecuador TV
+http://200.24.159.179:8500/play/a026
 
-
+#EXTINF:-1,MTV
+http://200.24.159.179:8500/play/a008
 #EXTINF:-1, VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1, VEVO Reggaeton
@@ -505,13 +481,16 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 #EXTINF:-1, DMJ RADIO
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Pasion Music
+https://tv.portalexpress.es:3753/hybrid/play.m3u8
+#EXTINF:-1,80s Hits
+http://45.179.140.242:8000/play/a0gb
 #EXTINF:-1, RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, RETRO PLUS 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1453280398.m3u8
 #EXTINF:-1,REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-
 
 #EXTINF:-1,ENLACE
 http://45.181.122.17:8000/play/a036
@@ -530,7 +509,9 @@ https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1,ESNE
 http://45.181.122.17:8000/play/a00g
 #EXTINF:-1,ALIENTO
-http://71.187.29.220:8000/play/a06d/index.m3u8
+https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w1498398310_b1300000_slen.m3u8
+
+PAQUETE FULL :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #EXTINF:0,BestCable TV
 https://ca.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
@@ -580,6 +561,8 @@ https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
 https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HECHICERA Tumbes[PER]
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w275466573.m3u8
+#EXTINF:-1, Cajamarca TV [PER]
+https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
 #EXTINF:-1, TURBO MIX Cajamarca [PER]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1, VAMISA TV [PER]
@@ -594,6 +577,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w280801424.m3u8
 https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w995112258.m3u8
 #EXTINF:-1, CLOUD MOVIES
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1, Cinema+
+https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1, ITV
 http://190.108.93.62:8000/play/a003
 #EXTINF:-1, RETROPLUS 3
@@ -614,164 +599,6 @@ https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w710333145.m3u
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1451105741.m3u8
 #EXTINF:-1, XM Musica [PER]
 https://video1.getstreamhosting.com:1936/8160/8160/chunklist_w665930304.m3u8
-
-CANALES HD ::::::::::::::::::::::::::::::::::::::::::::::
-
-#EXTINF:-1,TNT HD
-http://45.4.0.46:8000/play/a06w
-#EXTINF:-1,Sony HD
-http://45.4.0.46:8000/play/a06d
-#EXTINF:-1,Warner Channel HD
-http://45.4.0.46:8000/play/a06e
-#EXTINF:-1,STAR CHANNEL HD
-http://45.4.0.46:8000/play/a0ao
-#EXTINF:-1,AXN HD
-http://45.4.0.46:8000/play/a06f
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://45.4.0.46:8000/play/a0ap
-#EXTINF:-1,Studio Universal HD
-http://45.4.0.46:8000/play/studiouniversalhd
-#EXTINF:-1,FX HD
-http://190.108.93.62:8000/play/a00x
-#EXTINF:-1,FX Movies HD
-http://45.4.0.46:8000/play/a05l
-#EXTINF:-1,Space HD
-http://45.4.0.46:8000/play/a06g
-#EXTINF:-1,A&E HD
-http://45.4.0.46:8000/play/aehd
-#EXTINF:-1,AMC HD
-http://45.4.0.46:8000/play/a056
-#EXTINF:-1,Cinecanal HD
-http://45.4.0.46:8000/play/a05c
-#EXTINF:-1,Cinemax HD
-http://45.4.0.46:8000/play/cinemaxhd
-#EXTINF:-1,TNT Series HD
-http://45.4.0.46:8000/play/a0bf
-#EXTINF:-1,Golden HD
-http://45.4.0.46:8000/play/goldenhd
-#EXTINF:-1,HBO HD
-http://45.4.0.46:8000/play/a08o
-#EXTINF:-1,Paramount HD
-http://45.4.0.46:8000/play/a05j
-#EXTINF:-1, ,DHE HD
-http://45.4.0.46:8000/play/a0dz
-#EXTINF:-1, HBO POP HD
-http://45.4.0.46:8000/play/a0g8
-
-#EXTINF:-1,Star Series HD
-http://45.4.0.46:8000/play/a0au
-#EXTINF:-1,STAR Action HD
-http://45.4.0.46:8000/play/a0bg
-#EXTINF:-1,Star Fun HD
-http://45.4.0.46:8000/play/foxfamilyhd
-#EXTINF:-1,Star Cinema HD
-http://201.131.201.126:8000/play/a00g
-#EXTINF:-1, Star Comedy HD
-http://45.4.0.46:8000/play/a07g
-#EXTINF:-1,Star Series 2 HD
-http://201.131.201.126:8000/play/a00i
-#EXTINF:-1,Star Hits HD
-http://201.131.201.126:8000/play/a00j
-#EXTINF:-1,Star Action 2 HD
-http://201.131.201.126:8000/play/a00e
-
-#EXTINF:-1,Discovery HD
-http://45.4.0.46:8000/play/a0e1
-#EXTINF:-1,Discovery Theater HD
-http://45.4.0.46:8000/play/a0am
-#EXTINF:-1,Discovery World HD
-http://45.4.0.46:8000/play/a05b
-#EXTINF:-1,History Channel HD
-http://45.4.0.46:8000/play/a06b
-#EXTINF:-1,History 2 HD
-http://45.4.0.46:8000/play/a0e4
-#EXTINF:-1,Nat Geo HD
-http://45.4.0.46:8000/play/a05a
-#EXTINF:-1,Nat Geo Wild HD
-http://45.4.0.46:8000/play/a0an
-
-#EXTINF:-1,Sun Channel HD
-http://45.4.0.46:8000/play/a0aj
-#EXTINF:-1, ,Discovery H&H HD
-http://45.4.0.46:8000/play/a0al
-#EXTINF:-1, El Gourmet HD
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, Food Network HD
-http://45.4.0.46:8000/play/foodnetworkhd
-#EXTINF:-1, ID HD
-http://45.4.0.46:8000/play/idhd
-#EXTINF:-1, Pasiones HD
-http://45.4.0.46:8000/play/pasioneshd
-#EXTINF:-1, Star Life HD
-http://45.4.0.46:8000/play/foxlifehd
-#EXTINF:-1,Comedy Central HD
-http://45.4.0.46:8000/play/a0f5
-#EXTINF:-1, TRUTV HD
-http://45.4.0.46:8000/play/a073
-#EXTINF:-1,ESPN HD
-http://45.4.0.46:8000/play/a06j
-#EXTINF:-1, ESPN 2 HD
-http://45.4.0.46:8000/play/a0ax
-#EXTINF:-1, ESPN 3 HD
-http://45.4.0.46:8000/play/espn3hd
-#EXTINF:-1, ESPN 4 HD
-http://45.4.0.46:8000/play/a07k
-#EXTINF:-1, ESPN EXTRA HD
-http://45.4.0.46:8000/play/a05e
-#EXTINF:-1, FOX Sports 2 HD
-http://45.4.0.46:8000/play/a0at
-#EXTINF:-1, Fox Sports 3 HD
-http://45.4.0.46:8000/play/foxsports3hd
-#EXTINF:-1, TNT SPORTS HD
-http://45.4.0.46:8000/play/cdfhd
-
-#EXTINF:-1,Cartoon Network HD
-http://45.4.0.46:8000/play/a05i
-#EXTINF:-1,Discovery Kids HD
-http://45.4.0.46:8000/play/a0ak
-#EXTINF:-1,Disney HD
-http://45.4.0.46:8000/play/disneyhd
-#EXTINF:-1,Nat Geo Kids HD
-http://45.4.0.46:8000/play/natgeokidshd
-#EXTINF:-1,Animal Planet HD
-http://45.4.0.46:8000/play/animalplanethd
-
-#EXTINF:-1, NTV
-http://45.4.0.46:8000/play/a0gu
-#EXTINF:-1,CHV HD
-http://45.4.0.46:8000/play/a08n
-#EXTINF:-1,Canal 13 HD
-http://45.4.0.46:8000/play/a07a
-#EXTINF:-1,La Red HD
-http://45.4.0.46:8000/play/laredhd
-#EXTINF:-1,MEGA HD
-http://45.4.0.46:8000/play/a08g
-#EXTINF:-1,TV! Educa Chile
-http://45.4.0.46:8000/play/a057
-#EXTINF:-1,TV+ HD
-http://45.4.0.46:8000/play/a058
-#EXTINF:-1,TVN HD
-http://45.4.0.46:8000/play/a06r
-#EXTINF:-1,CNN EN ESPAÑOL
-http://200.24.159.179:8500/play/a00n
-#EXTINF:-1, CNN Chile HD
-http://45.4.0.46:8000/play/cnnchilehd
-#EXTINF:-1, Canal 24 Horas HD
-http://45.4.0.46:8000/play/a07d
-#EXTINF:-1,LA RED
-http://45.181.122.17:8000/play/a015
-#EXTINF:-1,MEGAVISION
-http://45.181.122.17:8000/play/a017
-#EXTINF:-1,TELE 13
-http://45.181.122.17:8000/play/a019
-#EXTINF:-1,CHILEVISION
-http://45.181.122.17:8000/play/a018
-#EXTINF:-1,TVN CHILE
-http://45.181.122.17:8000/play/a016
-#EXTINF:-1,RCN NOVELAS
-http://45.181.122.17:8000/play/a033
-#EXTINF:-1,TVE
-http://45.181.122.17:8000/play/a02q
 
 >>>>>> NOTICIAS
 #EXTINF:0, VOA Noticias EEUU
