@@ -114,6 +114,7 @@ http://200.24.159.179:8500/play/a012
 http://200.24.159.179:8500/play/a010
 #EXTINF:-1,HBO XTREME SD
 http://200.24.159.179:8500/play/a011
+
 #EXTINF:-1,CNN Espanol
 http://200.24.159.179:8500/play/a00n
 #EXTINF:-1,TVE
@@ -122,12 +123,15 @@ http://45.179.140.242:8000/play/a0jr
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
+#EXTINF:-1,Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/HasBahCa.m3u8
 #EXTINF:-1,RT EN ESPAÑOL
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,France 24
 http://45.179.140.242:8000/play/a0jh
+
 #EXTINF:-1,Discovery Channel
 http://200.24.159.179:8500/play/a018
 #EXTINF:-1,FIT TV
@@ -426,6 +430,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60a286daf888610007669801" tvg-chno="850" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png",Solo para Reir
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, MyTime Movies España
+https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1, Sony Comedia
+https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1, Sony Competencia
+https://spt-competencias-1-us.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1, Sony Novelas
+https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
 #EXTINF:-1, EL CHAVO 24/7
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1,HOLA TV España
@@ -468,6 +480,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 #EXTINF:-1, DMJ RADIO
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Pasion Music
+https://tv.portalexpress.es:3753/hybrid/play.m3u8
 #EXTINF:-1,80s Hits
 http://45.179.140.242:8000/play/a0gb
 #EXTINF:-1, RETRO PLUS
@@ -495,4 +509,4 @@ https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1,ESNE
 http://45.181.122.17:8000/play/a00g
 #EXTINF:-1,ALIENTO
-http://71.187.29.220:8000/play/a06d/index.m3u8
+https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w1498398310_b1300000_slen.m3u8
