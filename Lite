@@ -42,8 +42,8 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1,PERU Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1,TVPeru Internacional
-https://cdnh74.iblups.com/hls/irtp.m3u8
+#EXTINF:-1,La Abeja
+http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
 #EXTINF:-1,Matices TeVe
 http://v4.tustreaming.cl/matices/index.m3u8
 
