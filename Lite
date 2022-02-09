@@ -44,8 +44,8 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b5
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1,TVPeru Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
-#EXTINF:-1,TV Paz
-http://190.108.83.142:8000/play/a00b/index.m3u8
+#EXTINF:-1,Matices TeVe
+http://v4.tustreaming.cl/matices/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://200.24.159.179:8500/play/a00g
