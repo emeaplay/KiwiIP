@@ -508,13 +508,22 @@ https://mediastreamm.com:3149/live/jn19tvlive.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:-1,3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1,ESNE
-http://45.181.122.17:8000/play/a00g
-#EXTINF:-1,ALIENTO
-https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w1498398310_b1300000_slen.m3u8
 
 
 BACKUP :::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#EXTINF:-1,NACIONAL-WILLAX
+http://190.187.200.69:8000/play/a01q
+#EXTINF:-1,NACIONAL-Latina
+http://190.187.200.69:8000/play/a01r
+#EXTINF:-1,NACIONAL-AmericaTV
+http://190.187.200.69:8000/play/a01s
+#EXTINF:-1,NACIONAL-Panamericana TV
+http://190.187.200.69:8000/play/a01t
+#EXTINF:-1,NACIONAL-TV Peru
+http://190.187.200.69:8000/play/a01w
+#EXTINF:-1,NACIONAL-ATV
+http://190.187.200.69:8000/play/a01u
 
 #EXTINF:-1,CUL-Animal Planet
 http://190.187.200.69:8000/play/a019
