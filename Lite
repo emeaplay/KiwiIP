@@ -87,8 +87,8 @@ http://190.108.83.142:8000/play/a009/index.m3u8
 http://200.24.159.179:8500/play/a01p
 #EXTINF:-1,GamaTV
 http://200.24.159.179:8500/play/a027
-#EXTINF:-1,TV SALUD
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
+#EXTINF:-1,TV Salud
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 #EXTINF:-1,HOME & HEALTH
 http://200.24.159.179:8500/play/a01w
 
