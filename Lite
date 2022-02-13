@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 #EXTM3U x-tvg-url="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml"
 
 #EXTINF:-1 tvg-id="FUEGO" tvg-name="FUEGO",FuegoTV
 http://190.108.83.142:8000/play/a003/index.m3u8
@@ -505,7 +506,7 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
 #EXTINF:-1, PAX TV [PER]
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
 #EXTINF:-1, JN19 TV [PER]
-https://mediastreamm.com:3149/live/jn19tvlive.m3u8
+https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 #EXTINF:-1, EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:-1,3ABN
