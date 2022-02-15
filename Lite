@@ -103,6 +103,8 @@ http://200.24.159.179:8500/play/a01w
 
 #EXTINF:-1,Claro Cinema
 http://200.24.159.179:8500/play/a03r
+#EXTINF:-1,Mega TV
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/chunklist_w1919522580_b3036160.m3u8
 #EXTINF:-1,Canal de las Estrellas
 http://200.24.159.179:8500/play/a01m
 #EXTINF:-1,RCN Novelas
