@@ -178,6 +178,8 @@ http://200.24.159.179:8500/play/a038
 http://200.24.159.179:8500/play/a001
 #EXTINF:-1, XKIDS
 https://video1.getstreamhosting.com:1936/8162/8162/chunklist_w1272955439.m3u8
+#EXTINF:-1,ACS Networks
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
 #EXTINF:-1,Fox Sports 2
 http://200.24.159.179:8500/play/a01n
