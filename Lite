@@ -4,14 +4,14 @@
 
 #EXTINF:-1 tvg-id="FUEGO" tvg-name="FUEGO",FuegoTV
 http://190.108.83.142:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-id=" LATINA" tvg-name=" LATINA" tvg-logo="https://4.bp.blogspot.com/-KDEl04IijX0/VedzVBDiUtI/AAAAAAAApek/mpYHFN99wYA/s1600/latina-tv.jpg",Latina
+#EXTINF:-1 ,Latina
 http://190.187.200.69:8000/play/a01r
 #EXTINF:-1 tvg-id=" BHTV" tvg-name=" BHTV",BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="VNP" tvg-name="VNP",Vision Noticias
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
 #EXTINF:0, Pantel
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+http://190.108.93.62:8001/udp/224.2.2.2:10004
 #EXTINF:-1,San Borja RadioTV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
 #EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",TV Peru
@@ -50,11 +50,17 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
 #EXTINF:-1,Matices TeVe
 http://v4.tustreaming.cl/matices/index.m3u8
+#EXTINF:-1,CANAL 25 KiWi - Premium
+http://161.132.108.34:20000/play/a00m/index.m3u8
+#EXTINF:-1,Canal 26 KiWi - Eventos
+http://38.131.11.9:1080/play/a0d8
+#EXTINF:-1,Canal 27 KiWi - Eventos 2
+http://38.131.11.9:1080/play/a0dh
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://200.24.159.179:8500/play/a00g
 #EXTINF:-1,Sony
-http://45.179.140.242:8000/play/a0j8
+http://38.131.11.9:1080/play/a01w
 #EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",Warner Channel
 http://200.24.159.179:8500/play/a01a
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",Star Channel
