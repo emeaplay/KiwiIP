@@ -459,6 +459,32 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
 #EXTINF:-1,Antena 3 Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png", Gourmet
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png", Mas Chic
+https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Cine Real - Plex
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+#EXTINF:-1, Horrorify
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1, Cine Sureño - Plex
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1, Top Cine - Plex
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1, Runtime MX
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+#EXTINF:-1, Runtime Latino
+https://runtime-espanol-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, TDI Music
+https://play.amelbasoluciones.co:3971/stream/play.m3u8
+#EXTINF:-1, Flash Music
+https://flash-plex.amagi.tv/flash/master.m3u8
+#EXTINF:-1, RCN Plus
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1, Caracol Ahora
+http://mdstrm.com:80/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1, Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1, NRT [MEX]
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
