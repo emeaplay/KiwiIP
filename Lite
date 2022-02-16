@@ -46,13 +46,13 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b5
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1,La Abeja
 http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
-#EXTINF:-1,Matices TeVe
-http://v4.tustreaming.cl/matices/index.m3u8
-#EXTINF:-1,Canal 25 KiWi - Premium
+#EXTINF:-1,Kiwi TV
+http://38.131.11.9:1080/play/a0dl
+#EXTINF:-1,Canal 25 - Premium
 http://38.131.11.9:1080/play/a0dc
-#EXTINF:-1,Canal 26 KiWi - Eventos
+#EXTINF:-1,Canal 26 - Eventos
 http://38.131.11.9:1080/play/a0d8
-#EXTINF:-1,Canal 27 KiWi - Eventos 2
+#EXTINF:-1,Canal 27 - Eventos 2
 http://38.131.11.9:1080/play/a0dh
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
