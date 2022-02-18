@@ -12,7 +12,7 @@ https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w19
 http://190.108.93.62:8001/udp/224.2.2.2:10004
 #EXTINF:-1,San Borja RadioTV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
-#EXTINF:-1 tvg-id="TV PERU" tvg-name="TV PERU",TV Peru
+#EXTINF:-1,TV Peru
 http://190.187.200.69:8000/play/a01w
 #EXTINF:-1, ATV+ Noticias
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
@@ -40,12 +40,12 @@ https://servilive.com:3114/live/liveulive.m3u8
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
 #EXTINF:-1,Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CULTURA 24" tvg-name="CULTURA 24",TV Cultura 24
+#EXTINF:-1,TV Cultura 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1,Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1,La Abeja
-http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
+#EXTINF:-1, EL CHAVO 24/7
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1,Kiwi TV
 http://38.131.11.9:1080/play/a0dl
 #EXTINF:-1,Canal 25 - Premium
@@ -65,7 +65,7 @@ http://200.24.159.179:8500/play/a01a
 http://200.24.159.179:8500/play/a00c
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN",AXN
 http://200.24.159.179:8500/play/a02y
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="Universal Channel",Universal Channel
+#EXTINF:-1 tvg-id="Universal Channel",Universal Channel
 http://45.179.140.242:8000/play/a0jw
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX",FX
@@ -101,8 +101,6 @@ http://200.24.159.179:8500/play/a01w
 
 #EXTINF:-1,Claro Cinema
 http://200.24.159.179:8500/play/a03r
-#EXTINF:-1,Mega TV
-https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/chunklist_w1919522580_b3036160.m3u8
 #EXTINF:-1,Canal de las Estrellas
 http://200.24.159.179:8500/play/a01m
 #EXTINF:-1,RCN Novelas
@@ -134,9 +132,7 @@ http://45.179.140.242:8000/play/a0jr
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
-#EXTINF:-1,Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/HasBahCa.m3u8
-#EXTINF:-1,RT EN ESPAÑOL
+#EXTINF:-1,RT en español
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
@@ -160,6 +156,9 @@ http://200.24.159.179:8500/play/a003
 http://45.179.140.242:8000/play/a0i9
 #EXTINF:-1,NAT GEO WILD
 http://190.108.83.142:8000/play/a00w/index.m3u8
+
+#EXTINF:-1,Baby Tv
+http://38.131.11.9:1080/play/a0d4
 #EXTINF:-1,Disney Channel
 http://200.24.159.179:8500/play/a017
 #EXTINF:-1,Disney Jr
@@ -176,10 +175,8 @@ http://200.24.159.179:8500/play/a00e
 http://200.24.159.179:8500/play/a038
 #EXTINF:-1,Nickelodeon
 http://200.24.159.179:8500/play/a001
-#EXTINF:-1, XKIDS
-https://video1.getstreamhosting.com:1936/8162/8162/chunklist_w1272955439.m3u8
-#EXTINF:-1,ACS Networks
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+#EXTINF:-1,Tooncast
+http://38.131.11.9:1080/play/a0dl
 
 #EXTINF:-1,Fox Sports 2
 http://200.24.159.179:8500/play/a01n
@@ -197,6 +194,21 @@ http://200.24.159.179:8500/play/a01e
 http://200.24.159.179:8500/play/a015
 #EXTINF:-1,ESPN 4
 http://200.24.159.179:8500/play/a021
+
+#EXTINF:-1, VEVO Reggaeton
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
+#EXTINF:-1, LATINOS RADIO
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w33165640.m3u8
+#EXTINF:-1,PORTAL FOXMIX
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w748795965.m3u8
+#EXTINF:-1,88 Stereo 
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1,KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1,CAROLINA RADIO
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
+#EXTINF:-1, DMJ RADIO
+https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png",Guía de canales PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -443,93 +455,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60a286daf888610007669801" tvg-chno="850" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png",Solo para Reir
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1, MyTime Movies España
-https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1, Sony Comedia
-https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
-#EXTINF:-1, Sony Competencia
-https://spt-competencias-1-us.samsung.wurl.tv:443/3000.m3u8
-#EXTINF:-1, Sony Novelas
-https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
-#EXTINF:-1, EL CHAVO 24/7
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1,HOLA TV España
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-720.m3u8
-#EXTINF:-1,Antena 3 Cine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png", Gourmet
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png", Mas Chic
-https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Cine Real - Plex
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-#EXTINF:-1, Horrorify
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#EXTINF:-1, Cine Sureño - Plex
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:-1, Top Cine - Plex
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1, Runtime MX
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
-#EXTINF:-1, Runtime Latino
-https://runtime-espanol-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1, TDI Music
-https://play.amelbasoluciones.co:3971/stream/play.m3u8
-#EXTINF:-1, Flash Music
-https://flash-plex.amagi.tv/flash/master.m3u8
-#EXTINF:-1, RCN Plus
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1, Caracol Ahora
-http://mdstrm.com:80/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1, Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1, NRT [MEX]
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1, TELEPLAY [MEX]
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/chunks.m3u8
-#EXTINF:-1, WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w176717118_b1500000_slen.m3u8 
-#EXTINF:-1, TELESISTEMA [CRI]
-http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1562564002.m3u8
-#EXTINF:-1, TELERED [CRI]
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
-#EXTINF:-1, ECUAVISA [ECU]
-http://200.24.159.179:8500/play/a02g
-#EXTINF:-1,TC Television [ECU]
-http://200.24.159.179:8500/play/a02d
-#EXTINF:-1,Ecuador TV
-http://200.24.159.179:8500/play/a026
-
-#EXTINF:-1,MTV
-http://200.24.159.179:8500/play/a008
-#EXTINF:-1, VEVO Latino
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1, VEVO Reggaeton
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-#EXTINF:-1, LATINOS RADIO
-https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w33165640.m3u8
-#EXTINF:-1,PORTAL FOXMIX
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w748795965.m3u8
-#EXTINF:-1,88 Stereo 
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1,KPOP TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1,CAROLINA RADIO
-https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
-#EXTINF:-1, DMJ RADIO
-https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Pasion Music
-https://tv.portalexpress.es:3753/hybrid/play.m3u8
-#EXTINF:-1,80s Hits
-http://45.179.140.242:8000/play/a0gb
-#EXTINF:-1, RETRO PLUS
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, RETRO PLUS 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1453280398.m3u8
-#EXTINF:-1,REWIND TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-
 
 #EXTINF:-1,ENLACE
 http://45.181.122.17:8000/play/a036
@@ -546,9 +471,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m
 #EXTINF:-1,3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 
-
-BACKUP :::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 #EXTINF:-1,NACIONAL-WILLAX
 http://190.187.200.69:8000/play/a01q
 #EXTINF:-1,NACIONAL-Latina
@@ -561,96 +483,3 @@ http://190.187.200.69:8000/play/a01t
 http://190.187.200.69:8000/play/a01w
 #EXTINF:-1,NACIONAL-ATV
 http://190.187.200.69:8000/play/a01u
-
-#EXTINF:-1,CUL-Animal Planet
-http://190.187.200.69:8000/play/a019
-#EXTINF:-1,CUL-Discovery Channel
-http://190.187.200.69:8000/play/a018
-#EXTINF:-1,CUL-History Channel
-http://190.187.200.69:8000/play/a00c
-#EXTINF:-1,CUL-Nat Geo
-http://190.187.200.69:8000/play/a00b
-#EXTINF:-1,Claro Sports
-http://190.187.200.69:8000/play/a02a
-#EXTINF:-1,DEPOR-ESPN
-http://190.187.200.69:8000/play/a01e
-#EXTINF:-1,DEPOR-ESPN 2
-http://190.187.200.69:8000/play/a015
-#EXTINF:-1,DEPOR-ESPN 2 Latin
-http://190.187.200.69:8000/play/a01d
-#EXTINF:-1,DEPOR-ESPN 3
-http://190.187.200.69:8000/play/a028
-#EXTINF:-1,DEPOR-ESPN 4
-http://190.187.200.69:8000/play/a01v
-#EXTINF:-1,DEPOR-Fox Sports 2
-http://190.187.200.69:8000/play/a01k
-#EXTINF:-1,DEPOR-Fox Sports 3
-http://190.187.200.69:8000/play/a01l
-#EXTINF:-1,DEPOR-TyC
-http://190.187.200.69:8000/play/a01g
-#EXTINF:-1,INFA Cartoon Network ESPA
-http://190.187.200.69:8000/play/a029
-#EXTINF:-1,INFA-Discovery Kids
-http://190.187.200.69:8000/play/a00m
-#EXTINF:-1,INFA-Disney Channel
-http://190.187.200.69:8000/play/a017
-#EXTINF:-1,INFA-Disney Jr
-http://190.187.200.69:8000/play/a013
-#EXTINF:-1,INFA-Disney XD
-http://190.187.200.69:8000/play/a00a
-#EXTINF:-1,INFA-NatGeo Kids
-http://190.187.200.69:8000/play/a00i
-#EXTINF:-1,INFA-Nick Jr
-http://190.187.200.69:8000/play/a026
-#EXTINF:-1,INFA-Nickelodeon
-http://190.187.200.69:8000/play/a009
-#EXTINF:-1,INTER-TVE
-http://190.187.200.69:8000/play/a00l
-EXTINF:-1,NOTI-CNN Espanol
-http://190.187.200.69:8000/play/a00n
-#EXTINF:-1,PELIS-Cinecanal
-http://190.187.200.69:8000/play/a00d
-#EXTINF:-1,PELIS-Cinemax
-http://190.187.200.69:8000/play/a021
-#EXTINF:-1,PELIS-FX
-http://190.187.200.69:8000/play/a025
-#EXTINF:-1,PELIS-FXM
-http://190.187.200.69:8000/play/a00t
-#EXTINF:-1,PELIS-Space
-http://190.187.200.69:8000/play/a024
-#EXTINF:-1,PELIS-TNT
-http://190.187.200.69:8000/play/a00k
-#EXTINF:-1,PREMIUM-HBO
-http://190.187.200.69:8000/play/a020
-#EXTINF:-1,PREMIUM-HBO 2
-http://190.187.200.69:8000/play/a00z
-#EXTINF:-1,PREMIUM-HBO Family
-http://190.187.200.69:8000/play/a012
-#EXTINF:-1,PREMIUM-HBO Plus
-http://190.187.200.69:8000/play/a010
-#EXTINF:-1,PREMIUM-HBO XTREME SD
-http://190.187.200.69:8000/play/a011
-#EXTINF:-1,SERIES-AXN
-http://190.187.200.69:8000/play/a023
-#EXTINF:-1,SERIES-STAR CHANNEL
-http://190.187.200.69:8000/play/a00g
-#EXTINF:-1,SERIES-Sony
-http://190.187.200.69:8000/play/a022
-#EXTINF:-1,SERIES-TBS
-http://190.187.200.69:8000/play/a01p
-#EXTINF:-1,SERIES-Universal
-http://190.187.200.69:8000/play/a00e
-#EXTINF:-1,SERIES-Warner
-http://190.187.200.69:8000/play/a01a
-#EXTINF:-1,VARIADOS-Canal Estrellas
-http://190.187.200.69:8000/play/a01j
-#EXTINF:-1,VARIADOS-Discovery Turbo
-http://190.187.200.69:8000/play/a027
-#EXTINF:-1,VARIADOS-Entertainment
-http://190.187.200.69:8000/play/a01b
-#EXTINF:-1,VARIADOS-RCN Novelas
-http://190.187.200.69:8000/play/a01n
-#EXTINF:-1,VARIADOS-STAR LIFE
-http://190.187.200.69:8000/play/a00f
-#EXTINF:-1,VARIADOS-Telemundo
-http://190.187.200.69:8000/play/a01m
