@@ -4,14 +4,14 @@
 http://190.187.200.69:8000/play/a01q
 #EXTINF:-1 ,Latina
 http://190.187.200.69:8000/play/a01r
-#EXTINF:-1 tvg-id=" BHTV" tvg-name=" BHTV",BH TV
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1,Movistar Deportes
+http://38.131.11.9:1080/play/a0dp
 #EXTINF:-1 tvg-id="VNP" tvg-name="VNP",Vision Noticias
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
 #EXTINF:0, Pantel
 http://190.108.93.62:8001/udp/224.2.2.2:10004
-#EXTINF:-1,San Borja RadioTV
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
+#EXTINF:-1,BH TV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,TV Peru
 http://190.187.200.69:8000/play/a01w
 #EXTINF:-1, ATV+ Noticias
@@ -30,29 +30,25 @@ http://190.108.93.62:8001/udp/224.2.2.2:10006
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,Asiri Noticias
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1,Movistar Deportes
-http://38.131.11.9:1080/play/a0dp
+#EXTINF:-1,San Borja RadioTV
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
 #EXTINF:-1,ODTV
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 #EXTINF:0, Conecta2
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1,Onda Digital
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
-#EXTINF:-1,Central TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1,TV Cultura 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1,Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1, EL CHAVO 24/7
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1,Kiwi TV
-http://38.131.11.9:1080/play/a0dl
-#EXTINF:-1,Canal 25 - Premium
+#EXTINF:-1,Canal 23 - Premium
 http://38.131.11.9:1080/play/a0dc
-#EXTINF:-1,Canal 26 - Eventos
+#EXTINF:-1,Canal 24 - Eventos
 http://38.131.11.9:1080/play/a0d8
-#EXTINF:-1,Canal 27 - Eventos 2
+#EXTINF:-1,Canal 25 - Eventos 2
 http://38.131.11.9:1080/play/a0dh
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
@@ -86,27 +82,10 @@ http://45.179.140.242:8000/play/a0jx
 http://200.24.159.179:8500/play/a02z
 #EXTINF:-1,TBS
 http://200.24.159.179:8500/play/a03m
-#EXTINF:-1,Zona Latina
-http://45.179.140.242:8000/play/a0jz
 #EXTINF:-1,Smart Peliculas
 http://190.108.83.142:8000/play/a009/index.m3u8
-#EXTINF:-1,Telemundo Internacional
-http://200.24.159.179:8500/play/a01p
-#EXTINF:-1,GamaTV
-http://200.24.159.179:8500/play/a027
-#EXTINF:-1,TV Salud
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
-#EXTINF:-1,HOME & HEALTH
-http://200.24.159.179:8500/play/a01w
-
 #EXTINF:-1,Claro Cinema
 http://200.24.159.179:8500/play/a03r
-#EXTINF:-1,Canal de las Estrellas
-http://200.24.159.179:8500/play/a01m
-#EXTINF:-1,RCN Novelas
-http://45.179.140.242:8000/play/a0jf
-#EXTINF:-1,ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,MX CLASSIC
 http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1,MX FAMILY
@@ -124,6 +103,24 @@ http://200.24.159.179:8500/play/a010
 #EXTINF:-1,HBO XTREME SD
 http://200.24.159.179:8500/play/a011
 
+#EXTINF:-1,Zona Latina
+http://45.179.140.242:8000/play/a0jz
+#EXTINF:-1,Telemundo Internacional
+http://200.24.159.179:8500/play/a01p
+#EXTINF:-1,GamaTV
+http://200.24.159.179:8500/play/a027
+#EXTINF:-1,TV Salud
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
+#EXTINF:-1,HOME & HEALTH
+http://200.24.159.179:8500/play/a01w
+
+#EXTINF:-1,Canal de las Estrellas
+http://200.24.159.179:8500/play/a01m
+#EXTINF:-1,RCN Novelas
+http://45.179.140.242:8000/play/a0jf
+#EXTINF:-1,ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,CNN Espanol
 http://200.24.159.179:8500/play/a00n
 #EXTINF:-1,TVE
@@ -139,13 +136,14 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1,France 24
 http://45.179.140.242:8000/play/a0jh
 
-#EXTINF:-1,Discovery Channel
-http://200.24.159.179:8500/play/a018
 #EXTINF:-1,FIT TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
 #EXTINF:-1,Home & Health
 http://200.24.159.179:8500/play/a01w
 
+
+#EXTINF:-1,Discovery Channel
+http://200.24.159.179:8500/play/a018
 #EXTINF:-1,Discovery Turbo
 http://200.24.159.179:8500/play/a039
 #EXTINF:-1,History Channel
@@ -186,7 +184,7 @@ http://200.24.159.179:8500/play/a01o
 http://45.179.140.242:8000/play/a0k7
 #EXTINF:-1,GOLTV
 http://200.24.159.179:8500/play/a03b
-#EXTINF:-1,El Canal del Futbol
+#EXTINF:-1,El Canal del Futbol Ecuador
 http://200.24.159.179:8500/play/a006
 #EXTINF:-1,ESPN
 http://200.24.159.179:8500/play/a01e
@@ -447,8 +445,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf0007107714/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 ,Narcos
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a45590007821749/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca4-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db32e708-3f49-4116-9202-54e60c2967ae&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="6148ab7eb75aa60007ca07a1" tvg-chno="10" tvg-logo="https://images.pluto.tv/channels/6148ab7eb75aa60007ca07a1/colorLogoPNG.png",Maradona sin cortes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6148ab7eb75aa60007ca07a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="619d56d9fa3070000709e3f7" tvg-chno="175" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png",Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60c882460ea4a200076a2a37" tvg-chno="655" tvg-logo="https://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png",Fashion TV
