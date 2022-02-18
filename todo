@@ -598,7 +598,7 @@ http://190.187.200.69:8000/play/a026
 http://190.187.200.69:8000/play/a009
 #EXTINF:-1,INTER-TVE
 http://190.187.200.69:8000/play/a00l
-EXTINF:-1,NOTI-CNN Espanol
+#EXTINF:-1,NOTI-CNN Espanol
 http://190.187.200.69:8000/play/a00n
 #EXTINF:-1,PELIS-Cinecanal
 http://190.187.200.69:8000/play/a00d
