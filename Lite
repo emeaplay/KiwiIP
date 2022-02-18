@@ -63,7 +63,8 @@ http://200.24.159.179:8500/play/a00c
 http://200.24.159.179:8500/play/a02y
 #EXTINF:-1 tvg-id="Universal Channel",Universal Channel
 http://45.179.140.242:8000/play/a0jw
-
+#EXTINF:-1,Studio Universal
+http://190.92.95.37:8000/play/a0k1/index.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX",FX
 http://200.24.159.179:8500/play/a030
 #EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES",FXM Movies
@@ -74,14 +75,18 @@ http://45.179.140.242:8000/play/a0ig
 http://190.108.83.142:8000/play/a00s/index.m3u8
 #EXTINF:-1,Cinecanal
 http://200.24.159.179:8500/play/a005
+#EXTINF:-1,Cinecanal Plus
+http://190.108.93.62:8001/udp/224.2.2.2:10037
 #EXTINF:-1,Cinemax
 http://200.24.159.179:8500/play/a02w
-#EXTINF:-1,I-SAT
+#EXTINF:-1,I-Sat
 http://45.179.140.242:8000/play/a0jx
 #EXTINF:-1,Space
 http://200.24.159.179:8500/play/a02z
 #EXTINF:-1,TBS
 http://200.24.159.179:8500/play/a03m
+#EXTINF:-1,SyFy
+http://190.92.95.37:8000/play/a0ij/index.m3u8
 #EXTINF:-1,Smart Peliculas
 http://190.108.83.142:8000/play/a009/index.m3u8
 #EXTINF:-1,Claro Cinema
@@ -92,6 +97,8 @@ http://190.108.83.142:8000/play/a004/index.m3u8
 http://190.108.83.142:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="MX PRIME",MX PRIME
 http://190.108.83.142:8000/play/a005/index.m3u8
+#EXTINF:-1,TNT Series
+http://190.92.95.37:8000/play/a0fs/index.m3u8
 #EXTINF:-1,HBO
 http://200.24.159.179:8500/play/a02v
 #EXTINF:-1,HBO 2
