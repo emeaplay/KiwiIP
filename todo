@@ -435,6 +435,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a37/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60a286daf888610007669801" tvg-chno="850" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png",Solo para Reir
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
 #EXTINF:-1, MyTime Movies España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1, Sony Comedia
@@ -493,6 +495,8 @@ http://200.24.159.179:8500/play/a02d
 #EXTINF:-1,Ecuador TV
 http://200.24.159.179:8500/play/a026
 
+#EXTINF:-1,Mega TV
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/chunklist_w1919522580_b3036160.m3u8
 #EXTINF:-1,MTV
 http://200.24.159.179:8500/play/a008
 #EXTINF:-1, VEVO Latino
@@ -511,8 +515,6 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 #EXTINF:-1, DMJ RADIO
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Pasion Music
-https://tv.portalexpress.es:3753/hybrid/play.m3u8
 #EXTINF:-1,80s Hits
 http://45.179.140.242:8000/play/a0gb
 #EXTINF:-1, RETRO PLUS
@@ -521,23 +523,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1453280398.m3u8
 #EXTINF:-1,REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-
-
-#EXTINF:-1,ENLACE
-http://45.181.122.17:8000/play/a036
-#EXTINF:-1,BETHEL
-http://190.108.83.142:8000/play/a00m/index.m3u8
-#EXTINF:-1, ORBE 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
-#EXTINF:-1, PAX TV [PER]
-http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
-#EXTINF:-1, JN19 TV [PER]
-https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
-#EXTINF:-1, EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
-#EXTINF:-1,3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-
 
 BACKUP :::::::::::::::::::::::::::::::::::::::::::::::::::::
 
