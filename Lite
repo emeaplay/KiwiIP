@@ -3,11 +3,11 @@
 #EXTINF:-1,Willax
 http://190.187.200.69:8000/play/a01q
 #EXTINF:-1 ,Latina
-http://190.187.200.69:8000/play/a01r
-#EXTINF:-1,Movistar Deportes
-http://38.131.11.9:1080/play/a0dp
-#EXTINF:-1 tvg-id="VNP" tvg-name="VNP",Vision Noticias
+http://190.108.93.62:8001/udp/224.2.2.2:10001
+#EXTINF:-1,Vision Noticias
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
+#EXTINF:-1,America TV
+http://190.187.200.69:8000/play/a01s
 #EXTINF:0, Pantel
 http://190.108.93.62:8001/udp/224.2.2.2:10004
 #EXTINF:-1,BH TV
@@ -45,11 +45,11 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1, EL CHAVO 24/7
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1,Canal 23 - Premium
-http://38.131.11.9:1080/play/a0dc
+http://190.108.93.62:8001/udp/224.2.2.2:10014
 #EXTINF:-1,Canal 24 - Eventos
-http://38.131.11.9:1080/play/a0d8
+http://190.108.93.62:8001/udp/224.2.2.2:10011
 #EXTINF:-1,Canal 25 - Eventos 2
-http://38.131.11.9:1080/play/a0dh
+http://190.108.93.62:8001/udp/224.2.2.2:10036
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://200.24.159.179:8500/play/a00g
@@ -164,7 +164,7 @@ http://45.179.140.242:8000/play/a0i9
 http://190.108.83.142:8000/play/a00w/index.m3u8
 
 #EXTINF:-1,Baby Tv
-http://38.131.11.9:1080/play/a0d4
+http://190.92.95.37:8000/play/a0e4/index.m3u8
 #EXTINF:-1,Disney Channel
 http://200.24.159.179:8500/play/a017
 #EXTINF:-1,Disney Jr
