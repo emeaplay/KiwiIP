@@ -54,7 +54,7 @@ http://190.108.93.62:8001/udp/224.2.2.2:10036
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://200.24.159.179:8500/play/a00g
 #EXTINF:-1,Sony
-http://38.131.11.9:1080/play/a01w
+http://190.92.95.37:8000/play/a0if/index.m3u8
 #EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",Warner Channel
 http://200.24.159.179:8500/play/a01a
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",Star Channel
