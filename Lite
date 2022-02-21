@@ -31,28 +31,17 @@ http://190.131.228.59:8000/play/a06a/index.m3u8
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,Asiri Noticias
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1,San Borja RadioTV
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
 #EXTINF:-1,ODTV
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 #EXTINF:0, Conecta2
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1,Onda Digital
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/chunklist_w170590224.m3u8
-#EXTINF:-1,TV Cultura 24
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-#EXTINF:-1,Peru Channel
-https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1, EL CHAVO 24/7
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1,Canal 23 - Premium
-http://161.132.107.29:9000/play/a0im/index.m3u8
-#EXTINF:-1,Canal 24 - Eventos
+#EXTINF:-1,Canal 20 - Kiwi Eventos
 http://190.131.228.59:8000/play/a0et/index.m3u8
-#EXTINF:-1,Canal 25 - Eventos 2
-http://161.132.107.27:9000/play/a0h9/index.m3u8
-
-
+PLUTO TV
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png",Guía de canales PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",Cine Acción
@@ -297,6 +286,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a
 #EXTINF:-1 tvg-id="60a286daf888610007669801" tvg-chno="850" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png",Solo para Reir
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1,Peru Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+#EXTINF:-1,San Borja RadioTV
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
+
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://45.236.175.117:9600/play/a021
 #EXTINF:-1,Sony
@@ -388,6 +382,8 @@ https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,France 24
 http://45.179.140.242:8000/play/a0jh
+#EXTINF:-1,TV Cultura 24
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 
 #EXTINF:-1,FIT TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
