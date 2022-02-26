@@ -309,7 +309,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://45.236.175.117:9600/play/a021
 #EXTINF:-1,Sony
-http://190.92.95.37:8000/play/a0if/index.m3u8
+http://190.92.95.37:8000/play/a0iv/index.m3u8
 #EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",Warner Channel
 http://45.236.175.117:9600/play/a00t
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",Star Channel
