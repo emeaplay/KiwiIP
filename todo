@@ -296,6 +296,42 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c882460ea4a200076a2a
 #EXTINF:-1 tvg-id="60a286daf888610007669801" tvg-chno="850" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png",Solo para Reir
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1,Flash Music - Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1,Top Cine - Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1,La Corriente - Plex
+https://stream.ads.ottera.tv/cl/00ae6e3e-91ca-4d72-bc6e-8b815bfd54ec/1280x720_1400000_3_false.m3u8
+#EXTINF:-1,Cine Sureño - Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1,Tu Cine - Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1,Cine Real - Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-latam-plex/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1,Juntos TV - Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1,LevelUP Games - Plex
+https://6ee95669e5224fb68922594f6a58bde0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_LevelUp/2c3e73ae-92f0-4596-888e-19fbe75bdf99/4.m3u8
+#EXTINF:-1,Saber Mas - Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1,VideoFunny AFV Español - Plex
+https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/edea5653-f1c5-484f-970d-bf47297b7f72/0.m3u8
+#EXTINF:-1,Chiquilines - Plex
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/1280x720_2855600/index.m3u8
+#EXTINF:-1,Toon Goggles Infantil - Plex
+https://stream.ads.ottera.tv/cl/beb7312f-229a-4789-a047-d4d313c862af/1280x720_1400000_3_false.m3u8
+#EXTINF:-1,HorrorFy - Plex
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/8efd6cd8-21e3-43bb-b82a-28e7c80ccab9/4.m3u8
+#EXTINF:-1,Cindie Español - Plex
+https://stream.ads.ottera.tv/cl/c41cc8e7-da83-41f2-94da-fd0c7e2df50e/1280x720_3071200_0_false.m3u8
+#EXTINF:-1,Todo Life - Plex
+https://9e42b0e4e5b1434db9278d1414d887bf.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoLIFE/7f3bc006-ac0e-491a-a901-c3d7bd8b1ffe/5.m3u8
+#EXTINF:-1,Todo Crimen - Plex
+https://d861871e83924957b35eabcebb7df7eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoCrimen/d224a717-a757-4551-93d6-67249d7bdcc7/0.m3u8
+#EXTINF:-1,Vivaldi - Plex
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/96fccd31-7b4a-4d55-bd0b-b10073eaa36b/1.m3u8
+
+
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://45.236.175.117:9600/play/a021
 #EXTINF:-1,Sony
