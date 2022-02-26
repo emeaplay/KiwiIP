@@ -299,7 +299,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a286daf8886100076698
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
 http://45.236.175.117:9600/play/a021
 #EXTINF:-1,Sony
-http://190.92.95.37:8000/play/a0if/index.m3u8
+http://190.92.95.37:8000/play/a0iv/index.m3u8
 #EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",Warner Channel
 http://45.236.175.117:9600/play/a00t
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",Star Channel
