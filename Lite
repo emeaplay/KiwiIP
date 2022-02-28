@@ -344,33 +344,33 @@ http://190.92.95.37:8000/play/a0iv/index.m3u8
 #EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",Warner Channel
 http://45.236.175.117:9600/play/a00t
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",Star Channel
-http://209.45.97.109:8000/play/a00i
+http://190.187.200.69:8000/play/a00g
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN",AXN
-http://209.45.97.109:8000/play/a029
+http://190.187.200.69:8000/play/a023
 #EXTINF:-1 tvg-id="Universal Channel",Universal Channel
 http://45.179.140.242:8000/play/a0jw
 #EXTINF:-1,Studio Universal
 http://190.92.95.37:8000/play/a0k1/index.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX",FX
-http://209.45.97.109:8000/play/a02b
+http://190.187.200.69:8000/play/a025
 #EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES",FXM Movies
-http://209.45.97.109:8000/play/a00z
+http://190.187.200.69:8000/play/a00t
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E",A&E
 http://45.179.140.242:8000/play/a0ig
 #EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE",Star Life
 http://190.108.83.142:8000/play/a00s/index.m3u8
 #EXTINF:-1,Cinecanal
-http://209.45.97.109:8000/play/a00b
+http://190.187.200.69:8000/play/a00t
 #EXTINF:-1,AMC HD
 http://190.131.228.59:8000/play/a0dt/index.m3u8
 #EXTINF:-1,Cinemax
-http://209.45.97.109:8000/play/a027
+http://190.92.95.37:8000/play/a0k0/index.m3u8
 #EXTINF:-1,I-Sat
 http://45.179.140.242:8000/play/a0jx
 #EXTINF:-1,Space
 http://190.61.102.67:2000/play/a04x/index.m3u8
 #EXTINF:-1,TBS
-http://209.45.97.109:8000/play/a02w
+http://190.92.95.37:8000/play/a0ft/index.m3u8
 #EXTINF:-1,SyFy
 http://190.92.95.37:8000/play/a0ij/index.m3u8
 #EXTINF:-1,Smart Peliculas
