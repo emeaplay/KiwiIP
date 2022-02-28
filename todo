@@ -1316,19 +1316,10 @@ http://190.92.95.37:8000/play/a0ig/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0e5.png",ZooMoo
 http://190.92.95.37:8000/play/a0e5/index.m3u8
 
-
 #EXTINF:-1,ADULTO
-http://37.19.203.217:8085/udp/239.10.10.155:5000
+http://109.200.130.123:7032/play/353
 #EXTINF:-1,ADULTO
-http://37.19.203.217:8085/udp/239.10.10.164:5000
-#EXTINF:-1,ADULTO
-http://37.19.203.217:8085/udp/239.10.10.88:5000
-#EXTINF:-1,ADULTO
-http://37.19.203.217:8085/udp/239.10.10.69:5000
-#EXTINF:-1,ADULTO
-http://37.19.203.217:8085/udp/239.10.10.70:5000
-#EXTINF:-1,ADULTO
-http://37.19.203.217:8085/udp/239.10.10.69:5000
+http://109.200.130.123:7032/play/a00g
 
 #EXTINF:-1,24 Horas
 http://45.236.175.103:9600/play/a00m
