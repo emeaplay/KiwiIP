@@ -361,8 +361,8 @@ http://45.179.140.242:8000/play/a0ig
 http://190.108.83.142:8000/play/a00s/index.m3u8
 #EXTINF:-1,Cinecanal
 http://190.187.200.69:8000/play/a00t
-#EXTINF:-1,AMC HD
-http://190.131.228.59:8000/play/a0dt/index.m3u8
+#EXTINF:-1,AMC
+http://190.92.95.37:8000/play/a0g1/index.m3u8
 #EXTINF:-1,Cinemax
 http://190.92.95.37:8000/play/a0k0/index.m3u8
 #EXTINF:-1,I-Sat
@@ -378,7 +378,7 @@ http://190.108.83.142:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="canalclaro",Canal Claro
 http://190.131.228.59:8000/play/a06a/index.m3u8
 #EXTINF:-1,Claro Cinema
-http://45.225.93.154:8000/play/a03c
+http://190.92.95.37:8000/play/a0ir/index.m3u8
 #EXTINF:-1,MX CLASSIC
 http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1,MX FAMILY
@@ -454,39 +454,40 @@ http://190.108.83.142:8000/play/a00w/index.m3u8
 
 #EXTINF:-1,Baby Tv
 http://190.92.95.37:8000/play/a0e4/index.m3u8
-#EXTINF:-1,Disney Channel
-http://45.225.93.154:8000/play/a021
-#EXTINF:-1,Disney Jr
-http://45.225.93.154:8000/play/a01x
-#EXTINF:-1,Disney 😆
-http://45.225.93.154:8000/play/a02l
-#EXTINF:-1,NatGeo Kids
-http://45.225.93.154:8000/play/a02x
-#EXTINF:-1,Nick Jr
-http://45.225.93.154:8000/play/a03d
-#EXTINF:-1,Nickelodeon
-http://45.225.93.154:8000/play/a02k
+#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0jn.png",Disney
+http://190.92.95.37:8000/play/a0jn/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0fl.png",Disney JR
+http://190.92.95.37:8000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0id.png",Disney XD
+http://190.92.95.37:8000/play/a0id/index.m3u8
+#EXTINF:-1,INFA-NatGeo Kids
+http://190.187.200.69:8000/play/a00i
+#EXTINF:-1,INFA-Nick Jr
+http://190.187.200.69:8000/play/a026
+#EXTINF:-1,INFA-Nickelodeon
+http://190.187.200.69:8000/play/a009
 
-#EXTINF:-1,Fox Sports 1 HD
-http://190.131.228.59:8000/play/a0eg/index.m3u8
 #EXTINF:-1,Fox Sports 2
-http://45.225.93.154:8000/play/a02h
+http://190.187.200.69:8000/play/a01k
 #EXTINF:-1,Fox Sports 3
-http://45.225.93.154:8000/play/a02i
+http://190.187.200.69:8000/play/a01l
 #EXTINF:-1,TyC Sports
-http://45.225.93.154:8000/play/a02a
-#EXTINF:-1,GOL TV
-http://45.225.93.154:8000/play/a029
-#EXTINF:-1,ESPN
-http://45.225.93.154:8000/play/a027
-#EXTINF:-1,ESPN 2
-http://45.225.93.154:8000/play/a028
-#EXTINF:-1,ESPN 3
-http://45.225.93.154:8000/play/a03g
-#EXTINF:-1,ESPN4
-http://45.225.93.154:8000/play/a026
+http://190.187.200.69:8000/play/a01g
+#EXTINF:-1,Golf Channel
+http://190.83.119.67:8000/play/a0ef/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0io.png",ESPN
+http://190.92.95.37:8000/play/a0io/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0g8.png",ESPN  +
+http://190.92.95.37:8000/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ip.png",ESPN 2
+http://190.92.95.37:8000/play/a0ip/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0hm.png",ESPN 3
+http://190.92.95.37:8000/play/a0hm/index.m3u8
+#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0jt.png",ESPN 4
+#EXTINF:-1,TNT
+http://45.236.175.103:9600/play/a021
 #EXTINF:-1,TNT SPORTS 2
-http://190.131.228.59:8000/play/a059/index.m3u8
+http://45.236.175.103:9600/play/a03h
 
 #EXTINF:-1, VEVO Reggaeton
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
