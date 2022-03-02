@@ -521,15 +521,34 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1,San Borja RadioTV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
 
-#EXTINF:-1,NACIONAL-WILLAX
-http://190.187.200.69:8000/play/a01q
-#EXTINF:-1,NACIONAL-Latina
-http://190.187.200.69:8000/play/a01r
-#EXTINF:-1,NACIONAL-AmericaTV
-http://190.187.200.69:8000/play/a01s
-#EXTINF:-1,NACIONAL-Panamericana TV
-http://190.187.200.69:8000/play/a01t
-#EXTINF:-1,NACIONAL-TV Peru
-http://190.187.200.69:8000/play/a01w
-#EXTINF:-1,NACIONAL-ATV
-http://190.187.200.69:8000/play/a01u
+BLOQUE LOCAL HD
+
+#EXTINF:-1,WILLAX
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/4
+#EXTINF:-1,LATINA
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/2
+#EXTINF:-1,ATV +
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/93
+#EXTINF:-1,AMERICA TV
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/1
+#EXTINF:-1,PANAMERICANA
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/3
+#EXTINF:-1,EXITOSA
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/43
+#EXTINF:-1,TV PERU
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/5
+#EXTINF:-1,CANAL N
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/80
+#EXTINF:-1,ATV
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/6
+#EXTINF:-1,RPP
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/78
+#EXTINF:-1,IPE
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/90
+#EXTINF:-1,GLOBAL
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/92
+#EXTINF:-1,GOLPERU
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
+#EXTINF:-1,KARIBEÑA
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/94
+
