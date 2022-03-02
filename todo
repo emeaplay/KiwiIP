@@ -2363,18 +2363,38 @@ http://45.189.108.58:10000/play/a00b/index.m3u8
 #EXTINF:-1,Zona Latina
 http://45.189.108.58:10000/play/a01e/index.m3u8
 
-#EXTINF:-1,AMERICA TV
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/1
-#EXTINF:-1,LATINA
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/2
-#EXTINF:-1,PANAMERICANA
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/3
+
 #EXTINF:-1,WILLAX
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/4
+#EXTINF:-1,LATINA
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/2
+#EXTINF:-1,ATV +
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/93
+#EXTINF:-1,AMERICA TV
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/1
+#EXTINF:-1,PANAMERICANA
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/3
+#EXTINF:-1,EXITOSA
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/43
 #EXTINF:-1,TV PERU
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/5
+#EXTINF:-1,CANAL N
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/80
 #EXTINF:-1,ATV
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/6
+#EXTINF:-1,RPP
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/78
+#EXTINF:-1,IPE
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/90
+#EXTINF:-1,GLOBAL
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/92
+#EXTINF:-1,GOLPERU
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
+#EXTINF:-1,KARIBEÑA
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/94
+
+
+
 #EXTINF:-1,DISCOVERY CHANNEL
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/7
 #EXTINF:-1,DISCOVERY HOME & HEALTH
@@ -2425,10 +2445,6 @@ http://laratel.online:33599/swiptv/Szph6Q6Hd2/35
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/36
 #EXTINF:-1,COMEDY CENTRAL
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/37
-#EXTINF:-1,GOLPERU
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
-#EXTINF:-1,EXITOSA
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/43
 #EXTINF:-1,HISTORY CHANNEL
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/44
 #EXTINF:-1,HISTORY 2
@@ -2485,12 +2501,8 @@ http://laratel.online:33599/swiptv/Szph6Q6Hd2/75
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/76
 #EXTINF:-1,DISCOVERY THEATER
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/77
-#EXTINF:-1,RPP
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/78
 #EXTINF:-1,DISCOVERY KIDS
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/79
-#EXTINF:-1,CANAL N
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/80
 #EXTINF:-1,GOL TV
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/81
 #EXTINF:-1,SYFY
@@ -2499,14 +2511,6 @@ http://laratel.online:33599/swiptv/Szph6Q6Hd2/82
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/85
 #EXTINF:-1,CANAL DEL FUTBOL
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/88
-#EXTINF:-1,IPE
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/90
-#EXTINF:-1,GLOBAL
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/92
-#EXTINF:-1,ATV +
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/93
-#EXTINF:-1,KARIBEÑA
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/94
 #EXTINF:-1,EL GOURMET
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/96
 #EXTINF:-1,CARACOL NOTICIAS
