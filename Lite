@@ -32,11 +32,11 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
 #EXTINF:-1,Asiri Noticias
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1,ODTV
+#EXTINF:-1,Onda Digital
 https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
 #EXTINF:0, Conecta2
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1,Onda Digital
+#EXTINF:-1,ODTV
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
 #EXTINF:-1, EL CHAVO 24/7
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
