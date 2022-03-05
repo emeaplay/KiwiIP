@@ -28,8 +28,8 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1,Hipodromo de Monterrico
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1, OK TeVe
-https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
+#EXTINF:-1,CANAL N (Test)
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/80
 #EXTINF:-1,Asiri Noticias
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1,Onda Digital
@@ -41,7 +41,7 @@ https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
 #EXTINF:-1, EL CHAVO 24/7
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1,Canal 20 - Kiwi Eventos
-http://190.131.228.59:8000/play/a0et/index.m3u8
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
 PLUTO TV
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png",Guía de canales PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
