@@ -299,41 +299,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6193963c5a960200074ce816" tvg-chno="235" tvg-logo="https://images.pluto.tv/channels/6193963c5a960200074ce816/colorLogoPNG.png",Constance Meyer: Jueza en prácticas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6193963c5a960200074ce816/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1,Flash Music Plex
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/1280x720_2855600/index.m3u8
-#EXTINF:-1,Top Cine Plex
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/1280x720_2855600/index.m3u8
-#EXTINF:-1,La Corriente  Plex
-https://stream.ads.ottera.tv/cl/00ae6e3e-91ca-4d72-bc6e-8b815bfd54ec/1280x720_1400000_3_false.m3u8
-#EXTINF:-1,Cine Sureño  Plex
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/1280x720_2855600/index.m3u8
-#EXTINF:-1,Tu Cine Plex
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/1280x720_2855600/index.m3u8
-#EXTINF:-1,Cine Real Plex
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-latam-plex/CDN/1280x720_2855600/index.m3u8
-#EXTINF:-1,Juntos TV Plex
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/1280x720_2855600/index.m3u8
-#EXTINF:-1,LevelUP Games Plex
-https://6ee95669e5224fb68922594f6a58bde0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_LevelUp/2c3e73ae-92f0-4596-888e-19fbe75bdf99/4.m3u8
-#EXTINF:-1,Saber Mas Plex
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/1280x720_2855600/index.m3u8
-#EXTINF:-1,VideoFunny AFV Español Plex
-https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/edea5653-f1c5-484f-970d-bf47297b7f72/0.m3u8
-#EXTINF:-1,Chiquilines Plex
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/1280x720_2855600/index.m3u8
-#EXTINF:-1,Toon Goggles Infantil Plex
-https://stream.ads.ottera.tv/cl/beb7312f-229a-4789-a047-d4d313c862af/1280x720_1400000_3_false.m3u8
-#EXTINF:-1,HorrorFy Plex
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/8efd6cd8-21e3-43bb-b82a-28e7c80ccab9/4.m3u8
-#EXTINF:-1,Cindie Español - Plex
-https://stream.ads.ottera.tv/cl/c41cc8e7-da83-41f2-94da-fd0c7e2df50e/1280x720_3071200_0_false.m3u8
-#EXTINF:-1,Todo Life Plex
-https://9e42b0e4e5b1434db9278d1414d887bf.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoLIFE/7f3bc006-ac0e-491a-a901-c3d7bd8b1ffe/5.m3u8
-#EXTINF:-1,Todo Crimen Plex
-https://d861871e83924957b35eabcebb7df7eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoCrimen/d224a717-a757-4551-93d6-67249d7bdcc7/0.m3u8
-#EXTINF:-1,Vivaldi Plex
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/96fccd31-7b4a-4d55-bd0b-b10073eaa36b/1.m3u8
 #EXTINF:-1, Runtime MX
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 #EXTINF:-1, Runtime Latino
@@ -353,36 +318,24 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png", Mas Chic
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
+#EXTINF:-1,TNT
 http://45.236.175.117:9600/play/a021
 #EXTINF:-1,Sony
 http://190.92.95.37:8000/play/a0iv/index.m3u8
-#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER",Warner Channel
+#EXTINF:-1,Warner Channel
 http://45.236.175.117:9600/play/a00t
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX CHANNEL",Star Channel
+#EXTINF:-1,Star Channel
 http://190.187.200.69:8000/play/a00g
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN",AXN
+#EXTINF:-1,AXN
 http://190.92.95.37:8000/play/a0fz/index.m3u8
-#EXTINF:-1 tvg-id="Universal Channel",Universal Channel
-http://45.179.140.242:8000/play/a0jw
 #EXTINF:-1,Studio Universal
 http://190.92.95.37:8000/play/a0k1/index.m3u8
-#EXTINF:-1,FX
-http://190.83.119.67:8000/play/a0hg/index.m3u8
-#EXTINF:-1,FX Movies
-http://190.83.119.67:8000/play/a0jx/index.m3u8
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E",A&E
-http://45.179.140.242:8000/play/a0ig
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE",Star Life
+#EXTINF:-1,Star Life
 http://190.108.83.142:8000/play/a00s/index.m3u8
 #EXTINF:-1,Cinecanal
 http://45.236.175.103:9600/play/a01q
 #EXTINF:-1,Cinemax
 http://45.236.175.103:9600/play/a02e
-#EXTINF:-1,AMC HD
-http://190.131.228.59:8000/play/a0dt/index.m3u8
-#EXTINF:-1,I-Sat
-http://45.179.140.242:8000/play/a0jx
 #EXTINF:-1,Space
 http://190.61.102.67:2000/play/a04x/index.m3u8
 #EXTINF:-1,TBS
@@ -391,15 +344,13 @@ http://45.189.108.58:10000/play/a04o/index.m3u8
 http://190.92.95.37:8000/play/a0ij/index.m3u8
 #EXTINF:-1,Smart Peliculas
 http://190.108.83.142:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="canalclaro",Canal Claro
-http://190.131.228.59:8000/play/a06a/index.m3u8
 #EXTINF:-1,Claro Cinema
 http://190.92.95.37:8000/play/a0ir/index.m3u8
 #EXTINF:-1,MX CLASSIC
 http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1,MX FAMILY
 http://190.108.83.142:8000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="MX PRIME",MX PRIME
+#EXTINF:-1,MX PRIME
 http://190.108.83.142:8000/play/a005/index.m3u8
 #EXTINF:-1,TNT Series
 http://190.92.95.37:8000/play/a0fs/index.m3u8
@@ -413,8 +364,6 @@ http://45.236.175.117:9600/play/a00k
 http://45.236.175.117:9600/play/a00i
 #EXTINF:-1,HBO XTREME SD
 http://45.236.175.117:9600/play/a00j
-#EXTINF:-1,Zona Latina
-http://45.179.140.242:8000/play/a0jz
 #EXTINF:-1,Golden Edge
 http://190.61.102.67:2000/play/a08k/index.m3u8
 #EXTINF:-1,UNICABLE
@@ -423,54 +372,31 @@ http://190.61.102.67:2000/play/a08f/index.m3u8
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 #EXTINF:-1,HOME & HEALTH
 http://190.61.102.67:2000/play/a03g/index.m3u8
-#EXTINF:-1,TL Novelas
-http://190.108.93.62:8001/udp/224.2.2.2:10053
 #EXTINF:-1,Canal de las Estrellas
 http://190.61.102.67:2000/play/a00g/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://45.179.140.242:8000/play/a0jf
 #EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,CNN Espanol
 http://45.236.175.117:9600/play/a005
-#EXTINF:-1,TVE
-http://45.179.140.242:8000/play/a0jr
-#EXTINF:-1,ADN 40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
-#EXTINF:-1,RT en español
+#EXTINF:-1,RT en espaÃ±ol
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1,France 24
-http://45.179.140.242:8000/play/a0jh
 #EXTINF:-1,TV Cultura 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1,FIT TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
-#EXTINF:-1,Home & Health
-http://190.131.228.59:8000/play/a06c/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://190.131.228.59:8000/play/a05m/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://190.131.228.59:8000/play/a04t/index.m3u8
-#EXTINF:-1,History Channel
-http://190.131.228.59:8000/play/a03y/index.m3u8
-#EXTINF:-1,Nat Geo
-http://190.131.228.59:8000/play/a0dq/index.m3u8
-#EXTINF:-1,Animal Planet
-http://45.179.140.242:8000/play/a0i9
 #EXTINF:-1,NAT GEO WILD
 http://190.108.83.142:8000/play/a00w/index.m3u8
-
 #EXTINF:-1,Baby Tv
 http://190.92.95.37:8000/play/a0e4/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0jn.png",Disney
+#EXTINF:-1,Disney
 http://190.92.95.37:8000/play/a0jn/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0fl.png",Disney JR
+#EXTINF:-1,Disney JR
 http://190.92.95.37:8000/play/a0fl/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0id.png",Disney XD
+#EXTINF:-1,Disney XD
 http://190.92.95.37:8000/play/a0id/index.m3u8
 #EXTINF:-1,NatGeo Kids
 http://190.187.200.69:8000/play/a00i
@@ -478,34 +404,29 @@ http://190.187.200.69:8000/play/a00i
 http://190.187.200.69:8000/play/a026
 #EXTINF:-1,Nickelodeon
 http://190.187.200.69:8000/play/a009
-
 #EXTINF:-1,Fox Sports 2
 http://190.187.200.69:8000/play/a01k
 #EXTINF:-1,Fox Sports 3
 http://190.187.200.69:8000/play/a01l
 #EXTINF:-1,TyC Sports
 http://190.187.200.69:8000/play/a01g
-#EXTINF:-1,Golf Channel
-http://190.83.119.67:8000/play/a0ef/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0io.png",ESPN
+#EXTINF:-1,ESPN
 http://190.92.95.37:8000/play/a0io/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0g8.png",ESPN  +
+#EXTINF:-1,ESPN  +
 http://190.92.95.37:8000/play/a0g8/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0ip.png",ESPN 2
+#EXTINF:-1,ESPN 2
 http://190.92.95.37:8000/play/a0ip/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0hm.png",ESPN 3
+#EXTINF:-1,ESPN 3
 http://190.92.95.37:8000/play/a0hm/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0jt.png",ESPN 4
 #EXTINF:-1,TNT
 http://45.236.175.103:9600/play/a021
 #EXTINF:-1,TNT SPORTS 2
 http://45.236.175.103:9600/play/a03h
-
 #EXTINF:-1, VEVO Reggaeton
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 #EXTINF:-1,PORTAL FOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w748795965.m3u8
-#EXTINF:-1,88 Stereo 
+#EXTINF:-1,88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1,KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
@@ -513,8 +434,6 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 #EXTINF:-1, DMJ RADIO
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ENLACE
-http://209.45.97.109:8000/play/a00q
 #EXTINF:-1,BETHEL
 http://190.108.83.142:8000/play/a00m/index.m3u8
 #EXTINF:-1, ORBE 21
@@ -523,18 +442,10 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
 #EXTINF:-1, JN19 TV [PER]
 https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
-#EXTINF:-1, EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
 #EXTINF:-1,3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-
 #EXTINF:-1,Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1,San Borja RadioTV
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/chunklist_w233086197.m3u8
-
-BLOQUE LOCAL HD
-
 #EXTINF:-1,WILLAX
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/4
 #EXTINF:-1,LATINA
@@ -561,6 +472,5 @@ http://laratel.online:33599/swiptv/Szph6Q6Hd2/90
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/92
 #EXTINF:-1,GOLPERU
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
-#EXTINF:-1,KARIBEÑA
+#EXTINF:-1,KARIBEÃ‘A
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/94
-
