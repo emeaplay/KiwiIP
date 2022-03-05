@@ -111,22 +111,6 @@ https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w710333145.m3u
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1451105741.m3u8
 #EXTINF:-1, XM Musica [PER]
 https://video1.getstreamhosting.com:1936/8160/8160/chunklist_w665930304.m3u8
-
->>>>>> NOTICIAS
-#EXTINF:0, VOA Noticias EEUU
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1, FORO TV [MEX]
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
-#EXTINF:-1, ADN40 [MEX]
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1, RT EN ESPAÑOL
-https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1, DW LATINO
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1, TIERRA MIA [ARG]
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w318427641_b1864000_sleng.m3u8
-#EXTINF:-1, TV SALUD [CHI]
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w2133171578.m3u8?WebM3UCL
  
 ******* MEXICO
 #EXTINF:-1, MULTIMEDIOS [MEX]
