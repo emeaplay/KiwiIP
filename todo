@@ -1,3 +1,7 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
+x-tvg-url="https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml"
+x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
+
 EXTRA
 
 #EXTINF:-1,HOLA TV España
