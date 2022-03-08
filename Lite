@@ -351,14 +351,17 @@ http://190.61.102.67:2000/play/a00g/index.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,CNN Espanol
 http://45.236.175.117:9600/play/a005
-#EXTINF:-1,FORO TV
+#EXTINF:-1,Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 #EXTINF:-1,RT Espanol
-http://45.189.108.58:10000/play/a05v/index.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1,Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1,HispanTV
+https://live1.presstv.ir/live/hispan_360p/index.m3u8
+
 #EXTINF:-1,FIT TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
 #EXTINF:-1,NAT GEO WILD
