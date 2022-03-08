@@ -4,7 +4,7 @@ x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
 
 #EXTINF:-1,Willax
 http://190.187.200.69:8000/play/a01q
-#EXTINF:-1 ,Latina
+#EXTINF:-1,Latina
 http://190.187.200.69:8000/play/a01r
 #EXTINF:-1,Vision Noticias
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
@@ -16,33 +16,33 @@ http://190.187.200.69:8000/play/a01t
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,TV Peru
 http://190.187.200.69:8000/play/a01w
-#EXTINF:-1, ATV+ Noticias
+#EXTINF:-1,ATV+ Noticias
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-id=" ATV" tvg-name=" ATV",ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 tvg-id="UCI" tvg-name="UCI", Nativa TV - UCI
+#EXTINF:-1,Nativa
 http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iPe - IDENTIDAD PERUANA" tvg-name="iPe - IDENTIDAD PERUANA",Canal IPE
+#EXTINF:-1,Canal Ipe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="NACIONAL TV" tvg-name="NACIONAL TV",NTV - Nacional
+#EXTINF:-1,Nacional Noticias
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1,Hipodromo de Monterrico
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1,CANAL N (Test)
+#EXTINF:-1,Canal N (Test)
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/80
-#EXTINF:-1,Asiri Noticias
-https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1,RPP (test)
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/78
+#EXTINF:-1,Gol Peru
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
+#EXTINF:-1,Asiri Noticias
+https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:0, Conecta2
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1,ODTV
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,El Chavo 24/7
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1,Canal 20 - Kiwi Eventos
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
-PLUTO TV
+--  PLUTO TV
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png",Guía de canales PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",Cine Acción
@@ -343,6 +343,10 @@ http://190.61.102.67:2000/play/a00g/index.m3u8
 http://190.61.102.67:2000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0uz.png",Pasiones
 http://190.83.119.67:8000/play/a0uz/index.m3u8
+#EXTINF:-1,Distrito Comedia
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/13
+#EXTINF:-1,Comedy Central
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/37
 #EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, Sony Comedia
@@ -413,6 +417,8 @@ http://190.92.95.37:8000/play/a0g8/index.m3u8
 http://190.92.95.37:8000/play/a0ip/index.m3u8
 #EXTINF:-1,ESPN 3
 http://190.92.95.37:8000/play/a0hm/index.m3u8
+#EXTINF:-1,ESPN 4
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/54
 
 #EXTINF:-1, VEVO Reggaeton
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
