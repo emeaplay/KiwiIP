@@ -145,8 +145,10 @@ https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
 https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w454849143.m3u8
 #EXTINF:-1, VALLE TV  [CHI]
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
-#EXTINF:-1, TVMAS+ CL
+#EXTINF:-1, TVMAS+ [CL]
 https://593b04c4c5670.streamlock.net/8008/8008/chunklist_w602230253.m3u8
+#EXTINF:-1,TVN [CL]
+https://marine2.miplay.cl/tvn/tracks-v2a1/mono.m3u8
 #EXTINF:-1, ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w280801424.m3u8
 #EXTINF:-1, CLOUD MOVIES
