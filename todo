@@ -2086,3 +2086,76 @@ http://45.189.108.58:10000/play/a00b/index.m3u8
 #EXTINF:-1,Zona Latina
 http://45.189.108.58:10000/play/a01e/index.m3u8
 
+#EXTINF:-1,002_1078-COMEDI CENTRAL
+http://190.108.83.142:8000/play/a00j/index.m3u8
+#EXTINF:-1,004_10002-LATINA_SD
+http://190.108.83.142:8000/play/a00e/index.m3u8
+#EXTINF:-1,006_1075-CITY TV
+http://190.108.83.142:8000/play/a008/index.m3u8
+#EXTINF:-1,008_4010-SMART PELICULAS
+http://190.108.83.142:8000/play/a009/index.m3u8
+#EXTINF:-1,010_4010-SMART KIDS
+http://190.108.83.142:8000/play/a00g/index.m3u8
+#EXTINF:-1,012_1021-BETHEL
+http://190.108.83.142:8000/play/a00m/index.m3u8
+#EXTINF:-1,014_1020-NatGoegraphic
+http://190.108.83.142:8000/play/a00q/index.m3u8
+#EXTINF:-1,016_1035-FXM
+http://190.108.83.142:8000/play/a00r/index.m3u8
+#EXTINF:-1,018_1029-FOX LIFE
+http://190.108.83.142:8000/play/a00s/index.m3u8
+#EXTINF:-1,020_1003-ATV
+http://190.108.83.142:8000/play/a00t/index.m3u8
+#EXTINF:-1,022_1060-NICK JUNIOR
+http://190.108.83.142:8000/play/a00u/index.m3u8
+#EXTINF:-1,024_1076-NICK
+http://190.108.83.142:8000/play/a00v/index.m3u8
+#EXTINF:-1,026_1027-NATGEO WILD
+http://190.108.83.142:8000/play/a00w/index.m3u8
+#EXTINF:-1,028_1015-FOX1
+http://190.108.83.142:8000/play/a010/index.m3u8
+#EXTINF:-1,030_1017-FOX2
+http://190.108.83.142:8000/play/a011/index.m3u8
+#EXTINF:-1,032_1018-FOX3
+http://190.108.83.142:8000/play/a012/index.m3u8
+#EXTINF:-1,034_1030_LAZONA
+http://190.108.83.142:8000/play/a013/index.m3u8
+#EXTINF:-1,1002-FUEGOTV
+http://190.108.83.142:8000/play/a003/index.m3u8
+#EXTINF:-1,1004-MX PRIME
+http://190.108.83.142:8000/play/a005/index.m3u8
+#EXTINF:-1,1006-MX FAMILY
+http://190.108.83.142:8000/play/a002/index.m3u8
+#EXTINF:-1,1008-MX CLASIC
+http://190.108.83.142:8000/play/a004/index.m3u8
+#EXTINF:-1,1010-UCHU TV
+http://190.108.83.142:8000/play/a006/index.m3u8
+#EXTINF:-1,1012-CTC TV
+http://190.108.83.142:8000/play/a007/index.m3u8
+#EXTINF:-1,1014-PALMERA
+http://190.108.83.142:8000/play/a00a/index.m3u8
+#EXTINF:-1,1016-TVPAZ
+http://190.108.83.142:8000/play/a00b/index.m3u8
+#EXTINF:-1,1018-TPTO
+http://190.108.83.142:8000/play/a00c/index.m3u8
+#EXTINF:-1,1020-PIURA TV
+http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:-1,1022-IPE
+http://190.108.83.142:8000/play/a00k/index.m3u8
+#EXTINF:-1,1024-JUSTICIA TV
+http://190.108.83.142:8000/play/a00h/index.m3u8
+#EXTINF:-1,1026-TVPERU
+http://190.108.83.142:8000/play/a00i/index.m3u8
+#EXTINF:-1,1028-TIERRA MIA
+http://190.108.83.142:8000/play/a00l/index.m3u8
+#EXTINF:-1,1030-ATV
+http://190.108.83.142:8000/play/a00o/index.m3u8
+#EXTINF:-1,1032-GLOBAL
+http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1,1034-ALBRICIAS
+http://190.108.83.142:8000/play/a00y/index.m3u8
+#EXTINF:-1,1036-FIT TV
+http://190.108.83.142:8000/play/a00z/index.m3u8
+#EXTINF:-1,12_4010-SMART SECHURA
+http://190.108.83.142:8000/play/a00n/index.m3u8
+
