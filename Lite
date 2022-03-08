@@ -32,13 +32,13 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/80
 #EXTINF:-1,Asiri Noticias
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1,Onda Digital
-https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
+#EXTINF:-1,RPP (test)
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/78
 #EXTINF:0, Conecta2
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1,ODTV
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
-#EXTINF:-1, EL CHAVO 24/7
+#EXTINF:-1,El Chavo 24/7
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1,Canal 20 - Kiwi Eventos
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
@@ -307,16 +307,6 @@ https://runtime-espanol-roku.amagi.tv/playlist.m3u8
 https://play.amelbasoluciones.co:3971/stream/play.m3u8
 #EXTINF:-1, MyTime Movies España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1, Sony Comedia
-https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
-#EXTINF:-1, Sony Competencia
-https://spt-competencias-1-us.samsung.wurl.tv:443/3000.m3u8
-#EXTINF:-1, Sony Novelas
-https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png",El Gourmet
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png",Mas Chic
-https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,TNT
 http://45.236.175.117:9600/play/a021
@@ -347,12 +337,23 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 http://190.61.102.67:2000/play/a03g/index.m3u8
 #EXTINF:-1,Canal de las Estrellas
 http://190.61.102.67:2000/play/a00g/index.m3u8
+#EXTINF:-1,Tlnovelas
+http://190.61.102.67:2000/play/a08d/index.m3u8
 #EXTINF:-1,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, Sony Comedia
+https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1, Sony Competencia
+https://spt-competencias-1-us.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1, Sony Novelas
+https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png",El Gourmet
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png",Mas Chic
+https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,CNN Espanol
 http://45.236.175.117:9600/play/a005
-#EXTINF:-1,Foro TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 #EXTINF:-1,RT Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1,Euronews Español
@@ -361,6 +362,12 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,HispanTV
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
+#EXTINF:-1,Estrella News
+https://m3u-editor.com/serve/televitolibre/510996712.m3u8
+#EXTINF:-1,ADN40
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/60b578b060947317de7b57ac/publish/media_600.m3u8?aid=5fea0f3673148d5d52cf6a76&WebM3UCL=&pid=fmRqidc5lNYWlUVjMmJ0rlB271wU873p&sid=IpyaKv83BYnWB4YOMuL8yuykb9vL6AVP&uid=8aQKhXd8ZTrM9yFa6hqP16g5LrJKudj0&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1646845650072&ot=5wO127jcX0InD3FpjQ3SWw&proto=https&pz=us
+#EXTINF:-1,Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 
 #EXTINF:-1,FIT TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
@@ -368,7 +375,7 @@ http://190.108.83.142:8000/play/a00z/index.m3u8
 http://190.108.83.142:8000/play/a00w/index.m3u8
 
 #EXTINF:-1,Cartoon Network
-http://45.189.108.58:10000/play/a01k/index.m3u8
+http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1,Disney
 http://190.92.95.37:8000/play/a0jn/index.m3u8
 #EXTINF:-1,Disney XD
@@ -377,6 +384,10 @@ http://190.92.95.37:8000/play/a0id/index.m3u8
 http://190.187.200.69:8000/play/a00i
 #EXTINF:-1,Nickelodeon
 http://190.187.200.69:8000/play/a009
+#EXTINF:-1,Fox Kids
+http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
+#EXTINF:-1,ACS Networks
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
 #EXTINF:-1,Fox Sports 2
 http://190.187.200.69:8000/play/a01k
@@ -395,16 +406,16 @@ http://190.92.95.37:8000/play/a0hm/index.m3u8
 
 #EXTINF:-1, VEVO Reggaeton
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-#EXTINF:-1,PORTAL FOXMIX
+#EXTINF:-1, VEVO Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8#EXTINF:-1,PORTAL FOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w748795965.m3u8
-#EXTINF:-1,88 Stereo
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1,KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1,CAROLINA RADIO
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 #EXTINF:-1, DMJ RADIO
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,BETHEL
 http://190.108.83.142:8000/play/a00m/index.m3u8
 #EXTINF:-1, ORBE 21
@@ -415,8 +426,6 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m
 https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 #EXTINF:-1,3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1,Peru Channel
-https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
 #EXTINF:-1,WILLAX
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/4
