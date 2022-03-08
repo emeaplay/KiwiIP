@@ -362,6 +362,8 @@ http://190.108.83.142:8000/play/a00z/index.m3u8
 http://190.92.95.37:8000/play/a0ik/index.m3u8
 #EXTINF:-1,History Channel
 http://190.92.95.37:8000/play/a0im/index.m3u8
+#EXTINF:-1,History Channel 2
+http://190.61.102.67:2000/play/a00v/index.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://190.108.83.142:8000/play/a00w/index.m3u8
 #EXTINF:-1,Animal Planet
@@ -379,8 +381,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
 #EXTINF:-1,Estrella News
 https://m3u-editor.com/serve/televitolibre/510996712.m3u8
-#EXTINF:-1,ADN40
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/c57fd044-5c99-4657-9c80-366644077f30:MRN2/variant/2a5f58e843ae7a44cacd0db77f4565a6/bandwidth/712800.m3u8?uid=rcvxWHMIGqxwNLIwMrCRFbMeEdOV5dWx&sid=WA25N9T1Up2FU8zdKiOeVmEVNp13DK1v&pid=OxhBsCENfMOqPtr25AiS0AAKgO8WC4Yy&ref=https%3A%2F%2Flive.adn40.mx%2F&without_cookies=false&dnt=true&ote=1646858894126&ot=prRf73C8zLEEro1NrrbL8Q&es=us-b4-p-e-qg12.cdn.mdstrm.com&proto=https&pz=us&aid=5fea0f3673148d5d52cf6a76
 #EXTINF:-1,Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 
