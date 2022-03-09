@@ -41,6 +41,12 @@ http://45.236.175.103:9600/play/a021
 http://45.236.175.103:9600/play/a03h
 #EXTINF:-1, CGTN Español [CHINA]
 http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1, Sony Comedia
+https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1, Sony Competencia
+https://spt-competencias-1-us.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1, Sony Novelas
+https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
 
 #EXTINF:-1,PORTAL FOXMIX
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w748795965.m3u8
