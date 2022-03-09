@@ -2,47 +2,48 @@
 x-tvg-url="https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml"
 x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
 
-#EXTINF:-1,Willax
-http://190.187.200.69:8000/play/a01q
-#EXTINF:-1,Latina
-http://190.187.200.69:8000/play/a01r
+#EXTINF:-1,Identidad TV
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 #EXTINF:-1,Vision Noticias
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
-#EXTINF:-1,America TV
-http://190.187.200.69:8000/play/a01s
-#EXTINF:0, Pantel
-http://190.187.200.69:8000/play/a01t
 #EXTINF:-1,BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1,TV Peru
-http://190.187.200.69:8000/play/a01w
-#EXTINF:-1,Canal N (Test)
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/80
-#EXTINF:-1 tvg-id=" ATV" tvg-name=" ATV",ATV
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,RPP
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/78
-#EXTINF:-1,Nativa
-http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ODTV
-https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ATV+ Noticias
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,Gol Peru
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
-#EXTINF:-1,Hipodromo de Monterrico
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,Asiri Noticias
 https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1,Panamericana
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1,OndaDigital TV
+https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nativa
+http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATV+ Noticias HD
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-
+#EXTINF:-1,ATV HD
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/HasBahCa.m3u8
+#EXTINF:-1,Hipodromo de Monterrico
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1,Nacional Noticias
+https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:0, Conecta2
 https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1,Peru Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/HasBahCa.m3u8
 #EXTINF:-1,Draiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1451105741.m3u8
 #EXTINF:-1,El Chavo 24/7
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1,Nacional Noticias
-https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
---  PLUTO TV
+#EXTINF:-1,San Borja
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m3u8
+#EXTINF:-1,Vision Musica
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
+#EXTINF:-1,TV Cosmos
+https://5790d294af2dc.streamlock.net/8134/8134/HasBahCa.m3u8
+#EXTINF:-1,Canal ATM
+https://v4.tustreaming.cl/atmtv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,Autentica
+https://live.obslivestream.com/autenticatvmux/index.m3u8?HasBahCa.m3u8
+
+#PLUTO TV
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png",Guía de canales PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",Cine Acción
@@ -439,6 +440,28 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m
 https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 #EXTINF:-1,3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+
+#BLOQUE HD PERU
+#EXTINF:-1,Willax
+http://190.187.200.69:8000/play/a01q
+#EXTINF:-1,Latina
+http://190.187.200.69:8000/play/a01r
+#EXTINF:-1,America TV
+http://190.187.200.69:8000/play/a01s
+#EXTINF:0, Pantel
+http://190.187.200.69:8000/play/a01t
+#EXTINF:-1,TV Peru
+http://190.187.200.69:8000/play/a01w
+#EXTINF:-1,Canal N (Test)
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/80
+#EXTINF:-1 tvg-id=" ATV" tvg-name=" ATV",ATV
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
+#EXTINF:-1,RPP
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/78
+#EXTINF:-1,ATV+ Noticias
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
+#EXTINF:-1,Gol Peru
+http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
 
 #EXTINF:-1,WILLAX
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/4
