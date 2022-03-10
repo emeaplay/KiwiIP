@@ -10,15 +10,15 @@ https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,Asiri Noticias
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1,Panamericana
+#EXTINF:-1,Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1,OndaDigital TV
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nativa
 http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ATV+ Noticias HD
+#EXTINF:-1,ATV+
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
-#EXTINF:-1,ATV HD
+#EXTINF:-1,ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1,Hipodromo de Monterrico
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
