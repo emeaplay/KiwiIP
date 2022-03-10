@@ -306,6 +306,10 @@ https://runtime-espanol-roku.amagi.tv/playlist.m3u8
 https://play.amelbasoluciones.co:3971/stream/play.m3u8
 #EXTINF:-1, MyTime Movies España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,Fox Kids
+http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
+#EXTINF:-1,ACS Networks
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
 #EXTINF:-1,24 Horas
 http://45.236.175.188:9600/play/a00m
@@ -393,12 +397,6 @@ http://45.236.175.188:9600/play/a02q
 http://45.236.175.188:9600/play/a01m
 #EXTINF:-1,RCN Novelas
 http://45.236.175.188:9600/play/a027
-#EXTINF:-1,STAR ACTION
-http://45.236.175.188:9600/play/a00g
-#EXTINF:-1,STAR Hits SD
-http://45.236.175.188:9600/play/a00e
-#EXTINF:-1,STAR Series SD
-http://45.236.175.188:9600/play/a00f
 #EXTINF:-1,Sony Channel
 http://45.236.175.188:9600/play/a02f
 #EXTINF:-1,Space
@@ -430,6 +428,9 @@ http://45.236.175.188:9600/play/a00t
 #EXTINF:-1,Zona Latina
 http://45.236.175.188:9600/play/a01v
 
+
+#EXTINF:-1,Star Channel
+http://190.187.200.69:8000/play/a00g
 #EXTINF:-1,TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 #EXTINF:-1,ESTRELLA TV
@@ -458,11 +459,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 #EXTINF:-1,ADN40 Noticias
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1,Fox Kids
-http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
-#EXTINF:-1,ACS Networks
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
-
 #EXTINF:-1, VEVO Reggaeton
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 #EXTINF:-1, VEVO Latino
@@ -486,24 +482,18 @@ https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 
 #BLOQUE HD PERU
-#EXTINF:-1,Willax
+#EXTINF:-1,WILLAX
 http://190.187.200.69:8000/play/a01q
 #EXTINF:-1,Latina
 http://190.187.200.69:8000/play/a01r
-#EXTINF:-1,America TV
+#EXTINF:-1,AmericaTV
 http://190.187.200.69:8000/play/a01s
-#EXTINF:0, Pantel
+#EXTINF:-1,Panamericana TV
 http://190.187.200.69:8000/play/a01t
 #EXTINF:-1,TV Peru
 http://190.187.200.69:8000/play/a01w
-#EXTINF:-1,Canal N (Test)
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/80
-#EXTINF:-1 tvg-id=" ATV" tvg-name=" ATV",ATV
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,RPP
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/78
-#EXTINF:-1,ATV+ Noticias
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
+#EXTINF:-1,ATV
+http://190.187.200.69:8000/play/a01u
 #EXTINF:-1,Gol Peru
 http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
 
