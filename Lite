@@ -1,6 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
-x-tvg-url="https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml"
-x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://i.mjh.nz/PlutoTV/es.xml.gz,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
 
 #EXTINF:-1,Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
