@@ -5,7 +5,7 @@ x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
 #EXTINF:-1,Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 #EXTINF:-1,Vision Noticias
-https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1986038744.m3u8
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1,BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,Asiri Noticias
