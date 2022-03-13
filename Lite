@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://i.mjh.nz/PlutoTV/es.xml.gz,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
 #EXTINF:-1,Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
@@ -474,9 +474,9 @@ https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
-#EXTINF:-1, PAX TV [PER]
+#EXTINF:-1, PAX TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
-#EXTINF:-1, JN19 TV [PER]
+#EXTINF:-1, JN19 TV
 https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 #EXTINF:-1,3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
