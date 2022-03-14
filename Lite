@@ -335,6 +335,8 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
 http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
 #EXTINF:-1,ACS Networks
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+#EXTINF:-1,TeleClasicos
+https://tvdatta.com:3574/hybrid/play.m3u8
 
 #EXTINF:-1,VEVO Reggaeton
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
@@ -352,6 +354,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1,RetroPlus 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1,Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,24 Horas
 http://45.236.175.188:9600/play/a00m
