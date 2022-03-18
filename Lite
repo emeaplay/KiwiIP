@@ -39,7 +39,7 @@ https://v4.tustreaming.cl/atmtv/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,Autentica
 https://live.obslivestream.com/autenticatvmux/index.m3u8?HasBahCa.m3u8
 
-#PLUTO TV
+PLUTO TV
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png",Guía Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",Cine Acción
@@ -320,7 +320,41 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6193963c5a960200074ce816/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-chno="220" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png",Doctor Who
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+PLEX
+#EXTINF:-1, AFV - Videos Graciosos en español
+https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/mt/plex/46/hls/master/playlist.m3u8?ads.plex_token=18QwpJxxibrqWkWsGuep&ads.plex_id=5ef4e1b10d9ad000423c4421&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+#EXTINF:-1, Chiquilines
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=6018913ea15130002b28418f
+#EXTINF:-1, Cine Real
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=60240f57676235002df19f47
+#EXTINF:-1, Cine Sureño
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=6018913fa15130002b284197
+#EXTINF:-1, El Conflicto TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=18QwpJxxibrqWkWsGuep
+#EXTINF:-1, Fail Army Humor TV
+https://92101a418914495e875b3105a006bbf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FailArmy/playlist.m3u8?ads.wurl_channel=89&ads.wurl_name=FailArmy&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=18QwpJxxibrqWkWsGuep&ads.plex_id=5eea605574085f0040ddc791&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1, Flash Musica
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-flash-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=6018913ea15130002b284191
+#EXTINF:-1, Impact Wrestling TNA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=776&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=18QwpJxxibrqWkWsGuep&content_series=606605549dbfca002d2ae873&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=18QwpJxxibrqWkWsGuep&custom_7=606605549dbfca002d2ae873
+#EXTINF:-1, La Corriente
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=499&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=18QwpJxxibrqWkWsGuep&content_series=602d6608f867c4002c897e27&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=18QwpJxxibrqWkWsGuep&custom_7=602d6608f867c4002c897e27
+#EXTINF:-1, Quello Conciertos por Stingray
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=18QwpJxxibrqWkWsGuep&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=18QwpJxxibrqWkWsGuep&custom_7=5fe27da28c198b002d179199
+#EXTINF:-1, Quello Musica Clasica
+https://qwest-classic-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=60aeb06487f9b1002ce1231b&uid=1fueesbnn-8jvc-dio-4koj-9hrd57rigkl/hls/amagi_hls_data_plexAAAAA-qwest-classic-plex/CDN/playlist.m3u8
+#EXTINF:-1, Quello Jazz España
+https://qwest-jazz-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=60b0f65c0c8ffb002c821a75&uid=1fueeslrs-qbv4-u2o-w8u2-3ac38lmje0g/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8
+#EXTINF:-1, Saber Mas
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=6018913ea15130002b284195
+#EXTINF:-1, Escape Natural por Stingray
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=570&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=18QwpJxxibrqWkWsGuep&content_series=60d324f59adce5002c41dbc5&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=18QwpJxxibrqWkWsGuep&custom_7=60d324f59adce5002c41dbc5
+#EXTINF:-1, Top Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=60240f58676235002df19f4b
+#EXTINF:-1, Tu Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=608b7095a09205002da4f293
+#EXTINF:-1, Vivaldi Clasico
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=61bb9a63e0b39cfe304c9a8a
 #EXTINF:-1, Runtime MX
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 #EXTINF:-1, Runtime Latino
@@ -341,7 +375,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m
 #EXTINF:-1,Vision Musica
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1,Tropical TV
-https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1,BestCable Music
 https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1,VEVO Reggaeton
@@ -388,8 +422,6 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,FIT TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
-#EXTINF:-1,Wowly TV
-https://wowly.stream/hls/stream_src/index.m3u8
 
 #EXTINF:-1,24 Horas
 http://45.236.175.188:9600/play/a00m
