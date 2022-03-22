@@ -86,11 +86,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7de
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-chno="256" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png",Dog el cazarrecompensas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5ffcc38adbc38100073511f2" tvg-logo="https://images.pluto.tv/channels/5ffcc38adbc38100073511f2/colorLogoPNG.png",Loupe
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5de58ef515635d00091f605d" tvg-chno="180" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/colorLogoPNG.png",Degrassi la serie en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de58ef515635d00091f605d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-chno="554" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png",Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -98,7 +95,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd24
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6095ad97351eb0000754c1e6" tvg-chno="194" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png",Hells Kitchen - Cocina del Infierno
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-
+#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-chno="557" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png",Pluto TV Hogar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="615b9855c6b58b000724477f" tvg-chno="192" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png",Iron Chef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplusd
@@ -118,7 +115,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60492a1e6361250007679665" tvg-chno="920" tvg-logo="https://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png",Emergencia 911
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a1e6361250007679665/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 #EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-chno="273" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",Animales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -423,7 +419,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1,TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
-#EXTINF:-1,ESTRELLA TV
+#EXTINF:-1,EstrellaTV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png",El Gourmet
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
@@ -432,32 +428,54 @@ https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Planeta Movies
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
-#EXTINF:-1,FIT TV
-http://190.108.83.142:8000/play/a00z/index.m3u8
 #EXTINF:11,COMEDY CENTRAL
 http://190.108.83.142:8000/play/a00j/index.m3u8
-#EXTINF:0,City TV Colombia
-http://190.108.83.142:8000/play/a008/index.m3u8
+#EXTINF:0,Canal de las Estrellas
+http://190.108.83.142:8000/play/a011/index.m3u8
 #EXTINF:0,Smart Peliculas
 http://190.108.83.142:8000/play/a009/index.m3u8
-#EXTINF:0,Smart Kids
-http://190.108.83.142:8000/play/a00g/index.m3u8
-#EXTINF:0,Nat Geo
-http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:0,FX Movies (Valido hasta el 31-03)
 http://190.108.83.142:8000/play/a00r/index.m3u8
 #EXTINF:0,Star Life (Valido hasta el 31-03)
 http://190.108.83.142:8000/play/a00s/index.m3u8
-#EXTINF:0,ATV
-http://190.108.83.142:8000/play/a00t/index.m3u8
 #EXTINF:0,NICK JUNIOR
 http://190.108.83.142:8000/play/a00u/index.m3u8
 #EXTINF:0,NICK
 http://190.108.83.142:8000/play/a00v/index.m3u8
+#EXTINF:0,Smart Kids
+http://190.108.83.142:8000/play/a00g/index.m3u8
+#EXTINF:0,Nat Geo
+http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:0,Nat Geo Wild (Valido hasta el 31-03)
 http://190.108.83.142:8000/play/a00w/index.m3u8
-#EXTINF:0,Canal de las Estrellas
-http://190.108.83.142:8000/play/a011/index.m3u8
+#EXTINF:0,City TV Colombia
+http://190.108.83.142:8000/play/a008/index.m3u8
+#EXTINF:-1,FIT TV
+http://190.108.83.142:8000/play/a00z/index.m3u8
+
+#EXTINF:-1, ORBE 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
+#EXTINF:-1, PAX TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
+#EXTINF:-1, JN19 TV
+https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
+#EXTINF:-1,3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+
+#BLOQUE HD PERU
+
+#EXTINF:0,ATV HD
+http://190.108.83.142:8000/play/a00t/index.m3u8
+#EXTINF:0,GLOBAL
+http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:0,ATV
+http://190.108.83.142:8000/play/a00o/index.m3u8
+#EXTINF:0,JUSTICIA TV
+http://190.108.83.142:8000/play/a00h/index.m3u8
+#EXTINF:0,IPE
+http://190.108.83.142:8000/play/a00k/index.m3u8
+#EXTINF:0,TVPERU
+http://190.108.83.142:8000/play/a00i/index.m3u8
 #EXTINF:0,Radio Oxigeno
 http://190.108.83.142:8000/play/a013/index.m3u8
 #EXTINF:0,Grupo RPP
@@ -474,28 +492,3 @@ http://190.108.83.142:8000/play/a00a/index.m3u8
 http://190.108.83.142:8000/play/a00c/index.m3u8
 #EXTINF:0,PIURA TV
 http://190.108.83.142:8000/play/a00d/index.m3u8
-#EXTINF:0,IPE
-http://190.108.83.142:8000/play/a00k/index.m3u8
-#EXTINF:0,JUSTICIA TV
-http://190.108.83.142:8000/play/a00h/index.m3u8
-#EXTINF:0,TVPERU
-http://190.108.83.142:8000/play/a00i/index.m3u8
-#EXTINF:0,ATV
-http://190.108.83.142:8000/play/a00o/index.m3u8
-#EXTINF:0,GLOBAL
-http://190.108.83.142:8000/play/a00x/index.m3u8
-#EXTINF:0,ALBRICIAS
-http://190.108.83.142:8000/play/a00y/index.m3u8
-
-
-#EXTINF:-1, ORBE 21
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
-#EXTINF:-1, PAX TV
-http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
-#EXTINF:-1, JN19 TV
-https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
-#EXTINF:-1,3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-
-#BLOQUE HD PERU
-
