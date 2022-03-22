@@ -50,6 +50,8 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1, RETROPLUS 3 [COL]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1, Zoom [COL]
+https://canalzoom.itex.com.co:3085/live/canalzoombr01live.m3u8
 #EXTINF:-1,Energeek [COL]
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1, LA RED [CHI]
@@ -439,15 +441,15 @@ http://201.236.185.134:8000/play/a00w/index.m3u8
 #EXTINF:-1,Zona Latina
 http://201.236.185.134:8000/play/a01k/index.m3u8
 
-#EXTINF:-1,-Claro Sports HD
+#EXTINF:-1,Claro Sports HD
 http://190.61.99.191:8000/play/a01d/index.m3u8
-#EXTINF:-1,-PX SPORT
+#EXTINF:-1,PX SPORT
 http://190.61.99.191:8000/play/a061/index.m3u8
-#EXTINF:-1,-Star TVE HD
+#EXTINF:-1,Star TVE HD
 http://190.61.99.191:8000/play/a03m/index.m3u8
-#EXTINF:-1,.MTV HD
+#EXTINF:-1,MTV HD
 http://190.61.99.191:8000/play/a03b/index.m3u8
-#EXTINF:-1,.TBN Enlace
+#EXTINF:-1,TBN Enlace
 http://190.61.99.191:8000/play/a037/index.m3u8
 #EXTINF:-1,A&E
 http://190.61.99.191:8000/play/a042/index.m3u8
