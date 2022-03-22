@@ -379,11 +379,9 @@ https://tvdatta.com:3574/hybrid/play.m3u8
 #EXTINF:-1,Radio San Borja
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m3u8
 #EXTINF:-1,Vision Musica
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
+https://videoserver.tmcreativos.com:19360/vnpmusica/vnpmusica.m3u8
 #EXTINF:-1,Tropical TV
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1,BestCable Music
-https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1,VEVO Reggaeton
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 #EXTINF:-1,VEVO Latino
@@ -402,6 +400,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1,Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1,Planeta Karaoke
+https://mediacpstreamchile.com:1936/8092/8092/playlist.m3u8
 
 #EXTINF:-1,RT Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -426,6 +426,8 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png",Mas Chic
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Planeta Movies
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
 #EXTINF:-1,FIT TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
