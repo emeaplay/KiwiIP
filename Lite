@@ -426,25 +426,18 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png",Mas Chic
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,FIT TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
-
 #EXTINF:11,COMEDY CENTRAL
 http://190.108.83.142:8000/play/a00j/index.m3u8
-#EXTINF:0,LATINA_SD
-http://190.108.83.142:8000/play/a00e/index.m3u8
 #EXTINF:0,CITY TV
 http://190.108.83.142:8000/play/a008/index.m3u8
 #EXTINF:0,SMART PELICULAS
 http://190.108.83.142:8000/play/a009/index.m3u8
 #EXTINF:0,SMART KIDS
-#EXTVLCOPT:network-caching=1000
 http://190.108.83.142:8000/play/a00g/index.m3u8
-#EXTINF:0,012_1021-BETHEL
-#EXTVLCOPT:network-caching=1000
-http://190.108.83.142:8000/play/a00m/index.m3u8
-#EXTINF:0,014_1020-NatGoegraphic
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,NatGoegraphic
 http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:0,FXM
 http://190.108.83.142:8000/play/a00r/index.m3u8
@@ -457,24 +450,15 @@ http://190.108.83.142:8000/play/a00u/index.m3u8
 #EXTINF:0,NICK
 http://190.108.83.142:8000/play/a00v/index.m3u8
 #EXTINF:0,NATGEO WILD
-#EXTVLCOPT:network-caching=1000
 http://190.108.83.142:8000/play/a00w/index.m3u8
-#EXTINF:0,FOX1
-http://190.108.83.142:8000/play/a010/index.m3u8
 #EXTINF:0,FOX2
 http://190.108.83.142:8000/play/a011/index.m3u8
-#EXTINF:0,FOX3
-http://190.108.83.142:8000/play/a012/index.m3u8
 #EXTINF:0,LA ZONA
 http://190.108.83.142:8000/play/a013/index.m3u8
 #EXTINF:0,FELICIDAD
 http://190.108.83.142:8000/play/a014/index.m3u8
 #EXTINF:0,1002-FUEGOTV
 http://190.108.83.142:8000/play/a003/index.m3u8
-#EXTINF:0,MX PRIME
-http://190.108.83.142:8000/play/a005/index.m3u8
-#EXTINF:0,MX FAMILY
-http://190.108.83.142:8000/play/a002/index.m3u8
 #EXTINF:0,MX CLASIC
 http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:0,UCHU TV
@@ -483,12 +467,9 @@ http://190.108.83.142:8000/play/a006/index.m3u8
 http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:0,PALMERA
 http://190.108.83.142:8000/play/a00a/index.m3u8
-#EXTINF:0,TVPAZ
-http://190.108.83.142:8000/play/a00b/index.m3u8
 #EXTINF:0,TPTO
 http://190.108.83.142:8000/play/a00c/index.m3u8
 #EXTINF:0,1020-PIURA TV
-#EXTVLCOPT:network-caching=1000
 http://190.108.83.142:8000/play/a00d/index.m3u8
 #EXTINF:0,IPE
 http://190.108.83.142:8000/play/a00k/index.m3u8
@@ -496,16 +477,12 @@ http://190.108.83.142:8000/play/a00k/index.m3u8
 http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:0,TVPERU
 http://190.108.83.142:8000/play/a00i/index.m3u8
-#EXTINF:0,TIERRA MIA
-http://190.108.83.142:8000/play/a00l/index.m3u8
 #EXTINF:0,ATV
 http://190.108.83.142:8000/play/a00o/index.m3u8
 #EXTINF:0,GLOBAL
 http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:0,ALBRICIAS
 http://190.108.83.142:8000/play/a00y/index.m3u8
-#EXTINF:0,SMART SECHURA
-http://190.108.83.142:8000/play/a00n/index.m3u8
 
 
 #EXTINF:-1, ORBE 21
