@@ -431,17 +431,17 @@ https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 http://190.108.83.142:8000/play/a00z/index.m3u8
 #EXTINF:11,COMEDY CENTRAL
 http://190.108.83.142:8000/play/a00j/index.m3u8
-#EXTINF:0,CITY TV
+#EXTINF:0,City TV Colombia
 http://190.108.83.142:8000/play/a008/index.m3u8
-#EXTINF:0,SMART PELICULAS
+#EXTINF:0,Smart Peliculas
 http://190.108.83.142:8000/play/a009/index.m3u8
-#EXTINF:0,SMART KIDS
+#EXTINF:0,Smart Kids
 http://190.108.83.142:8000/play/a00g/index.m3u8
-#EXTINF:0,NatGoegraphic
+#EXTINF:0,Nat Geo
 http://190.108.83.142:8000/play/a00q/index.m3u8
-#EXTINF:0,FXM
+#EXTINF:0,FX Movies (Valido hasta el 31-03)
 http://190.108.83.142:8000/play/a00r/index.m3u8
-#EXTINF:0,FOX LIFE
+#EXTINF:0,Star Life (Valido hasta el 31-03)
 http://190.108.83.142:8000/play/a00s/index.m3u8
 #EXTINF:0,ATV
 http://190.108.83.142:8000/play/a00t/index.m3u8
@@ -449,27 +449,25 @@ http://190.108.83.142:8000/play/a00t/index.m3u8
 http://190.108.83.142:8000/play/a00u/index.m3u8
 #EXTINF:0,NICK
 http://190.108.83.142:8000/play/a00v/index.m3u8
-#EXTINF:0,NATGEO WILD
+#EXTINF:0,Nat Geo Wild (Valido hasta el 31-03)
 http://190.108.83.142:8000/play/a00w/index.m3u8
-#EXTINF:0,FOX2
+#EXTINF:0,Canal de las Estrellas
 http://190.108.83.142:8000/play/a011/index.m3u8
-#EXTINF:0,LA ZONA
+#EXTINF:0,Radio Oxigeno
 http://190.108.83.142:8000/play/a013/index.m3u8
-#EXTINF:0,FELICIDAD
+#EXTINF:0,Grupo RPP
 http://190.108.83.142:8000/play/a014/index.m3u8
-#EXTINF:0,1002-FUEGOTV
+#EXTINF:0,FUEGO TV
 http://190.108.83.142:8000/play/a003/index.m3u8
-#EXTINF:0,MX CLASIC
-http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:0,UCHU TV
 http://190.108.83.142:8000/play/a006/index.m3u8
-#EXTINF:0,CTC TV
+#EXTINF:0,CTC Cusco
 http://190.108.83.142:8000/play/a007/index.m3u8
-#EXTINF:0,PALMERA
+#EXTINF:0,Palmeras TV
 http://190.108.83.142:8000/play/a00a/index.m3u8
-#EXTINF:0,TPTO
+#EXTINF:0,TPTO Channel
 http://190.108.83.142:8000/play/a00c/index.m3u8
-#EXTINF:0,1020-PIURA TV
+#EXTINF:0,PIURA TV
 http://190.108.83.142:8000/play/a00d/index.m3u8
 #EXTINF:0,IPE
 http://190.108.83.142:8000/play/a00k/index.m3u8
@@ -495,18 +493,4 @@ https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 
 #BLOQUE HD PERU
-#EXTINF:-1,WILLAX
-http://190.187.200.69:8000/play/a01q
-#EXTINF:-1,Latina
-http://190.187.200.69:8000/play/a01r
-#EXTINF:-1,AmericaTV
-http://190.187.200.69:8000/play/a01s
-#EXTINF:-1,Panamericana TV
-http://190.187.200.69:8000/play/a01t
-#EXTINF:-1,TV Peru
-http://190.187.200.69:8000/play/a01w
-#EXTINF:-1,ATV
-http://190.187.200.69:8000/play/a01u
-#EXTINF:-1,Gol Peru
-http://laratel.online:33599/swiptv/Szph6Q6Hd2/42
 
