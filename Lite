@@ -345,6 +345,8 @@ https://runtime-espanol-roku.amagi.tv/playlist.m3u8
 https://play.amelbasoluciones.co:3971/stream/play.m3u8
 #EXTINF:-1, MyTime Movies España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,Latin Angels España
+http://sierra-001-latinangels.unitedteleports.tv/SIERRA/latinangels-demo.m3u8
 #EXTINF:-1, Hola TV Play
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1,Fox Kids
@@ -410,6 +412,22 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1,Draiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1451105741.m3u8
+
+#EXTINF:-1,Canela TV
+https://stream.ads.ottera.tv/cl/925fa1da-ae51-428e-b3af-58de1e3875b7/1280x720_1400000_3_false.m3u8
+#EXTINF:-1,Canela Clasicos
+https://stream.ads.ottera.tv/cl/21a2b3ac-0651-4036-8a3c-6178dbafb22f/1280x720_2300000_4_false.m3u8
+#EXTINF:-1,Canela Mexicanas
+https://stream.ads.ottera.tv/cl/7c9f2047-aa33-4fdf-b25f-8a7327daddc8/1280x720_1400000_3_false.m3u8
+#EXTINF:-1,Canela Telenovelas
+https://stream.ads.ottera.tv/cl/2e994dfa-d320-47da-bb4c-fe98cd07663b/1280x720_2300000_4_false.m3u8
+#EXTINF:-1,Tierra de Amor y Venganza
+https://stream.ads.ottera.tv/cl/a8741c35-d613-40c3-977b-4d956ac78a01/1280x720_1400000_3_false.m3u8
+#EXTINF:-1,El Talisman
+https://stream.ads.ottera.tv/cl/1da0d0b0-7b3a-41ca-a98a-ca026e15192f/640x360_350000_0_false.m3u8
+#EXTINF:-1,Cine Romantico Canela
+https://stream.ads.ottera.tv/cl/fce75337-01f2-4db8-b1d4-71be91a6f340/1280x720_2300000_4_false.m3u8
+
 
 #EXTINF:11,COMEDY CENTRAL
 http://190.108.83.142:8000/play/a00j/index.m3u8
