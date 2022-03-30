@@ -6,8 +6,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8
 #EXTINF:-1,BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1,Asiri Noticias
-https://video2.lhdserver.es/asiritv/live.m3u8
+
+https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1,OndaDigital TV
@@ -18,18 +18,18 @@ http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1,ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1,Hipodromo de Monterrico
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1,Asiri Noticias
+https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1,Nacional Noticias
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:0, Conecta2
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1,Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/HasBahCa.m3u8
-#EXTINF:-1,TV14 * Caracol Colombia
-http://204.199.73.100:9000/play/a033
-#EXTINF:-1,El Chavo 24/7
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:-1,TV Salud
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
+#EXTINF:-1,El Chavo 
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1872608623.m3u8
 #EXTINF:-1,TV Peru Noticias
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,TV Cosmos
@@ -318,31 +318,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6193963c5a960200074ce816/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-chno="220" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png",Doctor Who
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-PLEX
-#EXTINF:-1, AFV - Videos Graciosos en español
-https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/mt/plex/46/hls/master/playlist.m3u8?ads.plex_token=18QwpJxxibrqWkWsGuep&ads.plex_id=5ef4e1b10d9ad000423c4421&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1, Fail Army Humor TV
-https://92101a418914495e875b3105a006bbf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_FailArmy/playlist.m3u8?ads.wurl_channel=89&ads.wurl_name=FailArmy&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=18QwpJxxibrqWkWsGuep&ads.plex_id=5eea605574085f0040ddc791&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1, Impact Wrestling TNA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=776&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=18QwpJxxibrqWkWsGuep&content_series=606605549dbfca002d2ae873&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=18QwpJxxibrqWkWsGuep&custom_7=606605549dbfca002d2ae873
-#EXTINF:-1, La Corriente
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=499&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=18QwpJxxibrqWkWsGuep&content_series=602d6608f867c4002c897e27&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=18QwpJxxibrqWkWsGuep&custom_7=602d6608f867c4002c897e27
-#EXTINF:-1, Quello Conciertos por Stingray
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=18QwpJxxibrqWkWsGuep&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=18QwpJxxibrqWkWsGuep&custom_7=5fe27da28c198b002d179199
-#EXTINF:-1, Quello Musica Clasica
-https://qwest-classic-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=60aeb06487f9b1002ce1231b&uid=1fueesbnn-8jvc-dio-4koj-9hrd57rigkl/hls/amagi_hls_data_plexAAAAA-qwest-classic-plex/CDN/playlist.m3u8
-#EXTINF:-1, Quello Jazz España
-https://qwest-jazz-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=60b0f65c0c8ffb002c821a75&uid=1fueeslrs-qbv4-u2o-w8u2-3ac38lmje0g/hls/amagi_hls_data_plexAAAAA-qwest-jazz-plex/CDN/playlist.m3u8
-#EXTINF:-1, Escape Natural por Stingray
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=570&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=18QwpJxxibrqWkWsGuep&content_series=60d324f59adce5002c41dbc5&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=18QwpJxxibrqWkWsGuep&custom_7=60d324f59adce5002c41dbc5
-#EXTINF:-1, Vivaldi Clasico
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=18QwpJxxibrqWkWsGuep&channelId=61bb9a63e0b39cfe304c9a8a
-#EXTINF:-1, Runtime MX
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
-#EXTINF:-1, Runtime Latino
-https://runtime-espanol-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1, TDI Music
-https://play.amelbasoluciones.co:3971/stream/play.m3u8
+
+#EXTINF:-1,Hipodromo de Monterrico
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1,Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png",El Gourmet
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png",Mas Chic
+https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Planeta Movies
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1,Telemundo al Dia
+https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1,Draiko TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1451105741.m3u8
 #EXTINF:-1, MyTime Movies España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,Latin Angels España
@@ -362,6 +352,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m
 https://videoserver.tmcreativos.com:19360/vnpmusica/vnpmusica.m3u8
 #EXTINF:-1,Tropical TV
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1,BestCable Musica
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,VEVO Reggaeton
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 #EXTINF:-1,VEVO Latino
@@ -382,6 +374,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1,Planeta Karaoke
 https://mediacpstreamchile.com:1936/8092/8092/playlist.m3u8
+#EXTINF:-1, TDI Music
+https://play.amelbasoluciones.co:3971/stream/play.m3u8
 
 #EXTINF:-1,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
@@ -398,43 +392,18 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 #EXTINF:-1,ADN40 Noticias
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1,TV Salud
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
-#EXTINF:-1,EstrellaTV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png",El Gourmet
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png",Mas Chic
-https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Planeta Movies
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1,Telemundo al Dia
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1,Draiko TV
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1451105741.m3u8
-
-#EXTINF:-1,Canela TV
-https://stream.ads.ottera.tv/cl/925fa1da-ae51-428e-b3af-58de1e3875b7/1280x720_1400000_3_false.m3u8
-#EXTINF:-1,Canela Clasicos
-https://stream.ads.ottera.tv/cl/21a2b3ac-0651-4036-8a3c-6178dbafb22f/1280x720_2300000_4_false.m3u8
-#EXTINF:-1,Canela Mexicanas
-https://stream.ads.ottera.tv/cl/7c9f2047-aa33-4fdf-b25f-8a7327daddc8/1280x720_1400000_3_false.m3u8
-#EXTINF:-1,Canela Telenovelas
-https://stream.ads.ottera.tv/cl/2e994dfa-d320-47da-bb4c-fe98cd07663b/1280x720_2300000_4_false.m3u8
-#EXTINF:-1,Tierra de Amor y Venganza
-https://stream.ads.ottera.tv/cl/a8741c35-d613-40c3-977b-4d956ac78a01/1280x720_1400000_3_false.m3u8
-#EXTINF:-1,El Talisman
-https://stream.ads.ottera.tv/cl/1da0d0b0-7b3a-41ca-a98a-ca026e15192f/640x360_350000_0_false.m3u8
-#EXTINF:-1,Cine Romantico Canela
-https://stream.ads.ottera.tv/cl/fce75337-01f2-4db8-b1d4-71be91a6f340/1280x720_2300000_4_false.m3u8
-
-
 #EXTINF:11,COMEDY CENTRAL
 http://190.108.83.142:8000/play/a00j/index.m3u8
 #EXTINF:0,Canal de las Estrellas
 http://190.108.83.142:8000/play/a011/index.m3u8
 #EXTINF:0,Smart Peliculas
 http://190.108.83.142:8000/play/a009/index.m3u8
+#EXTINF:0,MX Classic
+http://190.108.83.142:8000/play/a002/index.m3u8
+#EXTINF:0,MX Prime
+http://190.108.83.142:8000/play/a005/index.m3u8
+#EXTINF:0,MX Family
+http://190.108.83.142:8000/play/a002/index.m3u8
 #EXTINF:0,FX Movies (Valido hasta el 31-03)
 http://190.108.83.142:8000/play/a00r/index.m3u8
 #EXTINF:0,Star Life (Valido hasta el 31-03)
@@ -464,7 +433,6 @@ https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 
 #BLOQUE HD PERU
-
 #EXTINF:0,ATV HD
 http://190.108.83.142:8000/play/a00t/index.m3u8
 #EXTINF:0,GLOBAL
@@ -493,3 +461,5 @@ http://190.108.83.142:8000/play/a00a/index.m3u8
 http://190.108.83.142:8000/play/a00c/index.m3u8
 #EXTINF:0,PIURA TV
 http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:0,Tierra Mia
+http://190.108.83.142:8000/play/a00l/index.m3u8
