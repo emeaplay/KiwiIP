@@ -14,7 +14,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nativa
 http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ATV+
+#EXTINF:-1,ATV+ Noticias
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1,ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
@@ -22,7 +22,7 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1,Nacional Noticias
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-#EXTINF:0, Conecta2
+#EXTINF:0,Conecta2 Radio
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1,Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/HasBahCa.m3u8
@@ -345,6 +345,8 @@ http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 #EXTINF:-1,TeleClasicos
 https://tvdatta.com:3574/hybrid/play.m3u8
+#EXTINF:-1,Spectrum Channel LGBTQ+
+https://panel.miplay.cl:8081/spectrumchannel/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1,Radio San Borja
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m3u8
@@ -432,6 +434,27 @@ https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 #EXTINF:-1,3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 
+
+#EXTINF:-1,Radio Ritmo Romantica
+https://18323.live.streamtheworld.com/CRP_RITAAC_TOKEN.aac
+#EXTINF:-1,Radio Moda
+https://23103.live.streamtheworld.com/CRP_MOD_ADP.aac
+#EXTINF:-1,Radio Oasis
+https://18063.live.streamtheworld.com/CRP_OASAAC.aac
+#EXTINF:-1,Radio Nueva Q
+https://18813.live.streamtheworld.com/CRP_NQ_ADP.aac
+#EXTINF:-1,Radio Mar
+https://23103.live.streamtheworld.com/CRP_MAR_ADP.aac
+#EXTINF:-1,Radio Planeta
+https://14833.live.streamtheworld.com/CRP_PLA_ADP.aac
+#EXTINF:-1,Radio Magica
+https://19273.live.streamtheworld.com/MAG_ADP.aac
+#EXTINF:-1,Radio Festiva
+https://23023.live.streamtheworld.com/CRP_FES_S01.mp3
+
+#EXTINF:-1,Radio Studio 92
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_3440_wZpj7AH4__00000000vTP&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=m175m5hvE9on7UhPms8hc7x4S5SXruPH&sid=R67cpai0AHeYSWJtqCFqmUwcGPAJ7Kyy&pid=XD2jh2dtGlQi6DX83vwzGOkiT1XC1PIW&ref=audioplayer.pe&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1648851855443&ot=2A0vpTkemjaiLjLObhlvgg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.185
+
 #BLOQUE HD PERU
 #EXTINF:0,ATV HD
 http://190.108.83.142:8000/play/a00t/index.m3u8
@@ -463,3 +486,4 @@ http://190.108.83.142:8000/play/a00c/index.m3u8
 http://190.108.83.142:8000/play/a00d/index.m3u8
 #EXTINF:0,Tierra Mia
 http://190.108.83.142:8000/play/a00l/index.m3u8
+
