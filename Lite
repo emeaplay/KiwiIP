@@ -436,7 +436,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 
 
 #EXTINF:-1,Radio Ritmo Romantica
-https://18323.live.streamtheworld.com/CRP_RITAAC_TOKEN.aac
+https://25053.live.streamtheworld.com/CRP_RIT_ADP.aac
 #EXTINF:-1,Radio Moda
 https://23103.live.streamtheworld.com/CRP_MOD_ADP.aac
 #EXTINF:-1,Radio Oasis
@@ -454,6 +454,18 @@ https://23023.live.streamtheworld.com/CRP_FES_S01.mp3
 
 #EXTINF:-1,Radio Studio 92
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada553978fe1080e3ac5ea/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_3440_wZpj7AH4__00000000vTP&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=m175m5hvE9on7UhPms8hc7x4S5SXruPH&sid=R67cpai0AHeYSWJtqCFqmUwcGPAJ7Kyy&pid=XD2jh2dtGlQi6DX83vwzGOkiT1XC1PIW&ref=audioplayer.pe&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1648851855443&ot=2A0vpTkemjaiLjLObhlvgg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada553978fe1080e3ac5ea&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.185
+#EXTINF:-1,Radio Oxigeno
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_9569_ZzkZYNWE__00000001gpQ&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=wtNnK6XAah5KdoJnrNkuMmecMRiR0EaN&sid=286racfCGDz4B9dga0JtOj0Pv5F7ithM&pid=wnRbYzWU9ko9d4n9NE1lz78zk8B42Ib3&ref=audioplayer.pe&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1648857984778&ot=9kbx8kXJgaUil3MHs14NTA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.185
+#EXTINF:-1,Radio La Zona
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada54116646e098d97e6a5/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_9630_hEGbJEgd__00000001gS5&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=wtNnK6XAah5KdoJnrNkuMmecMRiR0EaN&sid=286racfCGDz4B9dga0JtOj0Pv5F7ithM&pid=pSjnTfNs36wG3ix7cZJZSjJTeqafBomx&ref=audioplayer.pe&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1648858045710&ot=50HRh75WzQ6K0pch0VLAJg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada54116646e098d97e6a5&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.185
+#EXTINF:-1,Radio La Mega
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_9720_axMTnu7W__00000001hw3&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=wtNnK6XAah5KdoJnrNkuMmecMRiR0EaN&sid=286racfCGDz4B9dga0JtOj0Pv5F7ithM&pid=6R09V2LOhyvDbeFlxWduFu5Qe6LRHGJc&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1648858136139&ot=SMpx4sVQi-rA8lLaE5_wkA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada56fe4e09508207a7951&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.185
+#EXTINF:-1,Radio Felicidad
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8f7/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_9861_8f2iVCvd__00000001iwr&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=wtNnK6XAah5KdoJnrNkuMmecMRiR0EaN&sid=286racfCGDz4B9dga0JtOj0Pv5F7ithM&pid=NO2s7gZrbi51JfSb8hzC38XWxFbMyqcs&ref=audioplayer.pe&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1648858277489&ot=y7_mHDDTwn_YKUN5oPg3fg&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fad731fcf097a068af3c8f7&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.185
+#EXTINF:-1,Radio Corazon
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_10099_YRBbZTfe__00000001kdg&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=wtNnK6XAah5KdoJnrNkuMmecMRiR0EaN&sid=286racfCGDz4B9dga0JtOj0Pv5F7ithM&pid=j5jLr6xMnHbFPFZix7ovztR7xA60Z5uw&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1648858515646&ot=0PbOFuQ3x5ZU5Bz_8Hj9Kw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.185
+#EXTINF:-1,Radio RPP
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_10143_e2XuwMg2__00000001kxg&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=wtNnK6XAah5KdoJnrNkuMmecMRiR0EaN&sid=286racfCGDz4B9dga0JtOj0Pv5F7ithM&pid=V1TyDjYfOx7aVTQQv0vzwHvJCx2HVrap&ref=rpp.pe&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1648858559670&ot=KqaDDAcDHO8zwXyk9WS_hw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.158
 
 #BLOQUE HD PERU
 #EXTINF:0,ATV HD
