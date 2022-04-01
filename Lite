@@ -18,8 +18,8 @@ http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1,ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1,Asiri Noticias
-https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:0,FUEGO TV
+http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1,Nacional Noticias
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:0,Conecta2 Radio
@@ -36,8 +36,8 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/HasBahCa.m3u8
 #EXTINF:-1,Canal ATM
 https://v4.tustreaming.cl/atmtv/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Autentica
-https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1,Asiri Noticias
+https://video2.lhdserver.es/asiritv/live.m3u8
 
 PLUTO TV
 #EXTINF:-1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/colorLogoPNG.png",Guía Pluto TV
@@ -321,6 +321,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455
 
 #EXTINF:-1,Hipodromo de Monterrico
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1,Autentica
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1,Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png",El Gourmet
@@ -374,12 +376,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1,Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1,Planeta Karaoke
-https://mediacpstreamchile.com:1936/8092/8092/playlist.m3u8
-#EXTINF:-1, TDI Music
+#EXTINF:-1,TDI Music
 https://play.amelbasoluciones.co:3971/stream/play.m3u8
 
-#EXTINF:-1,DW
+#EXTINF:-1,DW Deutsche Welle
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,RT Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -394,42 +394,36 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 #EXTINF:-1,ADN40 Noticias
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:11,COMEDY CENTRAL
+#EXTINF:11,Comedy Central
 http://190.108.83.142:8000/play/a00j/index.m3u8
 #EXTINF:0,Canal de las Estrellas
 http://190.108.83.142:8000/play/a011/index.m3u8
 #EXTINF:0,Smart Peliculas
 http://190.108.83.142:8000/play/a009/index.m3u8
 #EXTINF:0,MX Classic
-http://190.108.83.142:8000/play/a002/index.m3u8
+http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:0,MX Prime
 http://190.108.83.142:8000/play/a005/index.m3u8
 #EXTINF:0,MX Family
 http://190.108.83.142:8000/play/a002/index.m3u8
-#EXTINF:0,FX Movies (Valido hasta el 31-03)
-http://190.108.83.142:8000/play/a00r/index.m3u8
-#EXTINF:0,Star Life (Valido hasta el 31-03)
-http://190.108.83.142:8000/play/a00s/index.m3u8
-#EXTINF:0,NICK JUNIOR
+#EXTINF:0,Nick Junior
 http://190.108.83.142:8000/play/a00u/index.m3u8
-#EXTINF:0,NICK
+#EXTINF:0,Nickelodeon
 http://190.108.83.142:8000/play/a00v/index.m3u8
-#EXTINF:0,Smart Kids
+#EXTINF:0,Smart Junior
 http://190.108.83.142:8000/play/a00g/index.m3u8
 #EXTINF:0,Nat Geo
 http://190.108.83.142:8000/play/a00q/index.m3u8
-#EXTINF:0,Nat Geo Wild (Valido hasta el 31-03)
-http://190.108.83.142:8000/play/a00w/index.m3u8
 #EXTINF:0,City TV Colombia
 http://190.108.83.142:8000/play/a008/index.m3u8
-#EXTINF:-1,FIT TV
+#EXTINF:-1,Fitness TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
 
-#EXTINF:-1, ORBE 21
+#EXTINF:-1,ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
-#EXTINF:-1, PAX TV
+#EXTINF:-1,PAX TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m3u8
-#EXTINF:-1, JN19 TV
+#EXTINF:-1,JN19 TV
 https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 #EXTINF:-1,3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
@@ -490,8 +484,6 @@ http://190.108.83.142:8000/play/a00i/index.m3u8
 http://190.108.83.142:8000/play/a013/index.m3u8
 #EXTINF:0,Grupo RPP
 http://190.108.83.142:8000/play/a014/index.m3u8
-#EXTINF:0,FUEGO TV
-http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:0,UCHU TV
 http://190.108.83.142:8000/play/a006/index.m3u8
 #EXTINF:0,CTC Cusco
