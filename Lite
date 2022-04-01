@@ -467,6 +467,12 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd6337
 #EXTINF:-1,Radio RPP
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_10143_e2XuwMg2__00000001kxg&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=wtNnK6XAah5KdoJnrNkuMmecMRiR0EaN&sid=286racfCGDz4B9dga0JtOj0Pv5F7ithM&pid=V1TyDjYfOx7aVTQQv0vzwHvJCx2HVrap&ref=rpp.pe&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1648858559670&ot=KqaDDAcDHO8zwXyk9WS_hw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.158
 
+#EXTINF:-1,Radio Exitosa
+http://node-30.zeno.fm/csy4vzackf9uv
+#EXTINF:-1,Radio America
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb1d/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_11609_puq7jP2N__00000001uwY&downloadSessionID=0&aid=5b8ea6f89ff52d0770a144c4&dnt=true&uid=wtNnK6XAah5KdoJnrNkuMmecMRiR0EaN&sid=286racfCGDz4B9dga0JtOj0Pv5F7ithM&pid=mRDfQHSEzWjqbkExSph0xStyNe2sTJur&ref=radioamerica.pe&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1648860024479&ot=iEwliell84Av-zGXXSZ0sg&proto=https&pz=us&cP=128000&awCollectionId=5b8ea6f89ff52d0770a144c4&liveId=60bfd82b9488941e9d86eb1d&referer=https%3A%2F%2Fradioamerica.pe%2F&propertyName=appName&propertyType=web-app&propertyVersion=v0.0.169
+
+
 #BLOQUE HD PERU
 #EXTINF:0,ATV HD
 http://190.108.83.142:8000/play/a00t/index.m3u8
