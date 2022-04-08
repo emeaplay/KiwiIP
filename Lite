@@ -30,12 +30,12 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/HasBahCa.m3u8
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 #EXTINF:-1,El Chavo 
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1872608623.m3u8
-#EXTINF:-1,TV Peru Noticias
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1,Contacto Deportes
+https://live.obslivestream.com/cdeportivomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1,Canal ATM
-https://v4.tustreaming.cl/atmtv/index.m3u8?HasBahCa.m3u8
+#EXTINF:-1,TeleColor
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Asiri Noticias
 https://video2.lhdserver.es/asiritv/live.m3u8
 
@@ -468,6 +468,9 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb
 
 
 #BLOQUE HD PERU
+
+#EXTINF:-1,TV Peru Noticias
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:0,ATV HD
 http://190.108.83.142:8000/play/a00t/index.m3u8
 #EXTINF:0,GLOBAL
