@@ -12,8 +12,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
 #EXTINF:-1, XTV Amazonas [PER]
 https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
-#EXTINF:-1, VIA Altomayo [PER]
-https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TPTO CHANNEL Tarapoto [PER]
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:-1, HECHICERA Tumbes[PER]
@@ -26,12 +24,12 @@ http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w352402513.m3u8
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,CANAL 15 [MEX]
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w259630552.m3u8
-#EXTINF:-1, TEN tv [HON]
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 #EXTINF:-1, Azteca Honduras [HON]
 http://190.122.96.187:8888/http/002
 #EXTINF:-1, TV MARTI [CUB]
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1,NITIDA TV [RD]
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?WebM3UCL
 #EXTINF:-1, Tele UNO [HON]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w850289925.m3u8
 #EXTINF:-1, TELESISTEMA [CR]
@@ -46,8 +44,6 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1, RETROPLUS 3 [COL]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1, Zoom [COL]
-https://canalzoom.itex.com.co:3085/live/canalzoombr01live.m3u8
 #EXTINF:-1,Energeek [COL]
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1, LA RED [CHI]
@@ -56,14 +52,12 @@ https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 #EXTINF:-1, TVMAS+ [CL]
 https://593b04c4c5670.streamlock.net/8008/8008/chunklist_w602230253.m3u8
-#EXTINF:-1, ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w280801424.m3u8
 #EXTINF:-1, CLOUD MOVIES
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
-#EXTINF:-1, Cinema+
-https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1,El Pinguino [CL]
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:-1,Spectrum Channel LGBTQ+ [CL]
+https://panel.miplay.cl:8081/spectrumchannel/tracks-v3a1/mono.m3u8
 #EXTINF:-1, FM TV CLASSICS
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w215001628.m3u8
 #EXTINF:-1, MI TV CLASSICS
@@ -84,20 +78,16 @@ http://live-edge01.telecentro.net.ar/live/c26.smil/playlist.m3u8
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1,NET TV [ARG]
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1,CineAR [ARG]
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 #EXTINF:-1,Venevision [VEN]
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
-#EXTINF:-1, XKIDS
+#EXTINF:-1,XKIDS
 https://video1.getstreamhosting.com:1936/8162/8162/playlist.m3u8
 #EXTINF:-1,FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:-1,ADULTO
-http://109.200.130.123:7032/play/353
-#EXTINF:-1,ADULTO
-http://109.200.130.123:7032/play/a00g
-#EXTINF:-1,ADULTO
-http://80.237.96.73:9090/stream/channelid/641806044?ticket=8A0D8A151B9EB98ECC7F8E7FF0D8B5F051C7E2C5&profile=pass
+#EXTINF:-1,Latin Angels España
+http://sierra-001-latinangels.unitedteleports.tv/SIERRA/latinangels-demo.m3u8
+#EXTINF:-1,Hola TV Play
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 PLEX
 #EXTINF:-1, AFV - Videos Graciosos en español
@@ -122,21 +112,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-ple
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 #EXTINF:-1, Runtime Latino
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Canela TV
-https://stream.ads.ottera.tv/cl/925fa1da-ae51-428e-b3af-58de1e3875b7/1280x720_1400000_3_false.m3u8
-#EXTINF:-1,Canela Clasicos
-https://stream.ads.ottera.tv/cl/21a2b3ac-0651-4036-8a3c-6178dbafb22f/1280x720_2300000_4_false.m3u8
-#EXTINF:-1,Canela Mexicanas
-https://stream.ads.ottera.tv/cl/7c9f2047-aa33-4fdf-b25f-8a7327daddc8/1280x720_1400000_3_false.m3u8
-#EXTINF:-1,Canela Telenovelas
-https://stream.ads.ottera.tv/cl/2e994dfa-d320-47da-bb4c-fe98cd07663b/1280x720_2300000_4_false.m3u8
-#EXTINF:-1,Tierra de Amor y Venganza
-https://stream.ads.ottera.tv/cl/a8741c35-d613-40c3-977b-4d956ac78a01/1280x720_1400000_3_false.m3u8
-#EXTINF:-1,El Talisman
-https://stream.ads.ottera.tv/cl/1da0d0b0-7b3a-41ca-a98a-ca026e15192f/640x360_350000_0_false.m3u8
-#EXTINF:-1,Cine Romantico Canela
-https://stream.ads.ottera.tv/cl/fce75337-01f2-4db8-b1d4-71be91a6f340/1280x720_2300000_4_false.m3u8
 
 #EXTINF:-1,101 Azteca Uno
 http://38.123.205.70:8000/play/a0cc/index.m3u8
