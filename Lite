@@ -325,10 +325,6 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1,Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/elgourmet.png",El Gourmet
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mas_chic.png",Mas Chic
-https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Planeta Movies
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1,Telemundo al Dia
