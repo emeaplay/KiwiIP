@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,RedLight - Adulto
+http://109.200.130.123:7032/play/353
+#EXTINF:-1,Vivid - Adulto
+http://109.200.130.123:7032/play/a00g
+#EXTINF:-1,PlayBoy Europa ADULTO
+http://80.237.96.73:9090/stream/channelid/641806044?ticket=8A0D8A151B9EB98ECC7F8E7FF0D8B5F051C7E2C5&profile=pass
 #EXTINF:-1 ,AdultIPTV.net Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 ,AdultIPTV.net MILF
