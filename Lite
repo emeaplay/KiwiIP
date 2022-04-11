@@ -337,23 +337,19 @@ https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1451105741.m3u8
 #EXTINF:-1, MyTime Movies España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,Latin Angels España
-http://sierra-001-latinangels.unitedteleports.tv/SIERRA/latinangels-demo.m3u8
-#EXTINF:-1, Hola TV Play
-https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1,Jetix
+http://jetixjahh21.duckdns.org/hls/stream/index.m3u8?WebM3UCL
 #EXTINF:-1,Fox Kids
-http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
+http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?WebM3UCL
 #EXTINF:-1,ACS Networks
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 #EXTINF:-1,TeleClasicos
 https://tvdatta.com:3574/hybrid/play.m3u8
-#EXTINF:-1,Spectrum Channel LGBTQ+
-https://panel.miplay.cl:8081/spectrumchannel/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1,Radio San Borja
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m3u8
 #EXTINF:-1,Vision Musica
-https://videoserver.tmcreativos.com:19360/vnpmusica/vnpmusica.m3u8
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1,Tropical TV
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1,BestCable Musica
