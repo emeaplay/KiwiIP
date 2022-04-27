@@ -307,10 +307,6 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1451105741.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,MyTime Movies Latino
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,Jetix
-http://jetixjahh21.duckdns.org/hls/stream/index.m3u8?WebM3UCL
-#EXTINF:-1,Fox Kids
-http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?WebM3UCL
 #EXTINF:-1,ACS Networks
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 #EXTINF:-1,TeleClasicos
@@ -426,7 +422,6 @@ https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fad731fcf097a068af3c8
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fada514fc16c006bd63370f/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_10099_YRBbZTfe__00000001kdg&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=wtNnK6XAah5KdoJnrNkuMmecMRiR0EaN&sid=286racfCGDz4B9dga0JtOj0Pv5F7ithM&pid=j5jLr6xMnHbFPFZix7ovztR7xA60Z5uw&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1648858515646&ot=0PbOFuQ3x5ZU5Bz_8Hj9Kw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fada514fc16c006bd63370f&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.185
 #EXTINF:-1,Radio RPP
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=62461cbc89c2dc01_10143_e2XuwMg2__00000001kxg&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=wtNnK6XAah5KdoJnrNkuMmecMRiR0EaN&sid=286racfCGDz4B9dga0JtOj0Pv5F7ithM&pid=V1TyDjYfOx7aVTQQv0vzwHvJCx2HVrap&ref=rpp.pe&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1648858559670&ot=KqaDDAcDHO8zwXyk9WS_hw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.158
-
 #EXTINF:-1,Radio Exitosa
 http://node-30.zeno.fm/csy4vzackf9uv
 #EXTINF:-1,Radio America
@@ -439,12 +434,6 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/60bfd82b9488941e9d86eb
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:0,ATV HD
 http://190.108.83.142:8000/play/a00t/index.m3u8
-#EXTINF:0,GLOBAL
-http://190.108.83.142:8000/play/a00x/index.m3u8
-#EXTINF:0,ATV
-http://190.108.83.142:8000/play/a00o/index.m3u8
-#EXTINF:0,JUSTICIA TV
-http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:0,IPE
 http://190.108.83.142:8000/play/a00k/index.m3u8
 #EXTINF:0,TVPERU
