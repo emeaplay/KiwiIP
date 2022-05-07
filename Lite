@@ -20,12 +20,12 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:0,FUEGO TV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:-1,Nacional Noticias
+#EXTINF:-1,Nacional Tv
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:0,Conecta2 Radio
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1,Peru Channel
-https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/HasBahCa.m3u8
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1,TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 #EXTINF:-1,El Chavo 
@@ -295,6 +295,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,Autentica
 https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1,USIL TV
+https://video.servidor.stream:3366/live/redeslive.m3u8
 #EXTINF:-1,PlaneaTV Lima
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
 #EXTINF:-1,Estrella TV
@@ -303,6 +305,8 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1,Planeta tv
 https://live.obslivestream.com/planetatvmux/index.m3u8
+#EXTINF:-1,UniFE Argentina
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8
 #EXTINF:-1,Telemundo al Dia
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1,Ve Plus
@@ -330,8 +334,6 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,VEVO Reggaeton
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-#EXTINF:-1,VEVO Latino
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1,Portal FoxMix
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w748795965.m3u8
 #EXTINF:-1,Carolina Radio
@@ -363,6 +365,8 @@ https://m3u-editor.com/serve/televitolibre/510996712.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 #EXTINF:-1,ADN40 Noticias
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1,TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 
 #EXTINF:-1,ORBE 21
@@ -375,6 +379,8 @@ https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1,Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1,Esperanza TV
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/playlist.m3u8
 
 
 #BLOQUE HD PERU
@@ -383,8 +389,8 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:0,UCHU TV
 http://190.108.83.142:8000/play/a006/index.m3u8
-#EXTINF:0,CTC Cusco
-http://190.108.83.142:8000/play/a007/index.m3u8
+#EXTINF:0,QuaTRO
+https://video-weaver.jfk06.hls.ttvnw.net/v1/playlist/CpwFCovrpTVG9Rp55UFElAnD67nNr1lpmtgju8PA1cCjcnhG9wmcLSE8O8iQ1hrXpqvfP52XzJSLKVzRMUTcdVccBsmbFBapjR8lppbo04SAKzwQQcltmmsDhsACxy_34iJS3MBopipX8-XRhdWdKzg55semxTo-iSrI2SBl4qwz5dINW5fit0TfdunyEdJyxI3xdRbaY3DR0UF_J0JORw94XuUM9HBBz_mmSxSmrKbMhgvC1VsR2-ZxWr9kuTdYbLOGG8yPxL1YjFwgC-LeYr5CuMJ-jpYY56tCZEwTLXRKkrkXUaZtuwNJtHJIECbrKzwH-FsX4zWH6yrQQ8ERuUinXFwrQc9OwsMRwEKeBh736oeySFuR-GUISgetuf3Vlqe-3KGWXxymx0HQMmBvvRCf4dPdXkSMJd17R8SchbzspjxVi6uZcXw4LFiXJASYuLLR29BnliDTJ-0ftPjELpDHRkkIvFvPjrru6SEUTsiXmQzlohewQLGl9S0IT0_2ASm3zM26htJ67XIjk7rEUOn1BM-Z-z-U-o1lfIr5V9LPVLL3PuvRwdgPDzTeiNl4TyaiTkBCm77NnrkBga7mxLveeNHHbqfHHcDp6fFF3AMslVoItC9EYY72YWXMxoNikvMHdLMlepZ4qoq_TreasWTiGPrchONbzpWfzqvnbu_xdDGSRl8jI8KRaNo6NpOpo91h3kuNbpu8rc9KMn0UgrjmwgT-hgjQINs6OU2OzZ98mba4JdL4ZA95mU2vyANzcu6pMDfeWdQoifGKiO9m1cjYC9KFjmaEP9YuYeTj8SGNe_KhX_yqaDH4fuGoP173xbddANzon8Hbsvw09MbODaHHY7hUCg6nHbcJuw4KSckDmSAKL49Oxi7XemXi_6kaDEOJUeuj9EOxQeOmwiABKgl1cy1lYXN0LTIw0wM.m3u8
 #EXTINF:0,Palmeras TV
 https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 #EXTINF:0,TPTO Channel
