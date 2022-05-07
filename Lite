@@ -295,12 +295,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,Autentica
 https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1,PlaneaTV Lima
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
 #EXTINF:-1,Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,Planeta Movies
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1,Planeta tv
+https://live.obslivestream.com/planetatvmux/index.m3u8
 #EXTINF:-1,Telemundo al Dia
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1,Ve Plus
+http://190.122.96.187:8888/http/006
+#EXTINF:-1,Azteca Honduras
+http://190.122.96.187:8888/http/002
 #EXTINF:-1,Draiko TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1451105741.m3u8
 #EXTINF:-1,MyTime Movies España
@@ -365,6 +373,8 @@ http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1184000.m
 https://servilive.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 #EXTINF:-1,3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1,Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
 
 #BLOQUE HD PERU
@@ -379,8 +389,8 @@ http://190.108.83.142:8000/play/a007/index.m3u8
 https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 #EXTINF:0,TPTO Channel
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
-#EXTINF:0,PIURA TV
-http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:0,Impacto Television
+https://eu1.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:0,Tierra Mia
 https://live-edge01.telecentro.net.ar////live/smil:trm.smil/playlist.m3u8
 
