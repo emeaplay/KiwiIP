@@ -19,7 +19,7 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1,ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:0,FUEGO TV
-http://190.108.83.142:8000/play/a003/index.m3u8
+https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1,Nacional Noticias
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:0,Conecta2 Radio
@@ -356,30 +356,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 #EXTINF:-1,ADN40 Noticias
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:11,Comedy Central
-http://190.108.83.142:8000/play/a00j/index.m3u8
-#EXTINF:0,Canal de las Estrellas
-http://190.108.83.142:8000/play/a011/index.m3u8
-#EXTINF:0,Smart Peliculas
-http://190.108.83.142:8000/play/a009/index.m3u8
-#EXTINF:0,MX Classic
-http://190.108.83.142:8000/play/a004/index.m3u8
-#EXTINF:0,MX Prime
-http://190.108.83.142:8000/play/a005/index.m3u8
-#EXTINF:0,MX Family
-http://190.108.83.142:8000/play/a002/index.m3u8
-#EXTINF:0,Nick Junior
-http://190.108.83.142:8000/play/a00u/index.m3u8
-#EXTINF:0,Nickelodeon
-http://190.108.83.142:8000/play/a00v/index.m3u8
-#EXTINF:0,Smart Junior
-http://190.108.83.142:8000/play/a00g/index.m3u8
-#EXTINF:0,Nat Geo
-http://190.108.83.142:8000/play/a00q/index.m3u8
-#EXTINF:0,City TV Colombia
-http://190.108.83.142:8000/play/a008/index.m3u8
-#EXTINF:-1,Fitness TV
-http://190.108.83.142:8000/play/a00z/index.m3u8
 
 #EXTINF:-1,ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
@@ -395,26 +371,16 @@ https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 
 #EXTINF:-1,TV Peru Noticias
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:0,ATV HD
-http://190.108.83.142:8000/play/a00t/index.m3u8
-#EXTINF:0,IPE
-http://190.108.83.142:8000/play/a00k/index.m3u8
-#EXTINF:0,TVPERU
-http://190.108.83.142:8000/play/a00i/index.m3u8
-#EXTINF:0,Radio Oxigeno
-http://190.108.83.142:8000/play/a013/index.m3u8
-#EXTINF:0,Grupo RPP
-http://190.108.83.142:8000/play/a014/index.m3u8
 #EXTINF:0,UCHU TV
 http://190.108.83.142:8000/play/a006/index.m3u8
 #EXTINF:0,CTC Cusco
 http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:0,Palmeras TV
-http://190.108.83.142:8000/play/a00a/index.m3u8
+https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 #EXTINF:0,TPTO Channel
-http://190.108.83.142:8000/play/a00c/index.m3u8
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:0,PIURA TV
 http://190.108.83.142:8000/play/a00d/index.m3u8
 #EXTINF:0,Tierra Mia
-http://190.108.83.142:8000/play/a00l/index.m3u8
+https://live-edge01.telecentro.net.ar////live/smil:trm.smil/playlist.m3u8
 
