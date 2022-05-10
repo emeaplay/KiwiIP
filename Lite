@@ -30,7 +30,7 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 #EXTINF:-1,El Chavo 
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1872608623.m3u8
-#EXTINF:-1,Contacto Deportes
+#EXTINF:-1,Contacto TV
 https://live.obslivestream.com/cdeportivomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Cosmos
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
@@ -295,6 +295,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,Autentica
 https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1,Onda Digital PE
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1,USIL TV
 https://video.servidor.stream:3366/live/redeslive.m3u8
 #EXTINF:-1,PlaneaTV Lima
@@ -368,6 +370,66 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
+#EXTINF:-1,Comedy Central Latino
+http://190.108.83.142:8000/play/a00j/index.m3u8
+#EXTINF:-1,City TV
+http://190.108.83.142:8000/play/a008/index.m3u8
+#EXTINF:-1,Smart Peliculas
+http://190.108.83.142:8000/play/a009/index.m3u8
+#EXTINF:-1,Smart Junior
+http://190.108.83.142:8000/play/a00g/index.m3u8
+#EXTINF:-1,Bethel TV
+http://190.108.83.142:8000/play/a00m/index.m3u8
+#EXTINF:-1,Nat Geo
+http://190.108.83.142:8000/play/a00q/index.m3u8
+#EXTINF:-1,ATV
+http://190.108.83.142:8000/play/a00t/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://190.108.83.142:8000/play/a00u/index.m3u8
+#EXTINF:-1,Nick
+http://190.108.83.142:8000/play/a00v/index.m3u8
+#EXTINF:-1,CGTN Español
+http://190.108.83.142:8000/play/a010/index.m3u8
+#EXTINF:-1,Canal de las Estrellas
+http://190.108.83.142:8000/play/a011/index.m3u8
+#EXTINF:-1,Radio Oxigeno
+http://190.108.83.142:8000/play/a014/index.m3u8
+#EXTINF:-1,Fuego TV
+http://190.108.83.142:8000/play/a003/index.m3u8
+#EXTINF:-1,MX PRIME
+http://190.108.83.142:8000/play/a005/index.m3u8
+#EXTINF:-1,MX FAMILY
+http://190.108.83.142:8000/play/a002/index.m3u8
+#EXTINF:-1,MX CLASSIC
+http://190.108.83.142:8000/play/a004/index.m3u8
+#EXTINF:-1,UCHU TV Cusco
+http://190.108.83.142:8000/play/a006/index.m3u8
+#EXTINF:-1,CTC TV
+http://190.108.83.142:8000/play/a007/index.m3u8
+#EXTINF:-1,Palmeras TV
+http://190.108.83.142:8000/play/a00a/index.m3u8
+#EXTINF:-1,TvPaz
+http://190.108.83.142:8000/play/a00b/index.m3u8
+#EXTINF:-1,TPTO Channel
+http://190.108.83.142:8000/play/a00c/index.m3u8
+#EXTINF:-1,Piura TV
+http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:-1,Identidad Peruana
+http://190.108.83.142:8000/play/a00k/index.m3u8
+#EXTINF:-1,Justicia TV
+http://190.108.83.142:8000/play/a00h/index.m3u8
+#EXTINF:-1,Tv Peru
+http://190.108.83.142:8000/play/a00i/index.m3u8
+#EXTINF:-1,TierraMia
+http://190.108.83.142:8000/play/a00l/index.m3u8
+#EXTINF:-1,ATV HD
+http://190.108.83.142:8000/play/a00o/index.m3u8
+#EXTINF:-1,Global Tv
+http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1,Fit TV
+http://190.108.83.142:8000/play/a00z/index.m3u8
+#EXTINF:-1,Russia Today - RT Latam
+http://190.108.83.142:8000/play/a016/index.m3u8
 
 #EXTINF:-1,ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8
@@ -387,8 +449,6 @@ https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/p
 
 #EXTINF:-1,TV Peru Noticias
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:0,UCHU TV
-http://190.108.83.142:8000/play/a006/index.m3u8
 #EXTINF:0,QuaTRO
 https://video-weaver.jfk06.hls.ttvnw.net/v1/playlist/CpwFCovrpTVG9Rp55UFElAnD67nNr1lpmtgju8PA1cCjcnhG9wmcLSE8O8iQ1hrXpqvfP52XzJSLKVzRMUTcdVccBsmbFBapjR8lppbo04SAKzwQQcltmmsDhsACxy_34iJS3MBopipX8-XRhdWdKzg55semxTo-iSrI2SBl4qwz5dINW5fit0TfdunyEdJyxI3xdRbaY3DR0UF_J0JORw94XuUM9HBBz_mmSxSmrKbMhgvC1VsR2-ZxWr9kuTdYbLOGG8yPxL1YjFwgC-LeYr5CuMJ-jpYY56tCZEwTLXRKkrkXUaZtuwNJtHJIECbrKzwH-FsX4zWH6yrQQ8ERuUinXFwrQc9OwsMRwEKeBh736oeySFuR-GUISgetuf3Vlqe-3KGWXxymx0HQMmBvvRCf4dPdXkSMJd17R8SchbzspjxVi6uZcXw4LFiXJASYuLLR29BnliDTJ-0ftPjELpDHRkkIvFvPjrru6SEUTsiXmQzlohewQLGl9S0IT0_2ASm3zM26htJ67XIjk7rEUOn1BM-Z-z-U-o1lfIr5V9LPVLL3PuvRwdgPDzTeiNl4TyaiTkBCm77NnrkBga7mxLveeNHHbqfHHcDp6fFF3AMslVoItC9EYY72YWXMxoNikvMHdLMlepZ4qoq_TreasWTiGPrchONbzpWfzqvnbu_xdDGSRl8jI8KRaNo6NpOpo91h3kuNbpu8rc9KMn0UgrjmwgT-hgjQINs6OU2OzZ98mba4JdL4ZA95mU2vyANzcu6pMDfeWdQoifGKiO9m1cjYC9KFjmaEP9YuYeTj8SGNe_KhX_yqaDH4fuGoP173xbddANzon8Hbsvw09MbODaHHY7hUCg6nHbcJuw4KSckDmSAKL49Oxi7XemXi_6kaDEOJUeuj9EOxQeOmwiABKgl1cy1lYXN0LTIw0wM.m3u8
 #EXTINF:0,Palmeras TV
@@ -397,6 +457,6 @@ https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:0,Impacto Television
 https://eu1.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:0,Tierra Mia
+#EXTINF:0,Tierra Mia ARG
 https://live-edge01.telecentro.net.ar////live/smil:trm.smil/playlist.m3u8
 
