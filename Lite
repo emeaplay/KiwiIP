@@ -4,7 +4,7 @@
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 #EXTINF:-1,Vision Noticias
 https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8
-#EXTINF:-1,BH TV
+#EXTINF:-1,bh tv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,BestCable
 https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
@@ -18,7 +18,7 @@ http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1,ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:0,FUEGO TV
+#EXTINF:0,Fuego Tv
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1,Nacional Tv
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
@@ -26,8 +26,6 @@ https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1,Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1,TV Salud
-https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 #EXTINF:-1,El Chavo 
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1872608623.m3u8
 #EXTINF:-1,Contacto TV
@@ -38,6 +36,8 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Asiri Television
 https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1,TV Salud
+https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 
 PLUTO TV NUEVO
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" ,Pluto TV Cine Accion
@@ -291,7 +291,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6193963c5a960200074ce8
 #EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-chno="220" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png",Doctor Who
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,Hipodromo de Monterrico
+#EXTINF:-1,Jockey Club - Hipodromo de Monterrico
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,Autentica
 https://live.obslivestream.com/autenticatvmux/index.m3u8
@@ -299,26 +299,24 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1,El vuelo de la Abeja
 https://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
+#EXTINF:-1,Planeta TV
+https://live.obslivestream.com/planetatvmux/index.m3u8
 #EXTINF:-1,USIL TV
 https://video.servidor.stream:3366/live/redeslive.m3u8
-#EXTINF:-1,PlaneaTV Lima
+#EXTINF:-1,PLANea
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
 #EXTINF:-1,Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,Planeta Movies
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1,Planeta tv
-https://live.obslivestream.com/planetatvmux/index.m3u8
 #EXTINF:-1,UniFE Argentina
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8
+#EXTINF:-1,Planeta Movies
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1,Telemundo al Dia
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1,Ve Plus
 http://190.122.96.187:8888/http/006
 #EXTINF:-1,Azteca Honduras
 http://190.122.96.187:8888/http/002
-#EXTINF:-1,Draiko TV
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w1451105741.m3u8
 #EXTINF:-1,MyTime Movies España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,MyTime Movies Latino
@@ -327,6 +325,8 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 #EXTINF:-1,TeleClasicos
 https://tvdatta.com:3574/hybrid/play.m3u8
+#EXTINF:-1,Draiko TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
 #EXTINF:-1,Radio San Borja
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m3u8
@@ -355,7 +355,7 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1,TDI Music
 https://play.amelbasoluciones.co:3971/stream/play.m3u8
 
-#EXTINF:-1,DW Deutsche Welle
+#EXTINF:-1,DW Deutsche Welle Latino
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,RT Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
