@@ -5,7 +5,7 @@ http://181.176.148.142:8000/play/a01v
 #EXTINF:-1,LATINA
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1,Nativa
-http://181.176.148.142:8000/play/a031
+http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,America
 http://45.189.117.99:8000/play/a02k/index.m3u8
 #EXTINF:-1,Panamericana
@@ -13,13 +13,15 @@ http://181.176.148.142:8000/play/a02v
 #EXTINF:-1,Contacto TV
 https://live.obslivestream.com/cdeportivomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tv Peru
-http://190.108.83.142:8000/play/a00i/index.m3u8
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1,ATV+ Noticias
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1,ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1,Willax
 http://181.176.148.142:8000/play/a01y
+#EXTINF:0,TV Peru Noticias
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,Global Tv
 http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1,Justicia TV
@@ -28,6 +30,8 @@ http://190.108.83.142:8000/play/a00h/index.m3u8
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1872608623.m3u8
 #EXTINF:-1,TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
+#EXTINF:-1,TV Peru Internacional
+https://cdnh74.iblups.com/hls/irtp.m3u8
 
 #EXTINF:-1,CANAL INFANTIL
 http://181.176.148.142:8000/play/a020
