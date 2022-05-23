@@ -183,110 +183,26 @@ https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_600
 
 #EXTINF:-1 ,24horas
 https://marine2.miplay.cl/24horas/mono.m3u8
-#EXTINF:-1 ,animalplanet
-https://marine2.miplay.cl/animalplanet/mono.m3u8
-#EXTINF:-1 ,arirang
-https://marine2.miplay.cl/arirang/mono.m3u8
-#EXTINF:-1 ,babytv
-https://marine2.miplay.cl/babytv/mono.m3u8
-#EXTINF:-1 ,bbcworldnews
-https://marine2.miplay.cl/bbcworldnews/mono.m3u8
 #EXTINF:-1 ,canal13
 https://marine2.miplay.cl/canal13/mono.m3u8
 #EXTINF:-1 ,chilevision
 https://marine2.miplay.cl/chilevision/mono.m3u8
-#EXTINF:-1 ,cinecanal
-https://marine2.miplay.cl/cinecanal/mono.m3u8
-#EXTINF:-1 ,comedycentral
-https://marine2.miplay.cl/comedycentral/mono.m3u8
-#EXTINF:-1 ,deutschewelle
-https://marine2.miplay.cl/deutschewelle/mono.m3u8
-#EXTINF:-1 ,discovery
-https://marine2.miplay.cl/discovery/mono.m3u8
-#EXTINF:-1 ,discoverykids
-https://marine2.miplay.cl/discoverykids/mono.m3u8
-#EXTINF:-1 ,discovery science
-https://marine2.miplay.cl/science/mono.m3u8
-#EXTINF:-1 ,discovery turbo
-https://marine2.miplay.cl/turbo/mono.m3u8
-#EXTINF:-1 ,disney
-https://marine2.miplay.cl/disney/mono.m3u8
-#EXTINF:-1 ,disneyjunior
-https://marine2.miplay.cl/disneyjunior/mono.m3u8
-#EXTINF:-1 ,disneyxd
-https://marine2.miplay.cl/disneyxd/mono.m3u8
-#EXTINF:-1 ,espn
-https://marine2.miplay.cl/espn/mono.m3u8
-#EXTINF:-1 ,espn2
-https://marine2.miplay.cl/espn2/mono.m3u8
-#EXTINF:-1 ,espn3
-https://marine2.miplay.cl/espn3/mono.m3u8
-#EXTINF:-1 ,espnextra
-https://marine2.miplay.cl/espnextra/mono.m3u8
-#EXTINF:-1 ,ewtn
-https://marine2.miplay.cl/ewtn/mono.m3u8
-#EXTINF:-1 ,foodnetwork
-https://marine2.miplay.cl/foodnetwork/mono.m3u8
-#EXTINF:-1 ,france24
-https://marine2.miplay.cl/france24/mono.m3u8
-#EXTINF:-1 ,fx
-https://marine2.miplay.cl/fx/mono.m3u8
-#EXTINF:-1 ,fxmovies
-https://marine2.miplay.cl/fxmovies/mono.m3u8
-#EXTINF:-1 ,hgtv
-https://marine2.miplay.cl/hgtv/mono.m3u8
-#EXTINF:-1 ,homeandhealth
-https://marine2.miplay.cl/homeandhealth/mono.m3u8
-#EXTINF:-1 ,investigation
-https://marine2.miplay.cl/investigation/mono.m3u8
 #EXTINF:-1 ,itv
 https://marine2.miplay.cl/itv/mono.m3u8
-#EXTINF:-1 ,kanald
-https://marine2.miplay.cl/kanald/mono.m3u8
 #EXTINF:-1 ,lared
 https://marine2.miplay.cl/lared/mono.m3u8
 #EXTINF:-1 ,mega
 https://marine2.miplay.cl/mega/mono.m3u8
 #EXTINF:-1 ,megaplus
 https://marine2.miplay.cl/megaplus/mono.m3u8
-#EXTINF:-1 ,mtv
-https://marine2.miplay.cl/mtv/mono.m3u8
-#EXTINF:-1 ,natgeo
-https://marine2.miplay.cl/natgeo/mono.m3u8
-#EXTINF:-1 ,natgeokids
-https://marine2.miplay.cl/natgeokids/mono.m3u8
-#EXTINF:-1 ,natgeowild
-https://marine2.miplay.cl/natgeowild/mono.m3u8
-#EXTINF:-1 ,NHK
-https://marine2.miplay.cl/nhk/mono.m3u8
-#EXTINF:-1 ,NICKELODEON
-https://marine2.miplay.cl/nickelodeon/mono.m3u8
-#EXTINF:-1 ,NICKJR
-https://marine2.miplay.cl/nickjr/mono.m3u8
 #EXTINF:-1 ,ntv
 https://marine2.miplay.cl/ntv/mono.m3u8
-#EXTINF:-1 ,paramount
-https://marine2.miplay.cl/paramount/mono.m3u8
-#EXTINF:-1 ,rec
-https://marine2.miplay.cl/rec/mono.m3u8
-#EXTINF:-1 ,starlife
-https://marine2.miplay.cl/starlife/mono.m3u8
-#EXTINF:-1 ,telefe
-https://marine2.miplay.cl/telefe/mono.m3u8
-#EXTINF:-1 ,tlc
-https://marine2.miplay.cl/tlc/mono.m3u8
-#EXTINF:-1 ,tracelatina
-https://marine2.miplay.cl/tracelatina/mono.m3u8
-#EXTINF:-1 ,traceurban
-https://marine2.miplay.cl/traceurban/mono.m3u8
 #EXTINF:-1 ,tvn
 https://marine2.miplay.cl/tvn/mono.m3u8
 #EXTINF:-1 ,tvr
 https://marine2.miplay.cl/tvr/mono.m3u8
 #EXTINF:-1 ,ucv3
 https://marine2.miplay.cl/ucv3/mono.m3u8
-#EXTINF:-1 ,zoomoo
-https://marine2.miplay.cl/zoomoo/mono.m3u8
 
 
 #EXTINF:-1 group-title="PelÃ­culas" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/88/ESAJ4500019AM_20220323T082019.png",Comedias - Rakuten TV
