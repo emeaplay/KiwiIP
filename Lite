@@ -13,7 +13,7 @@ http://181.176.148.142:8000/play/a02v
 #EXTINF:-1,Contacto TV
 https://live.obslivestream.com/cdeportivomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Vision Noticias
-https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1,ATV+ Noticias
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1,ATV
@@ -43,8 +43,6 @@ http://190.108.83.142:8000/play/a008/index.m3u8
 http://190.108.83.142:8000/play/a009/index.m3u8
 #EXTINF:-1,Smart Junior
 http://190.108.83.142:8000/play/a00g/index.m3u8
-#EXTINF:-1,Bethel TV
-http://190.108.83.142:8000/play/a00m/index.m3u8
 #EXTINF:-1,Nat Geo
 http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:-1,ATV
