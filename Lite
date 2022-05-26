@@ -22,6 +22,8 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nacional Tv
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
+#EXTINF:-1,EL 12
+http://190.42.44.125:8000/play/a00a/index.m3u8
 #EXTINF:-1,Global Tv
 http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1,Justicia TV
@@ -34,6 +36,10 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 #EXTINF:-1,HB TV Arg
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,ToonCast
+http://190.42.44.125:8000/play/a07i/index.m3u8
+#EXTINF:-1,EL 20
+http://190.42.44.125:8000/play/a07d/index.m3u8
 
 #EXTINF:-1,Comedy Central Latino
 http://190.108.83.142:8000/play/a00j/index.m3u8
