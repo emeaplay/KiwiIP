@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
-#EXTINF:-1,WILLAX
+#EXTINF:-1,Willax
 http://181.176.148.142:8000/play/a01v
-#EXTINF:-1,LATINA
+#EXTINF:-1,Latina
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1,Nativa
 http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,America
-http://45.189.117.99:8000/play/a02k/index.m3u8
+http://190.42.44.125:8000/play/a02y/index.m3u8
 #EXTINF:-1,Panamericana
 http://181.176.148.142:8000/play/a02v
 #EXTINF:-1,Contacto TV
@@ -34,8 +34,8 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w18726
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 #EXTINF:-1,Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
-#EXTINF:-1,HB TV Arg
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,RPP Noticias Radio
+http://190.108.83.142:8000/play/a018/index.m3u8
 #EXTINF:-1,ToonCast
 http://190.42.44.125:8000/play/a07i/index.m3u8
 #EXTINF:-1,EL 20
@@ -89,10 +89,16 @@ http://190.108.83.142:8000/play/a00k/index.m3u8
 http://190.108.83.142:8000/play/a00l/index.m3u8
 #EXTINF:-1,ATV HD
 http://190.108.83.142:8000/play/a00o/index.m3u8
+#EXTINF:-1,La Islilla TV
+http://190.108.83.142:8000/play/a00b/index.m3u8
 #EXTINF:-1,Fit TV
 http://190.108.83.142:8000/play/a00z/index.m3u8
 #EXTINF:-1,Russia Today - RT Latam
 http://190.108.83.142:8000/play/a016/index.m3u8
+#EXTINF:-1,Radio Felicidad
+http://190.108.83.142:8000/play/a01b/index.m3u8
+#EXTINF:-1,Radio La Zona
+http://190.108.83.142:8000/play/a017/index.m3u8
 
 #EXTINF:0,Vision Musica
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
@@ -151,6 +157,8 @@ http://200.24.159.179:8500/play/a039
 http://200.24.159.179:8500/play/a017
 #EXTINF:-1,Disney Jr
 http://200.24.159.179:8500/play/a013
+#EXTINF:-1,De Pelicula
+http://190.42.44.125:8000/play/a07n/index.m3u8
 #EXTINF:-1,ECDF SD
 http://200.24.159.179:8500/play/a006
 #EXTINF:-1,ESPN
@@ -228,7 +236,7 @@ http://200.24.159.179:8500/play/a01a
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,RT Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1,TVE La 1
+#EXTINF:0,TVE La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
 #EXTINF:-1,Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
