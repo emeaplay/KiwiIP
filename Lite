@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml"
 
 #EXTINF:-1,Willax
 http://181.176.148.142:8000/play/a01v
