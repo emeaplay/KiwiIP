@@ -63,19 +63,19 @@ http://190.108.83.142:8000/play/a00v/index.m3u8
 http://190.108.83.142:8000/play/a010/index.m3u8
 #EXTINF:-1,Canal de las Estrellas
 http://190.108.83.142:8000/play/a011/index.m3u8
-#EXTINF:-1,Radio Oxigeno
-http://190.108.83.142:8000/play/a014/index.m3u8
+#EXTINF:-1,Studio 92
+http://190.108.83.142:8000/play/a019/index.m3u8
 #EXTINF:-1,Fuego TV
 http://190.108.83.142:8000/play/a003/index.m3u8
-#EXTINF:-1,MX PRIME
+#EXTINF:-1,Mx Prime
 http://190.108.83.142:8000/play/a005/index.m3u8
-#EXTINF:-1,MX FAMILY
+#EXTINF:-1,Mx Family
 http://190.108.83.142:8000/play/a002/index.m3u8
-#EXTINF:-1,MX CLASSIC
+#EXTINF:-1,Mx Classic
 http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1,UCHU TV Cusco
 http://190.108.83.142:8000/play/a006/index.m3u8
-#EXTINF:-1,CTC TV
+#EXTINF:-1,CTC TV Cusco
 http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1,Palmeras TV
 http://190.108.83.142:8000/play/a00a/index.m3u8
@@ -106,7 +106,6 @@ https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1,Radio San Borja
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m3u8
-
 
 #EXTINF:-1,TV Peru Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
