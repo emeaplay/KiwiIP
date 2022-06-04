@@ -5,7 +5,7 @@ http://181.176.148.142:8000/play/a01v
 #EXTINF:-1,Latina
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1,Nativa
-http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
+https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1,America
 http://190.42.44.125:8000/play/a02y/index.m3u8
 #EXTINF:-1,Panamericana
