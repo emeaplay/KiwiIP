@@ -7,11 +7,11 @@ http://181.176.148.142:8000/play/a02p
 #EXTINF:-1,Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1,America
-http://190.42.44.125:8000/play/a02y/index.m3u8
+http://190.42.44.125:8000/play/a02y
 #EXTINF:-1,Panamericana
 http://181.176.148.142:8000/play/a02v
-#EXTINF:-1,Contacto TV
-https://live.obslivestream.com/cdeportivomux/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Exitosa Noticias
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 #EXTINF:-1,Vision Noticias
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1,ATV+ Noticias
@@ -23,11 +23,11 @@ https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nacional Tv
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1,EL 12
-http://190.42.44.125:8000/play/a00a/index.m3u8
+http://190.42.44.125:8000/play/a01c
 #EXTINF:-1,Global Tv
 http://190.108.83.142:8000/play/a00x/index.m3u8
-#EXTINF:-1,Justicia TV
-http://190.108.83.142:8000/play/a00h/index.m3u8
+#EXTINF:-1,BH tv HD
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,El Chavo 24Horas
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1872608623.m3u8
 #EXTINF:-1,TV Salud
@@ -37,11 +37,15 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 #EXTINF:-1,RPP Noticias Radio
 http://190.108.83.142:8000/play/a018/index.m3u8
 #EXTINF:-1,ToonCast
-http://190.42.44.125:8000/play/a07i/index.m3u8
+http://190.42.44.125:8000/play/a07i
 #EXTINF:-1,EL 20
-http://190.42.44.125:8000/play/a07d/index.m3u8
+http://190.42.44.125:8000/play/a01p
+#EXTINF:-1,Contacto TV
+https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Justicia TV
+http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:-1,Glitz
-http://190.61.37.173:9010/play/a07u/index.m3u8
+http://190.61.37.173:9010/play/a07u
 
 #EXTINF:-1,Comedy Central Latino
 http://190.108.83.142:8000/play/a00j/index.m3u8
@@ -101,18 +105,14 @@ http://190.108.83.142:8000/play/a01b/index.m3u8
 http://190.108.83.142:8000/play/a017/index.m3u8
 
 #EXTINF:0,Vision Musica
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:0,Karibeña
-https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1,Radio San Borja
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m3u8
 
 #EXTINF:-1,TV Peru Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
-#EXTINF:-1,BH tv HD
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,Planeta TV
-https://live.obslivestream.com/planetatvmux/index.m3u8
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,OndaDigital TV
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV Peru Noticias
@@ -121,8 +121,12 @@ https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tv Peru
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1,Exitosa Noticias
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+#EXTINF:-1,Telesur Moquegua
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1,Unitel
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
+#EXTINF:-1,LimaLive Peliculas
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 
 #EXTINF:-1,DW Deutsche Welle Latino
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
