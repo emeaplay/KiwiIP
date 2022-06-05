@@ -127,6 +127,8 @@ https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 #EXTINF:-1,LimaLive Peliculas
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1,Mega TV Arequipa
+https://video.servidor.stream:3831/live/megatvlive.m3u8
 
 #EXTINF:-1,DW Deutsche Welle Latino
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
