@@ -152,14 +152,10 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1,Caracol Noticias AHORA
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1,Sercano TV
-http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
 #EXTINF:-1,IPER Noticias
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
 #EXTINF:-1,CNN Internacional
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,TyC Sports
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 #EXTINF:-1,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?fbclid=IwAR2hQjmN2ggrVMXa7kHlmvO-EnT6u5nEtWUAuDFmQSmAoChfjSDpAYN8CdI
 
