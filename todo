@@ -72,6 +72,8 @@ https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklis
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3u8
 #EXTINF:-1 ,CARACOL Ahora [COL]
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 ,Veo TV [COL]
+https://movil.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1 ,RETROPLUS 3 [COL]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 ,VALLE TV  [CHI]
