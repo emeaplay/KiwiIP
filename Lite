@@ -110,6 +110,12 @@ http://190.108.83.142:8000/play/a017/index.m3u8
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1,Radio San Borja
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m3u8
+#EXTINF:-1,Top Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1589546119.m3u8?WebM3UCL
+#EXTINF:-1,DMJ Radio
+https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MemoriasTV Musica
+https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
 
 #EXTINF:-1,TV Peru Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
@@ -131,6 +137,8 @@ https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 #EXTINF:-1,Mega TV Arequipa
 https://video.servidor.stream:3831/live/megatvlive.m3u8
+#EXTINF:-1,BestCable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,DW Deutsche Welle Latino
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
