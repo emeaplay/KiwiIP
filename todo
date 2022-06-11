@@ -1,17 +1,11 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
 
-#EXTINF:-1 ,Controversia TV
-https://live.obslivestream.com/controversiamux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TV Cultura 24
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 #EXTINF:-1 ,Master TV
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 #EXTINF:-1 ,Central TV - Chosica
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 ,CR TV
-https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Uranio TV
-https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,OVACION 620 TV [PER]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 ,STEREO TV [PER]
@@ -20,14 +14,8 @@ https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
 https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?WebM3UCL
 #EXTINF:-1 ,GENIOS TV [PER]
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TV5 [PER]
-https://live.obslivestream.com/tv5mux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ANTARES Moyobamba [PER]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1170669740.m3u8
-#EXTINF:-1 ,VZ TV [PER]
-https://live.obslivestream.com/vztvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SanJuanera TV [PER]
-https://live.obslivestream.com/sanjuaneramux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Canal 8 Catacaos[PER]
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?WebM3UCL
 #EXTINF:-1 ,TURBO MIX Cajamarca [PER]
@@ -86,10 +74,6 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w607293183.m3
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 ,RETROPLUS 3 [COL]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 ,Energeek [COL]
-https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
-#EXTINF:-1 ,LA RED [CHI]
-https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 ,VALLE TV  [CHI]
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 #EXTINF:-1 ,TVMAS+ [CL]
@@ -116,8 +100,6 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_720.m3u8
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 ,Euronews Europa [ESP]
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,TELPIN TV 2 [ARG]
-https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/playlist.m3u8
 #EXTINF:-1 ,TELEMAX HD [ARG]
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?
 #EXTINF:-1 ,Canal 26 [ARG]
@@ -176,15 +158,11 @@ http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 ,Solo StandUp
 https://paneltv.online:1936/8116/8116/playlist.m3u8
-#EXTINF:-1 ,Cursos Platzi TV
-https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
 #EXTINF:-1 ,NHK World Japon
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_600k.m3u8
 
 #EXTINF:-1 ,24horas
 https://marine2.miplay.cl/24horas/mono.m3u8
-#EXTINF:-1 ,canal13
-https://marine2.miplay.cl/canal13/mono.m3u8
 #EXTINF:-1 ,chilevision
 https://marine2.miplay.cl/chilevision/mono.m3u8
 #EXTINF:-1 ,itv
@@ -193,8 +171,6 @@ https://marine2.miplay.cl/itv/mono.m3u8
 https://marine2.miplay.cl/lared/mono.m3u8
 #EXTINF:-1 ,mega
 https://marine2.miplay.cl/mega/mono.m3u8
-#EXTINF:-1 ,megaplus
-https://marine2.miplay.cl/megaplus/mono.m3u8
 #EXTINF:-1 ,ntv
 https://marine2.miplay.cl/ntv/mono.m3u8
 #EXTINF:-1 ,tvn
@@ -331,198 +307,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-sofy-samsung-es/playlist.m3u
 https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel=429&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="PelÃ­culas" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/ESAJ45000181E_20220323T081350.png",AcciÃ³n - Rakuten TV
 https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=427&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 ,Azteca Uno
-http://38.123.205.70:8000/play/a0cc/index.m3u8
-#EXTINF:-1 ,102 Las Estrellas
-http://38.123.205.70:8000/play/a0d4/index.m3u8
-#EXTINF:-1 ,IMAGEN
-http://38.123.205.70:8000/play/a0d5/index.m3u8
-#EXTINF:-1 ,Canal 5
-http://38.123.205.70:8000/play/a0fl/index.m3u8
-#EXTINF:-1 ,Canal 6 CDMX
-http://38.123.205.70:8000/play/a0bp/index.m3u8
-#EXTINF:-1 ,AZTECA 7
-http://38.123.205.70:8000/play/a0fm/index.m3u8
-#EXTINF:-1 ,Canal Once
-http://38.123.205.70:8000/play/a0bq/index.m3u8
-#EXTINF:-1 ,Canal 14 CDMX
-http://38.123.205.70:8000/play/a0ax/index.m3u8
-#EXTINF:-1 ,TV UNAM
-http://38.123.205.70:8000/play/a0ay/index.m3u8
-#EXTINF:-1 ,CANAL 22
-http://38.123.205.70:8000/play/a0d7/index.m3u8
-#EXTINF:-1 ,Canal del Congreso
-http://38.123.205.70:8000/play/a0az/index.m3u8
-#EXTINF:-1 ,MVS TV
-http://38.123.205.70:8000/play/a0jp/index.m3u8
-#EXTINF:-1 ,EXA TV
-http://38.123.205.70:8000/play/a0je/index.m3u8
-#EXTINF:-1 ,La Mejor TV
-http://38.123.205.70:8000/play/a0jf/index.m3u8
-#EXTINF:-1 ,Multi Premier
-http://38.123.205.70:8000/play/a0ce/index.m3u8
-#EXTINF:-1 ,Cine Latino
-http://38.123.205.70:8000/play/a08u/index.m3u8
-#EXTINF:-1 ,STAR Channel
-http://38.123.205.70:8000/play/a08v/index.m3u8
-#EXTINF:-1 ,Universal
-http://38.123.205.70:8000/play/a0bt/index.m3u8
-#EXTINF:-1 ,Sony
-http://38.123.205.70:8000/play/a0aj/index.m3u8
-#EXTINF:-1 ,WARNER
-http://38.123.205.70:8000/play/a0cf/index.m3u8
-#EXTINF:-1 ,TNT SERIES
-http://38.123.205.70:8000/play/a0da/index.m3u8
-#EXTINF:-1 ,A3 SERIES
-http://38.123.205.70:8000/play/a0b0/index.m3u8
-#EXTINF:-1 ,Antena 3
-http://38.123.205.70:8000/play/a0bu/index.m3u8
-#EXTINF:-1 ,AXN
-http://38.123.205.70:8000/play/a08w/index.m3u8
-#EXTINF:-1 ,FX
-http://38.123.205.70:8000/play/a08x/index.m3u8
-#EXTINF:-1 ,SPACE
-http://38.123.205.70:8000/play/a0cg/index.m3u8
-#EXTINF:-1 ,SYFY
-http://38.123.205.70:8000/play/a0b1/index.m3u8
-#EXTINF:-1 ,A&E
-http://38.123.205.70:8000/play/a0bv/index.m3u8
-#EXTINF:-1 ,ISAT
-http://38.123.205.70:8000/play/a0b2/index.m3u8
-#EXTINF:-1 ,Investigation Discovery
-http://38.123.205.70:8000/play/a0ch/index.m3u8
-#EXTINF:-1 ,236 Discovery H&H
-http://38.123.205.70:8000/play/a0bw/index.m3u8
-#EXTINF:-1 ,TLC
-http://38.123.205.70:8000/play/a0bx/index.m3u8
-#EXTINF:-1 ,LIFE TIME
-http://38.123.205.70:8000/play/a0ci/index.m3u8
-#EXTINF:-1 ,HolaTV
-http://38.123.205.70:8000/play/a0db/index.m3u8
-#EXTINF:-1 ,E!
-http://38.123.205.70:8000/play/a0by/index.m3u8
-#EXTINF:-1 ,TBS
-http://38.123.205.70:8000/play/a0dc/index.m3u8
-#EXTINF:-1 ,COMEDY CENTRAL
-http://38.123.205.70:8000/play/a0b3/index.m3u8
-#EXTINF:-1 ,MTV Latino
-http://38.123.205.70:8000/play/a0ak/index.m3u8
-#EXTINF:-1 ,MTV HITS Europa
-http://38.123.205.70:8000/play/a0b4/index.m3u8
-#EXTINF:-1 ,VIDEO ROLA
-http://38.123.205.70:8000/play/a0b5/index.m3u8
-#EXTINF:-1 ,MTV 00'S
-http://38.123.205.70:8000/play/a0b6/index.m3u8
-#EXTINF:-1 ,HTV
-http://38.123.205.70:8000/play/a0b7/index.m3u8
-#EXTINF:-1 ,TLR
-http://38.123.205.70:8000/play/a0em/index.m3u8
-#EXTINF:-1 ,Once Infantil
-http://38.123.205.70:8000/play/a0jq/index.m3u8
-#EXTINF:-1 ,DISNEY CHANNEL
-http://38.123.205.70:8000/play/a0al/index.m3u8
-#EXTINF:-1 ,DISNEY JR
-http://38.123.205.70:8000/play/a0bz/index.m3u8
-#EXTINF:-1 ,Nick Music
-http://38.123.205.70:8000/play/a0df/index.m3u8
-#EXTINF:-1 ,Nickelodeon
-http://38.123.205.70:8000/play/a0am/index.m3u8
-#EXTINF:-1 ,CARTOON NETWORK
-http://38.123.205.70:8000/play/a0c0/index.m3u8
-#EXTINF:-1 ,NICK JR
-http://38.123.205.70:8000/play/a0ck/index.m3u8
-#EXTINF:-1 ,Discovery Kids
-http://38.123.205.70:8000/play/a0an/index.m3u8
-#EXTINF:-1 ,BABY TV
-http://38.123.205.70:8000/play/a0b9/index.m3u8
-#EXTINF:-1 ,Boomerang
-http://38.123.205.70:8000/play/a0c1/index.m3u8
-#EXTINF:-1 ,Ingenio TV
-http://38.123.205.70:8000/play/a0jr/index.m3u8
-#EXTINF:-1 ,Discovery Channel
-http://38.123.205.70:8000/play/a0ep/index.m3u8
-#EXTINF:-1 ,NATGEO LA
-http://38.123.205.70:8000/play/a0cl/index.m3u8
-#EXTINF:-1 ,ANIMAL PLANET
-http://38.123.205.70:8000/play/a0ao/index.m3u8
-#EXTINF:-1 ,History Channel
-http://38.123.205.70:8000/play/a0ap/index.m3u8
-#EXTINF:-1 ,H2
-http://38.123.205.70:8000/play/a0dj/index.m3u8
-#EXTINF:-1 ,ARTS
-http://38.123.205.70:8000/play/a0bc/index.m3u8
-#EXTINF:-1 ,Claro Sports
-http://38.123.205.70:8000/play/a0cm/index.m3u8
-#EXTINF:-1 ,ESPN
-http://38.123.205.70:8000/play/a091/index.m3u8
-#EXTINF:-1 ,ESPN 2
-http://38.123.205.70:8000/play/a092/index.m3u8
-#EXTINF:-1 ,ESPN 3
-http://38.123.205.70:8000/play/a0c3/index.m3u8
-#EXTINF:-1 ,DISCOVERY TURBO
-http://38.123.205.70:8000/play/a0c4/index.m3u8
-#EXTINF:-1 ,CNN en EspaÃ±ol
-http://38.123.205.70:8000/play/a0dl/index.m3u8
-#EXTINF:-1 ,CNN Internacional
-http://38.123.205.70:8000/play/a0bd/index.m3u8
-#EXTINF:-1 ,RT EspaÃ±ol
-http://38.123.205.70:8000/play/a0cn/index.m3u8
-#EXTINF:-1 ,Teleformula
-http://38.123.205.70:8000/play/a0be/index.m3u8
-#EXTINF:-1 ,Milenio
-http://38.123.205.70:8000/play/a0dm/index.m3u8
-#EXTINF:-1 ,TVC
-http://38.123.205.70:8000/play/a0bf/index.m3u8
-#EXTINF:-1 ,JUSTICIA TV
-http://38.123.205.70:8000/play/a0bg/index.m3u8
-#EXTINF:-1 ,TNT
-http://38.123.205.70:8000/play/a0aq/index.m3u8
-#EXTINF:-1 ,Multicanal
-http://38.123.205.70:8000/play/a0co/index.m3u8
-#EXTINF:-1 ,CINEMAX
-http://38.123.205.70:8000/play/a093/index.m3u8
-#EXTINF:-1 ,MULTI PREMIER
-http://38.123.205.70:8000/play/a0cp/index.m3u8
-#EXTINF:-1 ,Cinecanal
-http://38.123.205.70:8000/play/a0cq/index.m3u8
-#EXTINF:-1 ,Cine Latino
-http://38.123.205.70:8000/play/a0k6/index.m3u8
-#EXTINF:-1 ,STUDIO UNIVERSAL
-http://38.123.205.70:8000/play/a0bh/index.m3u8
-#EXTINF:-1 ,PARAMOUNT
-http://38.123.205.70:8000/play/a0cs/index.m3u8
-#EXTINF:-1 ,HBO
-http://38.123.205.70:8000/play/a0c5/index.m3u8
-#EXTINF:-1 ,HBO 2
-http://38.123.205.70:8000/play/a0ct/index.m3u8
-#EXTINF:-1 ,HBO FAMILY
-http://38.123.205.70:8000/play/a0cu/index.m3u8
-#EXTINF:-1 ,HBO +
-http://38.123.205.70:8000/play/a0cv/index.m3u8
-#EXTINF:-1 ,HBO XTREME
-http://38.123.205.70:8000/play/a096/index.m3u8
-#EXTINF:-1 ,PLAY BOY
-http://38.123.205.70:8000/play/a09a/index.m3u8
-#EXTINF:-1 ,VENUS
-http://38.123.205.70:8000/play/a09b/index.m3u8
-#EXTINF:-1 ,Sextreme
-http://38.123.205.70:8000/play/a09c/index.m3u8
-#EXTINF:-1 ,960 Ritmo Digital
-http://38.123.205.70:8000/play/a0j3/index.m3u8
-#EXTINF:-1 ,962 Decades
-http://38.123.205.70:8000/play/a0j4/index.m3u8
-#EXTINF:-1 ,964 Rock Clasico
-http://38.123.205.70:8000/play/a0j5/index.m3u8
-#EXTINF:-1 ,966 EXA FM CDMX
-http://38.123.205.70:8000/play/a0j6/index.m3u8
-#EXTINF:-1 ,970 LA MEJOR FM
-http://38.123.205.70:8000/play/a0j8/index.m3u8
-#EXTINF:-1 ,972 Fiesta Latina
-http://38.123.205.70:8000/play/a0j9/index.m3u8
-#EXTINF:-1 ,974 Stereo Rey
-http://38.123.205.70:8000/play/a0ja/index.m3u8
-#EXTINF:-1 ,976 Ambient
-http://38.123.205.70:8000/play/a0jb/index.m3u8
+
 #EXTINF:-1 ,AE Mundo
 http://45.71.185.142:8500/play/a01i
 #EXTINF:-1 ,AXN
@@ -551,7 +336,7 @@ http://45.71.185.142:8500/play/a039
 http://45.71.185.142:8500/play/a017
 #EXTINF:-1 ,Disney Jr
 http://45.71.185.142:8500/play/a013
-#EXTINF:-1 ,Disney 😆
+#EXTINF:-1 ,Baby First
 http://45.71.185.142:8500/play/a002
 #EXTINF:-1 ,ESPN
 http://45.71.185.142:8500/play/a01e
@@ -563,7 +348,7 @@ http://45.71.185.142:8500/play/a026
 http://45.71.185.142:8500/play/a02g
 #EXTINF:-1 ,FX
 http://45.71.185.142:8500/play/a030
-#EXTINF:-1 ,FXM
+#EXTINF:-1 ,Studio Universal
 http://45.71.185.142:8500/play/a00t
 #EXTINF:-1 ,Fox Sports 1
 http://45.71.185.142:8500/play/a021
@@ -621,6 +406,7 @@ http://45.71.185.142:8500/play/a02h
 http://45.71.185.142:8500/play/a01p
 #EXTINF:-1 ,Warner
 http://45.71.185.142:8500/play/a01a
+
 #EXTINF:-1  tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0r0.png",Repretel
 http://190.92.95.37:8000/play/a0r0/index.m3u8
 #EXTINF:-1  tvg-logo="http://190.92.95.37:8000/playlist/tvg-logo/a0oh.png",Sinart
