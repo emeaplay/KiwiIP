@@ -6,12 +6,12 @@ http://181.176.148.142:8000/play/a01v
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1,BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1,Planeta TV
-https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nativa Television - UCI
+https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1,Panamericana
 http://181.176.148.142:8000/play/a02v
-#EXTINF:-1,Exitosa Noticias
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+#EXTINF:-1,Identidad TV
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 #EXTINF:-1,Vision Noticias
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1,ATV+ Noticias
@@ -22,28 +22,28 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live_1080p30.m3u8
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nacional Tv
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-#EXTINF:-1,EL 12 Movistar Plus
-http://45.225.47.234:41/play/a09b/index.m3u8
+#EXTINF:0,RPP Noticias Radio
+http://190.108.83.142:8000/play/a018/index.m3u8
 #EXTINF:-1,Global Tv
 http://190.108.83.142:8000/play/a00x/index.m3u8
-#EXTINF:-1,Nativa
-https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:-1,El Chavo 24Horas
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1872608623.m3u8
 #EXTINF:-1,TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
-#EXTINF:-1,Identidad TV
-https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
-#EXTINF:-1,RPP Noticias Radio
-http://190.108.83.142:8000/play/a018/index.m3u8
-#EXTINF:-1,ToonCast
-http://190.92.95.37:8000/play/a0s3/index.m3u8
-#EXTINF:-1,El 20 Movistar Deportes
-http://45.225.47.234:41/play/a098/index.m3u8
-#EXTINF:-1,Onda Digital TV
-https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1,Contacto TV
+#EXTINF:-1,El Chavo 24Horas
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
+#EXTINF:-1,Exitosa Noticias
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+#EXTINF:0,Planeta TV
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,GeniosTV
+https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
+#EXTINF:0,Contacto TV
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+#EXTINF:0,Onda Digital TV
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1,Movistar Plus
+http://45.225.47.234:41/play/a09b/index.m3u8
+#EXTINF:0,Movistar Deportes
+http://45.225.47.234:41/play/a098/index.m3u8
 #EXTINF:-1,Justicia TV
 http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:-1,TLnovelas
