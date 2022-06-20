@@ -6,8 +6,8 @@ http://181.176.148.142:8000/play/a01v
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1,BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1,Nativa Television - UCI
-https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1,America TV HD
+http://190.108.85.118:8000/play/a00g/index.m3u8
 #EXTINF:-1,Panamericana
 http://181.176.148.142:8000/play/a02v
 #EXTINF:-1,Identidad TV
@@ -32,6 +32,8 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1,Exitosa Noticias
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+#EXTINF:-1,Nativa Television - UCI
+https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:0,Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:0,GeniosTV
@@ -40,14 +42,16 @@ https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:0,Onda Digital TV
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1,Movistar Plus
-http://45.225.47.234:41/play/a09b/index.m3u8
-#EXTINF:0,Movistar Deportes
-http://45.225.47.234:41/play/a098/index.m3u8
+#EXTINF:-1,Gol Peru
+http://190.108.85.118:8000/play/a00j/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://190.108.85.118:8000/play/a007/index.m3u8
 #EXTINF:-1,Justicia TV
 http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:-1,TLnovelas
 http://190.61.102.67:31589/play/a08d/index.m3u8
+#EXTINF:-1,Movistar Plus
+http://45.225.47.234:41/play/a09b/index.m3u8
 
 #EXTINF:-1,Comedy Central Latino
 http://190.108.83.142:8000/play/a00j/index.m3u8
