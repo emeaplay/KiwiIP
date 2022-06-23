@@ -7,7 +7,7 @@ http://181.176.148.142:8000/play/a02p
 #EXTINF:-1,BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1,America TV HD
-http://181.64.11.239:8000/play/a01i
+http://181.65.181.189:8000/play/a03b/index.m3u8
 #EXTINF:-1,Panamericana
 http://181.176.148.142:8000/play/a02v
 #EXTINF:-1,Identidad TV
@@ -36,8 +36,6 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:0,Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
-#EXTINF:0,GeniosTV
-https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
 #EXTINF:0,Contacto TV
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:0,Onda Digital TV
