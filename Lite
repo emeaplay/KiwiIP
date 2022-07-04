@@ -41,13 +41,11 @@ https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:0,Onda Digital TV
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1,Gol Peru
-http://181.65.181.189:8000/play/a03c/index.m3u8
+http://190.108.85.118:8000/play/a09e/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
-http://181.65.181.189:8000/play/a039/index.m3u8
+http://45.225.47.234:41/play/a098/index.m3u8
 #EXTINF:-1,Justicia TV
 http://190.108.83.142:8000/play/a00h/index.m3u8
-#EXTINF:-1,TLnovelas
-http://190.61.102.67:31589/play/a08d/index.m3u8
 #EXTINF:-1,Movistar Plus
 http://45.225.47.234:41/play/a09b/index.m3u8
 
@@ -121,8 +119,6 @@ https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
 
 #EXTINF:-1,TV Peru Internacional
 https://cdnh74.iblups.com/hls/irtp.m3u8
-#EXTINF:-1,America
-http://190.42.44.125:8000/play/a02y
 #EXTINF:-1,OD TV
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV Peru Noticias
