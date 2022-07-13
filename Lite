@@ -247,3 +247,14 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?fbclid=IwAR2hQjmN2ggrVMXa7kHlmvO-EnT6u5nEtWUAuDFmQSmAoChfjSDpAYN8CdI
+#EXTINF:-1,Canal 9 Argentina - Albavision
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/713c91f8-e010-433a-83cd-8395213057a2/4.m3u8
+#EXTINF:-1,VTV Honduras - Albavision
+https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
+#EXTINF:-1,C9N Paraguay - Albavision
+https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
+#EXTINF:-1,SNT Paraguay - Albavision
+https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
+#EXTINF:-1,Canal 12 El Salvador - Albavision
+https://d3kk75blondskv.cloudfront.net/hls/canal12_220.m3u8
+
