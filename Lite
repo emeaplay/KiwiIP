@@ -15,9 +15,9 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 #EXTINF:-1,Vision Noticias
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1,ATV+ Noticias
-https://d2b3qmftt7nn1c.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1,ATV HD
-https://dysmuyxh5vstv.cloudfront.net/hls/live_1080p30.m3u8
+https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1,TeleColor
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nacional Tv
@@ -106,65 +106,6 @@ http://190.108.83.142:8000/play/a01b/index.m3u8
 #EXTINF:-1,Radio La Zona
 http://190.108.83.142:8000/play/a017/index.m3u8
 
-#EXTINF:0,Vision Musica
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
-#EXTINF:-1,Radio San Borja
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m3u8
-#EXTINF:-1,Top Latino
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1589546119.m3u8?WebM3UCL
-#EXTINF:-1,DMJ Radio
-https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,MemoriasTV Musica
-https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
-
-#EXTINF:-1,TV Peru Internacional
-https://cdnh74.iblups.com/hls/irtp.m3u8
-#EXTINF:-1,OD TV
-https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
-#EXTINF:0,TV Peru Noticias
-https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1,BestCable
-https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tv Peru
-https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1,Telesur Moquegua
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1,Unitel
-https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
-#EXTINF:-1,LimaLive Peliculas
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-#EXTINF:-1,Mega TV Arequipa
-https://video.servidor.stream:3831/live/megatvlive.m3u8
-#EXTINF:-1,BestCable Sports
-https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,DW Deutsche Welle Latino
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1,RT Espanol
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:0,TVE La 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
-#EXTINF:-1,Euronews Español
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,HispanTV
-https://live1.presstv.ir/live/hispan_360p/index.m3u8
-#EXTINF:-1,Estrella News
-https://m3u-editor.com/serve/televitolibre/510996712.m3u8
-#EXTINF:-1,Foro TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
-#EXTINF:-1,ADN40 Noticias
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1,TeleSUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1,Caracol Noticias AHORA
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1,IPER Noticias
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
-#EXTINF:-1,CNN Internacional
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?fbclid=IwAR2hQjmN2ggrVMXa7kHlmvO-EnT6u5nEtWUAuDFmQSmAoChfjSDpAYN8CdI
-
 #EXTINF:-1,Animal Planet
 http://181.176.148.142:8000/play/a034
 #EXTINF:-1,CANAL INFANTIL
@@ -249,3 +190,62 @@ http://181.176.148.142:8000/play/a030
 http://181.176.148.142:8000/play/a01v
 #EXTINF:-1,ZOOMOO
 http://181.176.148.142:8000/play/a032
+
+#EXTINF:0,Vision Musica
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+#EXTINF:-1,Radio San Borja
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m3u8
+#EXTINF:-1,Top Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1589546119.m3u8?WebM3UCL
+#EXTINF:-1,DMJ Radio
+https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MemoriasTV Musica
+https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
+
+#EXTINF:-1,TV Peru Internacional
+https://cdnh74.iblups.com/hls/irtp.m3u8
+#EXTINF:-1,OD TV
+https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
+#EXTINF:0,TV Peru Noticias
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1,BestCable
+https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tv Peru
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1,Telesur Moquegua
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1,Unitel
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
+#EXTINF:-1,LimaLive Peliculas
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1,Mega TV Arequipa
+https://video.servidor.stream:3831/live/megatvlive.m3u8
+#EXTINF:-1,BestCable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,DW Deutsche Welle Latino
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1,RT Espanol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0,TVE La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
+#EXTINF:-1,Euronews Español
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,HispanTV
+https://live1.presstv.ir/live/hispan_360p/index.m3u8
+#EXTINF:-1,Estrella News
+https://m3u-editor.com/serve/televitolibre/510996712.m3u8
+#EXTINF:-1,Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
+#EXTINF:-1,ADN40 Noticias
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1,TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1,Caracol Noticias AHORA
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1,IPER Noticias
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+#EXTINF:-1,CNN Internacional
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?fbclid=IwAR2hQjmN2ggrVMXa7kHlmvO-EnT6u5nEtWUAuDFmQSmAoChfjSDpAYN8CdI
