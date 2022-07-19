@@ -47,36 +47,37 @@ http://190.108.83.142:8000/play/a00h/index.m3u8
 #EXTINF:-1,Movistar Plus
 http://45.225.47.234:41/play/a09b/index.m3u8
 
-#EXTINF:-1,Comedy Central Latino
-http://190.108.83.142:8000/play/a00j/index.m3u8
-#EXTINF:-1,City TV
-http://190.108.83.142:8000/play/a008/index.m3u8
-#EXTINF:-1,Smart Peliculas
-http://190.108.83.142:8000/play/a009/index.m3u8
-#EXTINF:-1,Smart Junior
-http://190.108.83.142:8000/play/a00g/index.m3u8
-#EXTINF:-1,Nat Geo
-http://190.108.83.142:8000/play/a00q/index.m3u8
-#EXTINF:-1,ATV
-http://190.108.83.142:8000/play/a00t/index.m3u8
-#EXTINF:-1,Nick Jr.
-http://190.108.83.142:8000/play/a00u/index.m3u8
-#EXTINF:-1,Nick
-http://190.108.83.142:8000/play/a00v/index.m3u8
-#EXTINF:-1,CGTN Español
-http://190.108.83.142:8000/play/a010/index.m3u8
-#EXTINF:-1,Canal de las Estrellas
-http://190.108.83.142:8000/play/a011/index.m3u8
-#EXTINF:-1,Studio 92
-http://190.108.83.142:8000/play/a019/index.m3u8
+#EXTINF:-1,TV Peru Internacional
+https://cdnh74.iblups.com/hls/irtp.m3u8
+#EXTINF:-1,OD TV
+https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Conecta2 TV
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:0,TV Peru Noticias
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1,BestCable
+https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tv Peru
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1,Telesur Moquegua
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1,Unitel
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
+#EXTINF:-1,LimaLive Peliculas
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1,Mega TV Arequipa
+https://video.servidor.stream:3831/live/megatvlive.m3u8
+#EXTINF:-1,BestCable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Fuego TV
 http://190.108.83.142:8000/play/a003/index.m3u8
-#EXTINF:-1,Mx Prime
-http://190.108.83.142:8000/play/a005/index.m3u8
-#EXTINF:-1,Mx Family
-http://190.108.83.142:8000/play/a002/index.m3u8
-#EXTINF:-1,Mx Classic
-http://190.108.83.142:8000/play/a004/index.m3u8
+#EXTINF:-1,ATV Señal 2
+http://190.108.83.142:8000/play/a00t/index.m3u8
+#EXTINF:-1,TierraMia
+http://190.108.83.142:8000/play/a00l/index.m3u8
+#EXTINF:-1,Identidad Peruana - IPE
+http://190.108.83.142:8000/play/a00k/index.m3u8
 #EXTINF:-1,UCHU TV Cusco
 http://190.108.83.142:8000/play/a006/index.m3u8
 #EXTINF:-1,CTC TV Cusco
@@ -87,12 +88,30 @@ http://190.108.83.142:8000/play/a00a/index.m3u8
 http://190.108.83.142:8000/play/a00c/index.m3u8
 #EXTINF:-1,Piura TV
 http://190.108.83.142:8000/play/a00d/index.m3u8
-#EXTINF:-1,Identidad Peruana
-http://190.108.83.142:8000/play/a00k/index.m3u8
-#EXTINF:-1,TierraMia
-http://190.108.83.142:8000/play/a00l/index.m3u8
-#EXTINF:-1,ATV HD
-http://190.108.83.142:8000/play/a00o/index.m3u8
+#EXTINF:-1,Comedy Central Latino
+http://190.108.83.142:8000/play/a00j/index.m3u8
+#EXTINF:-1,City TV
+http://190.108.83.142:8000/play/a008/index.m3u8
+#EXTINF:-1,Smart Peliculas
+http://190.108.83.142:8000/play/a009/index.m3u8
+#EXTINF:-1,Smart Junior
+http://190.108.83.142:8000/play/a00g/index.m3u8
+#EXTINF:-1,Nat Geo
+http://190.108.83.142:8000/play/a00q/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://190.108.83.142:8000/play/a00u/index.m3u8
+#EXTINF:-1,Nick
+http://190.108.83.142:8000/play/a00v/index.m3u8
+#EXTINF:-1,CGTN Español
+http://190.108.83.142:8000/play/a010/index.m3u8
+#EXTINF:-1,Canal de las Estrellas
+http://190.108.83.142:8000/play/a011/index.m3u8
+#EXTINF:-1,Mx Prime
+http://190.108.83.142:8000/play/a005/index.m3u8
+#EXTINF:-1,Mx Family
+http://190.108.83.142:8000/play/a002/index.m3u8
+#EXTINF:-1,Mx Classic
+http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1,La Islilla TV
 http://190.108.83.142:8000/play/a00b/index.m3u8
 #EXTINF:-1,Fit TV
@@ -103,6 +122,8 @@ http://190.108.83.142:8000/play/a016/index.m3u8
 http://190.108.83.142:8000/play/a01b/index.m3u8
 #EXTINF:-1,Radio La Zona
 http://190.108.83.142:8000/play/a017/index.m3u8
+#EXTINF:-1,Studio 92
+http://190.108.83.142:8000/play/a019/index.m3u8
 
 #EXTINF:-1,Animal Planet
 http://181.176.148.142:8000/play/a034
@@ -190,27 +211,6 @@ https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MemoriasTV Musica
 https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
 
-#EXTINF:-1,TV Peru Internacional
-https://cdnh74.iblups.com/hls/irtp.m3u8
-#EXTINF:-1,OD TV
-https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
-#EXTINF:0,TV Peru Noticias
-https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1,BestCable
-https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tv Peru
-https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1,Telesur Moquegua
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1,Unitel
-https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
-#EXTINF:-1,LimaLive Peliculas
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-#EXTINF:-1,Mega TV Arequipa
-https://video.servidor.stream:3831/live/megatvlive.m3u8
-#EXTINF:-1,BestCable Sports
-https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,DW Deutsche Welle Latino
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,RT Espanol
@@ -237,8 +237,6 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?fbclid=IwAR2hQjmN2ggrVMXa7kHlmvO-EnT6u5nEtWUAuDFmQSmAoChfjSDpAYN8CdI
-#EXTINF:-1,Canal 9 Argentina - Albavision
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/713c91f8-e010-433a-83cd-8395213057a2/4.m3u8
 #EXTINF:-1,VTV Honduras - Albavision
 https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
 #EXTINF:-1,C9N Paraguay - Albavision
