@@ -38,17 +38,7 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:0,Onda Digital TV
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1,Gol Peru
-http://190.108.85.118:8000/play/a09e/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
-http://45.225.47.234:41/play/a098/index.m3u8
-#EXTINF:-1,Justicia TV
-http://190.108.83.142:8000/play/a00h/index.m3u8
-#EXTINF:-1,Movistar Plus
-http://45.225.47.234:41/play/a09b/index.m3u8
 
-#EXTINF:-1,TV Peru Internacional
-https://cdnh74.iblups.com/hls/irtp.m3u8
 #EXTINF:-1,OD TV
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Conecta2 TV
@@ -69,6 +59,10 @@ https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 https://video.servidor.stream:3831/live/megatvlive.m3u8
 #EXTINF:-1,BestCable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,COSMOS TV
+http://181.176.148.142:8000/play/a026
+#EXTINF:-1,Raymi TV
+http://181.176.148.142:8000/play/a02w
 
 #EXTINF:-1,Fuego TV
 http://190.108.83.142:8000/play/a003/index.m3u8
@@ -127,20 +121,18 @@ http://190.108.83.142:8000/play/a019/index.m3u8
 
 #EXTINF:-1,Animal Planet
 http://181.176.148.142:8000/play/a034
-#EXTINF:-1,CANAL INFANTIL
+#EXTINF:-1,Canal Infantil
 http://181.176.148.142:8000/play/a020
-#EXTINF:-1,CARTOONS
+#EXTINF:-1,Cartoons
 http://181.176.148.142:8000/play/a021
 #EXTINF:-1,Cinecanal
 http://181.176.148.142:8000/play/a022
-#EXTINF:-1,CINE FAMILIAR
+#EXTINF:-1,Cine Familiar
 http://181.176.148.142:8000/play/a023
-#EXTINF:-1,CINE HISPANO 
+#EXTINF:-1,Cine Hispano
 http://181.176.148.142:8000/play/a024
-#EXTINF:-1,CINE PREMIUM
+#EXTINF:-1,Cine Premium
 http://181.176.148.142:8000/play/a025
-#EXTINF:-1,COSMOS TV
-http://181.176.148.142:8000/play/a026
 #EXTINF:-1,DHE
 http://181.176.148.142:8000/play/a027
 #EXTINF:-1,Discovery
@@ -163,11 +155,9 @@ http://181.176.148.142:8000/play/a02e
 http://181.176.148.142:8000/play/a02f
 #EXTINF:-1,ESPN 4
 http://181.176.148.142:8000/play/a02g
-#EXTINF:-1,FOOD NETWORK
-http://181.176.148.142:8000/play/a02j
-#EXTINF:-1,FOX SPORTS 2
+#EXTINF:-1,Fox Sports 2
 http://181.176.148.142:8000/play/a02h
-#EXTINF:-1,FOX SPORTS 3
+#EXTINF:-1,Fox Sports 3
 http://181.176.148.142:8000/play/a02i
 #EXTINF:-1,Home & Health
 http://181.176.148.142:8000/play/a02l
@@ -175,29 +165,27 @@ http://181.176.148.142:8000/play/a02l
 http://181.176.148.142:8000/play/a02m
 #EXTINF:-1,ITV
 http://181.176.148.142:8000/play/a02n
-#EXTINF:-1,KUMBIA
-http://181.176.148.142:8000/play/a02o
 #EXTINF:-1,LOVE NATURE
 http://181.176.148.142:8000/play/a02q
-#EXTINF:-1,MOVIE MOTION
+#EXTINF:-1,Movie Motion
 http://181.176.148.142:8000/play/a02r
-#EXTINF:-1,MOVIES CLUB
+#EXTINF:-1,Movie Club
 http://181.176.148.142:8000/play/a02s
-#EXTINF:-1,OLD CITY (INTERNEXA)
+#EXTINF:-1,Old City Peliculas
 http://181.176.148.142:8000/play/a02u
-#EXTINF:-1,PARAMOUNT
+#EXTINF:-1,Paramount Network
 http://181.176.148.142:8000/play/a033
-#EXTINF:-1,RAYMI
-http://181.176.148.142:8000/play/a02w
 #EXTINF:-1,Retro HD
 http://181.176.148.142:8000/play/a02x
 #EXTINF:-1,SERIES CLUB
 http://181.176.148.142:8000/play/a02y
-#EXTINF:-1,SUN CHANNEL
+#EXTINF:-1,Sun Channel
 http://181.176.148.142:8000/play/a02z
+#EXTINF:-1,Food Network
+http://181.176.148.142:8000/play/a02j
 #EXTINF:-1,TRU TV
 http://181.176.148.142:8000/play/a030
-#EXTINF:-1,ZOOMOO
+#EXTINF:-1,ZooMoo
 http://181.176.148.142:8000/play/a032
 
 #EXTINF:0,Vision Musica
@@ -210,6 +198,8 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1589546119.
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MemoriasTV Musica
 https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
+#EXTINF:-1,KUMBIA
+http://181.176.148.142:8000/play/a02o
 
 #EXTINF:-1,DW Deutsche Welle Latino
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
