@@ -30,14 +30,14 @@ http://181.176.148.142:8000/play/a02k
 http://190.108.83.142:8000/play/a018/index.m3u8
 #EXTINF:-1,Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
-
 #EXTINF:-1,TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 #EXTINF:-1,El Chavo 24Horas
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
+#EXTINF:-1,Dreiko TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1,Nativa Television - UCI
 https://servilive.com:3449/live/mlecaroslive.m3u8
-
 #EXTINF:0,RetroPLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:0,Onda Digital TV
