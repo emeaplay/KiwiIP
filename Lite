@@ -163,6 +163,8 @@ http://181.176.148.142:8000/play/a02j
 http://181.176.148.142:8000/play/a030
 #EXTINF:-1,ZooMoo
 http://181.176.148.142:8000/play/a032
+#EXTINF:-1,Cloud Kids
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8
 
 #EXTINF:0,Vision Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
@@ -172,10 +174,14 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/HasBahCa.m
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1589546119.m3u8?WebM3UCL
 #EXTINF:-1,DMJ Radio
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BTA Musica
+https://vcp3.myplaytv.com/bta/bta/playlist.m3u8
 #EXTINF:-1,MemoriasTV Musica
 https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
 #EXTINF:-1,KUMBIA
 http://181.176.148.142:8000/play/a02o
+#EXTINF:-1,Batalla de Gallos
+https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/playlist.m3u8
 #EXTINF:-1,Radio Felicidad
 http://190.108.83.142:8000/play/a01b/index.m3u8
 #EXTINF:-1,Radio La Zona
@@ -221,7 +227,9 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1,Caracol Noticias AHORA
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1,IPER Noticias
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1,Canal Simpsons Clasico
+https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1,CNN Internacional
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Love Nature
