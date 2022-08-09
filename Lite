@@ -6,12 +6,12 @@ http://181.176.148.142:8000/play/a01v
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1,BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1,America TV HD
-http://190.233.211.25:8000/play/a02y/index.m3u8
+#EXTINF:0,Contacto TV
+https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Panamericana
 http://181.176.148.142:8000/play/a02v
-#EXTINF:-1,Identidad TV
-https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
+#EXTINF:-1,Tv Peru
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1,CableVision Noticias
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1,ATV+ Noticias
@@ -20,35 +20,37 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1,TeleColor
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+#EXTINF:0,TV Peru Noticias
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,Nacional Tv
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-#EXTINF:0,RPP Noticias Radio
-http://190.108.83.142:8000/play/a018/index.m3u8
 #EXTINF:-1,Global Tv
 http://181.176.148.142:8000/play/a02k
+#EXTINF:0,RPP Noticias Radio
+http://190.108.83.142:8000/play/a018/index.m3u8
+#EXTINF:-1,Identidad TV
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
+
 #EXTINF:-1,TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/chunklist_w1913804542.m3u8
 #EXTINF:-1,El Chavo 24Horas
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1,Nativa Television - UCI
 https://servilive.com:3449/live/mlecaroslive.m3u8
+
 #EXTINF:0,RetroPLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:0,Contacto TV
-https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:0,Onda Digital TV
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1,COSMOS TV
+http://181.176.148.142:8000/play/a026
 
 #EXTINF:-1,OD TV
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Conecta2 TV
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:0,TV Peru Noticias
-https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,BestCable
 https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tv Peru
-https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1,Telesur Moquegua
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 #EXTINF:-1,Unitel Huancayo
@@ -59,29 +61,11 @@ https://tv.oyotunstream.com:1936/xtv/xtv/chunklist_w411938992.m3u8
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1,BestCable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COSMOS TV
-http://181.176.148.142:8000/play/a026
 #EXTINF:-1,Raymi TV
 http://181.176.148.142:8000/play/a02w
 
 #EXTINF:-1,Fuego TV
 http://190.108.83.142:8000/play/a003/index.m3u8
-#EXTINF:-1,ATV Señal 2
-http://190.108.83.142:8000/play/a00t/index.m3u8
-#EXTINF:-1,TierraMia
-http://190.108.83.142:8000/play/a00l/index.m3u8
-#EXTINF:-1,Identidad Peruana - IPE
-http://190.108.83.142:8000/play/a00k/index.m3u8
-#EXTINF:-1,PeruGO TV Cusco
-http://190.108.83.142:8000/play/a006/index.m3u8
-#EXTINF:-1,CTC TV Cusco
-http://190.108.83.142:8000/play/a007/index.m3u8
-#EXTINF:-1,Palmeras TV
-http://190.108.83.142:8000/play/a00a/index.m3u8
-#EXTINF:-1,ON Channel
-http://190.108.83.142:8000/play/a00c/index.m3u8
-#EXTINF:-1,Piura TV
-http://190.108.83.142:8000/play/a00d/index.m3u8
 #EXTINF:-1,Comedy Central Latino
 http://190.108.83.142:8000/play/a00j/index.m3u8
 #EXTINF:-1,City TV
@@ -96,8 +80,6 @@ http://190.108.83.142:8000/play/a00q/index.m3u8
 http://190.108.83.142:8000/play/a00u/index.m3u8
 #EXTINF:-1,Nick
 http://190.108.83.142:8000/play/a00v/index.m3u8
-#EXTINF:-1,CGTN Español
-http://190.108.83.142:8000/play/a010/index.m3u8
 #EXTINF:-1,Canal de las Estrellas
 http://190.108.83.142:8000/play/a011/index.m3u8
 #EXTINF:-1,Mx Prime
@@ -108,16 +90,10 @@ http://190.108.83.142:8000/play/a002/index.m3u8
 http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1,La Islilla TV
 http://190.108.83.142:8000/play/a00b/index.m3u8
-#EXTINF:-1,Fit TV
-http://190.108.83.142:8000/play/a00z/index.m3u8
 #EXTINF:-1,Russia Today - RT Latam
 http://190.108.83.142:8000/play/a016/index.m3u8
-#EXTINF:-1,Radio Felicidad
-http://190.108.83.142:8000/play/a01b/index.m3u8
-#EXTINF:-1,Radio La Zona
-http://190.108.83.142:8000/play/a017/index.m3u8
-#EXTINF:-1,Studio 92
-http://190.108.83.142:8000/play/a019/index.m3u8
+#EXTINF:-1,CGTN Español
+http://190.108.83.142:8000/play/a010/index.m3u8
 
 #EXTINF:-1,Animal Planet
 http://181.176.148.142:8000/play/a034
@@ -165,7 +141,7 @@ http://181.176.148.142:8000/play/a02l
 http://181.176.148.142:8000/play/a02m
 #EXTINF:-1,ITV
 http://181.176.148.142:8000/play/a02n
-#EXTINF:-1,LOVE NATURE
+#EXTINF:-1,Love Nature
 http://181.176.148.142:8000/play/a02q
 #EXTINF:-1,Movie Motion
 http://181.176.148.142:8000/play/a02r
@@ -177,7 +153,7 @@ http://181.176.148.142:8000/play/a02u
 http://181.176.148.142:8000/play/a033
 #EXTINF:-1,Retro HD
 http://181.176.148.142:8000/play/a02x
-#EXTINF:-1,SERIES CLUB
+#EXTINF:-1,Series Club
 http://181.176.148.142:8000/play/a02y
 #EXTINF:-1,Sun Channel
 http://181.176.148.142:8000/play/a02z
@@ -200,13 +176,36 @@ https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
 #EXTINF:-1,KUMBIA
 http://181.176.148.142:8000/play/a02o
+#EXTINF:-1,Radio Felicidad
+http://190.108.83.142:8000/play/a01b/index.m3u8
+#EXTINF:-1,Radio La Zona
+http://190.108.83.142:8000/play/a017/index.m3u8
+#EXTINF:-1,Studio 92
+http://190.108.83.142:8000/play/a019/index.m3u8
+#EXTINF:-1,Fit TV
+http://190.108.83.142:8000/play/a00z/index.m3u8
+
+#EXTINF:-1,ATV Señal 2
+http://190.108.83.142:8000/play/a00t/index.m3u8
+#EXTINF:-1,Tierra Mia
+http://190.108.83.142:8000/play/a00l/index.m3u8
+#EXTINF:-1,Identidad Peruana - IPE
+http://190.108.83.142:8000/play/a00k/index.m3u8
+#EXTINF:-1,PeruGO TV Cusco
+http://190.108.83.142:8000/play/a006/index.m3u8
+#EXTINF:-1,CTC TV Cusco
+http://190.108.83.142:8000/play/a007/index.m3u8
+#EXTINF:-1,Palmeras TV
+http://190.108.83.142:8000/play/a00a/index.m3u8
+#EXTINF:-1,ON Channel
+http://190.108.83.142:8000/play/a00c/index.m3u8
+#EXTINF:-1,Piura TV
+http://190.108.83.142:8000/play/a00d/index.m3u8
 
 #EXTINF:-1,DW Deutsche Welle Latino
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1,RT Espanol
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:0,TVE La 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
 #EXTINF:-1,Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,HispanTV
