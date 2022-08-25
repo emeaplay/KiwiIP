@@ -220,6 +220,8 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
 #EXTINF:-1,Estrella News
 https://m3u-editor.com/serve/televitolibre/510996712.m3u8
+#EXTINF:-1,CableNoticias
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1,Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_4.m3u8
 #EXTINF:-1,ADN40 Noticias
@@ -273,8 +275,12 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpcFOeTaavWIWSuuinETEKWApC8
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpoFzIBFlc9-j6CUURqJ08Y1a6N2FsRAM2pnD8McWtPX1GY_ggfKrtWdZtue5i1CjmmUZWiGXgz7BIbiJl0Efx46SNP3bhymin7XeUmgRdUqA0neWxoea1wCVvlvOZFvIzDmfVqRitW60IAmzIr9Kz-HbJWd_6ftEMXFCToE-SHyU43R4RxpUBsOMGLD7px2gI2u-baZTpN4HGJk7qgi9gD-vkgHgxL4__AnIlrZxhu3os394VPYK2Klch6vm1HWOMBO85W9MLb5WgaKC4UTc488stPeGzOGblSNTh3QmwLfAuirHlntdGst-ej6sLgaVbJYPfAabUodv1ZGiXwGksx2iyS08IJVQjF70s_4Wh3o3m6NLIeTez9-dKyUXNhwqeGJsfGPpczrp6GoLZXX2rntQgCnyEi44sSbItLl6Tq6ytkcda5H_4gRNEpimRUbYsEXD5PGau6ltbEmEFkVnIpViV-jezK-BA_kpbuDt5eoUWX9ea4cBl6YTFrs3reZC7cvfprMmkcWNqWkdX9IhKhfuiTrX6nFCNhmCGI7dynla_lUiwATo4wysr5l4vS5Pp3G8IGGCa2ThdHT8DdpgI6MHSb7B0gouxZY2FmMXuZmbxT9Bhx4QhyFM50Ot93qNq8K10kMPPgVXYHIXXaSb7fJ54CP9VWfGwzsZDmfr5Iqwe1VaBJHUmcvPNRBcRfLGY-_9HjMExdNIVMBjLXJTlqA48yeLhJ-x02qOEAt0prw8p8H7D_SDq7WurPtj9suwS31Wg61iHR30UzmijzjfqqfL4ChEMP6oDVki3ExWpRe6EctusIFR-W5d7hJgdKX8XGZOHDEpBHQvHBAnTP5B3e3nHWjlkRy0ZUrQRdZiSoTBvGFLH8MDZSBK7qgGgx4u3cJeQ8rwybY7rkgASoJZXUtd2VzdC0yMMIE.m3u8
 #EXTINF:-1,Quattro TV - Twitch
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpwFm_GqBPfJ8BVphfNvSB_w4gbPS7w8ybGBkxZZrm-lUv9iDjfs_xugOWZX8w2yXqaEIv5047Sp7-H8VFHsym336A1A3a55e1EvCHSXlgtMbpOekUuho76d7180GUhbk_VqVZm8ygbieCZ9qdZAozOluPi9Gnq4JD4gI2lsmYYKEcqvilsRZFLleWdyftEHeOHQKL-DZsvMOjDXKWbCWinB7ztSTVUYuU5SFjohrTq9FN1VPX6EA-1FGu5O6RvEiJTBTQ9DSYE4eOBKJeEQD1XivLlYUfWBiYB5EqckbNq-ClE2tvpQCvvaBciOxeSYCAVNe7vj7K4MzPy7FdGqLeOAggugNSXh3U8dX_MurJQW4uQ52oWLYxFQ3I76DXqWJtqM3JvHUJeFfR849EyuGoeCB6IXjXlbo_6mJH0_cwYO5UwNx5dM8LjEu8i-D9bZfE26OW_Mp67vvfeHXGUuMLHF4ElN8fHD7RPySMtRMmGFIS_bwra3ZHbeJ5E0KAUQFyQJxXZZtHX97DJkjbDMWwQ6Bfy3S6kCXIiTgTm7cxJsDfPrIO7Pb6Z3s9X6EOzGxXJyQ2fnA83WBFT9Msu558yfzF9YM8mhmkydl9Nv_U83QAsrDV4YNroZjZGVxCUW8i3sI-3XEvJiD47w78quveg3XSKpAYqURl-80skSpkjXPem5urC473i8YMuY6iDnizsBKsPe8M25BJFaxqAbM1raexnyI-ZQ0976-mRQGH9MMsfdmriFMnsUtv8fytcmM7s79xq3JoTGaE1PYKn0dY9TfkvLA0mYGa8oWcIWd-YtLHVQlcYoY06eiH-Wimn1_3DTi59OZ3Wq83Cf14oHMpzxGd6ujdPY6gyEpYmkv43B_VG-EzwKehN9EURmap0aDOq0gmbPOvitaioPqiABKgl1cy1lYXN0LTEw9wI.m3u8
-
-
+#EXTINF:-1,TV Norte - Daily
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
+#EXTINF:-1,PeruGo Cusco
+https://tna5.bozztv.com/Cusco/index.m3u8
+#EXTINF:-1,Matices TV
+http://v4.tustreaming.cl/matices/index.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
