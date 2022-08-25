@@ -38,6 +38,8 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1,Nativa Television - UCI
 https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1,Peru Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:0,RetroPLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:0,Onda Digital TV
@@ -242,6 +244,15 @@ https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
 https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
 #EXTINF:-1,Canal 12 El Salvador - Albavision
 https://d3kk75blondskv.cloudfront.net/hls/canal12_220.m3u8
+#EXTINF:-1,TopCine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/c085db0e-d8c0-45e2-a404-ff47860eac24/5.m3u8
+#EXTINF:-1,Juntos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/9c3932fd-c20c-47aa-945c-f68b69540fe5/5.m3u8
+#EXTINF:-1,Tu Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/2c424659-275b-4d5b-92b5-3e9dd888906a/5.m3u8
+#EXTINF:-1,Saber Mas
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/25dd4f22-ca26-4193-a59f-c0fc760bd10d/5.m3u8
+
 
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
