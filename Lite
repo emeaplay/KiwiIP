@@ -255,40 +255,54 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/9c393
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/2c424659-275b-4d5b-92b5-3e9dd888906a/5.m3u8
 #EXTINF:-1,Saber Mas
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/25dd4f22-ca26-4193-a59f-c0fc760bd10d/5.m3u8
-#EXTINF:-1,HBO Latam - Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
-#EXTINF:-1,HBO 2 Latam - Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+#EXTINF:-1,HBO Latam Twitch
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/11cdx55gt
+#EXTINF:-1,HBO 2 Latam Twitch
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dox171xc
 #EXTINF:-1,Studio Universal Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
-#EXTINF:-1,Disney Channel  Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy83
+https://is-veneto.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal-avc1_2499584=5.m3u8
+#EXTINF:-1,Disney Channel Twitch
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dk_0150
 #EXTINF:-1,Universal Channel Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
-#EXTINF:-1,Space - Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/uvch019
+#EXTINF:-1,Space Twitch
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cb_x45ll
 #EXTINF:-1,Discovery Channel Twitch
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy83
 #EXTINF:-1,AXN Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/anx219
 #EXTINF:-1,TNT Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/yf_210ncv
 #EXTINF:-1,Star Channel Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/vkkurt59x
 #EXTINF:-1,TNT Series Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tt334qal
 #EXTINF:-1,History Channel Twitch
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/vdt_51tt
-#EXTINF:-1,AfIZZIonados Twitch
+#EXTINF:-1,Cinemax Twitch
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cc_x2t3x
+#EXTINF:-1,Home & Health Twitch
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt25
+#EXTINF:-1,Nat Geo Twitch
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/rr_945rrr
+#EXTINF:-1,Nuestra Lima Twitch
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
-#EXTINF:-1,Quattro TV - Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
-#EXTINF:-1,Nuestra Lima - Twitch
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+#EXTINF:-1,MTV Latino Twitch
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/mbt144x
+#EXTINF:-1,ESPN
+https://ixp-nqn.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+#EXTINF:-1,ESPN 2
+https://ixp-nqn.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+#EXTINF:-1,ESPN 3
+https://ixp-nqn.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 #EXTINF:-1,Matices TV
 http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1,Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1,Sony Channel Novelas
+https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony Channel Comedias
+https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
