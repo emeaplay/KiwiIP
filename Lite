@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
 #EXTINF:-1,Willax
-http://181.176.148.142:8000/play/a01v
+http://138.186.20.245:8000/play/a021/index.m3u8
 #EXTINF:-1,Latina
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1,BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:0,Contacto TV
-https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,America TV
+http://138.186.20.245:8000/play/a024/index.m3u8
 #EXTINF:-1,Panamericana
-http://181.176.148.142:8000/play/a02v
-#EXTINF:-1,Tv Peru
-https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1,CableVision Noticias
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:-1,Tv Peru
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1,ATV+ Noticias
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1,ATV HD
@@ -38,6 +38,8 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1,Nativa Television - UCI
 https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:0,Contacto TV
+https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:0,RetroPLUS
