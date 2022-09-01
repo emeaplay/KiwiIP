@@ -57,13 +57,17 @@ http://190.61.102.67:3000/play/a033
 #EXTINF:-1,BabyFirst
 http://138.186.20.68:8000/play/a00s
 #EXTINF:-1,CGTN
-http://138.186.20.68:8000/play/a05b
+https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,CNN Espanol
 http://138.186.20.68:8000/play/a02m
+#EXTINF:-1,CNN Chile
+http://200.24.159.179:8500/play/a072
 #EXTINF:-1,Canal Caracol
 http://138.186.20.68:8000/play/a038
 #EXTINF:-1,Canal RCN
 http://138.186.20.68:8000/play/a039
+#EXTINF:-1,Canal D Drama
+http://200.24.159.179:8500/play/a04u
 #EXTINF:-1,Canal Claro
 http://190.61.102.67:3000/play/a01f
 #EXTINF:-1,Cinecanal
@@ -93,7 +97,7 @@ http://190.61.102.67:3000/play/a00s
 #EXTINF:-1,Europa HD
 http://190.61.102.67:3000/play/a02k
 #EXTINF:-1,Enlace
-http://138.186.20.68:8000/play/a00q
+http://200.24.159.179:8500/play/a00e
 #EXTINF:-1,EWTN
 http://190.61.102.67:3000/play/a025
 #EXTINF:-1,El Gourmet
@@ -102,6 +106,8 @@ http://190.61.102.67:3000/play/a00u
 http://190.61.102.67:3000/play/a00c
 #EXTINF:-1,France 24
 http://190.61.102.67:3000/play/a023
+#EXTINF:-1,FX
+http://200.24.159.179:8500/play/a068
 #EXTINF:-1,Golden
 http://190.61.102.67:3000/play/a013
 #EXTINF:-1,GLOBOVISION
