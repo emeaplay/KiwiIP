@@ -98,6 +98,8 @@ http://190.61.102.67:3000/play/a00s
 http://190.61.102.67:3000/play/a02k
 #EXTINF:-1,Enlace
 http://200.24.159.179:8500/play/a00e
+#EXTINF:-1,E!
+http://190.108.87.149:8000/play/a025/index.m3u8
 #EXTINF:-1,EWTN
 http://190.61.102.67:3000/play/a025
 #EXTINF:-1,El Gourmet
