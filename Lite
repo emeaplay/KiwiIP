@@ -172,14 +172,24 @@ http://190.61.102.67:3000/play/a005
 http://190.61.102.67:3000/play/a009
 #EXTINF:-1,Multipremier
 http://190.61.102.67:3000/play/a048
+#EXTINF:-1,MX Prime Movies
+http://190.108.83.142:8000/play/a005/index.m3u8
+#EXTINF:-1,MX Family
+http://190.108.83.142:8000/play/a002/index.m3u8
+#EXTINF:-1,MX Classics
+http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1,Nat Geo
-http://138.186.20.68:8000/play/a00b
+http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:-1,Paramount
 http://190.61.102.67:3000/play/a00e
 #EXTINF:-1,Pasiones HD
 http://190.61.102.67:3000/play/a04t
+#EXTINF:-1,RT Latino
+http://190.108.83.142:8000/play/a016/index.m3u8
 #EXTINF:-1,RCN Novelas
 http://138.186.20.68:8000/play/a03q
+#EXTINF:-1,Smart Peliculas
+http://190.108.83.142:8000/play/a009/index.m3u8
 #EXTINF:-1,SONY
 http://190.61.102.67:3000/play/a02x
 #EXTINF:-1,Sony Movies HD
@@ -290,5 +300,3 @@ http://190.61.102.67:3000/play/a028
 http://190.61.102.67:3000/play/a01w
 #EXTINF:-1,MTV SIM HD
 http://190.61.102.67:3000/play/a03n
-
-
