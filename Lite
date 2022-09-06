@@ -212,6 +212,8 @@ http://138.186.20.68:8000/play/a03u
 http://190.61.102.67:3000/play/a014
 #EXTINF:-1,Telemundo
 http://190.61.102.67:3000/play/a01o
+#EXTINF:-1,TLNovelas
+http://181.176.148.142:8000/play/a00e
 #EXTINF:-1,TELESUR
 http://138.186.20.68:8000/play/a05f
 #EXTINF:-1,Tru TV
