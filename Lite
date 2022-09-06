@@ -160,6 +160,8 @@ http://138.186.20.68:8000/play/a03w
 http://138.186.20.68:8000/play/a00f
 #EXTINF:-1,LTV 
 http://138.186.20.68:8000/play/a053
+#EXTINF:-1,Las Estrellas
+http://200.24.132.99:8000/play/a027
 #EXTINF:-1,La Red
 http://138.186.20.68:8000/play/a02n
 #EXTINF:-1,Lifetime
