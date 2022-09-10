@@ -66,8 +66,6 @@ http://200.24.159.179:8500/play/a072
 http://138.186.20.245:8000/play/a02i/index.m3u8
 #EXTINF:-1,Canal RCN
 http://138.186.20.245:8000/play/a02j/index.m3u8
-#EXTINF:-1,Canal D Drama
-http://200.24.159.179:8500/play/a04u
 #EXTINF:-1,Canal Claro
 http://190.61.102.67:3000/play/a01f
 #EXTINF:-1,Cinecanal
@@ -90,7 +88,7 @@ http://190.61.102.67:3000/play/a00d
 http://138.186.20.68:8000/play/a03r
 #EXTINF:-1,Discovery Science
 http://190.61.102.67:3000/play/a007
-#EXTINF:-1,Discovery Theather
+#EXTINF:-1,Discovery Theater
 http://190.61.102.67:3000/play/a03j
 #EXTINF:-1,EURO Channel
 http://190.61.102.67:3000/play/a00s
@@ -154,6 +152,8 @@ http://190.61.102.67:3000/play/a006
 http://138.186.20.68:8000/play/a03w
 #EXTINF:-1,I-Sat
 http://138.186.20.68:8000/play/a00f
+#EXTINF:-1,Kanal D Drama
+http://200.24.159.179:8500/play/a04u
 #EXTINF:-1,LTV 
 http://138.186.20.68:8000/play/a053
 #EXTINF:-1,Las Estrellas
