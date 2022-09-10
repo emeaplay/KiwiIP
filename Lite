@@ -107,7 +107,7 @@ http://190.61.102.67:3000/play/a00c
 #EXTINF:-1,France 24
 http://190.61.102.67:3000/play/a023
 #EXTINF:-1,FX
-http://200.24.159.179:8500/play/a068
+http://138.186.20.245:8000/play/a084/index.m3u8
 #EXTINF:-1,Gama TV
 http://138.186.20.245:8000/play/a02d/index.m3u8
 #EXTINF:-1,Golden
