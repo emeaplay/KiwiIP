@@ -63,15 +63,15 @@ http://138.186.20.68:8000/play/a02m
 #EXTINF:-1,CNN Chile
 http://200.24.159.179:8500/play/a072
 #EXTINF:-1,Canal Caracol
-http://138.186.20.68:8000/play/a038
+http://138.186.20.245:8000/play/a02i/index.m3u8
 #EXTINF:-1,Canal RCN
-http://138.186.20.68:8000/play/a039
+http://138.186.20.245:8000/play/a02j/index.m3u8
 #EXTINF:-1,Canal D Drama
 http://200.24.159.179:8500/play/a04u
 #EXTINF:-1,Canal Claro
 http://190.61.102.67:3000/play/a01f
 #EXTINF:-1,Cinecanal
-http://138.186.20.68:8000/play/a00d
+http://138.186.20.245:8000/play/a0at/index.m3u8
 #EXTINF:-1,Cine Latino
 http://190.61.102.67:3000/play/a049
 #EXTINF:-1,Cinemax
@@ -110,22 +110,18 @@ http://190.61.102.67:3000/play/a00c
 http://190.61.102.67:3000/play/a023
 #EXTINF:-1,FX
 http://200.24.159.179:8500/play/a068
+#EXTINF:-1,Gama TV
+http://138.186.20.245:8000/play/a02d/index.m3u8
 #EXTINF:-1,Golden
 http://190.61.102.67:3000/play/a013
 #EXTINF:-1,GLOBOVISION
-http://138.186.20.68:8000/play/a05n
+http://138.186.20.245:8000/play/a07o/index.m3u8
 #EXTINF:-1,GO TV
-http://138.186.20.68:8000/play/a052
+http://190.61.102.67:3000/play/a02s
 #EXTINF:-1,HBO 2
-http://138.186.20.68:8000/play/a02u
-#EXTINF:-1,HBO Family
-http://138.186.20.68:8000/play/a02x
+http://138.186.20.245:8000/play/a0bh/index.m3u8
 #EXTINF:-1,HBO Plus
-http://138.186.20.68:8000/play/a02v
-#EXTINF:-1,HBO XTREME SD
-http://138.186.20.68:8000/play/a02w
-#EXTINF:-1,HBO
-http://190.61.102.67:3000/play/a04d
+http://190.61.102.67:3000/play/a04f
 #EXTINF:-1,HBO Family
 http://190.61.102.67:3000/play/a04g
 #EXTINF:-1,HBO Family HD
@@ -145,7 +141,7 @@ http://190.61.102.67:3000/play/a04e
 #EXTINF:-1,HBO2 HD
 http://190.61.102.67:3000/play/a00i
 #EXTINF:-1,HispanTV
-http://138.186.20.68:8000/play/a05a
+https://live1.presstv.ir/live/hispan_360p/index.m3u8
 #EXTINF:-1,History Channel
 http://138.186.20.68:8000/play/a00c
 #EXTINF:-1,History HD
@@ -165,9 +161,9 @@ http://200.24.132.99:8000/play/a027
 #EXTINF:-1,La Red
 http://138.186.20.68:8000/play/a02n
 #EXTINF:-1,Lifetime
-http://138.186.20.68:8000/play/a00t
-#EXTINF:-1,Mega
-http://138.186.20.68:8000/play/a02p
+http://190.61.102.67:3000/play/a01u
+#EXTINF:-1,Meridiano
+http://138.186.20.245:8000/play/a06o/index.m3u8
 #EXTINF:-1,Mas Chic
 http://190.61.102.67:3000/play/a005
 #EXTINF:-1,Multicinema
@@ -182,6 +178,8 @@ http://190.108.83.142:8000/play/a002/index.m3u8
 http://190.108.83.142:8000/play/a004/index.m3u8
 #EXTINF:-1,Nat Geo
 http://190.108.83.142:8000/play/a00q/index.m3u8
+#EXTINF:-1,Nuestra Tele
+http://138.186.20.245:8000/play/a07u/index.m3u8
 #EXTINF:-1,Paramount
 http://190.61.102.67:3000/play/a00e
 #EXTINF:-1,Pasiones HD
@@ -189,7 +187,7 @@ http://190.61.102.67:3000/play/a04t
 #EXTINF:-1,RT Latino
 http://190.108.83.142:8000/play/a016/index.m3u8
 #EXTINF:-1,RCN Novelas
-http://138.186.20.68:8000/play/a03q
+http://200.24.159.179:8500/play/a03i
 #EXTINF:-1,Smart Peliculas
 http://190.108.83.142:8000/play/a009/index.m3u8
 #EXTINF:-1,SONY
@@ -199,17 +197,17 @@ http://190.61.102.67:3000/play/a02l
 #EXTINF:-1,SPACE
 http://190.61.102.67:3000/play/a01q
 #EXTINF:-1,STAR CHANNEL
-http://138.186.20.68:8000/play/a00j
+http://200.24.159.179:8500/play/a00c
 #EXTINF:-1,Star TVE HD
 http://190.61.102.67:3000/play/a02o
 #EXTINF:-1,Studio Universal
-http://138.186.20.68:8000/play/a030
+http://200.24.159.179:8500/play/a00t
 #EXTINF:-1,SyFy
-http://138.186.20.68:8000/play/a00u
+http://200.24.159.179:8500/play/a00t
 #EXTINF:-1,Sun Channel
 http://190.61.102.67:3000/play/a00v
 #EXTINF:-1,TBS
-http://138.186.20.68:8000/play/a03u
+http://200.24.159.179:8500/play/a03m
 #EXTINF:-1,TCM
 http://190.61.102.67:3000/play/a014
 #EXTINF:-1,Telemundo
@@ -217,37 +215,37 @@ http://190.61.102.67:3000/play/a01o
 #EXTINF:-1,TLNovelas
 http://181.176.148.142:8000/play/a00e
 #EXTINF:-1,TELESUR
-http://138.186.20.68:8000/play/a05f
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1,TVMAS
+http://200.24.159.179:8500/play/a03h
 #EXTINF:-1,Tru TV
 http://190.61.102.67:3000/play/a01n
 #EXTINF:-1,TNT
-http://138.186.20.68:8000/play/a00m
+http://200.24.159.179:8500/play/a00g
 #EXTINF:-1,Universal
-http://138.186.20.68:8000/play/a00e
+http://200.24.159.179:8500/play/a05w
 #EXTINF:-1,Univision HD
 http://190.61.102.67:3000/play/a04u
 #EXTINF:-1,Universal Cinema SD
-http://138.186.20.68:8000/play/a033
+http://200.24.159.179:8500/play/a05w
 #EXTINF:-1,Universal Comedy SD
-http://138.186.20.68:8000/play/a034
+http://200.24.159.179:8500/play/a05w
 #EXTINF:-1,Universal Premiere SD
-http://138.186.20.68:8000/play/a032
+http://200.24.159.179:8500/play/a05w
 #EXTINF:-1,Warner
 http://190.61.102.67:3000/play/a02y
 
 
 #EXTINF:-1,Discovery Kids
-http://138.186.20.68:8000/play/a02l
+http://200.24.159.179:8500/play/a00m
 #EXTINF:-1,Nick Jr.
 http://190.108.83.142:8000/play/a00u/index.m3u8
-#EXTINF:-1,Nickelodeon Sur
+#EXTINF:-1,Nickelodeo
 http://190.108.83.142:8000/play/a00v/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://138.186.20.68:8000/play/a00a
 #EXTINF:-1,Cartoon Network
-http://138.186.20.68:8000/play/a00l
-#EXTINF:-1,Cartoonito
-http://190.61.102.67:3000/play/a01j
+http://138.186.20.245:8000/play/a0ar/index.m3u8
+#EXTINF:-1,Cartoons
+http://181.176.148.142:8000/play/a021
 #EXTINF:-1,Disney
 http://190.61.102.67:3000/play/a03x
 #EXTINF:-1,Disney JR
@@ -268,14 +266,10 @@ http://190.61.102.67:3000/play/a00x
 http://190.61.102.67:3000/play/a043
 #EXTINF:-1,ESPN 4  HD
 http://190.61.102.67:3000/play/a04l
-#EXTINF:-1,ESPN 2
-http://138.186.20.68:8000/play/a031
-#EXTINF:-1,ESPN 4
-http://138.186.20.68:8000/play/a041
-#EXTINF:-1,ESPN CO
-http://138.186.20.68:8000/play/a03h
-#EXTINF:-1,Fox Sports 1
-http://138.186.20.68:8000/play/a02t
+#EXTINF:-1,ESPN EXTRA
+http://138.186.20.245:8000/play/a0ai/index.m3u8
+#EXTINF:-1,Fox Sports 2 Plus
+http://138.186.20.245:8000/play/a0a8/index.m3u8
 #EXTINF:-1,FOX SPORTS 2 HD
 http://190.61.102.67:3000/play/a03h
 #EXTINF:-1,FOX Sports 2
@@ -286,12 +280,12 @@ http://190.61.102.67:3000/play/a01v
 http://190.61.102.67:3000/play/a02p
 #EXTINF:-1,TNT Sports 2
 http://138.186.20.68:8000/play/a02s
+#EXTINF:-1,Gol TV
+http://200.24.159.179:8500/play/a03b
 
 
 #EXTINF:-1,MTV
 http://190.61.102.67:3000/play/a044
-#EXTINF:-1,MTV 2
-http://138.186.20.68:8000/play/a00g
 #EXTINF:-1,MTV 00s
 http://190.61.102.67:3000/play/a011
 #EXTINF:-1,MTV 00s HD
@@ -305,18 +299,7 @@ http://190.61.102.67:3000/play/a01w
 #EXTINF:-1,MTV SIM HD
 http://190.61.102.67:3000/play/a03n
 
-#EXTINF:-2021, S01 E01 - Sabrina The Hottest Witch 
-http://fina.dyndns.tv/Series/Sabrina/Sabrina%20La%20Bruja%20Adolescente%2001x01%20Comienzo%20De%20Embrujos.avi?null=0
-#EXTINF:-2021, S01 E02 - Sabrina The Hottest Witch 
-http://fina.dyndns.tv/Series/Sabrina/Sabrina%20La%20Bruja%20Adolescente%2001x02%20Viernes%20De%20Panque.avi?null=0
-#EXTINF:-2021, S01 E03 - Sabrina The Hottest Witch 
-http://fina.dyndns.tv/Series/Sabrina/Sabrina%20La%20Bruja%20Adolescente%2001x03%20Sabrina%20Cuida%20Ni%c3%b1os.avi?null=0
-#EXTINF:-2021, S01 E04 - Sabrina The Hottest Witch 
-http://fina.dyndns.tv/Series/Sabrina/Sabrina%20La%20Bruja%20Adolescente%2001x04%20Cosas%20Horribles.avi?null=0
-#EXTINF:-2021, S01 E05 - Sabrina The Hottest Witch 
-http://fina.dyndns.tv/Series/Sabrina/Sabrina%20La%20Bruja%20Adolescente%2001x05%20Un%20Halloween%20Feliz.avi?null=0
-#EXTINF:-2021, S01 E06 - Sabrina The Hottest Witch 
-http://fina.dyndns.tv/Series/Sabrina/Sabrina%20La%20Bruja%20Adolescente%2001x06%20Pareja%20Ideal.avi?null=0
+
 #EXTINF:-2021, S01 E07 - Sabrina The Hottest Witch 
 https://archive.org/download/sthb_202109/S01E07.mp4?null=0
 #EXTINF:-2021, S01 E08 - Sabrina The Hottest Witch 
