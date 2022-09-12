@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U x-tvg-url=""
 
 #EXTINF:-1,Willax
 http://181.65.199.218:8000/play/a029/index.m3u8
