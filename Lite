@@ -181,7 +181,7 @@ http://190.108.83.142:8000/play/a004/index.m3u8
 http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:-1,Nuestra Tele
 http://138.186.20.245:8000/play/a07u/index.m3u8
-#EXTINF:-1,Paramount
+#EXTINF:-1,Paramount Channel Latinoamérica
 http://190.61.102.67:3000/play/a00e
 #EXTINF:-1,Pasiones HD
 http://190.61.102.67:3000/play/a04t
@@ -191,7 +191,7 @@ http://190.108.83.142:8000/play/a016/index.m3u8
 http://200.24.159.179:8500/play/a03i
 #EXTINF:-1,Smart Peliculas
 http://190.108.83.142:8000/play/a009/index.m3u8
-#EXTINF:-1,SONY
+#EXTINF:-1,Sony HD
 http://190.61.102.67:3000/play/a02x
 #EXTINF:-1,Sony Movies HD
 http://190.61.102.67:3000/play/a02l
@@ -211,7 +211,7 @@ http://190.61.102.67:3000/play/a00v
 http://200.24.159.179:8500/play/a03m
 #EXTINF:-1,TCM
 http://190.61.102.67:3000/play/a014
-#EXTINF:-1,Telemundo
+#EXTINF:-1,Telemundo Internacional
 http://190.61.102.67:3000/play/a01o
 #EXTINF:-1,TLNovelas
 http://181.176.148.142:8000/play/a00e
@@ -223,7 +223,7 @@ http://200.24.159.179:8500/play/a03h
 http://190.61.102.67:3000/play/a01n
 #EXTINF:-1,TNT
 http://200.24.159.179:8500/play/a00g
-#EXTINF:-1,Universal
+#EXTINF:-1,Universal Channel
 http://200.24.159.179:8500/play/a05w
 #EXTINF:-1,Univision HD
 http://190.61.102.67:3000/play/a04u
