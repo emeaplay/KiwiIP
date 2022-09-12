@@ -112,7 +112,7 @@
     <channel update="i" site="gatotv.com" site_id="discovery_home_and_health" xmltv_id="Canal Discovery Home &amp; Health">Canal Discovery Home &amp; Health</channel>
     <channel update="i" site="gatotv.com" site_id="discovery_kids" xmltv_id="Canal Discovery Kids">Canal Discovery Kids</channel>
     <channel update="i" site="gatotv.com" site_id="discovery_science_latinoamerica" xmltv_id="Canal Discovery Science Latinoamérica">Canal Discovery Science Latinoamérica</channel>
-    <channel update="i" site="gatotv.com" site_id="discovery_theater_latinoamerica" xmltv_id="Canal Discovery Theater Latinoamérica">Canal Discovery Theater Latinoamérica</channel>
+    <channel update="i" site="gatotv.com" site_id="discovery_theater_latinoamerica" xmltv_id="Canal Discovery Theater Latinoamérica">Discovery Theater</channel>
     <channel update="i" site="gatotv.com" site_id="discovery_turbo_latinoamerica" xmltv_id="Canal Discovery Turbo Latinoamérica">Canal Discovery Turbo Latinoamérica</channel>
     <channel update="i" site="gatotv.com" site_id="discovery_world_latinoamerica" xmltv_id="Canal Discovery World Latinoamérica">Canal Discovery World Latinoamérica</channel>
     <channel update="i" site="gatotv.com" site_id="disney" xmltv_id="Canal Disney Channel">Canal Disney Channel</channel>
