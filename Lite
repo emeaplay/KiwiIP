@@ -38,8 +38,8 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:0,Fuego
 http://190.108.83.142:8000/play/a003/index.m3u8
-#EXTINF:-1,Novelisima
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png",Doble C TV
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,A&E HD
 http://190.61.102.67:3000/play/a02g
@@ -181,6 +181,8 @@ http://190.108.83.142:8000/play/a004/index.m3u8
 http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:-1,Nuestra Tele
 http://138.186.20.245:8000/play/a07u/index.m3u8
+#EXTINF:-1,Novelisima
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 #EXTINF:-1,Paramount Channel Latinoamérica
 http://190.61.102.67:3000/play/a00e
 #EXTINF:-1,Pasiones HD
@@ -227,12 +229,6 @@ http://200.24.159.179:8500/play/a00g
 http://200.24.159.179:8500/play/a05w
 #EXTINF:-1,Univision HD
 http://190.61.102.67:3000/play/a04u
-#EXTINF:-1,Universal Cinema SD
-http://200.24.159.179:8500/play/a05w
-#EXTINF:-1,Universal Comedy SD
-http://200.24.159.179:8500/play/a05w
-#EXTINF:-1,Universal Premiere SD
-http://200.24.159.179:8500/play/a05w
 #EXTINF:-1,Warner
 http://190.61.102.67:3000/play/a02y
 
@@ -299,7 +295,8 @@ http://190.61.102.67:3000/play/a028
 http://190.61.102.67:3000/play/a01w
 #EXTINF:-1,MTV SIM HD
 http://190.61.102.67:3000/play/a03n
-
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png",Memorias TV
+https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
 
 #EXTINF:-2021, S01 E07 - Sabrina The Hottest Witch 
 https://archive.org/download/sthb_202109/S01E07.mp4?null=0
