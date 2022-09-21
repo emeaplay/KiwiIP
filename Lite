@@ -40,6 +40,8 @@ https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png",Doble C TV
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
+#EXTINF:0,OK TeVe
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 
 #EXTINF:-1,A&E
 http://181.65.199.218:8000/play/a0hq/index.m3u8
@@ -75,8 +77,6 @@ http://138.186.20.245:8000/play/a02j/index.m3u8
 http://181.65.199.218:8000/play/a027/index.m3u8
 #EXTINF:-1,Cinecanal
 http://138.186.20.245:8000/play/a0at/index.m3u8
-#EXTINF:-1,Cine Latino
-http://190.61.102.67:3000/play/a049
 #EXTINF:-1,Cine Familiar
 http://181.176.148.142:8000/play/a023
 #EXTINF:-1,Cine Hispano
@@ -129,7 +129,7 @@ http://190.83.119.67:8000/play/a0r4
 http://138.186.20.245:8000/play/a02d/index.m3u8
 #EXTINF:-1,Golden
 http://190.83.119.67:8000/play/a0rh
-#EXTINF:-1,GLOBOVISION
+#EXTINF:-1,Globovision
 http://138.186.20.245:8000/play/a07o/index.m3u8
 #EXTINF:-1,HBO 2
 http://138.186.20.245:8000/play/a0bh/index.m3u8
@@ -143,7 +143,7 @@ http://190.83.119.67:8000/play/a0ul
 http://190.83.119.67:8000/play/a0un
 #EXTINF:-1,HispanTV
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
-#EXTINF:-1,History Channel
+#EXTINF:-1,History
 http://190.83.119.67:8000/play/a0sc
 #EXTINF:-1,History 2
 http://190.83.119.67:8000/play/a0r7
@@ -238,7 +238,6 @@ http://190.61.102.67:3000/play/a04u
 #EXTINF:-1,Warner
 http://181.65.199.218:8000/play/a01k/index.m3u8
 
-
 #EXTINF:-1,Discovery Kids
 http://200.24.159.179:8500/play/a00m
 #EXTINF:-1,Nick Jr.
@@ -286,6 +285,7 @@ http://190.83.119.67:8000/play/a0rg
 http://190.83.119.67:8000/play/a0re
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png",Memorias TV
 https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-2021, S01 E07 - Sabrina The Hottest Witch 
 https://archive.org/download/sthb_202109/S01E07.mp4?null=0
