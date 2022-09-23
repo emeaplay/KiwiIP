@@ -101,6 +101,8 @@ http://190.83.119.67:8000/play/a0ny
 http://190.108.83.142:8000/play/a01k/index.m3u8
 #EXTINF:-1,Discovery Theater
 http://181.176.148.142:8000/play/a02m
+#EXTINF:-1,EnerGeek
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1,EuroChannel
 http://181.176.148.142:8000/play/a01j
 #EXTINF:-1,Europa
