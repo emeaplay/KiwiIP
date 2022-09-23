@@ -73,6 +73,8 @@ http://190.60.37.66:8015/play/a02y/index.m3u8
 http://190.60.37.66:8015/play/a02z/index.m3u8
 #EXTINF:-1,Canal Claro
 http://181.65.199.218:8000/play/a027/index.m3u8
+#EXTINF:-1,Cine AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1,Cinecanal
 http://190.60.37.66:8015/play/a00g/index.m3u8
 #EXTINF:-1,Cine Familiar
@@ -179,6 +181,8 @@ http://190.108.83.142:8000/play/a004/index.m3u8
 http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:-1,Novelisima
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:-1,Orbit Movies
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,Paramount Network
 http://190.108.83.142:8000/play/a01o/index.m3u8
 #EXTINF:-1,Pasiones
@@ -227,6 +231,8 @@ http://181.65.199.218:8000/play/a0ia/index.m3u8
 http://181.65.199.218:8000/play/a00q/index.m3u8
 #EXTINF:-1,Universal Channel
 http://200.24.159.179:8500/play/a05w
+#EXTINF:-1,Viwix Accion
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
 #EXTINF:-1,Warner
 http://181.65.199.218:8000/play/a01k/index.m3u8
 
