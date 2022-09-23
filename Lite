@@ -115,6 +115,8 @@ http://181.176.148.142:8000/play/a031
 http://200.24.159.179:8500/play/a00e
 #EXTINF:-1,E!
 http://190.108.85.114:8000/play/a01h/index.m3u8
+#EXTINF:-1,Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,EWTN
 http://190.83.119.67:8000/play/a0pw
 #EXTINF:-1,El Gourmet
@@ -165,6 +167,8 @@ http://200.24.132.99:8000/play/a027
 http://190.83.119.67:8000/play/a0pl
 #EXTINF:-1,Mas Chic
 http://190.83.119.67:8000/play/a0nu
+#EXTINF:-1,MyTime Networks España
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,Movie Club
 http://181.176.148.142:8000/play/a02s
 #EXTINF:-1,Multicinema
@@ -233,6 +237,8 @@ http://181.65.199.218:8000/play/a00q/index.m3u8
 http://200.24.159.179:8500/play/a05w
 #EXTINF:-1,Viwix Accion
 https://s2.tvdatta.com:3457/hybrid/play.m3u8
+#EXTINF:-1,Ve Plus
+http://190.122.96.187:8888/http/006
 #EXTINF:-1,Warner
 http://181.65.199.218:8000/play/a01k/index.m3u8
 
