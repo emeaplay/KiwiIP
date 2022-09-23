@@ -47,8 +47,8 @@ https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 http://181.65.199.218:8000/play/a0hq/index.m3u8
 #EXTINF:-1,A&E Plus
 http://181.65.199.218:8000/play/a01s/index.m3u8
-#EXTINF:-1,AMC
-
+#EXTINF:-1,ABFIT TV
+http://190.108.83.142:8000/play/a00z/index.m3u8
 #EXTINF:-1,AXN
 http://190.60.39.62:8000/play/a048
 #EXTINF:-1,Atres Series
@@ -127,8 +127,8 @@ http://190.83.119.67:8000/play/a0pu
 http://190.83.119.67:8000/play/a0r4
 #EXTINF:-1,Golden
 http://190.83.119.67:8000/play/a0rh
-#EXTINF:-1,Globovision
-
+#EXTINF:-1,Golden Plus
+http://181.65.199.218:8000/play/a0bs/index.m3u8
 #EXTINF:-1,HBO
 http://190.83.119.67:8000/play/a0uj
 #EXTINF:-1,HBO 2
@@ -272,6 +272,8 @@ http://200.24.159.179:8500/play/a03b
 http://190.108.85.114:8000/play/a03f/index.m3u8
 #EXTINF:-1,Movistar Deportes
 http://190.108.85.114:8000/play/a032/index.m3u8
+#EXTINF:-1,Gol Peru HD
+http://181.65.199.218:8000/play/a0c1/index.m3u8
 
 #EXTINF:-1,Telehit
 htt#EXTINF:-1,HTVp://181.65.199.218:8000/play/a0ge/index.m3u8
