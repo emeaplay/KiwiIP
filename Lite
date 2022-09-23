@@ -18,16 +18,14 @@ http://190.108.93.148:8000/play/a07s/index.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1,ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
+#EXTINF:0,RPP Noticias Radio
+http://190.108.83.142:8000/play/a018/index.m3u8
 #EXTINF:-1,TeleColor
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
-#EXTINF:0,TV Peru Noticias
-https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,Nacional Tv
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1,Global Tv
 http://190.108.83.142:8000/play/a00x/index.m3u8
-#EXTINF:0,RPP Noticias Radio
-http://190.108.83.142:8000/play/a018/index.m3u8
 #EXTINF:-1,Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 #EXTINF:-1,El Chavo 24Horas
