@@ -167,8 +167,10 @@ http://200.24.132.99:8000/play/a027
 http://190.83.119.67:8000/play/a0pl
 #EXTINF:-1,Mas Chic
 http://190.83.119.67:8000/play/a0nu
-#EXTINF:-1,MyTime Networks España
+#EXTINF:-1,MyTime Movie Network España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,MyTime Movie Network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1,Movie Club
 http://181.176.148.142:8000/play/a02s
 #EXTINF:-1,Multicinema
