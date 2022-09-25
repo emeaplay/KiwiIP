@@ -357,19 +357,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e
 #EXTINF:-1 channel-id="pluto-6095ad97351eb0000754c1e6",Hells Kitchen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-
-
-
-
-
-#EXTINF:-2021, S01 E07 - Sabrina The Hottest Witch 
+#EXTINF:-1, S01 E07 - Sabrina The Hottest Witch 
 https://archive.org/download/sthb_202109/S01E07.mp4?null=0
-#EXTINF:-2021, S01 E08 - Sabrina The Hottest Witch 
+#EXTINF:-1, S01 E08 - Sabrina The Hottest Witch 
 https://archive.org/download/sthb_202109/S01E08.mp4?null=0
-#EXTINF:-2021, S01 E09 - Sabrina The Hottest Witch 
+#EXTINF:-1, S01 E09 - Sabrina The Hottest Witch 
 https://archive.org/download/sthb_202109/S01E09.mp4?null=0
-#EXTINF:-2021, S01 E10 - Sabrina The Hottest Witch 
+#EXTINF:-1, S01 E10 - Sabrina The Hottest Witch 
 https://archive.org/download/sthb_202109/S01E010.mp4?null=0
 #EXTINF:-2021, S01 E11 - Sabrina The Hottest Witch 
 https://archive.org/download/sthb_202109/S01E011.mp4?null=0
@@ -399,7 +393,6 @@ https://archive.org/download/sthw-s01_202109/S01E22.mp4?null=0
 https://archive.org/download/sthw-s01_202109/S01E23.mp4?null=0
 #EXTINF:-2021, S01 E24 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E24.mp4?null=0
-
 #EXTINF:-2021, S02 E01 - Sabrina The Hottest Witch 
 https://archive.org/serve/sabrina_20210917/S02E01.mp4?null=0
 #EXTINF:-2021, S02 E02 - Sabrina The Hottest Witch
@@ -434,7 +427,7 @@ https://archive.org/serve/sthw_202109/S02E15.mp4?null=0
 https://archive.org/serve/sthw_202109/S02E16.mp4?null=0
 #EXTINF:-2021, S02 E17 - Sabrina The Hottest Witch
 https://archive.org/serve/sthw_202109/S02E17.mp4?null=0
-#EXTINF:-2021, S02 E18 | Sabrina The Hottest Witch | The Band Episode
+#EXTINF:-2021, S02 E18 - Sabrina The Hottest Witch
 https://archive.org/serve/s-02-e-18_202109/S02E18.mp4?null=0
 #EXTINF:-2021, S02 E19 - Sabrina The Hottest Witch
 https://archive.org/serve/sttw_20210918/S02E19.mp4?null=0
@@ -502,7 +495,6 @@ https://archive.org/serve/sabrina_20210917/S03E23.mp4?null=0
 https://archive.org/serve/sabrina_20210917/S03E24.mp4?null=0
 #EXTINF:-2021, S03 E25 - Sabrina The Hottest Witch 
 https://archive.org/serve/sabrina_20210917/S03E25.mp4?null=0
-
 #EXTINF:-2021, S04 E01 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E01.mp4?null=0
 #EXTINF:-2021, S04 E02 - Sabrina The Hottest Witch 
@@ -547,7 +539,6 @@ https://archive.org/serve/sabrina_202109/S04E20.mp4?null=0
 https://archive.org/serve/sabrina_202109/S04E21.mp4?null=0
 #EXTINF:-2021, S04 E22 - Sabrina The Hottest Witch 
 https://archive.org/serve/sabrina_202109/S04E22.mp4?null=0
-
 #EXTINF:-2021, S05 E01 - Sabrina The Hottest Witch 
 https://archive.org/serve/sabrina_202109/S05E01.mp4?null=0
 #EXTINF:-2021, S05 E02 - Sabrina The Hottest Witch 
@@ -636,7 +627,6 @@ https://archive.org/serve/sabrina_202109/S06E20.mp4?null=0
 https://archive.org/serve/sabrina_202109/S06E21.mp4?null=0
 #EXTINF:-2021, S06 E22 - Sabrina The Hottest Witch 
 https://archive.org/serve/sabrina_202109/S06E22.mp4?null=0
-
 #EXTINF:-2021, S07 E01 - Sabrina The Hottest Witch 
 https://archive.org/download/sabrina_202109/S07E01.mp4?null=0
 #EXTINF:-2021, S07 E02 - Sabrina The Hottest Witch 
@@ -681,21 +671,3 @@ https://archive.org/download/sabrina_202109/S07E20.mp4?null=0
 https://archive.org/download/sabrina_202109/S07E21.mp4?null=0
 #EXTINF:-2021, S07 E22 - Sabrina The Hottest Witch 
 https://archive.org/download/sabrina_202109/S07E22.mp4?null=0
-#EXTINF:-2021, S02 E06 | Sabrina The Hottest Witch The Teenage Boy 
-https://archive.org/serve/sttw-s-02-e-06_20200421/STTW-S02E06.mp4?null=0
-#EXTINF:-2021, SABRINA THE HOTTEST WITCH · 📺
-https://mdstrm.com/video/611faa9183c9d9083805f6be.mp4?null=0
-#EXTINF:-2021, SABRINA THE HOTTEST WITCH · 📺 
-https://mdstrm.com/video/6128ec704904d0083180172a.mp4?null=0
-#EXTINF:-2021, SABRINA THE HOTTEST WITCH · 📺 
-https://mdstrm.com/video/61322a256bc697082137274a.mp4?null=0
-#EXTINF:-2021, SABRINA THE HOTTEST WITCH · 📺 
-https://mdstrm.com/video/613b65a6237ec862ed833649.mp4?null=0
-#EXTINF:-2021, SABRINA THE HOTTEST WITCH · 📺 
-https://mdstrm.com/video/6144ab685b5e6e237e36d657.mp4?null=0
-#EXTINF:-2021, SABRINA THE HOTTEST WITCH · 📺 
-https://mdstrm.com/video/614dd8e08396ad50a272cb92.mp4?null=0
-#EXTINF:-2021, SABRINA THE HOTTEST WITCH · 📺 
-https://mdstrm.com/video/615714d9c7718d0831226678.mp4?null=0
-#EXTINF:-2021, SABRINA THE HOTTEST WITCH · 📺 
-https://mdstrm.com/video/6160543cf870530829ee7e2a.mp4?null=0
