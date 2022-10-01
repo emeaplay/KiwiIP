@@ -289,7 +289,8 @@ http://190.108.85.114:8000/play/a032/index.m3u8
 http://181.65.199.218:8000/play/a0c1/index.m3u8
 #EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9",La Liga Premier | Paramount+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+#EXTINF:-1,Best Cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Telehit
 htt#EXTINF:-1,HTVp://181.65.199.218:8000/play/a0ge/index.m3u8
@@ -303,6 +304,12 @@ https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
 http://181.176.148.142:8000/play/a02o
 #EXTINF:-1,Rock and Pop
 http://181.176.148.142:8000/play/a01u
+#EXTINF:-1,ShowVEN
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+#EXTINF:-1,Top Latino
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1,Vision Musica
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" ,Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
