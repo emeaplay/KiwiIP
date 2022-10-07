@@ -126,9 +126,7 @@ http://190.108.93.148:8000/play/a0a8/index.m3u8
 #EXTINF:-1,HispanTV
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
 #EXTINF:-1,History
-
-#EXTINF:-1,History 2
-
+http://190.108.93.148:8000/play/a0dc/index.m3u8
 #EXTINF:-1,Home Garden Latino
 http://190.108.83.142:8000/play/a01j/index.m3u8
 #EXTINF:-1,Home and Health
@@ -229,7 +227,6 @@ http://190.108.83.142:8000/play/a01d/index.m3u8
 #EXTINF:-1,Disney Jr
 http://190.108.83.142:8000/play/a01q/index.m3u8
 
-
 #EXTINF:-1,ESPN
 http://181.176.148.142:8000/play/a02d
 #EXTINF:-1,ESPN 2
@@ -239,7 +236,7 @@ http://181.176.148.142:8000/play/a02f
 #EXTINF:-1,ESPN 4
 http://190.108.93.148:8000/play/a07r/index.m3u8
 #EXTINF:-1,Fox Sports 2
-http://190.108.93.148:8000/play/a07d/index.m3u8
+http://190.108.83.142:8000/play/a01m/index.m3u8
 #EXTINF:-1,Fox Sports 3
 http://190.108.83.142:8000/play/a01n/index.m3u8
 #EXTINF:-1,Gol TV
@@ -640,5 +637,4 @@ https://archive.org/download/s-4br-1n-4-v-1s-1t-4-roma-1998/S4br1n4%2C%20una%20b
 https://archive.org/download/s-4br-1n-4-v-1s-1t-4-roma-1998/S4br1n4%20v1s1t4%20Roma%20-%201998.mp4
 #EXTINF:0, Sabrina Va a Australia
 https://archive.org/download/s-4br-1n-4-va-a-australia-1999/S4br1n4%20Va%20a%20Australia%20-%201999%20.mp4
-#EXTINF:-2021, VECINA x19
-https://ia601503.us.archive.org/23/items/la-vecina-cap-19-completo/La%20vecina%20-%20Cap19%20Completo.mp4?cnt=0
+
