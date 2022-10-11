@@ -167,6 +167,8 @@ http://181.176.148.142:8000/play/a02t
 http://181.176.148.142:8000/play/a02u
 #EXTINF:0,ON CHANNEL
 http://190.108.83.142:8000/play/a00c/index.m3u8
+#EXTINF:0,ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1450346286.m3u8
 #EXTINF:0,PALMERAS TV
 http://190.108.83.142:8000/play/a00a/index.m3u8
 #EXTINF:0,PARAMOUNT
