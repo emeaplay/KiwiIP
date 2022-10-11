@@ -201,7 +201,7 @@ http://181.176.148.142:8000/play/a025
 #EXTINF:-1,Cinemax
 http://190.108.93.148:8000/play/a082/index.m3u8
 #EXTINF:-1,Cine Sureño
-ttps://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/aa82fe08-d07f-4357-9c16-430b58f54088/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/aa82fe08-d07f-4357-9c16-430b58f54088/5.m3u8
 #EXTINF:-1,Comedy Central
 http://190.108.83.142:8000/play/a00j/index.m3u8
 #EXTINF:-1,DHE
@@ -288,8 +288,14 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 http://190.108.83.142:8000/play/a01o/index.m3u8
 #EXTINF:-1,Pasiones
 http://181.65.199.218:8000/play/a0hz/index.m3u8
+#EXTINF:-1,Planeta TV Movies
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1,Planeta TV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1,Retro
 http://181.176.148.142:8000/play/a02x
+#EXTINF:-1,Retro Play
+https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RT Latino
 http://190.108.83.142:8000/play/a016/index.m3u8
 #EXTINF:-1,RCN Novelas
@@ -336,6 +342,12 @@ http://181.65.199.218:8000/play/a00q/index.m3u8
 http://200.24.159.179:8500/play/a05w
 #EXTINF:-1,Viwix Accion
 https://s2.tvdatta.com:3457/hybrid/play.m3u8
+#EXTINF:-1,Viwix Estrenos
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
+#EXTINF:-1,Viwix Series
+https://s2.tvdatta.com:3402/hybrid/play.m3u8?
+#EXTINF:-1,Viwix Terror
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
 #EXTINF:-1,Ve Plus
 http://190.122.96.187:8888/http/006
 #EXTINF:-1,Warner
