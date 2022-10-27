@@ -30,11 +30,11 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 #EXTINF:-1,El Chavo 24Horas
 https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png",Nativa Television
+#EXTINF:-1 tvg-logo="https://ntv.pe/wp-content/uploads/2022/02/LogotipoNativa-e1644386908593.png",Nativa Television
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:0,Contacto TV
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
-#EXTINF:0,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSB3LJKFnmh9UMmI_C7KrcmsFuRs3M-IKRXTEDYkmDw&s",FUEGO TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSB3LJKFnmh9UMmI_C7KrcmsFuRs3M-IKRXTEDYkmDw&s",FUEGO TV
 http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png",Doble C TV
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
