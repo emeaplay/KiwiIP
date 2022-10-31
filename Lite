@@ -224,7 +224,12 @@ http://190.108.83.142:8000/play/a01a/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FELICIDAD
 http://190.108.83.142:8000/play/a01b/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MEMORIAS TV MUSICA
-https://videostreaming.cloudserverlatam.com/htbbgdnudk/htbbgdnudk/chunklist_w1861441949.m3u8
+https://videostreaming.cloudserverlatam.com/htbbgdnudk/htbbgdnudk/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SOL STEREO
+https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DESPECHADA MUSICA
+https://servidordevideo.co:3077/hybrid/play.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",Gol TV
 http://200.24.159.179:8500/play/a03b
