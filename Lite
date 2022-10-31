@@ -95,7 +95,7 @@ http://190.108.83.142:8000/play/a01q/index.m3u8
 http://190.108.83.142:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DISCOVERY KIDS
 http://190.108.83.142:8000/play/a01r/index.m3u8
-#EXTINF:0,DISCOVERY TURBO
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DISCOVERY TURBO
 http://190.108.83.142:8000/play/a01k/index.m3u8
 
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN (INTERNEXA)
