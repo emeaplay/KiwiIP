@@ -25,11 +25,9 @@ https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1460319039494963209/A1vzUJp3_400x400.jpg",Nacional Tv
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Global_2019.svg/revision/latest/scale-to-width-down/200?cb=20210521141913&path-prefix=es",Global Tv
-http://190.108.83.142:8000/play/a00x/index.m3u8
+http://190.108.93.148:8000/play/a0fj/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/KI8FPXtY5KMIL9H1Edwa_Z5V2bxKu7ZZbB2gnM6H8YWhnOeLmfMi9THgfjuZ-wFndg_mVKLAUw=s900-c-k-c0x00ffffff-no-rj",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",El Chavo 24Horas
-https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/3oP0XiYioBa3XKBAmJCxeHRbVuY_90fClsKM46sAzfUE5sgrEycmxFegOL5ttLrpUK6D-nRy=s900-c-k-c0x00ffffff-no-rj",Nativa Television
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:0 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg",Contacto TV
@@ -40,6 +38,8 @@ http://190.108.83.142:8000/play/a003/index.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://geniostv.pe/wp-content/uploads/2021/07/logo2.jpg",GENIOS TV
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://geniostv.pe/wp-content/uploads/2021/07/logo2.jpg",REGION CALLAO
+https://servilive.com:3757/live/regiontvlive.m3u8
 
 #EXTINF:0 tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET (INTERNEXA)
 http://181.176.148.142:8000/play/a034
@@ -97,6 +97,8 @@ http://190.108.83.142:8000/play/a01p/index.m3u8
 http://190.108.83.142:8000/play/a01r/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DISCOVERY TURBO
 http://190.108.83.142:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",El Chavo 24Horas
+https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ESTRELLA TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",EVA STREAM CHANNEL
@@ -130,6 +132,8 @@ http://181.176.148.142:8000/play/a02j
 http://190.108.83.142:8000/play/a01m/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FOX SPORTS 3
 http://190.108.83.142:8000/play/a01n/index.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HECHIZADA 24Horas PlutoTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",H&H (INTERNEXA)
 http://181.176.148.142:8000/play/a02l
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HITS (INTERNEXA)
@@ -150,6 +154,8 @@ http://181.176.148.142:8000/play/a02o
 http://190.108.83.142:8000/play/a00b/index.m3u8
 #EXTINF:0 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg",LOVE NATURE (INTERNEXA)
 http://181.176.148.142:8000/play/a02q
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Los Tres Chiflados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MY TIME MOVIE España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MY TIME MOVIE Mexico
@@ -194,12 +200,27 @@ http://181.176.148.142:8000/play/a033
 http://190.108.83.142:8000/play/a006/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PIURA TV
 http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PLUTO TV Comedias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PLUTO TV Humor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PLUTO TV Series Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PLUTO TV Seeries Animadas Retro
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",RT NOTICIAS
 http://190.108.83.142:8000/play/a016/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RAYMI (INTERNEXA)
 http://181.176.148.142:8000/play/a02w
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RAKUTEN COMEDIA
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RETRO (INTERNEXA)
 http://181.176.148.142:8000/play/a02x
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RETROPLUS Movies
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SABER MAS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SERIES CLUB (INTERNEXA)
 http://181.176.148.142:8000/play/a02y
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png",SUN CHANNEL (INTERNEXA)
@@ -239,6 +260,10 @@ https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",DESPECHADA MUSICA
 https://servidordevideo.co:3077/hybrid/play.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",RETROPLUS Musica 2
+
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",RETROPLUS Musica 3
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",Gol TV
 http://190.108.85.116:8000/play/a0gf/index.m3u8
