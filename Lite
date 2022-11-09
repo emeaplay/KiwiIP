@@ -63,66 +63,6 @@ http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Movistar Plus
 http://190.108.93.148:8000/play/a0ff/index.m3u8
 
-INFANTIL
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY JR (INTERNEXA)
-http://181.176.148.142:8000/play/a02c
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY JR
-http://190.108.83.142:8000/play/a01q/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DISCOVERY KIDS
-http://190.108.83.142:8000/play/a01r/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",CANAL INFANTIL (INTERNEXA)
-http://181.176.148.142:8000/play/a020
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FMH KIDS (INTERNEXA)
-http://181.176.148.142:8000/play/a01z
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",NICK JR
-http://190.108.83.142:8000/play/a00u/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",NICK
-http://190.108.83.142:8000/play/a00v/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",NICK (INTERNEXA)
-http://181.176.148.142:8000/play/a02t
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ZOOMOO (INTERNEXA)
-http://181.176.148.142:8000/play/a032
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISCOVERY KIDS (INTERNEXA)
-http://181.176.148.142:8000/play/a012
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY CHANNEL
-http://190.108.83.142:8000/play/a01d/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY CHANNEL(INTERNEXA)
-http://181.176.148.142:8000/play/a02b
-
-DEPORTES
-#EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN (INTERNEXA)
-http://181.176.148.142:8000/play/a02d
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",ESPN 2 (INTERNEXA)
-http://181.176.148.142:8000/play/a02e
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ESPN 2
-http://190.108.83.142:8000/play/a01u/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ESPN 3 (INTERNEXA)
-http://181.176.148.142:8000/play/a02f
-#EXTINF:0 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/04/04/765g3bb03d-espn-4-en-vivo.jpg",ESPN 4
-http://190.108.93.148:8000/play/a0gc/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FOX SPORTS 2
-http://190.108.83.142:8000/play/a01m/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FOX SPORTS 3
-http://190.108.83.142:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",Gol TV
-http://190.108.85.116:8000/play/a0gf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",Gol Peru HD
-http://190.108.93.148:8000/play/a0hk/index.m3u8
-#EXTINF:-1 tvg-logo="https://nteve.com/wp-content/uploads/2021/07/source-800x445.jpg",Movistar Deportes
-http://190.108.93.148:8000/play/a0fc/index.m3u8
-#EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9",La Liga Premier | Paramount+
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Best Cable Sports
-https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_dpLWFNu13u9v06n_j3753mbyY8DzOOm93ehtcAQ=s900-c-k-c0x00ffffff-no-rj",Ovacion TV
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PX Sports
-http://181.176.148.142:8000/play/a01g
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MonterricoTV
-https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
-
-
-
 VARIADOS
 #EXTINF:0 tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET (INTERNEXA)
 http://181.176.148.142:8000/play/a034
@@ -246,6 +186,8 @@ http://190.108.83.142:8000/play/a009/index.m3u8
 http://190.108.83.142:8000/play/a00g/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SONY CHANNEL
 http://200.24.132.99:8000/play/a02o
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TeleAmazonas
+http://200.24.132.99:8000/play/a02l
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-tlc_m.png",TLC Travel & Living
 http://190.108.83.142:8000/play/a01i/index.m3u8
 #EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TLNOVELAS
@@ -259,6 +201,63 @@ http://181.176.148.142:8000/play/a030
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",WARNER CHANNEL
 http://200.24.132.99:8000/play/a01z
 
+INFANTIL
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY JR (INTERNEXA)
+http://181.176.148.142:8000/play/a02c
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY JR
+http://190.108.83.142:8000/play/a01q/index.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DISCOVERY KIDS
+http://190.108.83.142:8000/play/a01r/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",CANAL INFANTIL (INTERNEXA)
+http://181.176.148.142:8000/play/a020
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FMH KIDS (INTERNEXA)
+http://181.176.148.142:8000/play/a01z
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",NICK JR
+http://190.108.83.142:8000/play/a00u/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",NICK
+http://190.108.83.142:8000/play/a00v/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",NICK (INTERNEXA)
+http://181.176.148.142:8000/play/a02t
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ZOOMOO (INTERNEXA)
+http://181.176.148.142:8000/play/a032
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISCOVERY KIDS (INTERNEXA)
+http://181.176.148.142:8000/play/a012
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY CHANNEL
+http://190.108.83.142:8000/play/a01d/index.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY CHANNEL(INTERNEXA)
+http://181.176.148.142:8000/play/a02b
+
+DEPORTES
+#EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN (INTERNEXA)
+http://181.176.148.142:8000/play/a02d
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",ESPN 2 (INTERNEXA)
+http://181.176.148.142:8000/play/a02e
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ESPN 2
+http://190.108.83.142:8000/play/a01u/index.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ESPN 3 (INTERNEXA)
+http://181.176.148.142:8000/play/a02f
+#EXTINF:0 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/04/04/765g3bb03d-espn-4-en-vivo.jpg",ESPN 4
+http://190.108.93.148:8000/play/a0gc/index.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FOX SPORTS 2
+http://190.108.83.142:8000/play/a01m/index.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FOX SPORTS 3
+http://190.108.83.142:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",Gol TV
+http://190.108.85.116:8000/play/a0gf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",Gol Peru HD
+http://190.108.93.148:8000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-logo="https://nteve.com/wp-content/uploads/2021/07/source-800x445.jpg",Movistar Deportes
+http://190.108.93.148:8000/play/a0fc/index.m3u8
+#EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9",La Liga Premier | Paramount+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Best Cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_dpLWFNu13u9v06n_j3753mbyY8DzOOm93ehtcAQ=s900-c-k-c0x00ffffff-no-rj",Ovacion TV
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PX Sports
+http://181.176.148.142:8000/play/a01g
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MonterricoTV
+https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
 
 MUSICA
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",LA ZONA
