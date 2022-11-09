@@ -56,8 +56,6 @@ http://190.108.83.142:8000/play/a00d/index.m3u8
 http://190.108.83.142:8000/play/a00t/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZdFaWBZVUiv0PvjYHbwwT2_PkoRzeFjw3MD9mWNJLzwAFvR4GHvD0df6nj-75AmQIxM&usqp=CAU",ON CHANNEL
 http://190.108.83.142:8000/play/a00c/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV PERU
-http://190.108.83.142:8000/play/a00i/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CTC TV
 http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Movistar Plus
