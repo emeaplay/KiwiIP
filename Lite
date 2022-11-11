@@ -228,16 +228,18 @@ DEPORTES
 http://181.176.148.142:8000/play/a02d
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",ESPN 2 (INTERNEXA)
 http://181.176.148.142:8000/play/a02e
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ESPN 2
-http://190.108.83.142:8000/play/a01u/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ESPN 3 (INTERNEXA)
 http://181.176.148.142:8000/play/a02f
 #EXTINF:0 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/04/04/765g3bb03d-espn-4-en-vivo.jpg",ESPN 4
 http://190.108.93.148:8000/play/a0gc/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN EXTRA HD
 http://181.78.12.119:8000/play/a03p
+#EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN Colombia
+http://200.24.132.99:8000/play/a02m
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",ESPN 2 Colombia
+http://200.24.132.99:8000/play/a021
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FOX SPORTS 2
-http://190.108.83.142:8000/play/a01m/index.m3u8
+http://200.24.132.99:8000/play/a028
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FOX SPORTS 3
 http://190.108.83.142:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",Gol TV
@@ -248,8 +250,6 @@ http://190.108.93.148:8000/play/a0hk/index.m3u8
 http://190.108.93.148:8000/play/a0fc/index.m3u8
 #EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9",La Liga Premier | Paramount+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",WIN SPORTS
-http://181.78.12.119:8000/play/a041
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_dpLWFNu13u9v06n_j3753mbyY8DzOOm93ehtcAQ=s900-c-k-c0x00ffffff-no-rj",Ovacion TV
