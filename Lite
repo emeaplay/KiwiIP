@@ -58,6 +58,8 @@ http://190.108.83.142:8000/play/a00c/index.m3u8
 http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Movistar Plus
 http://190.108.93.148:8000/play/a0ff/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV SALUD
+https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 
 VARIADOS
 #EXTINF:0 tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET (INTERNEXA)
