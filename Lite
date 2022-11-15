@@ -186,9 +186,9 @@ http://200.24.132.99:8000/play/a02l
 http://200.24.132.99:8000/play/a02j
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-tlc_m.png",TLC Travel & Living
 http://190.108.83.142:8000/play/a01i/index.m3u8
-#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TLNOVELAS
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TLNOVELAS Señal Chile
 http://190.108.83.142:8000/play/a01e/index.m3u8
-#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TLNOVELAS (INTERNEXA)
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TLNOVELAS Señal Colombia
 http://181.176.148.142:8000/play/a00e
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TNT
 http://200.24.132.99:8000/play/a01n
