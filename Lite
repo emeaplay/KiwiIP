@@ -246,6 +246,8 @@ http://200.24.132.99:8000/play/a028
 http://190.108.83.142:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",Gol TV
 http://190.108.85.116:8000/play/a0gf/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TyC Sports
+http://190.108.85.116:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",Gol Peru HD
 http://190.108.93.148:8000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-logo="https://nteve.com/wp-content/uploads/2021/07/source-800x445.jpg",Movistar Deportes
