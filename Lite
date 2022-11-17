@@ -13,7 +13,7 @@ http://190.108.93.148:8000/play/a0fe/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png",CableVision TV
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png",TV Peru
-http://190.108.93.148:8000/play/a0fg/index.m3u8
+https://cdnh74.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png",ATV+ Noticias
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV HD
