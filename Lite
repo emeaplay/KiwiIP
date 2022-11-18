@@ -42,17 +42,17 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TNT
-http://200.24.132.99:8000/play/a01n
+http://190.83.119.67:8000/play/a0pq/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SONY CHANNEL
-http://200.24.132.99:8000/play/a02o
+http://190.83.119.67:8000/play/a0sk/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",WARNER CHANNEL
-http://200.24.132.99:8000/play/a01z
+http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",STAR CHANNEL
-http://190.60.39.62:8000/play/a00t
+http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0us.png",AXN HD
 http://190.83.119.67:8000/play/a0us/index.m3u8
-#EXTINF:0 tvg-logo="https://wikidat.com/img/united-paramount-network-5f26654410a947a25dbd74cbd2185354.jpg",PARAMOUNT (INTERNEXA)
-http://181.176.148.142:8000/play/a033
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg?1",STUDIO UNIVERSAL
+http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CINE FAMILIAR (INTERNEXA)
 http://181.176.148.142:8000/play/a023
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CINE HISPANO (INTERNEXA)
@@ -108,6 +108,8 @@ http://190.108.83.142:8000/play/a005/index.m3u8
 http://190.108.83.142:8000/play/a002/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg?1",MX CLASIC
 http://190.108.83.142:8000/play/a004/index.m3u8
+#EXTINF:0 tvg-logo="https://wikidat.com/img/united-paramount-network-5f26654410a947a25dbd74cbd2185354.jpg",PARAMOUNT (INTERNEXA)
+http://181.176.148.142:8000/play/a033
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MY TIME MOVIE España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MY TIME MOVIE Mexico
