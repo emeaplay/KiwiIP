@@ -38,8 +38,8 @@ http://190.108.93.148:8000/play/a0ff/index.m3u8
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/KI8FPXtY5KMIL9H1Edwa_Z5V2bxKu7ZZbB2gnM6H8YWhnOeLmfMi9THgfjuZ-wFndg_mVKLAUw=s900-c-k-c0x00ffffff-no-rj",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV SALUD
-https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZQzxkIuCqJ-nqmXLm88bkb52qYTv6GYMvoQ93bgm1cU9ur7mbz-dcccoG4eUwYpF71s&usqp=CAU",Onda Digital TV
+https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TNT
 http://190.83.119.67:8000/play/a0pq/index.m3u8
@@ -100,6 +100,8 @@ http://181.176.148.142:8000/play/a02z
 http://200.24.132.99:8000/play/a02l
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TC Television
 http://200.24.132.99:8000/play/a02j
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV SALUD
+https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg?1",MX PRIME
@@ -141,6 +143,8 @@ http://190.108.83.142:8000/play/a00u/index.m3u8
 http://181.176.148.142:8000/play/a021
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",CANAL INFANTIL (INTERNEXA)
 http://181.176.148.142:8000/play/a020
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",Gol Peru HD
 http://190.108.93.148:8000/play/a0hk/index.m3u8
@@ -200,6 +204,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PLUTO TV Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",TEST
-0ad5aac39bb13fbe49f5000c7684076dc306d2a99d6fcf0d503b9277e8f8f8ed359d551a27c4b0cc48d8aa45926021d0e937f1223c9e31a8d5b04792eaf34cc376d9625dc58e1dc12a271510cfe530baae966b8e7a9d46dd1d193ea3a69687ccf6b36d7a98e7954ac0e4145cda6d6eab2f5b0557673369f711e23d74cd7c4ad3f3c50bcf5cb1f4eb32a7e14fb791197a22288ff3ac5fc126
