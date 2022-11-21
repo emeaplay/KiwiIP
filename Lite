@@ -51,6 +51,8 @@ http://190.83.119.67:8000/play/a0tk/index.m3u8
 http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0us.png",AXN HD
 http://190.83.119.67:8000/play/a0us/index.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg?1",UNIVERSAL TV
+http://190.108.85.116:8000/play/a089/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg?1",STUDIO UNIVERSAL
 http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CINE FAMILIAR (INTERNEXA)
