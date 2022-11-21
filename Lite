@@ -47,13 +47,13 @@ http://190.83.119.67:8000/play/a0pq/index.m3u8
 http://190.83.119.67:8000/play/a0sk/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",WARNER CHANNEL
 http://190.83.119.67:8000/play/a0tk/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",STAR CHANNEL
+#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png",STAR CHANNEL
 http://190.83.119.67:8000/play/a0si/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0us.png",AXN HD
 http://190.83.119.67:8000/play/a0us/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",UNIVERSAL TV
 http://190.108.85.116:8000/play/a089/index.m3u8
-#EXTINF:0 tvg-logo="https://es.wikipedia.org/wiki/Studio_Universal_(Latinoam%C3%A9rica)#/media/Archivo:StudioUniversal2016.png",STUDIO UNIVERSAL
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/64/Studio_Universal_2016.svg/revision/latest?cb=20200228191104&path-prefix=es",STUDIO UNIVERSAL
 http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CINE FAMILIAR (INTERNEXA)
 http://181.176.148.142:8000/play/a023
@@ -84,7 +84,7 @@ http://190.83.119.67:8000/play/a0px/index.m3u8http://181.176.148.142:8000/play/a
 http://190.83.119.67:8000/play/a0r7/index.m3u8
 #EXTINF:0 tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET
 http://190.108.93.148:8000/play/a071/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",NATIONAL GEOGRAPHIC
+#EXTINF:0 tvg-logo="https://www.nationalgeographicla.com/images/logo.png",NATIONAL GEOGRAPHIC
 http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:0 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg",LOVE NATURE (INTERNEXA)
 http://181.176.148.142:8000/play/a02q
