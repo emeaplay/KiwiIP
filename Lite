@@ -18,8 +18,8 @@ https://cdnh74.iblups.com/hls/irtp.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png",RPP Radio
-http://190.108.83.142:8000/play/a018/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png",CANAL N
+http://190.108.93.148:8000/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png",TELECOLOR
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSB3LJKFnmh9UMmI_C7KrcmsFuRs3M-IKRXTEDYkmDw&s",FUEGO TV
@@ -63,33 +63,33 @@ http://181.176.148.142:8000/play/a025
 http://181.176.148.142:8000/play/a027
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CANAL DE LAS ESTRELLAS
 http://181.78.12.119:8000/play/a03r
-#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TLNOVELAS Señal Chile
-http://190.108.83.142:8000/play/a01e/index.m3u8
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TELEMUNDO - TLNOVELAS Señal Chile
+http://190.108.85.116:8000/play/a09t/index.m3u8
 #EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TLNOVELAS Señal Colombia
 http://181.176.148.142:8000/play/a00e
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ESTRELLA TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",NOVELISIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-#EXTINF:11 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",COMEDY CENTRAL
-http://190.108.83.142:8000/play/a00j/index.m3u8
+#EXTINF:11 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CINECANAL - COMEDY CENTRAL
+http://190.108.85.116:8000/play/a088/index.m3u8
 
 #EXTINF:0 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/Discovery_thumb.png",DISCOVERY CHANNEL (INTERNEXA)
 http://181.176.148.142:8000/play/a028
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0px.png",History HD
-http://190.83.119.67:8000/play/a0px/index.m3u8
+http://190.83.119.67:8000/play/a0px/index.m3u8http://181.176.148.142:8000/play/a034
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r7.png",H2
 http://190.83.119.67:8000/play/a0r7/index.m3u8
-#EXTINF:0 tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET (INTERNEXA)
-http://181.176.148.142:8000/play/a034
+#EXTINF:0 tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET
+http://190.108.93.148:8000/play/a071/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",NATIONAL GEOGRAPHIC
 http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:0 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg",LOVE NATURE (INTERNEXA)
 http://181.176.148.142:8000/play/a02q
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-tlc_m.png",TLC Travel & Living
-http://190.108.83.142:8000/play/a01i/index.m3u8
+http://190.108.85.116:8000/play/a09o/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HOME & HEALTH
-http://190.108.83.142:8000/play/a01f/index.m3u8
+http://190.108.85.116:8000/play/a0a0/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FOOD NETWORK (INTERNEXA)
 http://181.176.148.142:8000/play/a02j
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",EL GOURMET
