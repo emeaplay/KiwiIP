@@ -151,9 +151,9 @@ http://181.176.148.142:8000/play/a020
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",Gol Peru HD
-http://190.108.93.148:8000/play/a0hk/index.m3u8
+http://190.43.92.98:8000/play/a0h9/index.m3u8
 #EXTINF:-1 tvg-logo="https://nteve.com/wp-content/uploads/2021/07/source-800x445.jpg",Movistar Deportes
-http://190.108.93.148:8000/play/a0fc/index.m3u8
+http://190.43.92.98:8000/play/a0gy/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN (INTERNEXA)
 http://181.176.148.142:8000/play/a02d
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",ESPN 2 (INTERNEXA)
