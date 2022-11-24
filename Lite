@@ -114,7 +114,7 @@ http://45.167.194.11:8001/play/a01v
 http://45.167.194.11:8001/play/a01x
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg?1",MX CLASIC
 http://45.167.194.11:8001/play/a01p
-#EXTINF:0 tvg-logo="https://wikidat.com/img/united-paramount-network-5f26654410a947a25dbd74cbd2185354.jpg",PARAMOUNT (INTERNEXA)
+#EXTINF:0 tvg-logo="https://wikidat.com/img/united-paramount-network-5f26654410a947a25dbd74cbd2185354.jpg",PARAMOUNT CHANNEL
 http://181.176.148.142:8000/play/a033
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MY TIME MOVIE España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
