@@ -1,4 +1,4 @@
-#EXTM3U url-tvg = “https://raw.githubusercontent.com/emeaplay/KiwiIP/main/WebGrab%2B%2B.config.xml”
+#EXTM3U url-tvg = “ ”
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png",WILLAX
 http://190.108.85.116:8000/play/a09z/index.m3u8
@@ -16,7 +16,7 @@ https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m
 https://cdnh74.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png",ATV+ Noticias
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV HD
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/150px-Canal_N_2022.png",CANAL N
 http://190.108.93.148:8000/play/a0fh/index.m3u8
