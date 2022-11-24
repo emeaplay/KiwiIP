@@ -49,7 +49,7 @@ http://190.83.119.67:8000/play/a0sk/index.m3u8
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png",STAR CHANNEL
 http://190.83.119.67:8000/play/a0si/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0us.png",AXN HD
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0us.png" tvg_id="axn_hd",AXN HD
 http://190.83.119.67:8000/play/a0us/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",UNIVERSAL TV
 http://190.108.85.116:8000/play/a089/index.m3u8
