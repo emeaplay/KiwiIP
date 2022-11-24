@@ -1,4 +1,4 @@
-#EXTM3U url-tvg = “ ”
+#EXTM3U url-tvg=“https://iptv-org.github.io/epg/guides/pe.xml”
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png",WILLAX
 http://190.108.85.116:8000/play/a09z/index.m3u8
