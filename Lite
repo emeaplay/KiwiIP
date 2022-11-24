@@ -10,7 +10,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://190.108.93.148:8000/play/a0fd/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",Panamericana
 http://190.108.93.148:8000/play/a0fe/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/PW1jvu3rmqqBBeSlW6fP_pyR6Dq260tz1TZ-kBH--MIt1eSLY8WpgHv-1aMUqKwoFoOJK-j_H6c=s900-c-k-c0x00ffffff-no-rj",CableVision TV
+#EXTINF:-1 tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png",CableVision TV
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png",TV Peru
 https://cdnh74.iblups.com/hls/irtp.m3u8
