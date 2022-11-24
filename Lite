@@ -65,15 +65,15 @@ http://181.176.148.142:8000/play/a025
 http://181.176.148.142:8000/play/a027
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png",CANAL DE LAS ESTRELLAS
 http://181.78.12.119:8000/play/a03r
-#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TELEMUNDO - TLNOVELAS Señal Chile
+#EXTINF:0 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg",TELEMUNDO
 http://190.108.85.116:8000/play/a09t/index.m3u8
-#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TLNOVELAS Señal Colombia
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TLNOVELAS Argentina
 http://181.176.148.142:8000/play/a00e
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png",ESTRELLA TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1424781074656288779/UJcdkaPC_400x400.jpg",NOVELISIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-#EXTINF:11 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CINECANAL - COMEDY CENTRAL
+#EXTINF:11 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CINECANAL
 http://190.108.85.116:8000/play/a088/index.m3u8
 
 #EXTINF:0 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/Discovery_thumb.png",DISCOVERY CHANNEL (INTERNEXA)
@@ -84,7 +84,7 @@ http://190.83.119.67:8000/play/a0px/index.m3u8http://181.176.148.142:8000/play/a
 http://190.83.119.67:8000/play/a0r7/index.m3u8
 #EXTINF:0 tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET
 http://190.108.93.148:8000/play/a071/index.m3u8
-#EXTINF:0 tvg-logo="https://www.nationalgeographicla.com/images/logo.png",NATIONAL GEOGRAPHIC
+#EXTINF:0 tvg-logo="https://www.nationalgeographicla.com/images/logo.png",NAT GEO
 http://190.108.83.142:8000/play/a00q/index.m3u8
 #EXTINF:0 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg",LOVE NATURE (INTERNEXA)
 http://181.176.148.142:8000/play/a02q
@@ -128,8 +128,8 @@ http://181.176.148.142:8000/play/a02s
 http://181.176.148.142:8000/play/a02x
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SERIES CLUB (INTERNEXA)
 http://181.176.148.142:8000/play/a02y
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SMART PELICULAS
-http://190.108.83.142:8000/play/a009/index.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DISTRITO COMEDIA
+http://45.167.194.11:8000/play/a01s
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ITV (INTERNEXA)
 http://181.176.148.142:8000/play/a02n
 
@@ -150,10 +150,10 @@ http://181.176.148.142:8000/play/a020
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",Gol Peru HD
-http://190.43.92.98:8000/play/a0h9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",GOLPERU HD
+http://190.43.232.31:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-logo="https://nteve.com/wp-content/uploads/2021/07/source-800x445.jpg",Movistar Deportes
-http://190.43.92.98:8000/play/a0gy/index.m3u8
+http://190.43.232.31:8000/play/a065/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN (INTERNEXA)
 http://181.176.148.142:8000/play/a02d
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",ESPN 2 (INTERNEXA)
