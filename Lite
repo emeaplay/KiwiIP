@@ -10,7 +10,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://190.108.93.148:8000/play/a0fd/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",Panamericana
 http://190.108.93.148:8000/play/a0fe/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png",CableVision TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/PW1jvu3rmqqBBeSlW6fP_pyR6Dq260tz1TZ-kBH--MIt1eSLY8WpgHv-1aMUqKwoFoOJK-j_H6c=s900-c-k-c0x00ffffff-no-rj",CableVision TV
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png",TV Peru
 https://cdnh74.iblups.com/hls/irtp.m3u8
@@ -18,7 +18,7 @@ https://cdnh74.iblups.com/hls/irtp.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png",CANAL N
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/150px-Canal_N_2022.png",CANAL N
 http://190.108.93.148:8000/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png",TELECOLOR
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
@@ -128,7 +128,7 @@ http://181.176.148.142:8000/play/a02s
 http://181.176.148.142:8000/play/a02x
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SERIES CLUB (INTERNEXA)
 http://181.176.148.142:8000/play/a02y
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DISTRITO COMEDIA
+#EXTINF:0 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300",DISTRITO COMEDIA
 http://45.167.194.11:8000/play/a01s
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ITV (INTERNEXA)
 http://181.176.148.142:8000/play/a02n
