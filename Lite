@@ -127,10 +127,10 @@ http://181.176.148.142:8000/play/a02s
 http://181.176.148.142:8000/play/a02x
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SERIES CLUB (INTERNEXA)
 http://181.176.148.142:8000/play/a02y
-#EXTINF:0 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300",DISTRITO COMEDIA
-http://45.167.194.11:8000/play/a01s
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ITV (INTERNEXA)
 http://181.176.148.142:8000/play/a02n
+#EXTINF:-1,Peru Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p8.png",Cartoon Network
 http://190.83.119.67:8000/play/a0p8/index.m3u8
@@ -184,6 +184,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
 #EXTINF:-1,CableNoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png",ESTRELLA NEWS
+https://m3u-editor.com/serve/televitolibre/510996712.m3u8
 
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",MEMORIAS TV MUSICA
 https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
