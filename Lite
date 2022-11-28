@@ -6,12 +6,12 @@ http://190.108.85.116:8000/play/a09z/index.m3u8
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png",BH TV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png",America TV
-http://190.108.93.148:8000/play/a0fd/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png",AMERICA TV
+http://190.108.85.116:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",Panamericana
-http://190.108.93.148:8000/play/a0fe/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png",CableVision TV
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+http://190.108.85.116:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png",MOVISTAR PLUS
+http://190.108.85.116:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png",TV Peru
 http://190.239.25.140:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png",ATV+ Noticias
@@ -26,17 +26,15 @@ https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png",GLOBAL
 http://190.108.93.148:8000/play/a0fj/index.m3u8
-#EXTINF:0 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg",Contacto TV
+#EXTINF:0 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg",CONTACTO TV
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9iJHuV_fcCiJoQghtX3ibUYwLpcVnSrZpv0SJkk2gnw&s",NATIVA TV
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png",DOBLE C
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png",Movistar Plus
-http://190.108.93.148:8000/play/a0ff/index.m3u8
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:0 tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png",CONECTA2
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1,BestCable
+#EXTINF:-1,BEST CABLE TV
 https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZQzxkIuCqJ-nqmXLm88bkb52qYTv6GYMvoQ93bgm1cU9ur7mbz-dcccoG4eUwYpF71s&usqp=CAU",Onda Digital TV
 https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
@@ -80,7 +78,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/Discovery_thumb.png",DISCOVERY
 http://181.176.148.142:8000/play/a028
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0px.png",History
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0px.png",HISTORY
 http://190.83.119.67:8000/play/a0px/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r7.png",H2
 http://190.83.119.67:8000/play/a0r7/index.m3u8
@@ -127,7 +125,7 @@ http://181.176.148.142:8000/play/a02s
 http://181.176.148.142:8000/play/a02x
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SERIES CLUB
 http://181.176.148.142:8000/play/a02y
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ITV (INTERNEXA)
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ITV
 http://181.176.148.142:8000/play/a02n
 #EXTINF:-1,Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
