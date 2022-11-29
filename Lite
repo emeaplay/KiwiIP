@@ -9,7 +9,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png",AMERICA TV
 http://190.108.85.116:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",Panamericana
-http://190.108.85.116:8000/play/a06i/index.m3u8
+http://190.43.232.31:8000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png",MOVISTAR PLUS
 http://190.108.85.116:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png",TV Peru
@@ -40,7 +40,7 @@ https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
 https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://tntla.com/img/share_link.jpg",TNT
-http://200.24.132.99:8000/play/a01n
+http://190.108.85.116:8000/play/a08h/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
 http://190.83.119.67:8000/play/a0sk/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",WARNER CHANNEL
@@ -85,7 +85,7 @@ http://190.83.119.67:8000/play/a0r7/index.m3u8
 #EXTINF:0 tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET
 http://190.108.93.148:8000/play/a071/index.m3u8
 #EXTINF:0 tvg-logo="https://www.nationalgeographicla.com/images/logo.png",NAT GEO
-http://200.24.132.99:8000/play/a01d
+http://190.108.85.116:8000/play/a086/index.m3u8
 #EXTINF:0 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg",LOVE NATURE
 http://181.176.148.142:8000/play/a02q
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-tlc_m.png",TLC Travel & Living
@@ -103,9 +103,9 @@ http://190.60.37.66:8015/play/a02z/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CARACOL
 http://190.60.37.66:8015/play/a02y/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TeleAmazonas
-http://200.24.132.99:8000/play/a02l
+http://45.224.23.209:8000/play/a007/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TC Television
-http://200.24.132.99:8000/play/a02j
+http://45.224.23.209:8000/play/a006/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TEVEX
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV SALUD
@@ -121,6 +121,8 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 http://181.176.148.142:8000/play/a02r
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MOVIES CLUB
 http://181.176.148.142:8000/play/a02s
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SPACE
+http://190.108.85.116:8000/play/a0ai/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RETRO
 http://181.176.148.142:8000/play/a02x
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SERIES CLUB
@@ -158,11 +160,11 @@ http://181.176.148.142:8000/play/a02e
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ESPN 3 (INTERNEXA)
 http://181.176.148.142:8000/play/a02f
 #EXTINF:0 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/04/04/765g3bb03d-espn-4-en-vivo.jpg",ESPN 4
-http://190.108.93.148:8000/play/a0gc/index.m3u8
+http://190.108.85.116:8000/play/a0a5/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN EXTRA HD
 http://181.78.12.119:8000/play/a03p
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FOX SPORTS 2
-http://200.24.132.99:8000/play/a028
+http://190.108.85.116:8000/play/a09r/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",QATAR 2022
 http://181.176.148.142:8000/play/a009
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",Gol TV
