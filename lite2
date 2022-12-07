@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
+#EXTINF:-1,MUNDIAL QATAR 2022
+http://181.176.148.142:8000/play/a009
 #EXTINF:-1,A&E
 http://190.83.119.67:8000/play/a0s8/index.m3u8
 #EXTINF:-1,A&E HD
@@ -260,7 +262,6 @@ http://190.83.119.67:8000/play/a0rn/index.m3u8
 http://190.83.119.67:8000/play/a0s6/index.m3u8
 #EXTINF:-1,WARNER HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
-
 #EXTINF:-1,11 - Repretel
 http://190.83.119.67:8000/play/a0r0/index.m3u8
 #EXTINF:-1,13-Sinart
@@ -303,8 +304,6 @@ http://190.83.119.67:8000/play/a0ru/index.m3u8
 http://190.83.119.67:8000/play/a0rx/index.m3u8
 #EXTINF:-1,Canal 2 - PAN
 http://190.83.119.67:8000/play/a0p6/index.m3u8
-#EXTINF:-1,Canal 25
-http://190.83.119.67:8000/play/a0tp/index.m3u8
 #EXTINF:-1,Canal 3 - GUA
 http://190.83.119.67:8000/play/a0rs/index.m3u8
 #EXTINF:-1,Canal 4 - NIC
@@ -321,10 +320,6 @@ http://190.83.119.67:8000/play/a0rr/index.m3u8
 http://190.83.119.67:8000/play/a0rp/index.m3u8
 #EXTINF:-1,Canal Azteca - GUA
 http://190.83.119.67:8000/play/a0rq/index.m3u8
-#EXTINF:-1,Canal Kike
-http://190.83.119.67:8000/play/a0v1/index.m3u8
-#EXTINF:-1,Canal Santa Rosa
-http://190.83.119.67:8000/play/a0v8/index.m3u8
 #EXTINF:-1,Color Vision 9 - RD
 http://190.83.119.67:8000/play/a0s0/index.m3u8
 #EXTINF:-1,Digital 15 - RD
@@ -349,8 +344,6 @@ http://190.83.119.67:8000/play/a0og/index.m3u8
 http://190.83.119.67:8000/play/a0ue/index.m3u8
 #EXTINF:-1,NEXT - PAN
 http://190.83.119.67:8000/play/a0qw/index.m3u8
-#EXTINF:-1,Nacion
-http://190.83.119.67:8000/play/a0vd/index.m3u8
 #EXTINF:-1,Nacion TV
 http://190.83.119.67:8000/play/a0ve/index.m3u8
 #EXTINF:-1,RHEMA TV
@@ -385,17 +378,12 @@ http://190.83.119.67:8000/play/a0of/index.m3u8
 http://190.83.119.67:8000/play/a0r1/index.m3u8
 #EXTINF:-1,ZooMoo
 http://190.83.119.67:8000/play/a0nt/index.m3u8
-#EXTINF:-1,choca
-http://190.83.119.67:8000/play/a0v3/index.m3u8
-
 #EXTINF:-1,CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,Canal Caracol
 http://190.60.37.66:8015/play/a02y/index.m3u8
 #EXTINF:-1,Canal RCN
 http://190.60.37.66:8015/play/a02z/index.m3u8
-#EXTINF:-1,Cine AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1,Cinecanal
 http://190.60.37.66:8015/play/a00g/index.m3u8
 #EXTINF:-1,EnerGeek
@@ -418,151 +406,61 @@ https://s2.tvdatta.com:3849/hybrid/play.m3u8
 http://190.122.96.187:8888/http/006
 #EXTINF:-1,ShowVEN
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1460319039494963209/A1vzUJp3_400x400.jpg",Nacional Tv
+#EXTINF:-1,Nacional Tv
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://geniostv.pe/wp-content/uploads/2021/07/logo2.jpg",GENIOS TV
+#EXTINF:-1,GENIOS TV
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",NAZARENAS TV
-https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PERU GO
-http://190.108.83.142:8000/play/a006/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV COSMOS
+#EXTINF:-1,TV COSMOS
 http://181.176.148.142:8000/play/a026
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PIURA TV
-http://190.108.83.142:8000/play/a00d/index.m3u8
-#EXTINF:0 tvg-logo="https://www.coolstreaming.us/img/ch/ima76406530338.jpg",PALMERAS TV
-http://190.108.83.142:8000/play/a00a/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZdFaWBZVUiv0PvjYHbwwT2_PkoRzeFjw3MD9mWNJLzwAFvR4GHvD0df6nj-75AmQIxM&usqp=CAU",ON CHANNEL
-http://190.108.83.142:8000/play/a00c/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CTC TV
-http://190.108.83.142:8000/play/a007/index.m3u8
-
-VARIADOS
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Animal_Planet_logo_2006.png",ANIMAL PLANET
-http://190.108.83.142:8000/play/a01g/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CGTN CHINA LATAM
+#EXTINF:-1,CGTN CHINA LATAM
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CITY TV
-http://190.108.83.142:8000/play/a008/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DISCOVERY THEATER (INTERNEXA)
+#EXTINF:-1,DISCOVERY THEATER (INTERNEXA)
 http://181.176.148.142:8000/play/a02m
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DISCOVERY TURBO (INTERNEXA)
+#EXTINF:-1,DISCOVERY TURBO (INTERNEXA)
 http://181.176.148.142:8000/play/a02a
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DISCOVERY TURBO
-http://190.108.83.142:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",El Chavo 24Horas
-https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",EVA STREAM CHANNEL
+#EXTINF:-1,EVA STREAM CHANNEL
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_eurochannel_m.png",EUROCHANNEL
+#EXTINF:-1,EUROCHANNEL
 http://181.176.148.142:8000/play/a01j
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9ZjhlndA5-cZlNi2Lh6NyI2iDXWeCGgGec7_NFlw=s900-c-k-c0x00ffffff-no-rj",EURONEWS (INTERNEXA)
+#EXTINF:-1,EURONEWS (INTERNEXA)
 http://181.176.148.142:8000/play/a031
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FIT TV
-http://190.108.83.142:8000/play/a00z/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/HGTV_US_Logo_2015.svg",HGTV
-http://190.108.83.142:8000/play/a01j/index.m3u8
-
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",NET TV
+#EXTINF:-1,NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",NET TV Plus
+#EXTINF:-1,NET TV Plus
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",OLD CITY (INTERNEXA)
+#EXTINF:-1,OLD CITY (INTERNEXA)
 http://181.176.148.142:8000/play/a02u
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/616231451403624448/un6zS-V-_400x400.png",ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1450346286.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_paramount-channel_m.png",PARAMOUNT
-http://190.108.83.142:8000/play/a01o/index.m3u8
-
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RAKUTEN COMEDIA
-https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RETROPLUS Movies
+#EXTINF:-1,RETROPLUS Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SABER MAS
+#EXTINF:-1,SABER MAS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tru-tv_m.png",TRU TV (INTERNEXA)
-http://181.176.148.142:8000/play/a030
-
-INFANTIL
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY JR
-http://190.108.83.142:8000/play/a01q/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",DISCOVERY KIDS
-http://190.108.83.142:8000/play/a01r/index.m3u8
-
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FMH KIDS (INTERNEXA)
+#EXTINF:-1,FMH KIDS (INTERNEXA)
 http://181.176.148.142:8000/play/a01z
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",NICK
-http://190.108.83.142:8000/play/a00v/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ZOOMOO (INTERNEXA)
+#EXTINF:-1,ZOOMOO (INTERNEXA)
 http://181.176.148.142:8000/play/a032
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY CHANNEL
-http://190.108.83.142:8000/play/a01d/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY CHANNEL(INTERNEXA)
+#EXTINF:-1,DISNEY CHANNEL(INTERNEXA)
 http://181.176.148.142:8000/play/a02b
-#EXTINF:0 tvg-logo="https://images-platform.99static.com/Axl-tfha2Ryf7Hz8mJoI-tAQ_sg=/279x0:1279x1000/500x500/top/smart/99designs-contests-attachments/59/59755/attachment_59755304",SMART KIDS
-http://190.108.83.142:8000/play/a00g/index.m3u8
-
-
-DEPORTES
-
-
-#EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN Colombia
+#EXTINF:-1,ESPN Colombia
 http://200.24.132.99:8000/play/a02m
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",ESPN 2 Colombia
+#EXTINF:-1,ESPN 2 Colombia
 http://200.24.132.99:8000/play/a021
-#EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9",La Liga Premier | Paramount+
+#EXTINF:-1,La Liga Premier | Paramount+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Best Cable Sports
+#EXTINF:-1,Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_dpLWFNu13u9v06n_j3753mbyY8DzOOm93ehtcAQ=s900-c-k-c0x00ffffff-no-rj",Ovacion TV
+#EXTINF:-1,Ovacion TV
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PX Sports
-http://181.176.148.142:8000/play/a01g
-
-
-MUSICA
-
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",DESPECHADA MUSICA
-https://servidordevideo.co:3077/hybrid/play.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",RETROPLUS Musica 3
+#EXTINF:-1,RAKUTEN COMEDIA
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,RETROPLUS Musica 3
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RAYMI (INTERNEXA)
+#EXTINF:-1,RAYMI (INTERNEXA)
 http://181.176.148.142:8000/play/a02w
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",TIERRA MIA
-http://190.108.83.142:8000/play/a00l/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",ZETA ROCK & POP (INTERNEXA)
+#EXTINF:-1,ZETA ROCK & POP (INTERNEXA)
 http://181.176.148.142:8000/play/a01u
 
-
+#EXTINF:-1,CANAL CINE AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1,Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Pluto TV Cine Comedia
@@ -615,327 +513,317 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4ec
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Hells Kitchen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1, S01 E07 - Sabrina The Hottest Witch 
+#EXTINF:-1, S01 E07 - Sabrina The Hottest Witch
 https://archive.org/download/sthb_202109/S01E07.mp4?null=0
-#EXTINF:-1, S01 E08 - Sabrina The Hottest Witch 
+#EXTINF:-1, S01 E08 - Sabrina The Hottest Witch
 https://archive.org/download/sthb_202109/S01E08.mp4?null=0
-#EXTINF:-1, S01 E09 - Sabrina The Hottest Witch 
+#EXTINF:-1, S01 E09 - Sabrina The Hottest Witch
 https://archive.org/download/sthb_202109/S01E09.mp4?null=0
-#EXTINF:-1, S01 E10 - Sabrina The Hottest Witch 
-https://archive.org/download/sthb_202109/S01E010.mp4?null=0
-#EXTINF:-2021, S01 E11 - Sabrina The Hottest Witch 
-https://archive.org/download/sthb_202109/S01E011.mp4?null=0
-#EXTINF:-2021, S01 E12 - Sabrina The Hottest Witch 
-https://archive.org/download/sthb_202109/S01E012.mp4?null=0
-#EXTINF:-2021, S01 E13 - Sabrina The Hottest Witch 
+#EXTINF:-1, S01 E13 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E13.mp4?null=0
-#EXTINF:-2021, S01 E14 - Sabrina The Hottest Witch 
+#EXTINF:-1, S01 E14 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E14.mp4?null=0
-#EXTINF:-2021, S01 E15 - Sabrina The Hottest Witch
+#EXTINF:-1, S01 E15 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E15.mp4?null=0
-#EXTINF:-2021, S01 E16 - Sabrina The Hottest Witch
+#EXTINF:-1, S01 E16 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E16.mp4?null=0
-#EXTINF:-2021, S01 E17 - Sabrina The Hottest Witch
+#EXTINF:-1, S01 E17 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E17.mp4?null=0
-#EXTINF:-2021, S01E18 - Sabrina The Hottest Witch
+#EXTINF:-1, S01E18 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E18.mp4?null=0
-#EXTINF:-2021, S01 E19 - Sabrina The Hottest Witch
+#EXTINF:-1, S01 E19 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E19.mp4?null=0
-#EXTINF:-2021, S01 E20 - Sabrina The Hottest Witch
+#EXTINF:-1, S01 E20 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E20.mp4?null=0
-#EXTINF:-2021, S01 E21 - Sabrina The Hottest Witch 
+#EXTINF:-1, S01 E21 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E21.mp4?null=0
-#EXTINF:-2021, S01 E22 - Sabrina The Hottest Witch
+#EXTINF:-1, S01 E22 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E22.mp4?null=0
-#EXTINF:-2021, S01 E23 - Sabrina The Hottest Witch
+#EXTINF:-1, S01 E23 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E23.mp4?null=0
-#EXTINF:-2021, S01 E24 - Sabrina The Hottest Witch
+#EXTINF:-1, S01 E24 - Sabrina The Hottest Witch
 https://archive.org/download/sthw-s01_202109/S01E24.mp4?null=0
-#EXTINF:-2021, S02 E01 - Sabrina The Hottest Witch 
+#EXTINF:-1, S02 E01 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S02E01.mp4?null=0
-#EXTINF:-2021, S02 E02 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E02 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S02E02.mp4?null=0
-#EXTINF:-2021, S02 E03 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E03 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S02E03.mp4?null=0
-#EXTINF:-2021, S02 E04 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E04 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S02E04.mp4?null=0
-#EXTINF:-2021, S02 E05 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E05 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S02E05.mp4?null=0
-#EXTINF:-2021, S02 E06 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E06 - Sabrina The Hottest Witch
 https://archive.org/serve/s-02-e-18_202109/S02E06.mp4?null=0
-#EXTINF:-2021, S02 E07 - Sabrina The Hottest Witch 
+#EXTINF:-1, S02 E07 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S02E07.mp4?null=0
-#EXTINF:-2021, S02 E08 - Sabrina The Hottest Witch 
+#EXTINF:-1, S02 E08 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S02E08.mp4?null=0
-#EXTINF:-2021, S02 E09 - Sabrina The Hottest Witch 
+#EXTINF:-1, S02 E09 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S02E09.mp4?null=0
-#EXTINF:-2021, S02 E10 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E10 - Sabrina The Hottest Witch
 https://archive.org/serve/sthw_202109/S02E10.mp4?null=0
-#EXTINF:-2021, S02 E11 - Sabrina The Hottest Witch 
+#EXTINF:-1, S02 E11 - Sabrina The Hottest Witch
 https://archive.org/serve/sthw_202109/S02E11.mp4?null=0
-#EXTINF:-2021, S02 E12 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E12 - Sabrina The Hottest Witch
 https://archive.org/serve/sthw_202109/S02E12.mp4?null=0
-#EXTINF:-2021, S02 E13 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E13 - Sabrina The Hottest Witch
 https://archive.org/serve/sthw_202109/S02E13.mp4?null=0
-#EXTINF:-2021, S02 E14 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E14 - Sabrina The Hottest Witch
 https://archive.org/serve/sthw_202109/S02E14.mp4?null=0
-#EXTINF:-2021, S02 E15 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E15 - Sabrina The Hottest Witch
 https://archive.org/serve/sthw_202109/S02E15.mp4?null=0
-#EXTINF:-2021, S02 E16 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E16 - Sabrina The Hottest Witch
 https://archive.org/serve/sthw_202109/S02E16.mp4?null=0
-#EXTINF:-2021, S02 E17 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E17 - Sabrina The Hottest Witch
 https://archive.org/serve/sthw_202109/S02E17.mp4?null=0
-#EXTINF:-2021, S02 E18 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E18 - Sabrina The Hottest Witch
 https://archive.org/serve/s-02-e-18_202109/S02E18.mp4?null=0
-#EXTINF:-2021, S02 E19 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E19 - Sabrina The Hottest Witch
 https://archive.org/serve/sttw_20210918/S02E19.mp4?null=0
-#EXTINF:-2021, S02 E20 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E20 - Sabrina The Hottest Witch
 https://archive.org/serve/sttw_20210918/S02E20.mp4?null=0
-#EXTINF:-2021, S02 E21 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E21 - Sabrina The Hottest Witch
 https://archive.org/serve/sttw_20210918/S02E21.mp4?null=0
-#EXTINF:-2021, S02 E22 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E22 - Sabrina The Hottest Witch
 https://archive.org/serve/sttw_20210918/S02E22.mp4?null=0
-#EXTINF:-2021, S02 E23 - Sabrina The Hottest Witch - Sabrina's Choice
+#EXTINF:-1, S02 E23 - Sabrina The Hottest Witch - Sabrina's Choice
 https://archive.org/serve/s-02-e-18_202109/S02E23.mp4?null=0
-#EXTINF:-2021, S02 E24 - Sabrina The Hottest Witch
+#EXTINF:-1, S02 E24 - Sabrina The Hottest Witch
 https://archive.org/serve/sttw_20210918/S02E24.mp4?null=0
-#EXTINF:-2021, S02 E25 - Sabrina The Hottest Witch 
+#EXTINF:-1, S02 E25 - Sabrina The Hottest Witch
 https://archive.org/serve/sttw_20210918/S02E25.mp4?null=0
-#EXTINF:-2021, S02 E26 - Sabrina The Hottest Witch 
+#EXTINF:-1, S02 E26 - Sabrina The Hottest Witch
 https://archive.org/serve/sttw_20210918/S02E26.mp4?null=0
-#EXTINF:-2021, S03 E01 - Sabrina The Hottest Witch  
+#EXTINF:-1, S03 E01 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E01.mp4?null=0
-#EXTINF:-2021, S03 E02 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E02 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E02.mp4?null=0
-#EXTINF:-2021, S03 E03 - Sabrina The Hottest Witch | Suspicious Minds 1998
+#EXTINF:-1, S03 E03 - Sabrina The Hottest Witch | Suspicious Minds 1998
 https://archive.org/serve/s-03-e-03_202109/S03E03.mp4?null=0
-#EXTINF:-2021, S03 E04 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E04 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E04.mp4?null=0
-#EXTINF:-2021, S03 E05 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E05 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E05.mp4?null=0
-#EXTINF:-2021, S03 E06 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E06 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E06.mp4?null=0
-#EXTINF:-2021, S03 E07 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E07 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E07.mp4?null=0
-#EXTINF:-2021, S03 E08 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E08 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E08.mp4?null=0
-#EXTINF:-2021, S03 E09 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E09 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E09.mp4?null=0
-#EXTINF:-2021, S03 E10 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E10 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E10.mp4?null=0
-#EXTINF:-2021, S03 E11 - Sabrina The Hottest Witch 
+#EXTINF:-1, S03 E11 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E11.mp4?null=0
-#EXTINF:-2021, S03 E12 - Sabrina The Hottest Witch 
+#EXTINF:-1, S03 E12 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E12.mp4?null=0
-#EXTINF:-2021, S03 E13 - Sabrina The Hottest Witch 
+#EXTINF:-1, S03 E13 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E13.mp4?null=0
-#EXTINF:-2021, S03 E14 - Sabrina The Hottest Witch 
+#EXTINF:-1, S03 E14 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E14.mp4?null=0
-#EXTINF:-2021, S03 E15 - Sabrina The Hottest Witch 
+#EXTINF:-1, S03 E15 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E15.mp4?null=0
-#EXTINF:-2021, S03 E16 - Sabrina The Hottest Witch 
+#EXTINF:-1, S03 E16 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E16.mp4?null=0
-#EXTINF:-2021, S03 E17 - Sabrina The Hottest Witch 
+#EXTINF:-1, S03 E17 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E17.mp4?null=0
-#EXTINF:-2021, S03 E18 - Sabrina The Hottest Witch 
+#EXTINF:-1, S03 E18 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E18.mp4?null=0
-#EXTINF:-2021, S03 E19 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E19 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E19.mp4?null=0
-#EXTINF:-2021, S03 E20 - Sabrina The Hottest Witch 
+#EXTINF:-1, S03 E20 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S03E20.mp4?null=0
-#EXTINF:-2021, S03 E21 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E21 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S03E21.mp4?null=0
-#EXTINF:-2021, S03 E22 - Sabrina The Hottest Witch 
+#EXTINF:-1, S03 E22 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S03E22.mp4?null=0
-#EXTINF:-2021, S03 E23 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E23 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S03E23.mp4?null=0
-#EXTINF:-2021, S03 E24 - Sabrina The Hottest Witch
+#EXTINF:-1, S03 E24 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S03E24.mp4?null=0
-#EXTINF:-2021, S03 E25 - Sabrina The Hottest Witch 
+#EXTINF:-1, S03 E25 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_20210917/S03E25.mp4?null=0
-#EXTINF:-2021, S04 E01 - Sabrina The Hottest Witch
+#EXTINF:-1, S04 E01 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E01.mp4?null=0
-#EXTINF:-2021, S04 E02 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E02 - Sabrina The Hottest Witch
 https://archive.org/serve/s-03-e-03_202109/S04E02.mp4?null=0
-#EXTINF:-2021, S04 E03 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E03 - Sabrina The Hottest Witch
 https://archive.org/serve/s-03-e-03_202109/S04E03.mp4?null=0
-#EXTINF:-2021, S04 E04 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E04 - Sabrina The Hottest Witch
 https://archive.org/serve/s-04-e-11_202109/S04E04.mp4?null=0
-#EXTINF:-2021, S04 E05 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E05 - Sabrina The Hottest Witch
 https://archive.org/serve/s-04-e-11_202109/S04E05.mp4?null=0
-#EXTINF:-2021, S04 E06 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E06 - Sabrina The Hottest Witch
 https://archive.org/serve/s-04-e-11_202109/S04E06.mp4?null=0
-#EXTINF:-2021, S04 E07 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E07 - Sabrina The Hottest Witch
 https://archive.org/serve/s-04-e-11_202109/S04E07.mp4?null=0
-#EXTINF:-2021, S04 E08 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E08 - Sabrina The Hottest Witch
 https://archive.org/serve/s-04-e-11_202109/S04E08.mp4?null=0
-#EXTINF:-2021, S04 E09 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E09 - Sabrina The Hottest Witch
 https://archive.org/serve/s-04-e-11_202109/S04E09.mp4?null=0
-#EXTINF:-2021, S04 E10 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E10 - Sabrina The Hottest Witch
 https://archive.org/serve/s-04-e-11_202109/S04E10.mp4?null=0
-#EXTINF:-2021, S04 E11 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E11 - Sabrina The Hottest Witch
 https://archive.org/serve/s-04-e-11_202109/S04E11.mp4?null=0
-#EXTINF:-2021, S04 E12 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E12 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E12.mp4?null=0
-#EXTINF:-2021, S04 E13 - Sabrina The Hottest Witch
+#EXTINF:-1, S04 E13 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E13.mp4?null=0
-#EXTINF:-2021, S04 E14 - Sabrina The Hottest Witch
+#EXTINF:-1, S04 E14 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E14.mp4?null=0
-#EXTINF:-2021, S04 E15 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E15 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E15.mp4?null=0
-#EXTINF:-2021, S04 E16 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E16 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E16.mp4?null=0
-#EXTINF:-2021, S04 E17 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E17 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E17.mp4?null=0
-#EXTINF:-2021, S04 E18 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E18 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E18.mp4?null=0
-#EXTINF:-2021, S04 E19 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E19 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E19.mp4?null=0
-#EXTINF:-2021, S04 E20 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E20 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E20.mp4?null=0
-#EXTINF:-2021, S04 E21 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E21 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E21.mp4?null=0
-#EXTINF:-2021, S04 E22 - Sabrina The Hottest Witch 
+#EXTINF:-1, S04 E22 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S04E22.mp4?null=0
-#EXTINF:-2021, S05 E01 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E01 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E01.mp4?null=0
-#EXTINF:-2021, S05 E02 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E02 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E02.mp4?null=0
-#EXTINF:-2021, S05 E03 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E03 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E03.mp4?null=0
-#EXTINF:-2021, S05 E04 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E04 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E04.mp4?null=0
-#EXTINF:-2021, S05 E05 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E05 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E05.mp4?null=0
-#EXTINF:-2021, S05 E06 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E06 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E06.mp4?null=0
-#EXTINF:-2021, S05 E07 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E07 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E07.mp4?null=0
-#EXTINF:-2021, S05 E08 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E08 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E08.mp4?null=0
-#EXTINF:-2021, S05 E09 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E09 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E09.mp4?null=0
-#EXTINF:-2021, S05 E10 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E10 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E10.mp4?null=0
-#EXTINF:-2021, S05 E11 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E11 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E11.mp4?null=0
-#EXTINF:-2021, S05 E12 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E12 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E12.mp4?null=0
-#EXTINF:-2021, S05 E13 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E13 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E13.mp4?null=0
-#EXTINF:-2021, S05 E14 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E14 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E14.mp4?null=0
-#EXTINF:-2021, S05 E15 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E15 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E15.mp4?null=0
-#EXTINF:-2021, S05 E16 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E16 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E16.mp4?null=0
-#EXTINF:-2021, S05 E17 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E17 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E17.mp4?null=0
-#EXTINF:-2021, S05 E18 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E18 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E18.mp4?null=0
-#EXTINF:-2021, S05 E19 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E19 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E19.mp4?null=0
-#EXTINF:-2021, S05 E20 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E20 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E20.mp4?null=0
-#EXTINF:-2021, S05 E21 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E21 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E21.mp4?null=0
-#EXTINF:-2021, S05 E22 - Sabrina The Hottest Witch 
+#EXTINF:-1, S05 E22 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S05E22.mp4?null=0
-#EXTINF:-2021, S06 E01 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E01 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E01.mp4?null=0
-#EXTINF:-2021, S06 E02 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E02 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E02.mp4?null=0
-#EXTINF:-2021, S06 E03 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E03 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E03.mp4?null=0
-#EXTINF:-2021, S06 E04 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E04 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E04.mp4?null=0
-#EXTINF:-2021, S06 E05 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E05 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E05.mp4?null=0
-#EXTINF:-2021, S06 E06 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E06 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E06.mp4?null=0
-#EXTINF:-2021, S06 E07 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E07 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E07.mp4?null=0
-#EXTINF:-2021, S06 E08 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E08 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E08.mp4?null=0
-#EXTINF:-2021, S06 E09 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E09 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E09.mp4?null=0
-#EXTINF:-2021, S06 E10 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E10 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E10.mp4?null=0
-#EXTINF:-2021, S06 E11 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E11 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E11.mp4?null=0
-#EXTINF:-2021, S06 E12 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E12 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E12.mp4?null=0
-#EXTINF:-2021, S06 E13 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E13 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E13.mp4?null=0
-#EXTINF:-2021, S06 E14 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E14 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E14.mp4?null=0
-#EXTINF:-2021, S06 E15 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E15 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E15.mp4?null=0
-#EXTINF:-2021, S06 E16 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E16 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E16.mp4?null=0
-#EXTINF:-2021, S06 E17 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E17 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E17.mp4?null=0
-#EXTINF:-2021, S06 E18 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E18 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E18.mp4?null=0
-#EXTINF:-2021, S06 E19 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E19 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E19.mp4?null=0
-#EXTINF:-2021, S06 E20 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E20 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E20.mp4?null=0
-#EXTINF:-2021, S06 E21 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E21 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E21.mp4?null=0
-#EXTINF:-2021, S06 E22 - Sabrina The Hottest Witch 
+#EXTINF:-1, S06 E22 - Sabrina The Hottest Witch
 https://archive.org/serve/sabrina_202109/S06E22.mp4?null=0
-#EXTINF:-2021, S07 E01 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E01 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E01.mp4?null=0
-#EXTINF:-2021, S07 E02 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E02 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E02.mp4?null=0
-#EXTINF:-2021, S07 E03 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E03 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E03.mp4?null=0
-#EXTINF:-2021, S07 E04 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E04 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E04.mp4?null=0
-#EXTINF:-2021, S07 E05 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E05 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E05.mp4?null=0
-#EXTINF:-2021, S07 E06 - Sabrina The Hottest Witch - Unplugged Summary 
+#EXTINF:-1, S07 E06 - Sabrina The Hottest Witch - Unplugged Summary
 https://archive.org/serve/s-03-e-03_202109/S07E06.mp4?null=0
-#EXTINF:-2021, S07 E07 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E07 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E07.mp4?null=0
-#EXTINF:-2021, S07 E08 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E08 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E08.mp4?null=0
-#EXTINF:-2021, S07 E09 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E09 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E09.mp4?null=0
-#EXTINF:-2021, S07 E10 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E10 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E10.mp4?null=0
-#EXTINF:-2021, S07 E11 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E11 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E11.mp4?null=0
-#EXTINF:-2021, S07 E12 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E12 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E12.mp4?null=0
-#EXTINF:-2021, S07 E13 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E13 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E13.mp4?null=0
-#EXTINF:-2021, S07 E14 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E14 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E14.mp4?null=0
-#EXTINF:-2021, S07 E15 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E15 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E15.mp4?null=0
-#EXTINF:-2021, S07 E16 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E16 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E16.mp4?null=0
-#EXTINF:-2021, S07 E17 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E17 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E17.mp4?null=0
-#EXTINF:-2021, S07 E18 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E18 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E18.mp4?null=0
-#EXTINF:-2021, S07 E19 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E19 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E19.mp4?null=0
-#EXTINF:-2021, S07 E20 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E20 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E20.mp4?null=0
-#EXTINF:-2021, S07 E21 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E21 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E21.mp4?null=0
-#EXTINF:-2021, S07 E22 - Sabrina The Hottest Witch 
+#EXTINF:-1, S07 E22 - Sabrina The Hottest Witch
 https://archive.org/download/sabrina_202109/S07E22.mp4?null=0
-
-#EXTINF:0, Sabrina la Bruja adolescente La Pelicula
+#EXTINF:-1, Sabrina la Bruja adolescente La Pelicula
 https://archive.org/download/s-4br-1n-4-v-1s-1t-4-roma-1998/S4br1n4%2C%20una%20bruja%20adolescente%20p3l1cvl4%20-%201996.mp4
-#EXTINF:0, Sabrina Visita Roma
+#EXTINF:-1, Sabrina Visita Roma
 https://archive.org/download/s-4br-1n-4-v-1s-1t-4-roma-1998/S4br1n4%20v1s1t4%20Roma%20-%201998.mp4
-#EXTINF:0, Sabrina Va a Australia
+#EXTINF:-1, Sabrina Va a Australia
 https://archive.org/download/s-4br-1n-4-va-a-australia-1999/S4br1n4%20Va%20a%20Australia%20-%201999%20.mp4
-
