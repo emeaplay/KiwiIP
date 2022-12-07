@@ -10,6 +10,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 http://190.108.85.116:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",Panamericana
 http://190.43.232.31:8000/play/a07u/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",BEST CABLE TV
+https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png",Canal Claro
 http://209.45.81.8:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png",TV Peru
@@ -18,7 +20,7 @@ http://190.239.25.140:8000/play/a02j/index.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/150px-Canal_N_2022.png",TOONCAST - CANAL N
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/150px-Canal_N_2022.png",TOONCAST
 http://190.108.85.116:8000/play/a0g3/index.m3u8
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png",TELECOLOR
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
@@ -34,8 +36,7 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:0 tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png",CONECTA2
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",BEST CABLE TV
-https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZQzxkIuCqJ-nqmXLm88bkb52qYTv6GYMvoQ93bgm1cU9ur7mbz-dcccoG4eUwYpF71s&usqp=CAU",Onda Digital TV
 https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
 
