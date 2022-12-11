@@ -18,7 +18,7 @@ http://190.239.25.140:8000/play/a02j/index.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Canal_N_2022.png/150px-Canal_N_2022.png",TOONCAST
+#EXTINF:0 tvg-logo=" ",TOONCAST
 http://190.108.85.116:8000/play/a0g3/index.m3u8
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png",TELECOLOR
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
@@ -41,17 +41,17 @@ https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://tntla.com/img/share_link.jpg",TNT
 http://190.108.85.116:8000/play/a08h/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
-http://190.83.119.67:8000/play/a0sk/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",WARNER CHANNEL
-http://190.83.119.67:8000/play/a0tk/index.m3u8
+http://200.24.132.99:8000/play/a02o
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",WARNER
+http://200.24.132.99:8000/play/a01z
 #EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png",STAR CHANNEL
-http://190.83.119.67:8000/play/a0si/index.m3u8
+http://190.108.93.148:8000/play/a0dj/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0us.png" tvg_id="axn_hd",AXN
-http://190.83.119.67:8000/play/a0us/index.m3u8
+http://200.24.132.99:8000/play/a02p
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",UNIVERSAL TV
 http://190.108.85.116:8000/play/a089/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/64/Studio_Universal_2016.svg/revision/latest?cb=20200228191104&path-prefix=es",STUDIO UNIVERSAL
-http://190.83.119.67:8000/play/a0q2/index.m3u8
+
 #EXTINF:11 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CINECANAL
 http://190.108.85.116:8000/play/a088/index.m3u8
 #EXTINF:0 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png",FX
