@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=“https://iptv-org.github.io/epg/guides/pe.xml”
-x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
+tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png",WILLAX
 http://190.108.93.148:8000/play/a0gl/index.m3u8
