@@ -60,8 +60,8 @@ http://181.176.148.142:8000/play/a023
 http://181.176.148.142:8000/play/a024
 #EXTINF:0 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png",CINE PREMIUM
 http://181.176.148.142:8000/play/a025
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",TBS
-http://200.24.132.99:8000/play/a02d
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",DHE
+http://181.176.148.142:8000/play/a027
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png",CANAL DE LAS ESTRELLAS
 http://181.78.12.119:8000/play/a03r
 #EXTINF:0 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg",TELEMUNDO
@@ -134,17 +134,18 @@ http://200.48.212.114:8000/play/a03i/index.m3u8
 http://200.24.132.99:8000/play/a01h
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",E! ENTERTAINMENT
 http://200.24.132.99:8000/play/a020
-
-#EXTINF:-1,Peru Channel
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PERU CHANNEL
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:0 tvg-logo=" ",FX
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FX
 http://190.60.37.69:8015/play/a047/index.m3u8
-#EXTINF:0 tvg-logo=" ",GOLDEN PLUS
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",GOLDEN PLUS
 http://190.108.93.148:8000/play/a0if/index.m3u8
-#EXTINF:0 tvg-logo=" ",ZONA LATINA
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ZONA LATINA
 http://190.131.228.59:8000/play/a043/index.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TBS
+http://200.24.132.99:8000/play/a02d
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p8.png",Cartoon Network
 http://200.24.132.99:8000/play/a01m
