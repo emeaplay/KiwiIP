@@ -105,8 +105,6 @@ http://190.60.37.66:8015/play/a02y/index.m3u8
 http://200.24.132.99:8000/play/a006
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TC Television
 http://200.24.132.99:8000/play/a00m
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RTS
-http://200.24.132.99:8000/play/a004
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MEGA+
 https://marine2.miplay.cl/megaplus/mono.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LA RED
