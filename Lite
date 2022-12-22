@@ -111,8 +111,10 @@ https://marine2.miplay.cl/megaplus/mono.m3u8
 https://marine2.miplay.cl/lared/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VENEVISION
+#EXTINF:0 tvg-logo="https://www.seekpng.com/png/detail/760-7607535_venevision-usa-logo-de-venevision.png",VENEVISION
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png",VE PLUS
+http://190.122.96.187:8888/http/006
 
 #EXTINF:0 tvg-logo="https://wikidat.com/img/united-paramount-network-5f26654410a947a25dbd74cbd2185354.jpg",PARAMOUNT CHANNEL
 http://181.176.148.142:8000/play/a033
