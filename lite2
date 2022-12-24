@@ -11,11 +11,9 @@ https://siloh.pluto.tv/lilo/production/TelefePluto/master_1.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CANAL 4 JUJUY
-https://5cd577a3dd8ec.streamlock.net/canal4/manifest.smil/chunklist_w1708984675_b121000.m3u8
+https://5cd577a3dd8ec.streamlock.net/canal4/manifest.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ZOOM TV
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TELECARIBE
-https://dcs-live-ue1.mp.lura.live/server/play/d3zrDTGrqagTNWJGr/rendition.m3u8?track=video-4&anvsid=m177618714-nf1a36d358b415e54f5c502cb8052ee92&ts=1671851907&anvtrid=459c022127c5b20243b532aea78f57c1
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIVO PLAY
@@ -46,8 +44,12 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
 https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX ROMANCE
 https://linear-194.frequency.stream/194/hls/master/playlist_1280x720.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX ORO
+https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX FAMILIA
 https://linear-195.frequency.stream/195/hls/master/playlist_1280x720.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX VILLANOS
+https://dmlmov0qa6fqb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-046v2vm0cpvjt-ssai-prd/3ef20f33-d527-40d3-96a3-2dc7ddcf9b8d/1.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX PAREJAS
 https://d1f3q72l8uy8ur.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/bfce0ecc-dff6-499d-a506-38d1b559f7b8/0.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX HUMOR
