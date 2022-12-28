@@ -32,6 +32,8 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
 https://unlimited1-us.dps.live/t13/t13.smil/t13/livestream1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",NEX TV
 https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CALI TV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LA TELE
@@ -64,6 +66,8 @@ https://spt-novelas-1-us.samsung.wurl.tv/1200.m3u8
 https://spt-comedias-1-us.samsung.wurl.tv/1200.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LOS SIMPSON CLASICO
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1189956855.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LEGO CHANNEL
+https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LOS PITUFOS
 https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-639ba57d3f4612cc150a5723/variant.m3u8?url=476e25f6e6db526e51c784f55ac6256f-808cbb83992a95460610328b31a0c1582529a0ee561f8ad26371e52daf24929103730321446acbdee6ee91a46d5f4bb78698a0a0b7d366b3c054f408dd715d5fc438bbf266e6dfd1359ba6f14fb5846e&x-plex-token=K-TPLsePq79DBAoc1QJH
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIAJAR
@@ -95,7 +99,9 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LIVERPOOL FC TV
 https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_3/hdntl=exp=1671942727~acl=%2f*~data=hdntl~hmac=3f0f650a942774d59139f805cebc50262fa04637363edc3eac9706693f6416c3/chunklist.m3u8
 
-
-
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",EURONEWS
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MI TV CLASSICS
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 
