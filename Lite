@@ -208,13 +208,11 @@ https://linear-194.frequency.stream/194/hls/master/playlist_1280x720.m3u8
 https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX FAMILIA
 https://linear-195.frequency.stream/195/hls/master/playlist_1280x720.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX VILLANOS
-https://dmlmov0qa6fqb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-046v2vm0cpvjt-ssai-prd/3ef20f33-d527-40d3-96a3-2dc7ddcf9b8d/1.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX PAREJAS
-https://d1f3q72l8uy8ur.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/bfce0ecc-dff6-499d-a506-38d1b559f7b8/0.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX HUMOR
-https://d1406h321fcaxw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/e3b8d2c7-fa66-4cd5-8f83-62af41d5f8d1/0.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX DEPORTES
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX HUMOR JAJA
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIX LO MEJOR DE LA LIGA MX
 https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Acción
