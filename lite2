@@ -14,14 +14,12 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
 https://5cd577a3dd8ec.streamlock.net/canal4/manifest.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ZOOM TV
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV MARTI
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/OCB-TVMC01_1080/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIVO PLAY
 https://vp01-vivoplayiptv.delivery.fuugo.com/ngrp:vp01-VIVOplay_IPTV-aa730fa2_all/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV COSMOS
-https://edge1o.live.opencaster.com/caster/tpHaqFjazqvD.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",EXITOSA NOTICIAS
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MEGA CHILE
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CHILEVISION CONTIGO
@@ -36,10 +34,10 @@ https://mediacp.us:8081/nex/tracks-v1a1/mono.m3u8
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LA TELE
-https://rds3tf.desdeparaguay.net/latele/latele_int_alta/chunklist_w1201333443.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TELEFUTURO
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TURISTIK Mexico
+https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TELPIN TV
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TRECE
 https://streaming.trece.com.py/live/trece_src.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RTS
@@ -65,6 +63,8 @@ https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",GO TRAVEL USA
 https://brandusa-gousa-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CANAL I
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LOS SIMPSON CLASICO
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1189956855.m3u8
@@ -76,24 +76,19 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 https://amc-cortos-1-us.plex.wurl.tv/6dbbaa2db12ab50781c9147553a6f01d.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LEGO CHANNEL
 https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LOS PITUFOS
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-639ba57d3f4612cc150a5723/variant.m3u8?url=476e25f6e6db526e51c784f55ac6256f-808cbb83992a95460610328b31a0c1582529a0ee561f8ad26371e52daf24929103730321446acbdee6ee91a46d5f4bb78698a0a0b7d366b3c054f408dd715d5fc438bbf266e6dfd1359ba6f14fb5846e&x-plex-token=K-TPLsePq79DBAoc1QJH
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VIAJAR
 https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout/5674b3ff-40e5-48f0-92a5-0c6770deff3b/1.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",INTI
-https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TRAVELTV
+https://streamer103.neterra.tv/travel/travel_SD.m3u8
+
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VEVO REGGAETON
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live_6.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VEVO LATINO
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/782b647b2e38471e80cae5e7bdc3f1dc/live_7.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VEVO POP
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a467bae26bbfb7c82e67b/live_9.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MC MUSIC URBANO
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL128/O0U9MTY3MjM4NTIxNDtBPTE7Sz0wO1A9MDExMTA7Uz05ZjdlMDU2NWU3ZTdjMjI5NDA1N2IzZmQ4Y2JlZjk3ODJjYzkzM2Qx/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",KARIBEÑA
-https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MC MUSIC POP LATINO
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL123/O0U9MTY3MjM4NTMwNTtBPTE7Sz0wO1A9MDExMTA7Uz01ZmFkNjllNjZjMjMzOThjNDIzZGYzZjkxZGI5MDc4OWQzMGExYTFj/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CLASSIC ARTS
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PERU CHANNEL
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:0 tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png",CONECTA2
