@@ -24,7 +24,7 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSB3LJKFnmh9UMmI_C7KrcmsFuRs3M-IKRXTEDYkmDw&s",FUEGO TV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TV SALUD
+#EXTINF:-1 tvg-logo="https://platcon.tv/img/p/5/1/51-thickbox_default.jpg",TV SALUD
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://tntla.com/img/share_link.jpg",TNT
@@ -41,7 +41,7 @@ http://190.83.119.67:8000/play/a0pp/index.m3u8
 http://190.83.119.67:8000/play/a0uc/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/64/Studio_Universal_2016.svg/revision/latest?cb=20200228191104&path-prefix=es",STUDIO UNIVERSAL
 http://190.61.102.67:8000/play/a06z
-#EXTINF:11 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CINECANAL
+#EXTINF:11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",CINECANAL
 http://190.61.102.67:8000/play/a070
 #EXTINF:0 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png",CINE FAMILIAR
 http://181.176.148.142:8000/play/a023
@@ -52,7 +52,7 @@ http://181.176.148.142:8000/play/a025
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",DHE
 http://181.176.148.142:8000/play/a027
 
-#EXTINF:11 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MEDICOS TV
+#EXTINF:11 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/11/medicostv.jpg",MEDICOS TV
 https://2-fss-1.streamhoster.com/pl_154/206242-3004894-1/1080/medSCTE35.m3u8
 #EXTINF:11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png",INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/playlist.m3u8
@@ -66,7 +66,7 @@ http://181.176.148.142:8000/play/a00e
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1424781074656288779/UJcdkaPC_400x400.jpg",NOVELISIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",S-CAST NOVELAS
+#EXTINF:0 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/stormcastnov.png",S-CAST NOVELAS
 https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
