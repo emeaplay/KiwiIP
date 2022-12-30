@@ -66,15 +66,15 @@ http://181.176.148.142:8000/play/a00e
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1424781074656288779/UJcdkaPC_400x400.jpg",NOVELISIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",STORMCAST NOVELAS
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",S-CAST NOVELAS
 https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HOME & HEALTH
 http://181.176.148.142:8000/play/a02l
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LIFETIME
-http://190.108.93.148:8000/play/a0dr/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",EL GOURMET
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",FOOD NETWORK
+http://181.176.148.142:8000/play/a02j
+#EXTINF:0 tvg-logo="https://elgourmet.com/theme/assets/logo.png",EL GOURMET
 http://181.78.12.119:8000/play/a03f
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png",SUN CHANNEL
 http://181.176.148.142:8000/play/a02z
@@ -88,13 +88,13 @@ http://190.83.119.67:8000/play/a0r5/index.m3u8
 #EXTINF:0 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/Discovery_thumb.png",DISCOVERY
 http://190.60.37.67:8015/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0px.png",HISTORY
-http://190.83.119.67:8000/play/a0px/index.m3u8
+http://181.176.148.142:8000/play/a009
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r7.png",H2
 http://190.83.119.67:8000/play/a0r7/index.m3u8
 #EXTINF:0 tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET
 http://181.176.148.142:8000/play/a034
-#EXTINF:0 tvg-logo="https://www.nationalgeographicla.com/images/logo.png",NAT GEO
-http://190.108.93.148:8000/play/a0db/index.m3u8
+#EXTINF:0 tvg-logo="https://www.nationalgeographicla.com/images/logo.png",TEATHER
+http://200.48.212.114:8000/play/a059/index.m3u8
 #EXTINF:0 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg",LOVE NATURE
 http://181.176.148.142:8000/play/a02q
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-tlc_m.png",TLC Travel & Living
@@ -120,8 +120,8 @@ http://200.48.212.114:8000/play/a03i/index.m3u8
 http://200.24.132.99:8000/play/a01h
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FX
 http://190.60.37.69:8015/play/a047/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",GOLDEN PLUS
-http://190.108.93.148:8000/play/a0if/index.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ITV
+http://181.176.148.142:8000/play/a02n
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",E! ENTERTAINMENT
 http://190.83.119.67:8000/play/a0s7/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RETRO
