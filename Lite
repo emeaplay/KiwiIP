@@ -113,7 +113,7 @@ http://200.48.212.114:8000/play/a04m/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TRU TV
 http://181.176.148.142:8000/play/a030
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TBS
-http://190.83.119.67:8000/play/a0pj/index.m3u8
+http://200.48.212.114:8000/play/a02b/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SPACE
 http://200.48.212.114:8000/play/a03i/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",I SAT
