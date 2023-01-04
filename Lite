@@ -291,11 +291,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d0
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png",GOLPERU HD
 http://maxhd.eu:8080/Lwuts5NYSB/DK9qJjmXSb/145624
 #EXTINF:-1 tvg-logo="https://nteve.com/wp-content/uploads/2021/07/source-800x445.jpg",Movistar Deportes
-http://maxhd.eu:8080/Lwuts5NYSB/DK9qJjmXSb/355022
+http://186.5.31.251:8000/play/a09t/index.m3u8
 #EXTINF:-1,Movistar Plus
-
+http://186.5.31.251:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RPP TV Test
-
+http://186.5.31.251:8000/play/a0au/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CANAL N Test
 http://maxhd.eu:8080/Lwuts5NYSB/DK9qJjmXSb/138333
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png",PERU MAGICO
@@ -308,3 +308,5 @@ http://maxhd.eu:8080/Lwuts5NYSB/DK9qJjmXSb/297907
 http://maxhd.eu:8080/Lwuts5NYSB/DK9qJjmXSb/297905
 #EXTINF:-1,MEX: Telenovelas
 http://maxhd.eu:8080/Lwuts5NYSB/DK9qJjmXSb/389477
+#EXTINF:-1,Global TV
+http://186.5.31.251:8000/play/a0a0/index.m3u8
