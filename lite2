@@ -109,11 +109,25 @@ https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_3/hdntl=exp=1
 
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",EURONEWS
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1,Cable Noticias Colombia
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png",ESTRELLA NEWS
+https://m3u-editor.com/serve/televitolibre/510996712.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MI TV CLASSICS
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",CANAL INFANTIL
+http://181.176.148.142:8000/play/a020
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",FMH KIDS
+http://181.176.148.142:8000/play/a01z
 
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",A3 SERIES
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+#EXTINF:0 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg",TELEMUNDO
+http://200.48.212.114:8000/play/a025/index.m3u8
+#EXTINF:0 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/stormcastnov.png",S-CAST NOVELAS
+https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dd6d935d000120009bc1132" tvg-id="5dd6d935d000120009bc1132",Pluto TV  Competencias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
