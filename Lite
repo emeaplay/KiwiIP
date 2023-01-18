@@ -7,7 +7,7 @@ http://181.176.148.142:8000/play/a02p
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png",BH TV
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png",AMERICA TV
-http://190.239.25.140:8000/play/a02f/index.m3u8
+http://190.108.85.114:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",PANAMERICANA
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VISION TV
@@ -17,7 +17,7 @@ https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png",ATV+ Noticias
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV
-https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
+http://190.108.85.114:8000/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",RPP TV
 http://186.5.31.251:8000/play/a0au/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9iJHuV_fcCiJoQghtX3ibUYwLpcVnSrZpv0SJkk2gnw&s",NATIVA
@@ -265,6 +265,8 @@ http://186.5.31.251:8000/play/a0ac/index.m3u8
 http://186.5.31.251:8000/play/a0au/index.m3u8
 #EXTINF:-1 tvg-logo="https://platcon.tv/img/p/5/1/51-thickbox_default.jpg",TV SALUD
 https://marine2.miplay.cl/tvsalud/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",BEST CABLE TV
 https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/pantalla-vieja-de-la-prueba-tv-retro-ningunas-salvapantallas-se%C3%B1al-del-canal-134565513.jpg",CANAL N Test
