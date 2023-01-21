@@ -32,7 +32,7 @@ http://45.233.169.25:8000/play/a07x
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
 http://191.97.55.241:8000/play/a040/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",WARNER
-http://186.5.31.251:8000/play/a04y/index.m3u8
+http://191.97.55.241:8000/play/a05i/index.m3u8
 #EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png",STAR CHANNEL
 http://191.97.55.241:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0us.png" tvg_id="axn_hd",AXN
@@ -115,7 +115,7 @@ http://190.61.102.67:8000/play/a015
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HBO PLUS
 http://190.61.102.67:8000/play/a016
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TRU TV
-http://190.61.102.67:8000/play/a03y
+http://181.176.148.142:8000/play/a030
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TBS
 http://200.110.169.237:8202/play/a03u
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SPACE
