@@ -9,7 +9,7 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png",AMERICA TV
 http://191.97.55.241:8000/play/a03q/index.m3u
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",PANAMERICANA
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+http://190.108.85.114:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png",Movistar Plus T
 http://186.5.31.251:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png",TV Peru
@@ -20,11 +20,11 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 http://191.97.55.241:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png",RPP TV
 http://186.5.31.251:8000/play/a0au/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9iJHuV_fcCiJoQghtX3ibUYwLpcVnSrZpv0SJkk2gnw&s",NATIVA
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png",NATIVA
 https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSB3LJKFnmh9UMmI_C7KrcmsFuRs3M-IKRXTEDYkmDw&s",FUEGO TV
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/30.png",FUEGO TV
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:0 tvg-logo="",GLOBAL
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png",GLOBAL
 http://186.5.31.251:8000/play/a0a0/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tntla.com/img/share_link.jpg",TNT
@@ -71,11 +71,11 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HOME & HEALTH
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/19.png",HOME & HEALTH
 http://181.176.148.142:8000/play/a02l
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",FOOD NETWORK
 http://181.176.148.142:8000/play/a02j
-#EXTINF:0 tvg-logo="https://elgourmet.com/theme/assets/logo.png",LIFETIME
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/38.png",LIFETIME
 http://191.97.55.241:8000/play/a02k/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png",SUN CHANNEL
 http://181.176.148.142:8000/play/a02z
@@ -122,33 +122,33 @@ http://200.110.169.237:8202/play/a03u
 http://190.108.85.114:8000/play/a0ai/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",I SAT
 http://190.61.102.67:8000/play/a06v
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",FX
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/42.png",FX
 http://190.60.37.69:8015/play/a047/index.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ITV
 http://181.176.148.142:8000/play/a02n
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",E! ENTERTAINMENT
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/34.png",E! ENTERTAINMENT
 http://190.83.119.67:8000/play/a0s7/index.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RETRO
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/121.-_RTRO.webp/910px-121.-_RTRO.webp.png",RETRO
 http://181.176.148.142:8000/play/a02x
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p8.png",CARTOON NETWORK
 http://190.83.119.67:8000/play/a0p8/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISCOVERY KIDS
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/29.png",DISCOVERY KIDS
 http://181.176.148.142:8000/play/a012
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/25.png",DISNEY
 http://181.176.148.142:8000/play/a02b
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",DISNEY JR
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/27.png",DISNEY JR
 http://181.176.148.142:8000/play/a02c
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",NICK
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/26.png",NICK
 http://181.176.148.142:8000/play/a02t
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",NICK JR
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/24.png",NICK JR
 http://190.83.119.67:8000/play/a0p9/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",TOONCAST
 http://190.108.85.114:8000/play/a0g3/index.m3u8
 
 #EXTINF:0 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg",CONTACTO TV
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png",BESTCABLE SPORTS
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/6.png",BESTCABLE Sports
 https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN
 http://181.176.148.142:8000/play/a02d
@@ -262,7 +262,7 @@ http://186.5.31.251:8000/play/a09t/index.m3u8
 http://190.108.85.114:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",BEST CABLE TV
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/3.png",BEST CABLE TV
 https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/pantalla-vieja-de-la-prueba-tv-retro-ningunas-salvapantallas-se%C3%B1al-del-canal-134565513.jpg",CANAL N Test
 http://186.5.31.251:8000/play/a09y/index.m3u8
@@ -280,3 +280,5 @@ https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png",BH TV ALT
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",PANAMERICANA web
+https://cdnh71.iblups.com/hls/ptv1.m3u8
