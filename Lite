@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=https://i.mjh.nz/PlutoTV/mx.xml.gz
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png",Willax
-http://191.97.55.241:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png",Somos KIWI TV
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png",Latina
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png",BH TV
@@ -22,8 +22,8 @@ http://191.97.55.241:8000/play/a03s/index.m3u8
 http://186.5.31.251:8000/play/a0au/index.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png",NATIVA
 https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/30.png",FUEGO TV
-https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png",Willax
+http://191.97.55.241:8000/play/a03n/index.m3u8
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png",GLOBAL
 http://186.5.31.251:8000/play/a0a0/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png",TV Peru Noticias
@@ -183,6 +183,8 @@ http://190.108.93.148:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",La LIGA
 http://190.61.102.67:8000/play/a07h
 
+#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/30.png",FUEGO TV
+https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg",CNN en Español
 http://190.61.102.67:8000/play/a04c
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/KI8FPXtY5KMIL9H1Edwa_Z5V2bxKu7ZZbB2gnM6H8YWhnOeLmfMi9THgfjuZ-wFndg_mVKLAUw=s900-c-k-c0x00ffffff-no-rj",Identidad TV
