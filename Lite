@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=“https://i.mjh.nz/PlutoTV/mx.xml.gz"
+#EXTM3U url-tvg=https://i.mjh.nz/PlutoTV/mx.xml.gz
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png",Willax
 http://191.97.55.241:8000/play/a03n/index.m3u8
