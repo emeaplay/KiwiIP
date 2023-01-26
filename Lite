@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=https://i.mjh.nz/PlutoTV/mx.xml.gz
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png",Somos KIWI TV Peru
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png",Bienvenido a KIWI TV
 https://vdo.grupolimalive.com:3245/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png",Latina
 http://181.176.148.142:8000/play/a02p
@@ -284,32 +284,38 @@ https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",PANAMERICANA web
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1,Willax - WIN
+#EXTINF:-1tvg-logo="https://win.pe/img/logo-oct.png",Willax - WIN
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Willax_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DWillax_WIN_stream_uf&_cdn_session=16184220&_cdn_timestamp=1675178458&_cdn_token=4d4f5cdb42c8f4e499a503e3cde0ab48693c8050
-#EXTINF:-1,Latina - WIN
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Latina - WIN
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Latina_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLatina_WIN_stream_vo&_cdn_session=16180100&_cdn_timestamp=1675177854&_cdn_token=05c120ccf54d13d9abd539cb9144183371247725
-#EXTINF:-1,America - WIN
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Fuego TV - WIN
+https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/FuegoTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFuegoTV_stream_3i&_cdn_session=16373500&_cdn_timestamp=1675205634&_cdn_token=9a99671c1a80f98eceb4ae45111977960c2724cd
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",America - WIN
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Americatv_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAmericatv_WIN_stream_a6&_cdn_session=16179028&_cdn_timestamp=1675177644&_cdn_token=e37bef2d0ff10c4cbdce8f396c97deacb2f459d6
-#EXTINF:-1,Panamericana - WIN
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Panamericana - WIN
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Panamerica_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPanamerica_WIN_stream_op&_cdn_session=16180028&_cdn_timestamp=1675177827&_cdn_token=ea391b70029229b46a693c2aba94b1eb4a043c64
-#EXTINF:-1,Nativa - WIN
-https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/UCI/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DUCI_stream_k7&_cdn_session=15731916&_cdn_timestamp=1675101614&_cdn_token=1eb1bae63074f36065c5a20287069d58959fa125
-#EXTINF:-1,TVPERU - WIN
-https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/TVPERU_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTVPERU_WIN_stream_va&_cdn_session=16181844&_cdn_timestamp=1675178174&_cdn_token=c2e7f3860c6a728a238285deaaf1c2d07649bc3d
-#EXTINF:-1,ATV+ Noticias - WIN
-https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/ATV_NOTICIAS_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_NOTICIAS_WIN_stream_0j&_cdn_session=16182692&_cdn_timestamp=1675178257&_cdn_token=0c05ad7545148f6ccb07196a03b3a4774aa95c9d
-#EXTINF:-1,ATV - WIN
-https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/ATV_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_WIN_stream_o4&_cdn_session=16180548&_cdn_timestamp=1675177921&_cdn_token=8f4957bfab9681f8123061dbefd9a870f6ad7fc3
-#EXTINF:-1,PBO - WIN
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPBO_stream_kx&_cdn_session=16180292&_cdn_timestamp=1675177888&_cdn_token=6e2b2f5045aa7cb13bceecda9e6cf6b31d2889ad
-#EXTINF:-1,EXITOSA - WIN
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Exitosa - WIN
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Exitosa_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DExitosa_WIN_stream_gd&_cdn_session=16183220&_cdn_timestamp=1675178323&_cdn_token=ea1095b985af82553d83ca8fd9d3fe4f5bb850af
-#EXTINF:-1,VIVA TV - WIN
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",TVPERU - WIN
+https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/TVPERU_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTVPERU_WIN_stream_va&_cdn_session=16181844&_cdn_timestamp=1675178174&_cdn_token=c2e7f3860c6a728a238285deaaf1c2d07649bc3d
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",ATV+ Noticias - WIN
+https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/ATV_NOTICIAS_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_NOTICIAS_WIN_stream_0j&_cdn_session=16182692&_cdn_timestamp=1675178257&_cdn_token=0c05ad7545148f6ccb07196a03b3a4774aa95c9d
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",ATV - WIN
+https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/ATV_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_WIN_stream_o4&_cdn_session=16180548&_cdn_timestamp=1675177921&_cdn_token=8f4957bfab9681f8123061dbefd9a870f6ad7fc3
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",PBO - WIN
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPBO_stream_kx&_cdn_session=16180292&_cdn_timestamp=1675177888&_cdn_token=6e2b2f5045aa7cb13bceecda9e6cf6b31d2889ad
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",VIVA TV - WIN
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/VIVA_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVIVA_WIN_stream_wp&_cdn_session=16180732&_cdn_timestamp=1675177948&_cdn_token=c13d61046d9efab27ef36560282b265af6c4f10c
-#EXTINF:-1,LA TELE - WIN
-https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/LATELE_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLATELE_WIN_stream_ri&_cdn_session=16182380&_cdn_timestamp=1675178222&_cdn_token=c654fd19c412eedfba05a77359bedf0223846cc7
-#EXTINF:-1,GLOBAL - WIN
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",TV Peru Noticias - WIN
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/TVPERU_NOTICIAS_WIN/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTVPERU_NOTICIAS_WIN_stream_es&_cdn_session=16370972&_cdn_timestamp=1675205400&_cdn_token=b3afb337ef93f653ad3e6409afa796660257c1b2
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",GLOBAL - WIN
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/GLOBAL_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DGLOBAL_WIN_stream_j7&_cdn_session=16184108&_cdn_timestamp=1675178437&_cdn_token=3e152d340ecefdd6e80664daa6f51f6483d882ea
-#EXTINF:-1,JUSTICIA TV - WIN
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",JUSTICIA TV - WIN
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/justiciatv/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Djusticiatv_stream_1d&_cdn_session=16183564&_cdn_timestamp=1675178368&_cdn_token=0b75c28af82b080d9105b0b1e83771bf78e4528e
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",LA TELE - WIN
+https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/LATELE_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLATELE_WIN_stream_ri&_cdn_session=16182380&_cdn_timestamp=1675178222&_cdn_token=c654fd19c412eedfba05a77359bedf0223846cc7
+
+
+
+
 
