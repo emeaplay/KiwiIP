@@ -284,7 +284,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",PANAMERICANA web
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1tvg-logo="https://win.pe/img/logo-oct.png",Willax - WIN
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Willax - WIN
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/Willax_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DWillax_WIN_stream_uf&_cdn_session=16184220&_cdn_timestamp=1675178458&_cdn_token=4d4f5cdb42c8f4e499a503e3cde0ab48693c8050
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Latina - WIN
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Latina_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLatina_WIN_stream_vo&_cdn_session=16180100&_cdn_timestamp=1675177854&_cdn_token=05c120ccf54d13d9abd539cb9144183371247725
