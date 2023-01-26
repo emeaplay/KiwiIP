@@ -333,7 +333,7 @@ https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/DWEspanolHD/10-hls/live-med
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",FRANCE24
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/France24/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFrance24_stream_a7&_cdn_session=16390220&_cdn_timestamp=1675207815&_cdn_token=edb99af22c74b585e358b4f67020ab8d17f3bbc6
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",GAMETOON
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Gametoon/0-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DGametoon_stream_0q&_cdn_session=16388028&_cdn_timestamp=1675207604&_cdn_token=a418b73b677470b47b7dc2f36893e6c18b28c024#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",LA TELE
+https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Gametoon/0-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DGametoon_stream_0q&_cdn_session=16388028&_cdn_timestamp=1675207604&_cdn_token=a418b73b677470b47b7dc2f36893e6c18b28c024
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",USMP TV
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/USMP_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DUSMP_WIN_stream_wo&_cdn_session=16388964&_cdn_timestamp=1675207676&_cdn_token=367745443250859ed4b7ca0ba85ea57141ff36a1
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",CONTIGO TV
