@@ -218,7 +218,7 @@ https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Latina_WIN/20-hls/live-medi
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/FuegoTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFuegoTV_stream_3i&_cdn_session=16373500&_cdn_timestamp=1675205634&_cdn_token=9a99671c1a80f98eceb4ae45111977960c2724cd
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",AMERICA HD
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Americatv_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAmericatv_WIN_stream_a6&_cdn_session=16179028&_cdn_timestamp=1675177644&_cdn_token=e37bef2d0ff10c4cbdce8f396c97deacb2f459d6
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.pngg",Panamericana HD
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",Panamericana HD
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Panamerica_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPanamerica_WIN_stream_op&_cdn_session=16180028&_cdn_timestamp=1675177827&_cdn_token=ea391b70029229b46a693c2aba94b1eb4a043c64
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",EXITOSA HD
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Exitosa_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DExitosa_WIN_stream_gd&_cdn_session=16183220&_cdn_timestamp=1675178323&_cdn_token=ea1095b985af82553d83ca8fd9d3fe4f5bb850af
@@ -230,7 +230,7 @@ https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/ATV_NOTICIAS_WIN/20-hls/liv
 https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/ATV_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_WIN_stream_o4&_cdn_session=16180548&_cdn_timestamp=1675177921&_cdn_token=8f4957bfab9681f8123061dbefd9a870f6ad7fc3
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",PBO HD
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/PBO/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DPBO_stream_kx&_cdn_session=16180292&_cdn_timestamp=1675177888&_cdn_token=6e2b2f5045aa7cb13bceecda9e6cf6b31d2889ad
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.pngg",VIVA TV HD
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",VIVA TV HD
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/VIVA_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVIVA_WIN_stream_wp&_cdn_session=16180732&_cdn_timestamp=1675177948&_cdn_token=c13d61046d9efab27ef36560282b265af6c4f10c
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",TV Peru Noticias HD
 https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/TVPERU_NOTICIAS_WIN/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTVPERU_NOTICIAS_WIN_stream_es&_cdn_session=16370972&_cdn_timestamp=1675205400&_cdn_token=b3afb337ef93f653ad3e6409afa796660257c1b2
