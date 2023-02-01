@@ -162,6 +162,12 @@ http://181.176.148.142:8000/play/a02n
 http://181.176.148.142:8000/play/a02x
 #EXTINF:-1 tvg-logo=" ",DISTRITO COMEDIA
 http://186.5.31.251:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-logo=" ",CINEMA PREMIUM 1
+http://191.97.55.241:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-logo=" ",CINEMA PREMIUM 2
+http://191.97.55.241:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-logo=" ",CINEMA PREMIUM 3
+http://191.97.55.241:8000/play/a02w/index.m3u8
 
 #EXTINF:0 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
@@ -181,9 +187,15 @@ http://190.60.37.67:8015/play/a02n/index.m3u8
 http://191.97.55.241:8000/play/a05r/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",Fox Sports 3
 http://190.108.93.148:8000/play/a07e/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",Gol TV
+http://190.61.102.67:8000/play/a07h
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",La LIGA
+http://190.61.102.67:8000/play/a07h
 
 #EXTINF:-1 tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg",CNN en Español
 http://190.61.102.67:8000/play/a04c
+#EXTINF:-1 tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg",CNN Chile
+http://191.97.55.241:8000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/KI8FPXtY5KMIL9H1Edwa_Z5V2bxKu7ZZbB2gnM6H8YWhnOeLmfMi9THgfjuZ-wFndg_mVKLAUw=s900-c-k-c0x00ffffff-no-rj",Identidad TV
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",RT NOTICIAS
@@ -194,33 +206,34 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HispanTV
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b394100_slen.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png",FRANCE 24
-https://marine2.miplay.cl/france24/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/3.png",BEST CABLE TV
 https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/pantalla-vieja-de-la-prueba-tv-retro-ningunas-salvapantallas-se%C3%B1al-del-canal-134565513.jpg",CANAL N Test
-http://186.5.31.251:8000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/pantalla-vieja-de-la-prueba-tv-retro-ningunas-salvapantallas-se%C3%B1al-del-canal-134565513.jpg",Peru Magico Test
 http://186.5.31.251:8000/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",Movistar Deportes Test
+http://186.5.31.251:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",M DEPORTES SD Test
+http://190.108.85.114:8000/play/a0gw/index.m3u8
+#EXTINF:0 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",CANAL N
+http://186.5.31.251:8000/play/a09y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",WILLAX HD
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Willax_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DWillax_WIN_stream_uf&_cdn_session=18913348&_cdn_timestamp=1675637161&_cdn_token=c975335b46962d78a7f1b895ad31604231e22b6c
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",LATINA HD
-https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/Latina_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLatina_WIN_stream_vo&_cdn_session=16180100&_cdn_timestamp=1675177854&_cdn_token=05c120ccf54d13d9abd539cb9144183371247725
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/8.png",WILLAX HD
+http://191.97.55.241:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="hhttps://bestcableperu.com.pe/img/canales/2.png",LATINA HD
+http://190.108.85.114:8000/play/a06f/index.m3u8
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/30.png",FUEGO TV HD
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",AMERICA HD
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Americatv_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DAmericatv_WIN_stream_a6&_cdn_session=16179028&_cdn_timestamp=1675177644&_cdn_token=e37bef2d0ff10c4cbdce8f396c97deacb2f459d6
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/4.png",AMERICA HD
+http://191.97.55.241:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Panamericana_2020.png",Panamericana HD
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s154840/images/logog.png?t=151626",EXITOSA HD
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",TVPERU HD
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/7.png",TVPERU HD
 https://cdnh74.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",ATV+ Noticias HD
-https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/ATV_NOTICIAS_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_NOTICIAS_WIN_stream_0j&_cdn_session=16182692&_cdn_timestamp=1675178257&_cdn_token=0c05ad7545148f6ccb07196a03b3a4774aa95c9d
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/14.png",ATV+ Noticias HD
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png",BH TV HD
@@ -229,8 +242,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/VIVA_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVIVA_WIN_stream_wp&_cdn_session=16180732&_cdn_timestamp=1675177948&_cdn_token=c13d61046d9efab27ef36560282b265af6c4f10c
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VISION TV
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",GLOBAL HD
-https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/GLOBAL_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DGLOBAL_WIN_stream_j7&_cdn_session=16184108&_cdn_timestamp=1675178437&_cdn_token=3e152d340ecefdd6e80664daa6f51f6483d882ea
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png",GLOBAL HD
+http://186.5.31.251:8000/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",JUSTICIA TV HD
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/justiciatv/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Djusticiatv_stream_1d&_cdn_session=16183564&_cdn_timestamp=1675178368&_cdn_token=0b75c28af82b080d9105b0b1e83771bf78e4528e
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",LA TELE HD
@@ -238,22 +251,11 @@ https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/LATELE_WIN/20-hls/live-medi
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",ATV SUR HD
 https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/ATV_SUR_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_SUR_WIN_stream_iw&_cdn_session=16384684&_cdn_timestamp=1675207159&_cdn_token=f907a6cc218d4ed6890ae7b8774479c271d4bf71
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png",TELECOLOR
-https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",TOP LATINO HD
-https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/TopLatino_win/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DTopLatino_win_stream_0s&_cdn_session=16385492&_cdn_timestamp=1675207260&_cdn_token=a7c67c6a1fc3f7641eab2fd7f777fc40d8cbae3a
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",USMP MUSICA HD
-https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/USMP_Musica_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DUSMP_Musica_WIN_stream_yy&_cdn_session=16391900&_cdn_timestamp=1675208114&_cdn_token=694e28d8297f90686a1b0dc6be677e0f40e4011e
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Karibeña HD
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",IPE HD
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",RT Latino HD
-https://cdnmain3.win.cdn.moderntv.eu:7909/win/stream/RT/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DRT_stream_e6&_cdn_session=16386036&_cdn_timestamp=1675207351&_cdn_token=d4c416f26700dd24ced16ecd36e84540e7e5c67e
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",DW Español HD
-https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/DWEspanolHD/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DDWEspanolHD_stream_9m&_cdn_session=16387340&_cdn_timestamp=1675207533&_cdn_token=1490ff575d31c018fe3e12ff3044b25492091217
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",FRANCE24 HD
-https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/France24/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DFrance24_stream_a7&_cdn_session=16390220&_cdn_timestamp=1675207815&_cdn_token=edb99af22c74b585e358b4f67020ab8d17f3bbc6
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",GAMETOON HD
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/Gametoon/0-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DGametoon_stream_0q&_cdn_session=16388028&_cdn_timestamp=1675207604&_cdn_token=a418b73b677470b47b7dc2f36893e6c18b28c024
 
 #EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75",Guía de canales Pluto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -317,10 +319,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 #EXTINF:-1 channel-id="pluto-5ffcc21a432945000762d06b" tvg-id="5ffcc21a432945000762d06b",Comedy Central Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/pantalla-vieja-de-la-prueba-tv-retro-ningunas-salvapantallas-se%C3%B1al-del-canal-134565513.jpg",Movistar Deportes Test
-http://186.5.31.251:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/pantalla-vieja-de-la-prueba-tv-retro-ningunas-salvapantallas-se%C3%B1al-del-canal-134565513.jpg",M DEPORTES SD Test
-http://190.108.85.114:8000/play/a0gw/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",La LIGA
-http://190.61.102.67:8000/play/a07h
+#EXTINF:-1,Premium 01
+http://186.5.31.251:8000/play/a0bj/index.m3u8
+#EXTINF:-1,Premium 02
+http://186.5.31.251:8000/play/a0bk/index.m3u8
