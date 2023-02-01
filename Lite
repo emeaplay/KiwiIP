@@ -207,17 +207,6 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",HispanTV
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b394100_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/3.png",BEST CABLE TV
-https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/pantalla-vieja-de-la-prueba-tv-retro-ningunas-salvapantallas-se%C3%B1al-del-canal-134565513.jpg",Peru Magico Test
-http://186.5.31.251:8000/play/a0ad/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",Movistar Deportes Test
-http://186.5.31.251:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",M DEPORTES SD Test
-http://190.108.85.114:8000/play/a0gw/index.m3u8
-#EXTINF:0 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",CANAL N
-http://186.5.31.251:8000/play/a09y/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/8.png",WILLAX HD
 http://191.97.55.241:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-logo="hhttps://bestcableperu.com.pe/img/canales/2.png",LATINA HD
@@ -238,26 +227,14 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2_360.m3u8
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png",BH TV HD
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",VIVA TV HD
-https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/VIVA_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DVIVA_WIN_stream_wp&_cdn_session=16180732&_cdn_timestamp=1675177948&_cdn_token=c13d61046d9efab27ef36560282b265af6c4f10c
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VISION TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",CANAL N
+http://186.5.31.251:8000/play/a09y/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/cv-tv.png",VISION TV
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png",GLOBAL HD
 http://186.5.31.251:8000/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png",TELECOLOR
-https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Karibeña HD
-https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",IPE HD
-https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",RTS Ecuador HD
-https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",TVE la 1 HD
-ttps://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Runtime Comedia HD
-https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Runtime Romance HD
-https://run-rr-es.otteravision.com/run/rr_es/rr_es_720.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png",Peru Magico T
+http://186.5.31.251:8000/play/a0ad/index.m3u8
 
 #EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75",Guía de canales Pluto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -321,6 +298,28 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 #EXTINF:-1 channel-id="pluto-5ffcc21a432945000762d06b" tvg-id="5ffcc21a432945000762d06b",Comedy Central Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/3.png",BEST CABLE TV
+https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",Movistar Deportes Test
+http://186.5.31.251:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",M DEPORTES SD Test
+http://190.108.85.114:8000/play/a0gw/index.m3u8
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png",TELECOLOR
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png",Karibeña HD
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+#EXTINF:-1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/WhatsApp-Image-2020-07-27-at-12.36.22-1-300x298.jpeg",Vision Musica HD
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",IPE HD
+https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",RTS Ecuador HD
+https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",TVE la 1 HD
+ttps://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Runtime Comedia HD
+https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Runtime Romance HD
+https://run-rr-es.otteravision.com/run/rr_es/rr_es_720.m3u8
 
 #EXTINF:-1,Premium 01
 http://186.5.31.251:8000/play/a0bj/index.m3u8
