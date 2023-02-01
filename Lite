@@ -244,18 +244,18 @@ https://cdnback4.win.cdn.moderntv.eu:7909/win/stream/VIVA_WIN/20-hls/live-media.
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png",GLOBAL HD
 http://186.5.31.251:8000/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",JUSTICIA TV HD
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/justiciatv/10-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3Djusticiatv_stream_1d&_cdn_session=16183564&_cdn_timestamp=1675178368&_cdn_token=0b75c28af82b080d9105b0b1e83771bf78e4528e
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/458/887/png-clipart-computer-icons-logo-high-definition-television-subscribe-icon-hd-blue-text.png",LA TELE HD
-https://cdnmain4.win.cdn.moderntv.eu:7909/win/stream/LATELE_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DLATELE_WIN_stream_ri&_cdn_session=16182380&_cdn_timestamp=1675178222&_cdn_token=c654fd19c412eedfba05a77359bedf0223846cc7
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",ATV SUR HD
-https://cdnback3.win.cdn.moderntv.eu:7909/win/stream/ATV_SUR_WIN/20-hls/live-media.m3u8?_cdn_attrs=account%3Dwin%2Cresource%3DATV_SUR_WIN_stream_iw&_cdn_session=16384684&_cdn_timestamp=1675207159&_cdn_token=f907a6cc218d4ed6890ae7b8774479c271d4bf71
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png",TELECOLOR
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Karibeña HD
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",IPE HD
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",RTS Ecuador HD
+https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",TVE la 1 HD
+ttps://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Runtime Comedia HD
+https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
 
 #EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75",Guía de canales Pluto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
