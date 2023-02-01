@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=https://epg.programadorx.cl/mdiaz/gratis.xml.gz
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png",Bienvenido a KIWI TV
-https://vdo.grupolimalive.com:3245/multi_web/play_720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png",LISTA KIWI TV
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png",Latina
 http://181.176.148.142:8000/play/a02p
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png",BH TV
@@ -207,8 +207,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b73e27a5281da28f40c01e1f3542666e7c19b4be0b820948d83434b3056d0792.png",HispanTV
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b394100_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/8.png",WILLAX HD
-http://191.97.55.241:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/cv-tv.png",VISION TV
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="hhttps://bestcableperu.com.pe/img/canales/2.png",LATINA HD
 http://190.108.85.114:8000/play/a06f/index.m3u8
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/30.png",FUEGO TV HD
@@ -229,8 +229,8 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",CANAL N
 http://186.5.31.251:8000/play/a09y/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/cv-tv.png",VISION TV
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/8.png",WILLAX HD
+http://191.97.55.241:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png",GLOBAL HD
 http://186.5.31.251:8000/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png",Peru Magico T
