@@ -206,6 +206,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b73e27a5281da28f40c01e1f3542666e7c19b4be0b820948d83434b3056d0792.png",HispanTV
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b394100_slen.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",TVE la 1 HD
+ttps://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/cv-tv.png",VISION TV
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
@@ -315,8 +317,6 @@ https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",RTS Ecuador HD
 https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",TVE la 1 HD
-ttps://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Runtime Comedia HD
 https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Runtime Romance HD
