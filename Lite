@@ -36,20 +36,20 @@ http://191.97.55.241:8000/play/a040/index.m3u8
 http://191.97.55.241:8000/play/a05i/index.m3u8
 #EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png",STAR Channel
 http://191.97.55.241:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0us.png" tvg_id="axn_hd",AXN
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/45.png",AXN
 http://191.97.55.241:8000/play/a041/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",UNIVERSAL TV
-http://190.83.119.67:8000/play/a0uc/index.m3u8
+http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/31.png",A&E
 http://191.97.55.241:8000/play/a05n/index.m3u8
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/37.png",STUDIO Universal
 http://190.61.102.67:8000/play/a06z
 #EXTINF:0 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/Discovery_thumb.png",Discovery
 http://190.60.37.67:8015/play/a01k/index.m3u8
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0px.png",HISTORY
-http://181.176.148.142:8000/play/a009
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r7.png",H2
-http://190.83.119.67:8000/play/a0r7/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/57.png",HISTORY
+http://190.131.228.59:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/23.png",H2
+http://190.60.37.67:8015/play/a08r/index.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/22.png",NAT GEO
 http://191.97.55.241:8000/play/a025/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png",SUN Channel
@@ -57,7 +57,7 @@ http://181.176.148.142:8000/play/a02z
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-tlc_m.png",TLC Travel & Living
 http://200.110.169.237:8202/play/a01t
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/34.png",E! Entertainment
-http://190.83.119.67:8000/play/a0s7/index.m3u8
+http://190.131.228.59:8000/play/a05q/index.m3u8
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/19.png",HOME & HEALTH
 http://181.176.148.142:8000/play/a02l
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/38.png",Lifetime
@@ -75,11 +75,11 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/playlist.m3u8
 https://marine2.miplay.cl/tvsalud/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET
-http://181.176.148.142:8000/play/a034
+http://190.131.228.59:8000/play/a0rz/index.m3u8
 #EXTINF:0 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg",LOVE NATURE
 http://181.176.148.142:8000/play/a02q
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0p8.png",CARTOON NETWORK
-http://190.83.119.67:8000/play/a0p8/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
+http://190.131.228.59:8000/play/a049/index.m3u8
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/29.png",DISCOVERY KIDS
 http://181.176.148.142:8000/play/a012
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/25.png",DISNEY
@@ -89,7 +89,7 @@ http://181.176.148.142:8000/play/a02c
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/26.png",NICK
 http://181.176.148.142:8000/play/a02t
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/24.png",NICK JR
-http://190.83.119.67:8000/play/a0p9/index.m3u8
+http://190.131.228.59:8000/play/a09b/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",TOONCAST
 http://190.108.85.114:8000/play/a0g3/index.m3u8
 
