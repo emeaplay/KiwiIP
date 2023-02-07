@@ -1,343 +1,274 @@
-#EXTM3U url-tvg=https://epg.programadorx.cl/mdiaz/gratis.xml.gz
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png",KiWiTV Basica
-https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png",Latina
-http://181.176.148.142:8000/play/a02p
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png",BH TV
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png",AMERICA TV
-http://191.97.55.241:8000/play/a03q/index.m3u
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",PANAMERICANA
-http://190.108.85.114:8000/play/a06i/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png",Movistar PLUS
-http://201.218.137.242:8001/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png",TV Peru
-https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png",ATV+ Noticias
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV
-http://191.97.55.241:8000/play/a03s/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png",CANAL N
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7825
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png",NATIVA
-https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png",Willax
-http://191.97.55.241:8000/play/a03n/index.m3u8
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png",GLOBAL
-http://201.218.137.242:8001/play/a032/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png",TV Peru Noticias
-https://cdnh75.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png" group-title="Ungrouped", KiWiTV Basica
+https://m3u-editor.com/serve/kiwitvlite/765696574
+#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png" group-title="Ungrouped", Latina
+https://m3u-editor.com/serve/kiwitvlite/765696575
+#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="Ungrouped", AMERICA TV
+https://m3u-editor.com/serve/kiwitvlite/765696577
+#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Ungrouped", PANAMERICANA
+https://m3u-editor.com/serve/kiwitvlite/765696578
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Ungrouped", Movistar PLUS
+https://m3u-editor.com/serve/kiwitvlite/765696579
+#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Ungrouped", TV Peru
+https://m3u-editor.com/serve/kiwitvlite/765696580
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Ungrouped", ATV+ Noticias
+https://m3u-editor.com/serve/kiwitvlite/765696581
+#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="Ungrouped", ATV
+https://m3u-editor.com/serve/kiwitvlite/765696582
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Ungrouped", CANAL N
+https://m3u-editor.com/serve/kiwitvlite/765696583
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png" group-title="Ungrouped", NATIVA
+https://m3u-editor.com/serve/kiwitvlite/765696584
+#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" group-title="Ungrouped", Willax
+https://m3u-editor.com/serve/kiwitvlite/765696585
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png" group-title="Ungrouped", GLOBAL
+https://m3u-editor.com/serve/kiwitvlite/765696586
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Ungrouped", TV Peru Noticias
+https://m3u-editor.com/serve/kiwitvlite/765696587
+#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Ungrouped", TNT
+https://m3u-editor.com/serve/kiwitvlite/765696588
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Ungrouped", Sony
+https://m3u-editor.com/serve/kiwitvlite/765696589
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Ungrouped", Warner
+https://m3u-editor.com/serve/kiwitvlite/765696590
+#EXTINF: -1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="Ungrouped", STAR Channel
+https://m3u-editor.com/serve/kiwitvlite/765696591
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/45.png" group-title="Ungrouped", AXN
+https://m3u-editor.com/serve/kiwitvlite/765696592
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Ungrouped", UNIVERSAL TV
+https://m3u-editor.com/serve/kiwitvlite/765696593
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/31.png" group-title="Ungrouped", A&E
+https://m3u-editor.com/serve/kiwitvlite/765696594
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/37.png" group-title="Ungrouped", STUDIO Universal
+https://m3u-editor.com/serve/kiwitvlite/765696595
+#EXTINF: -1 tvg-logo="data:image/png;base64,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" group-title="Ungrouped", Discovery
+https://m3u-editor.com/serve/kiwitvlite/765696596
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/57.png" group-title="Ungrouped", HISTORY
+https://m3u-editor.com/serve/kiwitvlite/765696597
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/23.png" group-title="Ungrouped", H2
+https://m3u-editor.com/serve/kiwitvlite/765696598
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Ungrouped", ID Discovery
+https://m3u-editor.com/serve/kiwitvlite/765696606
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/22.png" group-title="Ungrouped", NAT GEO
+https://m3u-editor.com/serve/kiwitvlite/765696599
+#EXTINF: -1 tvg-logo="https://image.pngaaa.com/149/4735149-middle.png" group-title="Ungrouped", ANIMAL PLANET
+https://m3u-editor.com/serve/kiwitvlite/765696610
+#EXTINF: -1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Ungrouped", LOVE NATURE
+https://m3u-editor.com/serve/kiwitvlite/765696611
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png" group-title="Ungrouped", SUN Channel
+https://m3u-editor.com/serve/kiwitvlite/765696600
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ungrouped", RTS Ecuador HD
+https://m3u-editor.com/serve/kiwitvlite/765696725
+#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-tlc_m.png" group-title="Ungrouped", TLC Travel & Living
+https://m3u-editor.com/serve/kiwitvlite/765696601
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/34.png" group-title="Ungrouped", E! Entertainment
+https://m3u-editor.com/serve/kiwitvlite/765696602
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/19.png" group-title="Ungrouped", HOME & HEALTH
+https://m3u-editor.com/serve/kiwitvlite/765696603
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/38.png" group-title="Ungrouped", Lifetime
+https://m3u-editor.com/serve/kiwitvlite/765696604
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Ungrouped", FOOD Network
+https://m3u-editor.com/serve/kiwitvlite/765696605
+#EXTINF: 11 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/11/medicostv.jpg" group-title="Ungrouped", MEDICOS TV
+https://m3u-editor.com/serve/kiwitvlite/765696607
+#EXTINF: 11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png" group-title="Ungrouped", INTI
+https://m3u-editor.com/serve/kiwitvlite/765696608
+#EXTINF: -1 tvg-logo="https://platcon.tv/img/p/5/1/51-thickbox_default.jpg" group-title="Ungrouped", TV Salud
+https://m3u-editor.com/serve/kiwitvlite/765696609
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Ungrouped", CARTOON NETWORK
+https://m3u-editor.com/serve/kiwitvlite/765696612
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/25.png" group-title="Ungrouped", DISNEY
+https://m3u-editor.com/serve/kiwitvlite/765696614
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/27.png" group-title="Ungrouped", DISNEY JR
+https://m3u-editor.com/serve/kiwitvlite/765696615
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/29.png" group-title="Ungrouped", DISCOVERY KIDS
+https://m3u-editor.com/serve/kiwitvlite/765696613
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/26.png" group-title="Ungrouped", NICK
+https://m3u-editor.com/serve/kiwitvlite/765696616
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/24.png" group-title="Ungrouped", NICK JR
+https://m3u-editor.com/serve/kiwitvlite/765696617
+#EXTINF: -1 tvg-id="toon.us" tvg-logo="https://i.ytimg.com/vi/l2rRwrtEGUs/maxresdefault.jpg" group-title="Ungrouped", TOONCAST
+https://m3u-editor.com/serve/kiwitvlite/765696618
+#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEid_5Dnq1NtmiSePg1fkFJmOeJftecmG_zgYxjRYAturqn29eDMmlhgUtnPXb-sGpUZs5DnC9hBXmzReGCsTYNfL6b4JO98FSsN4GehCpgx-AM_0NyAO177IWVtTcxQpuy7uyU0yJIzBulf8Resq2LIEC07kNiImIZAxhkKSkNBkuFui4pBojAH2EKd=w1600" group-title="Ungrouped", MEMORIAS TV MUSICA
+https://m3u-editor.com/serve/kiwitvlite/765696619
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Ungrouped", TOP LATINO
+https://m3u-editor.com/serve/kiwitvlite/765696620
+#EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/385/123/png-transparent-logo-tv-nick-music-mtv2-mtv-hits-idents-text-logo-mtv-thumbnail.png" group-title="Ungrouped", HITS
+https://m3u-editor.com/serve/kiwitvlite/765696621
+#EXTINF: 11 tvg-id="cinem.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Ungrouped", CINECANAL
+https://m3u-editor.com/serve/kiwitvlite/765696623
+#EXTINF: -1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Ungrouped", CINE Familiar
+https://m3u-editor.com/serve/kiwitvlite/765696624
+#EXTINF: -1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="Ungrouped", CINE Hispano
+https://m3u-editor.com/serve/kiwitvlite/765696625
+#EXTINF: -1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="Ungrouped", CINE Premium
+https://m3u-editor.com/serve/kiwitvlite/765696626
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="Ungrouped", DHE
+https://m3u-editor.com/serve/kiwitvlite/765696627
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Ungrouped", LAS ESTRELLAS
+https://m3u-editor.com/serve/kiwitvlite/765696628
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Ungrouped", ESTRELLA TV
+https://m3u-editor.com/serve/kiwitvlite/765696629
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Ungrouped", VE PLUS
+https://m3u-editor.com/serve/kiwitvlite/765696630
+#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="Ungrouped", TLNovelas
+https://m3u-editor.com/serve/kiwitvlite/765696631
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="Ungrouped", RCN NOVELAS
+https://m3u-editor.com/serve/kiwitvlite/765696632
+#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/detail/760-7607535_venevision-usa-logo-de-venevision.png" group-title="Ungrouped", Venevision
+https://m3u-editor.com/serve/kiwitvlite/765696635
+#EXTINF: -1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="Ungrouped", MyTIME Esp
+https://m3u-editor.com/serve/kiwitvlite/765696637
+#EXTINF: -1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cfca19&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmytime.png" group-title="Ungrouped", MyTIME Mex
+https://m3u-editor.com/serve/kiwitvlite/765696638
+#EXTINF: -1 tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png" group-title="Ungrouped", PLANETA TV
+https://m3u-editor.com/serve/kiwitvlite/765696639
+#EXTINF: -1 tvg-logo="https://www.liblogo.com/img-logo/ci7285fbdc-cinemax-logo-file-cinemax-svg-wikimedia-commons.png" group-title="Ungrouped", CineMAX
+https://m3u-editor.com/serve/kiwitvlite/765696640
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Ungrouped", HBO
+https://m3u-editor.com/serve/kiwitvlite/765696641
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Ungrouped", HBO 2
+https://m3u-editor.com/serve/kiwitvlite/765696642
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/44.png" group-title="Ungrouped", Paramount Network
+https://m3u-editor.com/serve/kiwitvlite/765696643
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/42.png" group-title="Ungrouped", FX
+https://m3u-editor.com/serve/kiwitvlite/765696644
+#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tru-tv_m.png" group-title="Ungrouped", TRU TV
+https://m3u-editor.com/serve/kiwitvlite/765696645
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Ungrouped", TBS
+https://m3u-editor.com/serve/kiwitvlite/765696646
+#EXTINF: -1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/WhatsApp-Image-2020-07-27-at-12.22.38-2-300x300.jpeg" group-title="Ungrouped", SPACE
+https://m3u-editor.com/serve/kiwitvlite/765696647
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png" group-title="Ungrouped", I-SAT
+https://m3u-editor.com/serve/kiwitvlite/765696648
+#EXTINF: -1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/ITV-Logo-1980.png" group-title="Ungrouped", ITV
+https://m3u-editor.com/serve/kiwitvlite/765696649
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/121.-_RTRO.webp/910px-121.-_RTRO.webp.png" group-title="Ungrouped", RETRO
+https://m3u-editor.com/serve/kiwitvlite/765696650
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Ungrouped", DISTRITO COMEDIA
+https://m3u-editor.com/serve/kiwitvlite/765696651
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png" group-title="Ungrouped", COMEDY CENTRAL
+https://m3u-editor.com/serve/kiwitvlite/765696636
+#EXTINF: -1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg" group-title="Ungrouped", Contacto Deportivo
+https://m3u-editor.com/serve/kiwitvlite/765696655
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/6.png" group-title="Ungrouped", BESTCABLE Sports
+https://m3u-editor.com/serve/kiwitvlite/765696657
+#EXTINF: -1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="Ungrouped", GOLPERU
+https://m3u-editor.com/serve/kiwitvlite/765696656
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Ungrouped", M DEPORTES
+https://m3u-editor.com/serve/kiwitvlite/765696720
+#EXTINF: -1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Ungrouped", ESPN
+https://m3u-editor.com/serve/kiwitvlite/765696658
+#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="Ungrouped", ESPN 2
+https://m3u-editor.com/serve/kiwitvlite/765696659
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Ungrouped", ESPN 3
+https://m3u-editor.com/serve/kiwitvlite/765696660
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="Ungrouped", ESPN 4
+https://m3u-editor.com/serve/kiwitvlite/765696661
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Ungrouped", Fox Sports 2
+https://m3u-editor.com/serve/kiwitvlite/765696662
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Ungrouped", Fox Sports 3
+https://m3u-editor.com/serve/kiwitvlite/765696663
+#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png" group-title="Ungrouped", Gol TV
+https://m3u-editor.com/serve/kiwitvlite/765696664
+#EXTINF: -1 tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg" group-title="Ungrouped", CNN en EspaÃ±ol
+https://m3u-editor.com/serve/kiwitvlite/765696666
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Ungrouped", CNN Chile
+https://m3u-editor.com/serve/kiwitvlite/765696667
+#EXTINF: -1 tvg-logo="https://www.identidad.tv/media-identidadtv/2021/07/nuevo-logo-identidad.png" group-title="Ungrouped", Identidad TV
+https://m3u-editor.com/serve/kiwitvlite/765696668
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="Ungrouped", RT NOTICIAS
+https://m3u-editor.com/serve/kiwitvlite/765696669
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Ungrouped", DW Latino
+https://m3u-editor.com/serve/kiwitvlite/765696670
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="Ungrouped", CGTN CHINA
+https://m3u-editor.com/serve/kiwitvlite/765696671
+#EXTINF: -1 tvg-logo="https://image.roku.com/developer_channels/prod/b73e27a5281da28f40c01e1f3542666e7c19b4be0b820948d83434b3056d0792.png" group-title="Ungrouped", HispanTV
+https://m3u-editor.com/serve/kiwitvlite/765696672
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="Ungrouped", TVE la 1 HD
+https://m3u-editor.com/serve/kiwitvlite/765696673
+#EXTINF: -1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/WhatsApp-Image-2020-07-27-at-12.36.22-1-300x298.jpeg" group-title="Ungrouped", Vision Musica HD
+https://m3u-editor.com/serve/kiwitvlite/765696723
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/3.png" group-title="Ungrouped", BEST CABLE TV
+https://m3u-editor.com/serve/kiwitvlite/765696718
+#EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Ungrouped", BH TV HD
+https://m3u-editor.com/serve/kiwitvlite/765696683
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/30.png" group-title="Ungrouped", FUEGO TV HD
+https://m3u-editor.com/serve/kiwitvlite/765696676
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Panamericana_2020.png" group-title="Ungrouped", Panamericana HD
+https://m3u-editor.com/serve/kiwitvlite/765696678
+#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="Ungrouped", ATV HD
+https://m3u-editor.com/serve/kiwitvlite/765696682
+#EXTINF: -1 tvg-id="5e793a7cfbdf780007f7eb75" tvg-logo="https://archive.org/download/pluto-tv-logo/pluto-tv-logo.png" group-title="Ungrouped", PLUTO Guia de Canales
+https://m3u-editor.com/serve/kiwitvlite/765696688
+#EXTINF: -1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Cine AcciÃ³n
+https://m3u-editor.com/serve/kiwitvlite/765696689
+#EXTINF: -1 tvg-id="5dcdde78f080d900098550e4" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Cine Comedia
+https://m3u-editor.com/serve/kiwitvlite/765696690
+#EXTINF: -1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Cine Terror
+https://m3u-editor.com/serve/kiwitvlite/765696691
+#EXTINF: -1 tvg-id="5dcddfcb229eff00091b6bdf" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Cine Drama
+https://m3u-editor.com/serve/kiwitvlite/765696692
+#EXTINF: -1 tvg-id="5dcde437229eff00091b6c30" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Cine Estelar
+https://m3u-editor.com/serve/kiwitvlite/765696693
+#EXTINF: -1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Cine Familia
+https://m3u-editor.com/serve/kiwitvlite/765696694
+#EXTINF: -1 tvg-id="5dd7ea2aeab5230009986735" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Cine Romance
+https://m3u-editor.com/serve/kiwitvlite/765696695
+#EXTINF: -1 tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Cine Suspenso
+https://m3u-editor.com/serve/kiwitvlite/765696696
+#EXTINF: -1 tvg-id="5defde6d6c07b50009cf0757" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Nuestro Cine
+https://m3u-editor.com/serve/kiwitvlite/765696697
+#EXTINF: -1 tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Estrellas de AcciÃ³n
+https://m3u-editor.com/serve/kiwitvlite/765696698
+#EXTINF: -1 tvg-id="624af40c004f8000079b784d" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Cine Crimen
+https://m3u-editor.com/serve/kiwitvlite/765696700
+#EXTINF: -1 tvg-id="609059dc63be6e0007b4eca6" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Cine ClÃ¡sico
+https://m3u-editor.com/serve/kiwitvlite/765696701
+#EXTINF: -1 tvg-id="5dcde0657444a40009cd2422" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Cocina
+https://m3u-editor.com/serve/kiwitvlite/765696702
+#EXTINF: -1 tvg-id="609062295c2b8f0007199e7a" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Recetas
+https://m3u-editor.com/serve/kiwitvlite/765696703
+#EXTINF: -1 tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Deportes
+https://m3u-editor.com/serve/kiwitvlite/765696704
+#EXTINF: -1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Novelas
+https://m3u-editor.com/serve/kiwitvlite/765696705
+#EXTINF: -1 tvg-id="5dcde1317578340009b751d0" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Series
+https://m3u-editor.com/serve/kiwitvlite/765696706
+#EXTINF: -1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto TV Misterios
+https://m3u-editor.com/serve/kiwitvlite/765696711
+#EXTINF: -1 tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Viajes
+https://m3u-editor.com/serve/kiwitvlite/765696712
+#EXTINF: -1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Hogar
+https://m3u-editor.com/serve/kiwitvlite/765696713
+#EXTINF: -1 tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Hechizada
+https://m3u-editor.com/serve/kiwitvlite/765696714
+#EXTINF: -1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Historia
+https://m3u-editor.com/serve/kiwitvlite/765696715
+#EXTINF: -1 tvg-id="60142258a54aeb0007751c15" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Pluto Retro Cartoons
+https://m3u-editor.com/serve/kiwitvlite/765696716
+#EXTINF: -1 tvg-id="5ffcc21a432945000762d06b" tvg-logo="https://webtech-web-grn-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Ungrouped", Comedy Central Pluto TV
+https://m3u-editor.com/serve/kiwitvlite/765696717
 
-#EXTINF:0 tvg-logo="https://tntla.com/img/share_link.jpg",TNT
-http://191.97.55.241:8000/play/a02g/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
-http://191.97.55.241:8000/play/a040/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
-http://191.97.55.241:8000/play/a05i/index.m3u8
-#EXTINF:0 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png",STAR Channel
-http://191.97.55.241:8000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/45.png",AXN
-http://191.97.55.241:8000/play/a041/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",UNIVERSAL TV
-http://190.131.228.59:8000/play/a040/index.m3u8
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/31.png",A&E
-http://191.97.55.241:8000/play/a05n/index.m3u8
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/37.png",STUDIO Universal
-http://200.110.169.237:8202/play/a030
-#EXTINF:0 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/Discovery_thumb.png",Discovery
-http://190.60.37.67:8015/play/a01k/index.m3u8
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/57.png",HISTORY
-http://190.131.228.59:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/23.png",H2
-http://190.60.37.67:8015/play/a08r/index.m3u8
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/22.png",NAT GEO
-http://191.97.55.241:8000/play/a025/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png",SUN Channel
-http://181.176.148.142:8000/play/a02z
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-tlc_m.png",TLC Travel & Living
-http://200.110.169.237:8202/play/a01t
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/34.png",E! Entertainment
-http://190.131.228.59:8000/play/a05q/index.m3u8
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/19.png",HOME & HEALTH
-http://181.176.148.142:8000/play/a02l
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/38.png",Lifetime
-http://191.97.55.241:8000/play/a02k/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",FOOD Network
-http://181.176.148.142:8000/play/a02j
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png",ID Discovery
-http://181.176.148.142:8000/play/a029
-
-#EXTINF:11 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/11/medicostv.jpg",MEDICOS TV
-https://2-fss-1.streamhoster.com/pl_154/206242-3004894-1/1080/medSCTE35.m3u8
-#EXTINF:11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/600px-INTI_Network_TV.png",INTI
-https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://platcon.tv/img/p/5/1/51-thickbox_default.jpg",TV Salud
-https://marine2.miplay.cl/tvsalud/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://asset.ctv.ca/image-service/version/c:YzY4N2RmZTMtMzc0Zi00:YTA0ZjEx/image.png",ANIMAL PLANET
-http://190.131.228.59:8000/play/a0rz/index.m3u8
-#EXTINF:0 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg",LOVE NATURE
-http://181.176.148.142:8000/play/a02q
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
-http://190.131.228.59:8000/play/a049/index.m3u8
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/29.png",DISCOVERY KIDS
-http://181.176.148.142:8000/play/a012
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/25.png",DISNEY
-http://181.176.148.142:8000/play/a02b
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/27.png",DISNEY JR
-http://181.176.148.142:8000/play/a02c
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/26.png",NICK
-http://181.176.148.142:8000/play/a02t
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/24.png",NICK JR
-http://190.131.228.59:8000/play/a09b/index.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/e6/84/49/e68449b851a8ffb8256a71daab209775.png",TOONCAST
-http://190.108.85.114:8000/play/a0g3/index.m3u8
-
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",MEMORIAS TV MUSICA
-https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",TOP LATINO
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",HITS
-http://181.176.148.142:8000/play/a01y
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/nota-diseno-logo-musica_93835-645.jpg?w=2000",SOL STEREO
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-
-#EXTINF:11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",CINECanal
-http://190.61.102.67:8000/play/a070
-#EXTINF:0 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png",CINE Familiar
-http://181.176.148.142:8000/play/a023
-#EXTINF:0 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png",CINE Hispano
-http://181.176.148.142:8000/play/a024
-#EXTINF:0 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png",CINE Premium
-http://181.176.148.142:8000/play/a025
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png",DHE
-http://181.176.148.142:8000/play/a027
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png",LAS ESTRELLAS
-http://200.110.169.237:8202/play/a01v
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png",ESTRELLA TV
-https://estrellatv-glewed.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png",VE PLUS
-http://190.122.96.187:8888/http/006
-#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png",TLNovelas
-http://181.176.148.142:8000/play/a00e
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",RCN NOVELAS
-http://190.83.119.67:8000/play/a0r5/index.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1424781074656288779/UJcdkaPC_400x400.jpg",NOVELISIMA
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png",NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-#EXTINF:0 tvg-logo="https://www.seekpng.com/png/detail/760-7607535_venevision-usa-logo-de-venevision.png",Venevision
-http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",COMEDY CENTRAL
-http://190.61.102.67:8000/play/a064
-
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png",MyTIME Esp
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png",MyTIME Mex
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png",PLANETA TV
-https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://www.liblogo.com/img-logo/ci7285fbdc-cinemax-logo-file-cinemax-svg-wikimedia-commons.png",CineMAX
-http://200.110.169.237:8202/play/a020
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",HBO
-http://190.61.102.67:8000/play/a015
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://191.97.55.241:8000/play/a02p/index.m3u8
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/44.png",Paramount Network
-http://181.176.148.142:8000/play/a033
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/42.png",FX
-http://190.60.37.69:8015/play/a047/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tru-tv_m.png",TRU TV
-http://181.176.148.142:8000/play/a030
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png",TBS
-http://200.110.169.237:8202/play/a03u
-#EXTINF:0 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/WhatsApp-Image-2020-07-27-at-12.22.38-2-300x300.jpeg",SPACE
-http://190.108.85.114:8000/play/a0ai/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png",I-SAT
-http://190.61.102.67:8000/play/a06v
-#EXTINF:0 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/ITV-Logo-1980.png",ITV
-http://181.176.148.142:8000/play/a02n
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/121.-_RTRO.webp/910px-121.-_RTRO.webp.png",RETRO
-http://181.176.148.142:8000/play/a02x
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",DISTRITO COMEDIA
-http://191.97.56.146:8000/play/a087/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1280px-Premium_Cinema.svg.png",CINEMA PREMIUM 1
-http://191.97.55.241:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1280px-Premium_Cinema.svg.png",CINEMA PREMIUM 2
-http://191.97.55.241:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1280px-Premium_Cinema.svg.png",CINEMA PREMIUM 3
-http://191.97.55.241:8000/play/a02w/index.m3u8
-
-#EXTINF:0 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg",Contacto Deportivo
-https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg",GOLPERU
-http://190.108.85.114:8000/play/a0fw/index.m3u8
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/6.png",BESTCABLE Sports
-https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN
-http://181.176.148.142:8000/play/a02d
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",ESPN 2
-http://181.176.148.142:8000/play/a02e
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",ESPN 3
-http://181.176.148.142:8000/play/a02f
-#EXTINF:0 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/04/04/765g3bb03d-espn-4-en-vivo.jpg",ESPN 4
-http://190.60.37.67:8015/play/a02n/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",Fox Sports 2
-http://191.97.55.241:8000/play/a05r/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",Fox Sports 3
-http://190.108.93.148:8000/play/a07e/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_gol-tv_m.png",Gol TV
-http://190.61.102.67:8000/play/a07h
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg",La LIGA
-http://190.61.102.67:8000/play/a07h
-
-#EXTINF:-1 tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg",CNN en Español
-http://190.61.102.67:8000/play/a04c
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png",CNN Chile
-http://191.97.55.241:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.identidad.tv/media-identidadtv/2021/07/nuevo-logo-identidad.png",Identidad TV
-https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/HasBahCa.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",RT NOTICIAS
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW Latino
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png",CGTN CHINA
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b73e27a5281da28f40c01e1f3542666e7c19b4be0b820948d83434b3056d0792.png",HispanTV
-https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b394100_slen.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",TVE la 1 HD
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/cv-tv.png",VISION TV
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-logo="hhttps://bestcableperu.com.pe/img/canales/2.png",LATINA HD
-http://190.108.85.114:8000/play/a06f/index.m3u8
-#EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/30.png",FUEGO TV HD
-https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/4.png",AMERICA HD
-http://191.97.55.241:8000/play/a03q/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Panamericana_2020.png",Panamericana HD
-https://cdnh71.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s154840/images/logog.png?t=151626",EXITOSA HD
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/7.png",TVPERU HD
-https://cdnh74.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/14.png",ATV+ Noticias HD
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2_360.m3u8
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png",ATV HD
-https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png",BH TV HD
-https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png",RPP TV
-http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/29.ts
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/8.png",WILLAX HD
-http://191.97.55.241:8000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png",GLOBAL HD
-http://186.5.31.251:8000/play/a0a0/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png",Peru Magico T
-http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/19.ts
-
-#EXTM3U url-tvg=https://i.mjh.nz/PlutoTV/mx.xml.gz
-#EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75",GUIA CANALES Pluto
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881",Pluto Cine Acción
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4",Pluto Cine Comedia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcddf1ed95e740009fef7ab" tvg-id="5dcddf1ed95e740009fef7ab",Pluto Cine Terror
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcddfcb229eff00091b6bdf" tvg-id="5dcddfcb229eff00091b6bdf",Pluto Cine Drama
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30",Pluto Cine Estelar
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dd6ddb30a1d8a000908ed4c" tvg-id="5dd6ddb30a1d8a000908ed4c",Pluto Cine Familia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dd7ea2aeab5230009986735" tvg-id="5dd7ea2aeab5230009986735",Pluto Cine Romance
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5ddc4e8bcbb9010009b4e84f" tvg-id="5ddc4e8bcbb9010009b4e84f",Pluto Cine Suspenso
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5defde6d6c07b50009cf0757" tvg-id="5defde6d6c07b50009cf0757",Pluto Nuestro Cine
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5e972a21ad709d00074195ba" tvg-id="5e972a21ad709d00074195ba",Estrellas de Acción
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-600728952b1776000776526d" tvg-id="600728952b1776000776526d",Paramount+ Presenta
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-624af40c004f8000079b784d" tvg-id="624af40c004f8000079b784d",Pluto Cine Crimen
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-609059dc63be6e0007b4eca6" tvg-id="609059dc63be6e0007b4eca6",Pluto Cine Clásico
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 channel-id="pluto-5dcde0657444a40009cd2422" tvg-id="5dcde0657444a40009cd2422",Pluto Cocina
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-609062295c2b8f0007199e7a" tvg-id="609062295c2b8f0007199e7a",Pluto Recetas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651",Pluto Deportes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4",Pluto Novelas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0",Pluto Series
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02",Pluto Anime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04",Pluto Reality
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a",Pluto Investiga
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcde2ac4bc6c500094ab45b" tvg-id="5dcde2ac4bc6c500094ab45b",Pluto Junior
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcde2f53449c50009b2b4dc" tvg-id="5dcde2f53449c50009b2b4dc",Pluto TV Misterios
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea",Pluto Viajes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5dd6ab8056beb000091fc6b6" tvg-id="5dd6ab8056beb000091fc6b6",Pluto Hogar
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606",Hechizada
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c",Pluto Historia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-60142258a54aeb0007751c15" tvg-id="60142258a54aeb0007751c15",Pluto Retro Cartoons
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5ffcc21a432945000762d06b" tvg-id="5ffcc21a432945000762d06b",Comedy Central Pluto TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/3.png",BEST CABLE TV
-https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",Movistar Deportes Test
-http://186.5.31.251:8000/play/a09t/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",M DEPORTES SD Test
-http://190.108.85.114:8000/play/a0gw/index.m3u8
-#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png",TELECOLOR
-https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png",Karibeña HD
-https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/WhatsApp-Image-2020-07-27-at-12.36.22-1-300x298.jpeg",Vision Musica HD
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",IPE HD
-https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",RTS Ecuador HD
-https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Runtime Comedia HD
-https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",Runtime Romance HD
-https://run-rr-es.otteravision.com/run/rr_es/rr_es_720.m3u8
-
-#EXTINF:-1,Premium 01
-http://94.229.250.73:8008/play/a002
-#EXTINF:-1,Premium 02
-http://181.189.243.254:8000/play/a0ow/index.m3u8
-#EXTINF:-1,Premium 02
-http://190.61.41.182:8000/play/a35z/index.m3u8
-
-#EXTINF:-1,Clover TV
-http://191.97.56.146:8000/play/a06t/index.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",DirecTV Sports HD
-http://190.61.41.182:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",DirecTV Sports Plus HD
-http://190.61.41.182:8000/play/a030/index.m3u8
-#EXTINF:-1,Directv Sports+
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8520
-#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",DirecTV Sports 2 HD
-http://190.61.41.182:8000/play/a02z/index.m3u8
-#EXTINF:-1,TLnovelas Colombia
-http://190.61.41.182:8000/play/a00b/index.m3u8
+#EXTINF: -1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="Ungrouped", Premium 01
+https://m3u-editor.com/serve/kiwitvlite/765696728
+#EXTINF: -1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="Ungrouped", Premium 02
+https://m3u-editor.com/serve/kiwitvlite/765696729
+#EXTINF: -1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="Ungrouped", Premium 03
+https://m3u-editor.com/serve/kiwitvlite/765696730
+#EXTINF: -1 tvg-logo="https://www.latincable.pe/images/canales-tv/clover-channel.jpg" group-title="Ungrouped", Clover TV
+https://m3u-editor.com/serve/kiwitvlite/765696731
+#EXTINF: -1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="Ungrouped", DirecTV Sports HD
+https://m3u-editor.com/serve/kiwitvlite/765696732
+#EXTINF: -1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="Ungrouped", DirecTV Sports Plus HD
+https://m3u-editor.com/serve/kiwitvlite/765696733
+#EXTINF: -1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="Ungrouped", Directv Sports+
+https://m3u-editor.com/serve/kiwitvlite/765696734
+#EXTINF: -1 group-title="Ungrouped", TLnovelas Colombia
+https://m3u-editor.com/serve/kiwitvlite/765696736
+#EXTINF: -1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png" group-title="Ungrouped", TELECOLOR
+https://m3u-editor.com/serve/kiwitvlite/765696721
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/7.png" group-title="Ungrouped", TVPERU HD
+https://m3u-editor.com/serve/kiwitvlite/765696680
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="Ungrouped", RPP TV
+https://m3u-editor.com/serve/kiwitvlite/765696684
