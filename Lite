@@ -161,7 +161,7 @@ http://181.176.148.142:8000/play/a02n
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/121.-_RTRO.webp/910px-121.-_RTRO.webp.png",RETRO
 http://181.176.148.142:8000/play/a02x
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",DISTRITO COMEDIA
-http://186.5.31.251:8000/play/a0d4/index.m3u8
+http://191.97.56.146:8000/play/a087/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1280px-Premium_Cinema.svg.png",CINEMA PREMIUM 1
 http://191.97.55.241:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1280px-Premium_Cinema.svg.png",CINEMA PREMIUM 2
@@ -232,13 +232,13 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png",BH TV HD
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png",RPP TV
-http://186.5.31.251:8000/play/a0au/index.m3u8 X
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/29.ts
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/8.png",WILLAX HD
 http://191.97.55.241:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png",GLOBAL HD
 http://186.5.31.251:8000/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png",Peru Magico T
-http://186.5.31.251:8000/play/a0ad/index.m3u8  X
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/19.ts
 
 #EXTM3U url-tvg=https://i.mjh.nz/PlutoTV/mx.xml.gz
 #EXTINF:-1 channel-id="pluto-5e793a7cfbdf780007f7eb75" tvg-id="5e793a7cfbdf780007f7eb75",GUIA CANALES Pluto
