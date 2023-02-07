@@ -10,7 +10,7 @@ http://191.97.55.241:8000/play/a03q/index.m3u
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png",PANAMERICANA
 http://190.108.85.114:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png",Movistar PLUS
-http://186.5.31.251:8000/play/a0ac/index.m3u8
+http://201.218.137.242:8001/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png",TV Peru
 https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png",ATV+ Noticias
@@ -24,7 +24,7 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png",Willax
 http://191.97.55.241:8000/play/a03n/index.m3u8
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png",GLOBAL
-http://186.5.31.251:8000/play/a0a0/index.m3u8
+http://201.218.137.242:8001/play/a032/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png",TV Peru Noticias
 https://cdnh75.iblups.com/hls/RMuwrdk7M9.m3u8
 
@@ -43,7 +43,7 @@ http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/31.png",A&E
 http://191.97.55.241:8000/play/a05n/index.m3u8
 #EXTINF:0 tvg-logo="https://bestcableperu.com.pe/img/canales/37.png",STUDIO Universal
-http://190.61.102.67:8000/play/a06z
+http://200.110.169.237:8202/play/a030
 #EXTINF:0 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/Discovery_thumb.png",Discovery
 http://190.60.37.67:8015/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/57.png",HISTORY
@@ -191,8 +191,6 @@ http://190.108.93.148:8000/play/a07e/index.m3u8
 http://190.61.102.67:8000/play/a07h
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.jpg",La LIGA
 http://190.61.102.67:8000/play/a07h
-#EXTINF:-1,Directv Sports+
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8520
 
 #EXTINF:-1 tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg",CNN en Español
 http://190.61.102.67:8000/play/a04c
@@ -312,7 +310,7 @@ http://190.108.85.114:8000/play/a0gw/index.m3u8
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png",TELECOLOR
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribe%C3%B1atv.png",Karibeña HD
-https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/WhatsApp-Image-2020-07-27-at-12.36.22-1-300x298.jpeg",Vision Musica HD
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",IPE HD
@@ -325,8 +323,21 @@ https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
 https://run-rr-es.otteravision.com/run/rr_es/rr_es_720.m3u8
 
 #EXTINF:-1,Premium 01
-http://186.5.31.251:8000/play/a0bj/index.m3u8
+http://94.229.250.73:8008/play/a002
 #EXTINF:-1,Premium 02
-http://186.5.31.251:8000/play/a0bk/index.m3u8
+http://181.189.243.254:8000/play/a0ow/index.m3u8
+#EXTINF:-1,Premium 02
+http://190.61.41.182:8000/play/a35z/index.m3u8
+
 #EXTINF:-1,Clover TV
 http://191.97.56.146:8000/play/a06t/index.m3u8
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",DirecTV Sports HD
+http://190.61.41.182:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",DirecTV Sports Plus HD
+http://190.61.41.182:8000/play/a030/index.m3u8
+#EXTINF:-1,Directv Sports+
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8520
+#EXTINF:-1 tvg-logo="https://win.pe/img/logo-oct.png",DirecTV Sports 2 HD
+http://190.61.41.182:8000/play/a02z/index.m3u8
+#EXTINF:-1,TLnovelas Colombia
+http://190.61.41.182:8000/play/a00b/index.m3u8
