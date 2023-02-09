@@ -18,7 +18,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696581
 #EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="Ungrouped", ATV
 https://m3u-editor.com/serve/kiwitvlite/765696582
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Ungrouped", CANAL N
-https://m3u-editor.com/serve/kiwitvlite/765696583
+http://186.5.31.251:8000/play/a09y/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png" group-title="Ungrouped", NATIVA
 https://m3u-editor.com/serve/kiwitvlite/765696584
 #EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" group-title="Ungrouped", Willax
