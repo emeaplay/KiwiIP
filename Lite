@@ -5,7 +5,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696574
 https://m3u-editor.com/serve/kiwitvlite/765696575
 #EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Local", BH TV HD
 https://m3u-editor.com/serve/kiwitvlite/765696683
-#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" channel id="194dtv.pe" <display-name>PER | América TV</display-name> group-title="Local", AMERICA TV
+#EXTINF: -1 tvg-id="194dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="Local", AMERICA TV
 https://m3u-editor.com/serve/kiwitvlite/765696577
 #EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local", PANAMERICANA
 https://m3u-editor.com/serve/kiwitvlite/765696578
