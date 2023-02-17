@@ -1,4 +1,4 @@
-#EXTM3U tvg-url=https://epg.programadorx.cl/mdiaz/gratis.xml   tvg-url=http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Peru/directv.com.pe.channels.xml	
+#EXTM3U tvg-url=http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Peru/directv.com.pe.channels.xml	
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png" group-title="Local", KiWiTV Basica
 https://m3u-editor.com/serve/kiwitvlite/765696574
 #EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png" group-title="Local", Latina
