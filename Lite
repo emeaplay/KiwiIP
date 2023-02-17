@@ -107,8 +107,8 @@ https://m3u-editor.com/serve/kiwitvlite/765696630
 https://m3u-editor.com/serve/kiwitvlite/765696631
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png" group-title="Variados", SUN Channel
 https://m3u-editor.com/serve/kiwitvlite/765696600
-#EXTINF: -1 tvg-logo="https://www.seekpng.com/png/detail/760-7607535_venevision-usa-logo-de-venevision.png" group-title="Variados", Venevision
-https://m3u-editor.com/serve/kiwitvlite/765696635
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Variados",Unicable
+http://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Variados",Distrito Comedia
 https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62d8abe1b8305ca6df23c635/2ba67e8e8796799a3af2e197f932eec1?tr=q-80&w=1920" group-title="Variados",Univision
