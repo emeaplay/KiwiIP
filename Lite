@@ -125,7 +125,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696597
 https://m3u-editor.com/serve/kiwitvlite/765696598
 #EXTINF: -1 tvg-id="223dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Cultura", ID Discovery
 https://m3u-editor.com/serve/kiwitvlite/765696606
-#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/22.png" group-title="Cultura", NAT GEO
+#EXTINF: -1 tvg-id="730dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/22.png" group-title="Cultura", NAT GEO
 https://m3u-editor.com/serve/kiwitvlite/765696599
 #EXTINF: -1 tvg-logo="https://image.pngaaa.com/149/4735149-middle.png" group-title="Cultura", ANIMAL PLANET
 https://m3u-editor.com/serve/kiwitvlite/765696610
