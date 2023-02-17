@@ -29,9 +29,9 @@ https://m3u-editor.com/serve/kiwitvlite/765696586
 https://m3u-editor.com/serve/kiwitvlite/765696587
 #EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas", TNT
 https://m3u-editor.com/serve/kiwitvlite/765696588
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Series", Sony
+#EXTINF: -1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Series", Sony
 https://m3u-editor.com/serve/kiwitvlite/765696589
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Series", Warner
+#EXTINF: -1 tvg-id="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Series", Warner
 https://m3u-editor.com/serve/kiwitvlite/765696590
 #EXTINF: -1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="Peliculas", STAR Channel
 https://m3u-editor.com/serve/kiwitvlite/765696591
@@ -69,7 +69,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696720
 https://m3u-editor.com/serve/kiwitvlite/765696658
 #EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="Deportes", ESPN 2
 https://m3u-editor.com/serve/kiwitvlite/765696659
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes", ESPN 3
+#EXTINF: -1 tvg-id="1075dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes", ESPN 3
 https://m3u-editor.com/serve/kiwitvlite/765696660
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="Deportes", ESPN 4
 https://m3u-editor.com/serve/kiwitvlite/765696661
@@ -79,7 +79,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696662
 https://m3u-editor.com/serve/kiwitvlite/765696663
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", CARTOON NETWORK
 https://m3u-editor.com/serve/kiwitvlite/765696612
-#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/25.png" group-title="Infantil", DISNEY
+#EXTINF: -1 tvg-id="312dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/25.png" group-title="Infantil", DISNEY
 https://m3u-editor.com/serve/kiwitvlite/765696614
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/27.png" group-title="Infantil", DISNEY JR
 https://m3u-editor.com/serve/kiwitvlite/765696615
@@ -117,13 +117,13 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62c716b46bc1f5715195a3c1/acd58d009f200833068f5a912b8e7e1d?tr=q-80&w=1920" group-title="Variados",De Pelicula Plus
 https://linear-404.frequency.stream/dist/vix/404/hls/master/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Cultura", Discovery
+#EXTINF: -1 tvg-id="732dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Cultura", Discovery
 https://m3u-editor.com/serve/kiwitvlite/765696596
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/57.png" group-title="Cultura", HISTORY
 https://m3u-editor.com/serve/kiwitvlite/765696597
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/23.png" group-title="Cultura", H2
 https://m3u-editor.com/serve/kiwitvlite/765696598
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Cultura", ID Discovery
+#EXTINF: -1 tvg-id="223dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Cultura", ID Discovery
 https://m3u-editor.com/serve/kiwitvlite/765696606
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/22.png" group-title="Cultura", NAT GEO
 https://m3u-editor.com/serve/kiwitvlite/765696599
