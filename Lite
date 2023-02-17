@@ -1,4 +1,4 @@
-#EXTM3U tvg-url=http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Peru/directv.com.pe.channels.xml	tvg-url=https://epg.programadorx.cl/mdiaz/gratis.xml
+#EXTM3U tvg-url=https://epg.programadorx.cl/mdiaz/gratis.xml
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png" group-title="Local", KiWiTV Basica
 https://m3u-editor.com/serve/kiwitvlite/765696574
 #EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png" site_id="1321" group-title="Local", Latina HD
@@ -7,15 +7,15 @@ https://m3u-editor.com/serve/kiwitvlite/765696575
 https://m3u-editor.com/serve/kiwitvlite/765696683
 #EXTINF: -1 tvg-id="194dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="Local", AMERICA TV
 https://m3u-editor.com/serve/kiwitvlite/765696577
-#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local", PANAMERICANA
+#EXTINF: -1 tvg-id="195dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local", PANAMERICANA
 https://m3u-editor.com/serve/kiwitvlite/765696578
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Local", Movistar PLUS
 https://m3u-editor.com/serve/kiwitvlite/765696579
-#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Local", TV Peru
+#EXTINF: -1 tvg-id="197dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Local", TV Peru
 https://m3u-editor.com/serve/kiwitvlite/765696580
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Local", ATV+ Noticias
 https://m3u-editor.com/serve/kiwitvlite/765696581
-#EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="Local", ATV
+#EXTINF: -1 tvg-id="199dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="Local", ATV
 https://m3u-editor.com/serve/kiwitvlite/765696582
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Local", CANAL N
 http://186.5.31.251:8000/play/a09y/index.m3u8
@@ -23,7 +23,7 @@ http://186.5.31.251:8000/play/a09y/index.m3u8
 https://m3u-editor.com/serve/kiwitvlite/765696584
 #EXTINF: -1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" group-title="Local", Willax
 https://m3u-editor.com/serve/kiwitvlite/765696585
-#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/13.png" group-title="Local", GLOBAL
+#EXTINF: -1 tvg-id="198dtv.pe"tvg-logo="https://bestcableperu.com.pe/img/canales/13.png" group-title="Local", GLOBAL
 https://m3u-editor.com/serve/kiwitvlite/765696586
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local", TV Peru Noticias
 https://m3u-editor.com/serve/kiwitvlite/765696587
