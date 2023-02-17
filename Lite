@@ -1,7 +1,7 @@
 #EXTM3U tvg-url=https://epg.programadorx.cl/mdiaz/gratis.xml
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png" group-title="Local", KiWiTV Basica
 https://m3u-editor.com/serve/kiwitvlite/765696574
-#EXTINF: -1 tvg-id="LATINA HD (Latina HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png" group-title="Local", Latina HD
+#EXTINF: -1 tvg-id="Latina HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png" group-title="Local", Latina HD
 https://m3u-editor.com/serve/kiwitvlite/765696575
 #EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Local", BH TV HD
 https://m3u-editor.com/serve/kiwitvlite/765696683
@@ -27,27 +27,27 @@ https://m3u-editor.com/serve/kiwitvlite/765696585
 https://m3u-editor.com/serve/kiwitvlite/765696586
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local", TV Peru Noticias
 https://m3u-editor.com/serve/kiwitvlite/765696587
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas", TNT
+#EXTINF: -1 tvg-id="502dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas", TNT
 https://m3u-editor.com/serve/kiwitvlite/765696588
 #EXTINF: -1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Series", Sony
 https://m3u-editor.com/serve/kiwitvlite/765696589
 #EXTINF: -1 tvg-id="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Series", Warner
 https://m3u-editor.com/serve/kiwitvlite/765696590
-#EXTINF: -1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="Peliculas", STAR Channel
+#EXTINF: -1 tvg-id="202dtv.cl" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="Peliculas", STAR Channel
 https://m3u-editor.com/serve/kiwitvlite/765696591
-#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/45.png" group-title="Series", AXN
+#EXTINF: -1 tvg-id="209dtv.co" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png" group-title="Series", AXN
 https://m3u-editor.com/serve/kiwitvlite/765696592
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Peliculas", UNIVERSAL TV
+#EXTINF: -1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Peliculas", UNIVERSAL TV
 https://m3u-editor.com/serve/kiwitvlite/765696593
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/31.png" group-title="Peliculas", A&E
 https://m3u-editor.com/serve/kiwitvlite/765696594
-#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/37.png" group-title="Peliculas", STUDIO Universal
+#EXTINF: -1 tvg-id="508dtv.pe" tvg-logo="https://bestcableperu.com.pe/img/canales/37.png" group-title="Peliculas", STUDIO Universal
 https://m3u-editor.com/serve/kiwitvlite/765696595
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
 https://m3u-editor.com/serve/kiwitvlite/765696627
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Peliculas",Golden Edge
 https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.liblogo.com/img-logo/ci7285fbdc-cinemax-logo-file-cinemax-svg-wikimedia-commons.png" group-title="Peliculas", CineMAX
+#EXTINF: -1 tvg-id="1509dtv.cl" tvg-logo="https://www.liblogo.com/img-logo/ci7285fbdc-cinemax-logo-file-cinemax-svg-wikimedia-commons.png" group-title="Peliculas", CineMAX
 https://m3u-editor.com/serve/kiwitvlite/765696640
 #EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_tru-tv_m.png" group-title="Realidad", TRU TV
 https://m3u-editor.com/serve/kiwitvlite/765696645
@@ -77,7 +77,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696661
 https://m3u-editor.com/serve/kiwitvlite/765696662
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", Fox Sports 3
 https://m3u-editor.com/serve/kiwitvlite/765696663
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", CARTOON NETWORK
+#EXTINF: -1 tvg-id="304dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil", CARTOON NETWORK
 https://m3u-editor.com/serve/kiwitvlite/765696612
 #EXTINF: -1 tvg-id="312dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/25.png" group-title="Infantil", DISNEY
 https://m3u-editor.com/serve/kiwitvlite/765696614
