@@ -27,7 +27,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696585
 https://m3u-editor.com/serve/kiwitvlite/765696586
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local", TV Peru Noticias
 https://m3u-editor.com/serve/kiwitvlite/765696587
-#EXTINF: -1 tvg-id=502dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas", TNT
+#EXTINF: -1 tvg-id="502dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas", TNT
 https://m3u-editor.com/serve/kiwitvlite/765696588
 #EXTINF: -1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Series", Sony
 https://m3u-editor.com/serve/kiwitvlite/765696589
@@ -65,9 +65,9 @@ https://m3u-editor.com/serve/kiwitvlite/765696657
 https://m3u-editor.com/serve/kiwitvlite/765696656
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Deportes", M DEPORTES
 https://m3u-editor.com/serve/kiwitvlite/765696720
-#EXTINF: -1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes", ESPN
+#EXTINF: -1 tvg-id="id="622dtv.ar" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes", ESPN
 https://m3u-editor.com/serve/kiwitvlite/765696658
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="Deportes", ESPN 2
+#EXTINF: -1 tvg-id="id="622dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="Deportes", ESPN 2
 https://m3u-editor.com/serve/kiwitvlite/765696659
 #EXTINF: -1 tvg-id="1075dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes", ESPN 3
 https://m3u-editor.com/serve/kiwitvlite/765696660
@@ -107,11 +107,11 @@ https://m3u-editor.com/serve/kiwitvlite/765696630
 https://m3u-editor.com/serve/kiwitvlite/765696631
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png" group-title="Variados", SUN Channel
 https://m3u-editor.com/serve/kiwitvlite/765696600
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Variados",Unicable
+#EXTINF:-1 tvg-id=     tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Variados",Unicable
 http://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Variados",Distrito Comedia
+#EXTINF:-1 tvg-id=     tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Variados",Distrito Comedia
 https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62d8abe1b8305ca6df23c635/2ba67e8e8796799a3af2e197f932eec1?tr=q-80&w=1920" group-title="Variados",Univision
+#EXTINF:-1 tvg-id="760dtv.cl" tvg-logo="https://images.vix.com/prd/channel/62d8abe1b8305ca6df23c635/2ba67e8e8796799a3af2e197f932eec1?tr=q-80&w=1920" group-title="Variados",Univision
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Variados",De Pelicula
 https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
