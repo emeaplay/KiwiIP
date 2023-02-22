@@ -8,7 +8,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696683
 #EXTINF: -1 tvg-id="194dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="Local", AMERICA TV
 https://m3u-editor.com/serve/kiwitvlite/765696577
 #EXTINF: -1 tvg-id="195dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local", PANAMERICANA
-https://m3u-editor.com/serve/kiwitvlite/765696578
+http://186.5.31.251:8000/play/a09v/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Local", Movistar PLUS
 https://m3u-editor.com/serve/kiwitvlite/765696579
 #EXTINF: -1 tvg-id="197dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Local", TV Peru
@@ -62,9 +62,9 @@ https://m3u-editor.com/serve/kiwitvlite/765696655
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/6.png" group-title="Deportes", Best Sports
 https://m3u-editor.com/serve/kiwitvlite/765696657
 #EXTINF: -1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="Deportes", GOLPERU
-https://m3u-editor.com/serve/kiwitvlite/765696656
+http://190.108.93.148:8000/play/a0iq/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Deportes", M DEPORTES
-https://m3u-editor.com/serve/kiwitvlite/765696720
+http://186.5.31.251:8000/play/a09t/index.m3u8
 #EXTINF: -1 tvg-id="id="622dtv.ar" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes", ESPN
 https://m3u-editor.com/serve/kiwitvlite/765696658
 #EXTINF: -1 tvg-id="id="622dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="Deportes", ESPN 2
@@ -88,7 +88,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696613
 #EXTINF: -1 tvg-id="308dtv.ar"><tvg-logo="https://bestcableperu.com.pe/img/canales/26.png" group-title="Infantil", NICK
 https://m3u-editor.com/serve/kiwitvlite/765696616
 #EXTINF: -1 tvg-id="toon.us" tvg-logo="https://i.ytimg.com/vi/l2rRwrtEGUs/maxresdefault.jpg" group-title="Infantil", TOONCAST
-https://m3u-editor.com/serve/kiwitvlite/765696618
+http://190.61.101.9:8000/play/a00o/index.m3u8
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/385/123/png-transparent-logo-tv-nick-music-mtv2-mtv-hits-idents-text-logo-mtv-thumbnail.png" group-title="Musica", HITS
 https://m3u-editor.com/serve/kiwitvlite/765696621
 #EXTINF: -1 tvg-logo=" " group-title="Musica", Memorias TV
@@ -132,7 +132,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696610
 #EXTINF: -1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Cultura", LOVE NATURE
 https://m3u-editor.com/serve/kiwitvlite/765696611
 #EXTINF: -1 tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg" group-title="Noticias", CNN en Español
-https://m3u-editor.com/serve/kiwitvlite/765696666
+http://191.97.55.241:8000/play/a02o/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="Noticias", RT NOTICIAS
 https://m3u-editor.com/serve/kiwitvlite/765696669
 #EXTINF: -1 tvg-logo="https://www.identidad.tv/media-identidadtv/2021/07/nuevo-logo-identidad.png" group-title="Noticias", Identidad TV
@@ -178,7 +178,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7f
 #EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Pluto", Pluto TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Premium", HBO
-https://m3u-editor.com/serve/kiwitvlite/765696641
+http://186.5.31.251:8000/play/a0ai/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Premium", HBO 2
 https://m3u-editor.com/serve/kiwitvlite/765696642
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/44.png" group-title="Premium", Paramount Network
@@ -195,10 +195,10 @@ https://m3u-editor.com/serve/kiwitvlite/765696732
 https://m3u-editor.com/serve/kiwitvlite/765696733
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="EXTRAS", RPP TV
 https://m3u-editor.com/serve/kiwitvlite/765696684
-#EXTINF: -1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="EXTRAS", Premium 01
-https://m3u-editor.com/serve/kiwitvlite/765696730
+#EXTINF: -1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="EXTRAS",Sexy Pack
+http://186.5.31.251:8000/play/a0bk/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="EXTRAS", Canal Eventos KiWiTV
-https://m3u-editor.com/serve/kiwitvlite/765696725
+http://186.5.31.251:8000/play/a0co/index.m3u8
 
 BLOQUE HD
 
@@ -214,8 +214,6 @@ http://161.132.101.134:8000/play/a02n/index.m3u8
 http://161.132.101.134:8000/play/a04g/index.m3u8
 #EXTINF:-1,Animal Planet HD
 http://161.132.101.134:8000/play/a046/index.m3u8
-#EXTINF:-1,Canal 1 HD
-http://161.132.101.134:8000/play/a04a/index.m3u8
 #EXTINF:-1,Canal 24 Horas HD
 http://161.132.101.134:8000/play/a07d/index.m3u8
 #EXTINF:-1,Cartoon Network HD
@@ -244,14 +242,8 @@ http://161.132.101.134:8000/play/a03u/index.m3u8
 http://161.132.101.134:8000/play/a02y/index.m3u8
 #EXTINF:-1,E! HD
 http://161.132.101.134:8000/play/a04c/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://161.132.101.134:8000/play/a02t/index.m3u8
 #EXTINF:-1,ESPN 3 HD
 http://161.132.101.134:8000/play/a04t/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://161.132.101.134:8000/play/a03k/index.m3u8
-#EXTINF:-1,ESPN HD
-http://161.132.101.134:8000/play/a03q/index.m3u8
 #EXTINF:-1,El Gourmet HD
 http://161.132.101.134:8000/play/a03b/index.m3u8
 #EXTINF:-1,FOX Sports 2 HD
@@ -278,8 +270,6 @@ http://161.132.101.134:8000/play/a03y/index.m3u8
 http://161.132.101.134:8000/play/a02r/index.m3u8
 #EXTINF:-1,HBO XTREME HD
 http://161.132.101.134:8000/play/a07m/index.m3u8
-#EXTINF:-1,HOLA TV HD
-http://161.132.101.134:8000/play/a02z/index.m3u8
 #EXTINF:-1,History 2 HD
 http://161.132.101.134:8000/play/a07i/index.m3u8
 #EXTINF:-1,History Channel HD
@@ -288,8 +278,6 @@ http://161.132.101.134:8000/play/a02j/index.m3u8
 http://161.132.101.134:8000/play/a039/index.m3u8
 #EXTINF:-1,Kanal D Drama HD
 http://161.132.101.134:8000/play/a03z/index.m3u8
-#EXTINF:-1,La Red HD
-http://161.132.101.134:8000/play/a02w/index.m3u8
 #EXTINF:-1,Las Estrellas HD
 http://161.132.101.134:8000/play/a07f/index.m3u8
 #EXTINF:-1,Latina HD
@@ -298,8 +286,6 @@ http://161.132.101.134:8000/play/a04h/index.m3u8
 http://161.132.101.134:8000/play/a077/index.m3u8
 #EXTINF:-1,Love Nature HD
 http://161.132.101.134:8000/play/a079/index.m3u8
-#EXTINF:-1,MEGA HD
-http://161.132.101.134:8000/play/a03s/index.m3u8
 #EXTINF:-1,MTV 00s
 http://161.132.101.134:8000/play/a035/index.m3u8
 #EXTINF:-1,MTV HD
@@ -316,10 +302,6 @@ http://161.132.101.134:8000/play/a041/index.m3u8
 http://161.132.101.134:8000/play/a02x/index.m3u8
 #EXTINF:-1,Playboy HD
 http://161.132.101.134:8000/play/a03n/index.m3u8
-#EXTINF:-1,RCN HD
-http://161.132.101.134:8000/play/a03r/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://161.132.101.134:8000/play/a07c/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://161.132.101.134:8000/play/a03h/index.m3u8
 #EXTINF:-1,Sony HD
@@ -332,16 +314,12 @@ http://161.132.101.134:8000/play/a042/index.m3u8
 http://161.132.101.134:8000/play/a07l/index.m3u8
 #EXTINF:-1,TNT HD
 http://161.132.101.134:8000/play/a030/index.m3u8
-#EXTINF:-1,TNT SPORTS HD
-http://161.132.101.134:8000/play/a02p/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://161.132.101.134:8000/play/a03o/index.m3u8
 #EXTINF:-1,TRUTV HD
 http://161.132.101.134:8000/play/a03a/index.m3u8
 #EXTINF:-1,Telehit HD
 http://161.132.101.134:8000/play/a049/index.m3u8
-#EXTINF:-1,TyC Sports HD
-http://161.132.101.134:8000/play/a04i/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://161.132.101.134:8000/play/a03i/index.m3u8
 #EXTINF:-1,Warner Channel HD
