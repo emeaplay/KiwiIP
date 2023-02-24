@@ -24,6 +24,8 @@ https://vp01-vivoplayiptv.delivery.fuugo.com/ngrp:vp01-VIVOplay_IPTV-aa730fa2_al
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CHILEVISION CONTIGO
 https://siloh.pluto.tv/lilo/production/ChileVisionContigo/VE/master_1.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CHILEVISION
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master_1.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LA RED
 https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",TELE13
@@ -70,8 +72,6 @@ https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LOS SIMPSON CLASICO
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1189956855.m3u8
-#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LOS PITUFOS
-https://epg.provider.plex.tv/library/parts/635177ecff6cd5445d7f9b0b-639ba57d3f4612cc150a5723/variant.m3u8?url=c24cfd62bd88c730d362ba5f15d3f343-1a21c7ad3052a100f285ea3a3ec4f63aedffa6e4b9cda7f1e671c3de33e66a1775feb0cb30a0a201055daa4715039c230facc9f11dadaecfe78d76278a4dbf2d369594908e81bfa79deddf36da80dd66&x-plex-token=K-TPLsePq79DBAoc1QJH
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PAKA PAKA
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CORTOS
@@ -93,6 +93,10 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 https://marine2.miplay.cl/megaplus/mono.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LA RED
 https://marine2.miplay.cl/lared/mono.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",N+ Media
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",Canela TV
+https://stream.ads.ottera.tv/cl/230224cfs2ih78vhj8ejvkcdd0/1280x720_3071200_0_f.m3u8
 
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",VEVO REGGAETON
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live_6.m3u8
@@ -103,11 +107,19 @@ https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/6757caebe90a
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CLASSIC ARTS
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",PERU CHANNEL
-https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+https://stmv3.duvoxtv.com.br/novelapl/novelapl/chunklist_w88958856.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",GALACTICA TV
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
 #EXTINF:0 tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png",CONECTA2
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZQzxkIuCqJ-nqmXLm88bkb52qYTv6GYMvoQ93bgm1cU9ur7mbz-dcccoG4eUwYpF71s&usqp=CAU",Onda Digital TV
 https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",LATINA
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",SIN TV
+https://inliveserver.com:1936/19004/19004/chunklist_w1856686415.m3u8
+#EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",CREO TV
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",MIAMI TV JENNY
 https://59ec5453559f0.streamlock.net/JennyLive/smil:web/playlist.m3u8
