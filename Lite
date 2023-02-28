@@ -1,8 +1,8 @@
 #EXTM3U tvg-url=https://epg.programadorx.cl/mdiaz/gratis.xml
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png" group-title="Local", KiWiTV Basica
-https://m3u-editor.com/serve/kiwitvlite/765696574
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png" group-title="Local",Kiwi Clover TV
+http://181.65.154.170:8000/play/a08m/index.m3u8
 #EXTINF: -1 tvg-id="192dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png" group-title="Local", Latina HD
-http://181.65.154.170:8000/playlist.m3u8
+http://181.65.154.170:8000/play/a02e/index.m3u8
 #EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="Local", BH TV HD
 https://m3u-editor.com/serve/kiwitvlite/765696683
 #EXTINF: -1 tvg-id="194dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="Local", AMERICA TV
@@ -10,24 +10,24 @@ https://m3u-editor.com/serve/kiwitvlite/765696577
 #EXTINF: -1 tvg-id="195dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local", PANAMERICANA
 http://186.5.31.251:8000/play/a09v/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Local", Movistar PLUS
-https://m3u-editor.com/serve/kiwitvlite/765696579
+http://186.5.31.251:8000/play/a0ac/index.m3u8
 #EXTINF: -1 tvg-id="197dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Local", TV Peru
 https://m3u-editor.com/serve/kiwitvlite/765696580
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Local", ATV+ Noticias
 https://m3u-editor.com/serve/kiwitvlite/765696581
 #EXTINF: -1 tvg-id="199dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="Local", ATV
 https://m3u-editor.com/serve/kiwitvlite/765696582
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Local", CANAL N
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Local",Canal N
 http://186.5.31.251:8000/play/a09y/index.m3u8
-#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png" group-title="Local", Nativa
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png" group-title="Local",Nativa
 https://m3u-editor.com/serve/kiwitvlite/765696584
-#EXTINF: -1 tvg-id="1191dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" group-title="Local", Willax
-https://m3u-editor.com/serve/kiwitvlite/765696585
+#EXTINF: -1 tvg-id="1191dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" group-title="Local",Willax
+http://181.65.154.170:8000/play/a02c/index.m3u8
 #EXTINF: -1 tvg-id="198dtv.pe"tvg-logo="https://bestcableperu.com.pe/img/canales/13.png" group-title="Local", GLOBAL
 https://m3u-editor.com/serve/kiwitvlite/765696586
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local", TV Peru Noticias
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local",TV Peru Noticias
 https://m3u-editor.com/serve/kiwitvlite/765696587
-#EXTINF: -1 tvg-id="502dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas", TNT
+#EXTINF: -1 tvg-id="502dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas",TNT
 https://m3u-editor.com/serve/kiwitvlite/765696588
 #EXTINF: -1 tvg-id="208dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Series", Sony
 https://m3u-editor.com/serve/kiwitvlite/765696589
