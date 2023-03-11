@@ -22,9 +22,9 @@ http://186.5.31.251:8000/play/a09y/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png" group-title="Local",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="1191dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" group-title="Local",Willax
-http://201.218.137.227:4000/play/a01n/index.m3u8
+http://191.97.56.146:8000/play/a09r/index.m3u8
 #EXTINF: -1 tvg-id="198dtv.pe"tvg-logo="https://bestcableperu.com.pe/img/canales/13.png" group-title="Local", GLOBAL
-http://201.218.137.227:4000/play/a025/index.m3u8
+http://190.108.93.148:8000/play/a0lq/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local",TV Peru Noticias
 https://m3u-editor.com/serve/kiwitvlite/765696587
 #EXTINF: -1 tvg-id="502dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas",TNT
@@ -62,7 +62,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696655
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/6.png" group-title="Deportes", Best Sports
 https://m3u-editor.com/serve/kiwitvlite/765696657
 #EXTINF: -1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="Deportes", GOLPERU
-http://201.218.137.227:4000/play/a050/index.m3u8
+http://186.3.76.238:8000/play/a0c4/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Deportes", M DEPORTES
 http://186.5.31.251:8000/play/a09t/index.m3u8
 #EXTINF: -1 tvg-id="id="622dtv.ar" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes", ESPN
@@ -190,11 +190,11 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Premium",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", DirecTV Sports HD
-https://m3u-editor.com/serve/kiwitvlite/765696732
+http://190.61.41.182:8000/play/a02z/index.m3u8
 #EXTINF: -1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", DirecTV Sports Plus HD
 https://m3u-editor.com/serve/kiwitvlite/765696733
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="EXTRAS", RPP TV
-http://201.218.137.227:4000/play/a02s/index.m3u8
+http://186.5.31.251:8000/play/a0au/index.m3u8
 #EXTINF: -1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="EXTRAS",Sexy Pack
 http://186.5.31.251:8000/play/a0bk/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="EXTRAS", Canal Eventos KiWiTV
