@@ -8,7 +8,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696683
 #EXTINF: -1 tvg-id="194dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="Local", AMERICA TV
 https://m3u-editor.com/serve/kiwitvlite/765696577
 #EXTINF: -1 tvg-id="195dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local", PANAMERICANA
-http://186.5.31.251:8000/play/a09v/index.m3u8
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Local", Movistar PLUS
 http://186.5.31.251:8000/play/a0ac/index.m3u8
 #EXTINF: -1 tvg-id="197dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Local", TV Peru
