@@ -45,8 +45,8 @@ https://m3u-editor.com/serve/kiwitvlite/765696594
 https://m3u-editor.com/serve/kiwitvlite/765696595
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
 https://m3u-editor.com/serve/kiwitvlite/765696627
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Peliculas",Golden Edge
-https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Peliculas",Golden
+http://161.132.101.134:8000/play/a048/index.m3u8
 #EXTINF: -1 tvg-id="1509dtv.cl" tvg-logo="https://www.liblogo.com/img-logo/ci7285fbdc-cinemax-logo-file-cinemax-svg-wikimedia-commons.png" group-title="Peliculas", CineMAX
 https://m3u-editor.com/serve/kiwitvlite/765696640
 #EXTINF: -1 tvg-id="220dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tru-tv_m.png" group-title="Realidad", TRU TV
@@ -61,8 +61,8 @@ https://m3u-editor.com/serve/kiwitvlite/765696608
 https://m3u-editor.com/serve/kiwitvlite/765696655
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/6.png" group-title="Deportes", Best Sports
 https://m3u-editor.com/serve/kiwitvlite/765696657
-#EXTINF: -1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="Deportes", GOLPERU
-http://186.3.76.238:8000/play/a0c4/index.m3u8
+#EXTINF: -1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="Deportes",Peru Magico - EX GOLPERU
+http://186.5.31.251:8000/play/a0ad/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Deportes", Movistar DEPORTES
 http://186.5.31.251:8000/play/a09t/index.m3u8
 #EXTINF: -1 tvg-id="id="622dtv.ar" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes",ESPN
@@ -89,6 +89,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696613
 https://m3u-editor.com/serve/kiwitvlite/765696616
 #EXTINF: -1 tvg-id="toon.us" tvg-logo="https://i.ytimg.com/vi/l2rRwrtEGUs/maxresdefault.jpg" group-title="Infantil", TOONCAST
 http://190.61.101.9:8000/play/a00o/index.m3u8
+http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/385/123/png-transparent-logo-tv-nick-music-mtv2-mtv-hits-idents-text-logo-mtv-thumbnail.png" group-title="Musica", HITS
 https://m3u-editor.com/serve/kiwitvlite/765696621
 #EXTINF: -1 tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="Musica", Memorias TV
@@ -107,16 +108,16 @@ https://m3u-editor.com/serve/kiwitvlite/765696630
 https://m3u-editor.com/serve/kiwitvlite/765696631
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png" group-title="Variados", SUN Channel
 https://m3u-editor.com/serve/kiwitvlite/765696600
-#EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="Variados",Unicable
-http://linear-423.frequency.stream/dist/vix/423/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="Variados",HogarTV EX-Unicable
+http://181.78.65.53:8000/play/hogartv/index.m3u8
 #EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Variados",Distrito Comedia
-https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
+http://186.5.31.251:8000/play/a0d4/index.m3u8
 #EXTINF:-1 tvg-id="760dtv.cl" tvg-logo="https://images.vix.com/prd/channel/62d8abe1b8305ca6df23c635/2ba67e8e8796799a3af2e197f932eec1?tr=q-80&w=1920" group-title="Variados",Univision
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png" group-title="Variados",De Pelicula
-https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62c716b46bc1f5715195a3c1/acd58d009f200833068f5a912b8e7e1d?tr=q-80&w=1920" group-title="Variados",De Pelicula Plus
-https://linear-404.frequency.stream/dist/vix/404/hls/master/playlist.m3u8
+http://181.78.65.53:8000/play/depelicula/index.m3u8
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/170px-Food_Network_Logo.svg.png" group-title="Variados",Food Network
+http://181.176.148.142:8000/play/a02j
 #EXTINF: -1 tvg-id="732dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Cultura", Discovery
 https://m3u-editor.com/serve/kiwitvlite/765696596
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/57.png" group-title="Cultura", HISTORY
@@ -139,8 +140,8 @@ https://m3u-editor.com/serve/kiwitvlite/765696669
 https://m3u-editor.com/serve/kiwitvlite/765696668
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235cadd0b340c1e57510092/830313c05f63359c94d066194e1035c5?tr=q-80&w=750" group-title="ViX",Nosotros los Guapos
 https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb8244603b2d579e311193/19dccef175686e991df488c1cc378737?tr=q-80&w=1920" group-title="ViX",Telehit
-https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235c66611732377769fe87f/d7c3abe71788f8bfbc047b5082f91522?tr=q-80&w=1920" group-title="ViX",La Usurpadora
+https://linear-448.frequency.stream/448/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Cuidado con el Angel
 https://linear-316.frequency.stream/316/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750" group-title="ViX",La Rosa de Guadalupe
@@ -180,11 +181,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Premium", HBO
 http://186.5.31.251:8000/play/a0ai/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Premium", HBO 2
-http://45.224.23.194:8000/play/a072/index.m3u8
+http://186.5.31.251:8000/play/a0aj/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/44.png" group-title="Premium", Paramount Network
 https://m3u-editor.com/serve/kiwitvlite/765696643
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Premium",Golden
-https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Premium",Golden Edge
+http://181.78.65.53:8000/play/goldenedge/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Premium",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png" group-title="Premium",Golden Premier
@@ -265,8 +266,6 @@ http://161.132.101.134:8000/play/a032/index.m3u8
 http://161.132.101.134:8000/play/a07t/index.m3u8
 #EXTINF:-1,GolTV HD
 http://161.132.101.134:8000/play/a04d/index.m3u8
-#EXTINF:-1,Golden HD
-http://161.132.101.134:8000/play/a048/index.m3u8
 #EXTINF:-1,HBO 2 HD
 http://161.132.101.134:8000/play/a045/index.m3u8
 #EXTINF:-1,HBO Family HD
