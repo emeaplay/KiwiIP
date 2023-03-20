@@ -8,23 +8,23 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="194dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="Local", AMERICA TV
 https://m3u-editor.com/serve/kiwitvlite/765696577
 #EXTINF: -1 tvg-id="195dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local", PANAMERICANA
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+http://191.97.55.241:8000/play/a03r/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Local", Movistar PLUS
-http://186.5.31.251:8000/play/a0ac/index.m3u8
+http://191.97.55.241:8000/play/a07m/index.m3u8
 #EXTINF: -1 tvg-id="197dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Local", TV Peru
 https://m3u-editor.com/serve/kiwitvlite/765696580
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Local", ATV+ Noticias
 https://m3u-editor.com/serve/kiwitvlite/765696581
 #EXTINF: -1 tvg-id="199dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png" group-title="Local", ATV
-https://m3u-editor.com/serve/kiwitvlite/765696582
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/617px-RPP_logo.png" group-title="Local", RPP TV
-http://186.5.31.251:8000/play/a0au/index.m3u8
+http://191.97.55.241:8000/play/a088/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Local",Canal N
-http://186.5.31.251:8000/play/a09y/index.m3u8
+http://191.97.55.241:8000/play/a08f/index.m3u8
 #EXTINF: -1 tvg-id="1191dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/willax_tv-mediano.png" group-title="Local",Willax
 http://191.97.56.146:8000/play/a09r/index.m3u8
 #EXTINF: -1 tvg-id="198dtv.pe"tvg-logo="https://bestcableperu.com.pe/img/canales/13.png" group-title="Local", GLOBAL
-http://190.108.93.148:8000/play/a0lq/index.m3u8
+http://191.97.55.241:8000/play/a07f/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Local",TV Peru Noticias
 https://m3u-editor.com/serve/kiwitvlite/765696587
 #EXTINF: -1 tvg-id="502dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt_m.png" group-title="Peliculas",TNT
@@ -34,7 +34,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696589
 #EXTINF: -1 tvg-id="1206dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Series", Warner
 https://m3u-editor.com/serve/kiwitvlite/765696590
 #EXTINF: -1 tvg-id="202dtv.cl" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="Peliculas",STAR Channel
-http://186.5.31.251:8000/play/a05x/index.m3u8
+http://161.132.101.134:8000/play/a07v/index.m3u8
 #EXTINF: -1 tvg-id="209dtv.co" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png" group-title="Series", AXN
 https://m3u-editor.com/serve/kiwitvlite/765696592
 #EXTINF: -1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Peliculas", UNIVERSAL TV
@@ -60,11 +60,11 @@ https://m3u-editor.com/serve/kiwitvlite/765696608
 #EXTINF: -1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2022/08/contactotv.jpg" group-title="Deportes", Contacto Deportivo
 https://m3u-editor.com/serve/kiwitvlite/765696655
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/6.png" group-title="Deportes", Best Sports
-https://m3u-editor.com/serve/kiwitvlite/765696657
+https://ca2.inka.net.pe/NoRobar-Best-Peru-Tv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="Deportes",Peru Magico - EX GOLPERU
-http://186.5.31.251:8000/play/a0ad/index.m3u8
+http://191.97.55.241:8000/play/a05l/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Deportes", Movistar DEPORTES
-http://186.5.31.251:8000/play/a09t/index.m3u8
+http://191.97.55.241:8000/play/a05l/index.m3u8
 #EXTINF: -1 tvg-id="id="622dtv.ar" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes",ESPN
 https://m3u-editor.com/serve/kiwitvlite/765696658
 #EXTINF: -1 tvg-id="id="622dtv.co" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="Deportes",ESPN 2
@@ -88,7 +88,6 @@ https://m3u-editor.com/serve/kiwitvlite/765696613
 #EXTINF: -1 tvg-id="308dtv.ar"><tvg-logo="https://bestcableperu.com.pe/img/canales/26.png" group-title="Infantil", NICK
 https://m3u-editor.com/serve/kiwitvlite/765696616
 #EXTINF: -1 tvg-id="toon.us" tvg-logo="https://i.ytimg.com/vi/l2rRwrtEGUs/maxresdefault.jpg" group-title="Infantil", TOONCAST
-http://190.61.101.9:8000/play/a00o/index.m3u8
 http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/385/123/png-transparent-logo-tv-nick-music-mtv2-mtv-hits-idents-text-logo-mtv-thumbnail.png" group-title="Musica", HITS
 https://m3u-editor.com/serve/kiwitvlite/765696621
@@ -96,8 +95,8 @@ https://m3u-editor.com/serve/kiwitvlite/765696621
 https://m3u-editor.com/serve/kiwitvlite/765696619
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="Musica", TOP LATINO
 https://m3u-editor.com/serve/kiwitvlite/765696620
-#EXTINF: -1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/WhatsApp-Image-2020-07-27-at-12.36.22-1-300x298.jpeg" group-title="Musica",Best Cable Musica
-https://ca2.inka.net.pe/bestcablemusic/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/97.png" group-title="Musica",Best Cable Musica
+https://ca2.inka.net.pe/NoRobar-Music-001120/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Variados", LAS ESTRELLAS
 https://m3u-editor.com/serve/kiwitvlite/765696628
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Variados", ESTRELLA TV
@@ -179,9 +178,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7f
 #EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Pluto", Pluto TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Premium", HBO
-http://186.5.31.251:8000/play/a0ai/index.m3u8
+http://191.97.55.241:8000/play/a03y/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Premium", HBO 2
-http://186.5.31.251:8000/play/a0aj/index.m3u8
+http://191.97.55.241:8000/play/a02p/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/44.png" group-title="Premium", Paramount Network
 https://m3u-editor.com/serve/kiwitvlite/765696643
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Premium",Golden Edge
@@ -197,9 +196,9 @@ https://m3u-editor.com/serve/kiwitvlite/765696733
 #EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="EXTRAS", BH TV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="EXTRAS",Sexy Pack
-http://186.5.31.251:8000/play/a0bk/index.m3u8
+http://191.97.55.241:8000/play/a08g/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="EXTRAS", Canal Eventos KiWiTV
-http://186.5.31.251:8000/play/a0co/index.m3u8
+http://191.97.55.241:8000/play/a05t/index.m3u8
 
 BLOQUE RADIOS
 
