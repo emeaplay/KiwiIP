@@ -98,7 +98,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696620
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/97.png" group-title="Musica",Best Cable Musica
 https://ca2.inka.net.pe/NoRobar-Music-001120/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Variados", LAS ESTRELLAS
-https://m3u-editor.com/serve/kiwitvlite/765696628
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Variados", ESTRELLA TV
 https://m3u-editor.com/serve/kiwitvlite/765696629
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Variados", VE PLUS
@@ -183,8 +183,8 @@ http://191.97.55.241:8000/play/a03y/index.m3u8
 http://191.97.55.241:8000/play/a02p/index.m3u8
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/44.png" group-title="Premium", Paramount Network
 https://m3u-editor.com/serve/kiwitvlite/765696643
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Premium",Golden Edge
-http://181.78.65.53:8000/play/goldenedge/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Premium",Golden
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Premium",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png" group-title="Premium",Golden Premier
