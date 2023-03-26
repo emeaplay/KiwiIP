@@ -177,11 +177,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b186
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Pluto", Pluto TV Series
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Premium", HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="Premium", HBO
 http://191.97.55.241:8000/play/a03y/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Premium", HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Premium", HBO 2
 http://191.97.55.241:8000/play/a02p/index.m3u8
-#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/44.png" group-title="Premium", Paramount Network
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/44.png" group-title="Premium", Paramount Network
 https://m3u-editor.com/serve/kiwitvlite/765696643
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png" group-title="Premium",Golden
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
@@ -189,16 +189,16 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png" group-title="Premium",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", DirecTV Sports HD
+#EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", DirecTV Sports HD
 http://190.61.41.182:8000/play/a02z/index.m3u8
-#EXTINF: -1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", DirecTV Sports Plus HD
+#EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", DirecTV Sports Plus HD
 https://m3u-editor.com/serve/kiwitvlite/765696733
-#EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="EXTRAS", BH TV HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="EXTRAS", BH TV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="EXTRAS",Sexy Pack
+#EXTINF:-1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="EXTRAS",Sexy Pack
 http://191.97.55.241:8000/play/a08g/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="EXTRAS", Canal Eventos KiWiTV
-http://191.97.55.241:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/682/927/png-transparent-bird-cartoon-drawing-kiwi-bird-animals-fauna-wildlife-thumbnail.png" group-title="EXTRAS",KiWi Deportes Local
+http://51.222.110.182:8000/play/a00f/index.m3u8
 
 BLOQUE RADIOS
 
