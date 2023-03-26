@@ -201,9 +201,9 @@ http://191.97.55.241:8000/play/a08g/index.m3u8
 http://51.222.110.182:8000/play/a00f/index.m3u8
 
 BLOQUE RADIOS
-#EXTINF:-1,Radio HIT
+#EXTINF:-1,Radio HIT FM
 https://stream-017.zeno.fm/gkf1bdaz27xuv?zs=LW71BLyiQ3-egXvwc3lLrA
-#EXTINF:-1,Radio MIX
+#EXTINF:-1,Radio MIX FM
 https://stream-57.zeno.fm/qnym6trqokstv?zs=klZlnMTLQSWozk0lfHLQdg
 #EXTINF:-1,Radio Magica
 https://27153.live.streamtheworld.com/MAG_ADP.aac
