@@ -201,7 +201,10 @@ http://191.97.55.241:8000/play/a08g/index.m3u8
 http://51.222.110.182:8000/play/a00f/index.m3u8
 
 BLOQUE RADIOS
-
+#EXTINF:-1,Radio HIT
+https://stream.zeno.fm/gkf1bdaz27xuv.m3u
+#EXTINF:-1,Radio MIX
+https://stream.zeno.fm/qnym6trqokstv.m3u
 #EXTINF:-1,Radio Magica
 https://27153.live.streamtheworld.com/MAG_ADP.aac
 #EXTINF:-1,Radio Felicidad
