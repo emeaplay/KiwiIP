@@ -46,7 +46,7 @@ http://161.132.101.134:8000/play/a042/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/2560px-Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
 https://m3u-editor.com/serve/kiwitvlite/765696627
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Peliculas",AMC
-http://191.97.56.146:8000/play/a06x/index.m3u8
+http://190.83.119.67:8000/play/a01v/index.m3u8
 #EXTINF: -1 tvg-id="1509dtv.cl" tvg-logo="https://www.liblogo.com/img-logo/ci7285fbdc-cinemax-logo-file-cinemax-svg-wikimedia-commons.png" group-title="Peliculas", CineMAX
 https://m3u-editor.com/serve/kiwitvlite/765696640
 #EXTINF: -1 tvg-id="220dtv.cl" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tru-tv_m.png" group-title="Realidad", TRU TV
@@ -128,7 +128,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696606
 #EXTINF: -1 tvg-id="730dtv.cl" tvg-logo="https://bestcableperu.com.pe/img/canales/22.png" group-title="Cultura", NAT GEO
 http://191.97.56.146:8000/play/a06d/index.m3u8
 #EXTINF: -1 tvg-logo="https://image.pngaaa.com/149/4735149-middle.png" group-title="Cultura", ANIMAL PLANET
-https://m3u-editor.com/serve/kiwitvlite/765696610
+http://191.97.56.146:8000/play/a061/index.m3u8
 #EXTINF: -1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Cultura", LOVE NATURE
 https://m3u-editor.com/serve/kiwitvlite/765696611
 #EXTINF: -1 tvg-logo="https://cherry-brightspot.s3.amazonaws.com/media/2010/10/06/cnn-espanol-nuevo-logo-imagen.jpg" group-title="Noticias", CNN en Español
@@ -190,7 +190,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png" group-title="Premium",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", DirecTV Sports HD
-http://190.61.41.182:8000/play/a02z/index.m3u8
+http://51.222.110.182:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="EXTRAS", DirecTV Sports Plus HD
 https://m3u-editor.com/serve/kiwitvlite/765696733
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="EXTRAS", BH TV HD
