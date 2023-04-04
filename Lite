@@ -1,6 +1,6 @@
 #EXTM3U tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml"
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KiWi_TV_logo.svg/1280px-KiWi_TV_logo.svg.png" group-title="Local",KiWiTV Exitosa
-https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF: -1 tvg-logo="https://img.freepik.com/vector-premium/dibujos-animados-retro-tv-plana_184560-240.jpg" group-title="Local",otiPLAY TV
+https://raw.githubusercontent.com/emeaplay/KiwiIP/main/otiPLAY.mp4
 #EXTINF: -1 tvg-id="192dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png" group-title="Local",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/15.png" group-title="Local",Nativa
@@ -9,8 +9,8 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 https://m3u-editor.com/serve/kiwitvlite/765696577
 #EXTINF: -1 tvg-id="195dtv.pe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" group-title="Local", PANAMERICANA
 http://191.97.55.241:8000/play/a03r/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Local", Movistar PLUS
-http://191.97.55.241:8000/play/a07m/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="Local",Exitosa
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF: -1 tvg-id="197dtv.pe"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_peru-mediano.png" group-title="Local", TV Peru
 http://186.5.31.251:8000/play/a09x/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Local", ATV+ Noticias
@@ -197,8 +197,8 @@ http://160.20.165.246:8000/play/a00b/index.m3u8
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://anglo-list.com/wp-content/uploads/2017/10/TELEVISION_CHANNEL_BROADCAST.jpg" group-title="EXTRAS",Sexy Pack
 http://191.97.55.241:8000/play/a08g/index.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/682/927/png-transparent-bird-cartoon-drawing-kiwi-bird-animals-fauna-wildlife-thumbnail.png" group-title="EXTRAS",KiWi Deportes Local
-http://51.222.110.182:8000/play/a00f/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="EXTRAS",Movistar PLUS
+http://191.97.55.241:8000/play/a07m/index.m3u8
 
 BLOQUE RADIOS
 #EXTINF:-1,Radio HIT FM
