@@ -36,7 +36,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696590
 #EXTINF: -1 tvg-id="202dtv.cl" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="Peliculas",STAR Channel
 http://190.131.228.59:8000/play/a08r/index.m3u8
 #EXTINF: -1 tvg-id="209dtv.co" tvg-logo="https://bestcableperu.com.pe/img/canales/45.png" group-title="Series", AXN
-http://190.187.192.95:8000/play/a06z/index.m3u8
+http://190.187.192.89:8000/play/a06z/index.m3u8
 #EXTINF: -1 tvg-id="218dtv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Peliculas", UNIVERSAL TV
 https://m3u-editor.com/serve/kiwitvlite/765696593
 #EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/canales/31.png" group-title="Peliculas",A&E
