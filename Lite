@@ -108,7 +108,7 @@ https://m3u-editor.com/serve/kiwitvlite/765696631
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/220px-Sun_Channel_logo.svg.png" group-title="Variados", SUN Channel
 https://m3u-editor.com/serve/kiwitvlite/765696600
 #EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="Variados",Home Garden Latino
-http://190.83.119.67:8000/play/a006/index.m3u8
+http://186.148.184.163:8000/play/a04v
 #EXTINF:-1 tvg-id= tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Variados",Distrito Comedia
 http://186.5.31.251:8000/play/a0d4/index.m3u8
 #EXTINF:-1 tvg-id="760dtv.cl" tvg-logo="https://images.vix.com/prd/channel/62d8abe1b8305ca6df23c635/2ba67e8e8796799a3af2e197f932eec1?tr=q-80&w=1920" group-title="Variados",Univision
