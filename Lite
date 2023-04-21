@@ -1,4 +1,3 @@
-
 #EXTM3U tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml"
 #EXTINF: -1 tvg-logo="https://img.freepik.com/vector-premium/dibujos-animados-retro-tv-plana_184560-240.jpg" group-title="Local",otiPLAY TV
 https://raw.githubusercontent.com/emeaplay/KiwiIP/main/otiPLAY.mp4
