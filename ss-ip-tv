@@ -33,6 +33,12 @@ https://5cefcbf58ba2e.streamlock.net:543/viva/viva/playlist.m3u8
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Liga 1 Max
 http://51.222.110.182:8000/play/a00c
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",GolPeru
+http://177.53.153.21:8001/play/a03z/index.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",GolPeru HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/170
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Liga 1
+http://177.53.153.21:8001/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",RPP TV (T)
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/187
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Canal N (T)
