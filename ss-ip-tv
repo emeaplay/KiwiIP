@@ -22,7 +22,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",RBC
 https://ca2.inka.net.pe/belmonttv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Willax
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4368
+http://51.222.110.182:8000/play/a00a
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",TV Peru Noticias
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Best Sports
@@ -53,22 +53,37 @@ https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",IPE TV
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index_1.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Vision TV
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Cablevision TV
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Vision Musica
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w350639346.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Onda Digital
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",CentralTV
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Conecta2 TV
+https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Exitosa TV
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Vamisa TV
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Vamisa Radio TV
 https://inliveserver.com:1936/9506/9506/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",TeleLIMA
 https://ott1.hdlatam.tv/live/Telelima/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0kz.png" group-title="Deportes",Claro Sports  HD
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Contigo Television
+https://multimedia.tmcreativos.com:1936/srnxpedqbv/ngrp:srnxpedqbv_all/chunklist_w440195432_b2628000.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",ODTV
+https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",ODTV 2
+https://v4.tustreaming.cl/odtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",Radio Onda Digital
+https://v4.tustreaming.cl/radioondadigitaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="Local",America TV HD
+http://51.222.110.182:8000/play/a002
+
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0kz.png" group-title="Deportes",Claro Sports
+http://168.228.194.33:48001/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0kz.png" group-title="Deportes",Claro Sports 2
 http://45.5.117.172:8000/play/a0kz/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes",DSports
+http://51.222.110.182:8000/play/a00g
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a05k.png" group-title="Deportes",ESPN
 http://45.5.117.172:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0gl.png" group-title="Deportes",ESPN  +
@@ -83,6 +98,8 @@ http://45.5.117.172:8000/play/a0kh/index.m3u8
 http://45.5.117.172:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0kg.png" group-title="Deportes",ESPN HD
 http://45.5.117.172:8000/play/a0kg/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0kg.png" group-title="Deportes",ESPN Extra
+http://168.228.194.33:48001/play/a05i/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0kj.png" group-title="Deportes",FOX SPORTS 3 HD
 http://45.5.117.172:8000/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0h1.png" group-title="Deportes",Golf Channel HD
@@ -211,6 +228,8 @@ http://45.5.117.172:8000/play/a0hh/index.m3u8
 http://45.5.117.172:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0kr.png" group-title="Variados",Univision HD
 http://45.5.117.172:8000/play/a0kr/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a043.png" group-title="Kids",BUZZER TV
 http://45.5.117.172:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0l0.png" group-title="Kids",Cartoon Network HD
@@ -231,6 +250,7 @@ http://45.5.117.172:8000/play/a0fz/index.m3u8
 http://45.5.117.172:8000/play/a0hs/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0g3.png" group-title="Kids",SEMILLITAS
 http://45.5.117.172:8000/play/a0g3/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0gq.png" group-title="Cultura",Animal Planet HD
 http://45.5.117.172:8000/play/a0gq/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0kn.png" group-title="Cultura",Discovery Channel HD
@@ -251,6 +271,7 @@ http://45.5.117.172:8000/play/a0gk/index.m3u8
 http://45.5.117.172:8000/play/a0ks/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0kk.png" group-title="Cultura",Nat Geo HD
 http://45.5.117.172:8000/play/a0kk/index.m3u8
+
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias","24H TVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",Adn 40
@@ -293,6 +314,20 @@ https://i.mjh.nz/PlutoTV/60492d5522166000071a73c8-alt.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="Logo N/A" group-title="Noticias",Weather Channel
 https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="TV Retro",Mi TV Retro
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="TV Retro",Retro Palmares
+https://cageu.bozztv.com/ssh101/ssh101/tvretropalmares/chunks.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="TV Retro",ACS Network
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="TV Retro",Telesistema
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="TV Retro",TVs Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="TV Retro",Telered
+https://video20.klm99.com:3558/live/teleredlive.m3u8
+
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a05r.png" group-title="Musica",Bandamax
 http://45.5.117.172:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0jt.png" group-title="Musica",Sin limites
@@ -311,6 +346,8 @@ http://45.5.117.172:8000/play/a0gm/index.m3u8
 http://45.5.117.172:8000/play/a0gd/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a0hz.png" group-title="Musica",MTV SIM HD
 http://45.5.117.172:8000/play/a0hz/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a04q.png" group-title="Religioso",3ABN
 http://45.5.117.172:8000/play/a04q/index.m3u8
 #EXTINF:-1 group-title="Religioso",Enlace HD
@@ -953,10 +990,12 @@ http://45.228.234.77:3340/play/unicable/index.m3u8
 http://45.228.234.77:3340/play/UtzChannel/index.m3u8
 #EXTINF:-1 group-title="OTROS",Warner
 http://45.228.234.77:3340/play/warnerhd/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a02t.png" group-title="Adultos",Playboy
 http://45.5.117.172:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.5.117.172:8000/playlist/tvg-logo/a02u.png" group-title="Adultos",Venus
 http://45.5.117.172:8000/play/a02u/index.m3u8
+
 #EXTINF:-1 group-title="Peliculas VOD",Bendita suegra
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
 #EXTINF:-1 group-title="Peliculas VOD",Crater
